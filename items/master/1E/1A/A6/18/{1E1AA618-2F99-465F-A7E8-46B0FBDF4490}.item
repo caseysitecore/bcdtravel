@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {1E1AA618-2F99-465F-A7E8-46B0FBDF4490}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Coveo Items/Visibility
+parent: {C27128E5-3328-4D6E-B95F-3F9EAE44CD4F}
+name: Visibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {AA91A868-02F2-41D3-8B78-1CAD91B4DCAE}
+templatekey: Visibility
+created: 20160629T193646:636028258060430000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 9c18cdab-5f6b-4e09-a60b-13d2a18942f3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140313T152715
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9c18cdab-5f6b-4e09-a60b-13d2a18942f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140313T152715:635303212359770437
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

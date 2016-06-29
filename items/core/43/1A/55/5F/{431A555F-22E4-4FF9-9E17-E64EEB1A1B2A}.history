@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{431A555F-22E4-4FF9-9E17-E64EEB1A1B2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.3640661Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Date Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Facet Date Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

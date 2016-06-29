@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{36A6A88C-CEF8-4F43-AE71-61BA951FE0F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.9524434Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ends with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/ends with",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

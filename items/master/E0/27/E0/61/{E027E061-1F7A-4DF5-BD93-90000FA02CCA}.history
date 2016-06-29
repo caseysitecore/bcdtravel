@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E027E061-1F7A-4DF5-BD93-90000FA02CCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.7683455Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "No sorting",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts/NoSort",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

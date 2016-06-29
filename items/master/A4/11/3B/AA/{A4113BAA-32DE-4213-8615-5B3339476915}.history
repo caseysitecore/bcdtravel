@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A4113BAA-32DE-4213-8615-5B3339476915}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:34.5186642Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Document Click",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Document Views/Document Click",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

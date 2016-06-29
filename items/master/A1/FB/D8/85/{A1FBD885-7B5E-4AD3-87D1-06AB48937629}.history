@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A1FBD885-7B5E-4AD3-87D1-06AB48937629}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.3833970Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Bottom",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Pager Locations/Bottom",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

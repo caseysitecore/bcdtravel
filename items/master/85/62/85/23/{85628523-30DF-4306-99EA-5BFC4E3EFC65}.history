@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{85628523-30DF-4306-99EA-5BFC4E3EFC65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:34.0636250Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "VerifyCoveoServerConfigSection",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/VerifyCoveoServerConfigSection",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

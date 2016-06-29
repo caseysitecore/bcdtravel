@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2BC1A969-1B7E-4F33-9DC3-C91F5E6A8F37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:46.7476750Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "AutocompleteField",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/AutocompleteField",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

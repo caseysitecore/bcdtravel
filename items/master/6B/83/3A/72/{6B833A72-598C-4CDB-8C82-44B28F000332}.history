@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6B833A72-598C-4CDB-8C82-44B28F000332}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.6865136Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxTimeoutHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties/OmniboxTimeoutHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AD68624D-BA5E-4CF7-8D88-973CD7951CB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.7363428Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Chi square",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts/ChiSquare",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

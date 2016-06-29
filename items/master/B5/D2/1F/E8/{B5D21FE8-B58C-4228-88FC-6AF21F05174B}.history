@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B5D21FE8-B58C-4228-88FC-6AF21F05174B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.4399123Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderDisplayAsPercent",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Appearance Settings/FacetSliderDisplayAsPercent",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

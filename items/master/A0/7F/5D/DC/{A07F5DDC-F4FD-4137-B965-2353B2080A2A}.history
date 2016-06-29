@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A07F5DDC-F4FD-4137-B965-2353B2080A2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.5398384Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetCustomRanges",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Basic Settings/FacetCustomRanges",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

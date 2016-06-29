@@ -1,0 +1,68 @@
+----item----
+version: 1
+id: {79A0FB06-3D4B-4106-9148-34303D451986}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Coveo Licensing/Visibility/Licensing Visibility
+parent: {358F335F-A5C3-472A-977B-1D3D157A51D8}
+name: Licensing Visibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {271F5CF1-95C7-474D-9F04-06C6EBB20D8F}
+templatekey: Rule Elements Visibility Rule
+created: 20160629T193646:636028258062100000
+
+----version----
+language: en
+version: 1
+revision: 2e4dc2a4-ec24-4be9-8c3e-a10bc3fd6e44
+
+----field----
+field: {664CECEB-0446-4063-92A3-1E14837F4D0C}
+name: Rule
+key: rule
+content-length: 360
+
+<ruleset>
+  <rule uid="{F4275EFC-98E1-409C-8E44-2B86D9A9FC35}">
+    <conditions>
+      <condition id="{4888ABBB-F17D-4485-B14B-842413F88732}" uid="7D939DAE598F435492914704824135C3" />
+    </conditions>
+    <actions>
+      <action id="{EDDE9129-8CF8-4630-A625-56BA8E38489E}" uid="D014D6BD0842499987F09B07D0C3E0CC" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 20
+
+Licensing Visibility
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140818T120738
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2e4dc2a4-ec24-4be9-8c3e-a10bc3fd6e44
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140818T120843:635439605236978564
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

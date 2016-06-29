@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{010582A5-D1B8-4F23-A36A-7031E10EA137}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.4774111Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CustomRangeTypeDoesNotMatch",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/CustomRangeTypeDoesNotMatch",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

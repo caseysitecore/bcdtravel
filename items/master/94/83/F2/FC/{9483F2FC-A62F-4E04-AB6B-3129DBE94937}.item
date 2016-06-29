@@ -1,0 +1,12 @@
+----item----
+version: 1
+id: {9483F2FC-A62F-4E04-AB6B-3129DBE94937}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Facet Slider Parameters/__Standard Values
+parent: {D0706C86-B94B-476C-8ED4-5B84A4B2A516}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {D0706C86-B94B-476C-8ED4-5B84A4B2A516}
+templatekey: Facet Slider Parameters
+created: 20160629T193627:636028257875770000
+

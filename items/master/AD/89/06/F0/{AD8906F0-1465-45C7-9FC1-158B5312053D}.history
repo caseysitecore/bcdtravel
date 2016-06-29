@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AD8906F0-1465-45C7-9FC1-158B5312053D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.4943303Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Exclude",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Exclude",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

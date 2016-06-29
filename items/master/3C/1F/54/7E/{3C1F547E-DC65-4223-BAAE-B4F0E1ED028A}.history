@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3C1F547E-DC65-4223-BAAE-B4F0E1ED028A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.8215163Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Reduce Boost",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Boosting/Coveo Reduce Boost",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

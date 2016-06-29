@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C144B2A4-DE06-46D0-8744-0A1072EB363A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.1681388Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Search Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

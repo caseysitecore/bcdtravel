@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{03CCF540-06C6-453B-9A33-8C7E1B5F99E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.8522774Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoFacetSlider",
+    "itemPath": "/sitecore/media library/Coveo/CoveoFacetSlider",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

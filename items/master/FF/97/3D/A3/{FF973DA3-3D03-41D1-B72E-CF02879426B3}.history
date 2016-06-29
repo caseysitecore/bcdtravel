@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FF973DA3-3D03-41D1-B72E-CF02879426B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:23.4987514Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetUseAnd",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Advanced Settings/FacetUseAnd",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

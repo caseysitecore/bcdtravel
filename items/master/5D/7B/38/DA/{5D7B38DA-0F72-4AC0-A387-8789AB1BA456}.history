@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5D7B38DA-0F72-4AC0-A387-8789AB1BA456}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.1431358Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Box Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Search Box Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

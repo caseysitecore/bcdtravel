@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EBC0D44C-5300-4666-81BA-390880FD4C8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.0654683Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Basic Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Box Parameters/Basic Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

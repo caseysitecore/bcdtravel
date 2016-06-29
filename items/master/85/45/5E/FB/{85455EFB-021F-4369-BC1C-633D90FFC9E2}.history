@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{85455EFB-021F-4369-BC1C-633D90FFC9E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.1256380Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Basic Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Date Sort Parameters/Basic Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

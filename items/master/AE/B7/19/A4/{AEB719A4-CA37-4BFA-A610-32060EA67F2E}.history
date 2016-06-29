@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AEB719A4-CA37-4BFA-A610-32060EA67F2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.9372014Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Omnibox Result List View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Omnibox Result List View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

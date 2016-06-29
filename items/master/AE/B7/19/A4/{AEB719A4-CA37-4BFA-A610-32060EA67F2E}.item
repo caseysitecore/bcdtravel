@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {AEB719A4-CA37-4BFA-A610-32060EA67F2E}
+database: master
+path: /sitecore/layout/Renderings/Coveo/Coveo Omnibox Result List View
+parent: {9387504C-7344-45D1-9D41-D7E736B244E0}
+name: Coveo Omnibox Result List View
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20160629T193628:636028257889100000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 41
+
+/Views/Coveo/OmniboxResultListView.cshtml
+----field----
+field: {DDAB263E-B42E-419A-AA6F-081B7393CA38}
+name: Model
+key: model
+content-length: 55
+
+/sitecore/layout/Models/Coveo/Omnibox Result List Model
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{663EE172-2600-421A-B484-F1CCC77AC3BC}
+----field----
+field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+1
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 69
+
+/sitecore/templates/CoveoModule/Search/Omnibox Result List Parameters
+----field----
+field: {A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}
+name: Page Editor Buttons
+key: page editor buttons
+content-length: 38
+
+{325E7B28-A409-4162-BA64-73F4ADB9E987}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 38
+
+Coveo/32x32/CoveoOmniboxResultList.png
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{41D802FB-1E45-437C-8694-0DE128D2C2CB}" />
+----version----
+language: en
+version: 1
+revision: c3cf6dee-2697-4408-8aa9-93c9a0d480a5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140226T113748
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c3cf6dee-2697-4408-8aa9-93c9a0d480a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20150108T094151:635563069110610553
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

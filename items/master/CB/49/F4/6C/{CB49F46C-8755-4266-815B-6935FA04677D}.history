@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CB49F46C-8755-4266-815B-6935FA04677D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.5845859Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchAsYouTypeDelayTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchAsYouTypeDelayTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

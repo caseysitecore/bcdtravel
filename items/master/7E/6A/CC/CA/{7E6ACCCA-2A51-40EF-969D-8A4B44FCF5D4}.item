@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {7E6ACCCA-2A51-40EF-969D-8A4B44FCF5D4}
+database: master
+path: /sitecore/layout/Placeholder Settings/Coveo/MVC/Coveo Omnibox Suggestions Provider MVC
+parent: {506C71D8-981D-49FC-97B0-4E8CFACDCB31}
+name: Coveo Omnibox Suggestions Provider MVC
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20160629T193628:636028257883070000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 39
+
+coveo-omnibox-suggestions-providers-mvc
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 38
+
+{AEB719A4-CA37-4BFA-A610-32060EA67F2E}
+----version----
+language: en
+version: 1
+revision: a8c015d6-f572-4dc7-85b3-2bc266d9d6d0
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140314T143143
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8c015d6-f572-4dc7-85b3-2bc266d9d6d0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20150504T161732:635663530524660546
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

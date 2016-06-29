@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{8412508C-4BD9-46C4-B642-970BDB6DE05E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.4452590Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Range Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Facet Range Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

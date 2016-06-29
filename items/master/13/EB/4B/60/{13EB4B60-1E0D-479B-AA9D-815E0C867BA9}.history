@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{13EB4B60-1E0D-479B-AA9D-815E0C867BA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.9672866Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoSearchbox",
+    "itemPath": "/sitecore/media library/Coveo/CoveoSearchbox",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

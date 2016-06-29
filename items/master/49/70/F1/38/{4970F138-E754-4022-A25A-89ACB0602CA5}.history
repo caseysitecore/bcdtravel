@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4970F138-E754-4022-A25A-89ACB0602CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.9009499Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderNumberOfSteps",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Range Settings/FacetSliderNumberOfSteps",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

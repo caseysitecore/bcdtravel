@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{94BB3561-5DC9-4BFA-B849-B716E17AEDFC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.9373672Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Tab Select",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Tab Select",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

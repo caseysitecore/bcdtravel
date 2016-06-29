@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B9A15B3C-2CB5-4DF3-81F2-C63595C7CDA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.1053891Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "EnableClientSideLogging",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Advanced/EnableClientSideLogging",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

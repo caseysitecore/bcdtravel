@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{48714B98-745F-4461-B8A0-ED529D7261B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.3390646Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Custom Range Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Custom Range Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

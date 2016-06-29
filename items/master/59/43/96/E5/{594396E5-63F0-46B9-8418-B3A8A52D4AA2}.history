@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{594396E5-63F0-46B9-8418-B3A8A52D4AA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:46.8686845Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo DMS",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Coveo DMS",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

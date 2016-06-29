@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F0430326-61D8-49CE-95E5-155303E1F72D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:45.6215810Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Numerical Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Fields/Numerical Field",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

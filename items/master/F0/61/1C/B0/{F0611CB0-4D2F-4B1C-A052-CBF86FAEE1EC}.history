@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.8023489Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Occurrences",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts/Occurrences",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

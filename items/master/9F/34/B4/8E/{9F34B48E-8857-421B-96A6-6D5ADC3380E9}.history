@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9F34B48E-8857-421B-96A6-6D5ADC3380E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.5745021Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxEnableRevealQuerySuggestAddonTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties/OmniboxEnableRevealQuerySuggestAddonTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

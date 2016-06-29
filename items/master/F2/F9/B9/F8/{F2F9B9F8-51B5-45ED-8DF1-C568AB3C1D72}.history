@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F2F9B9F8-51B5-45ED-8DF1-C568AB3C1D72}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.0492121Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Search View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

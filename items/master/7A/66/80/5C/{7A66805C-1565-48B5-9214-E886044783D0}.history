@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7A66805C-1565-48B5-9214-E886044783D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:37:19.3265551Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Top Results",
+    "itemPath": "/sitecore/system/Modules/Coveo/Top Results",
+    "commandType": "Item",
+    "template": "Top Result Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

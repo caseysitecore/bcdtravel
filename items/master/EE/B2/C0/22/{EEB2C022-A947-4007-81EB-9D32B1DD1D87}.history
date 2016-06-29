@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EEB2C022-A947-4007-81EB-9D32B1DD1D87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.3339858Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "List Value Parameter",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/List Value Parameter",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

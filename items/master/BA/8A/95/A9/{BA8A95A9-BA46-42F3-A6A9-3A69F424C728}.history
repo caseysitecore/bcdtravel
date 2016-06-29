@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BA8A95A9-BA46-42F3-A6A9-3A69F424C728}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.3129018Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderExcludeOuterBounds",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Advanced Settings/FacetSliderExcludeOuterBounds",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

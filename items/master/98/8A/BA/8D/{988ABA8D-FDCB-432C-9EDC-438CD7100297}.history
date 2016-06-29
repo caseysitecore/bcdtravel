@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{988ABA8D-FDCB-432C-9EDC-438CD7100297}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:35.5007445Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Breadcrumb Reset",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Breadcrumb Reset",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

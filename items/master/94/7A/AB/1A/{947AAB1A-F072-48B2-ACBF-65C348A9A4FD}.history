@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{947AAB1A-F072-48B2-ACBF-65C348A9A4FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.7345086Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Analytics Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Analytics/Visibility/Analytics Visibility",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

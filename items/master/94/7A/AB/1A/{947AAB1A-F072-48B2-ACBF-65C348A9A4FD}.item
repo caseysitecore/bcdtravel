@@ -1,0 +1,71 @@
+----item----
+version: 1
+id: {947AAB1A-F072-48B2-ACBF-65C348A9A4FD}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Coveo Analytics/Visibility/Analytics Visibility
+parent: {0F6A984F-0B89-4758-9745-BD238D7AC801}
+name: Analytics Visibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {271F5CF1-95C7-474D-9F04-06C6EBB20D8F}
+templatekey: Rule Elements Visibility Rule
+created: 20160629T193644:636028258043730000
+
+----version----
+language: en
+version: 1
+revision: 12b77387-7b75-4870-9a4a-9b7fe9ee015b
+
+----field----
+field: {664CECEB-0446-4063-92A3-1E14837F4D0C}
+name: Rule
+key: rule
+content-length: 594
+
+<ruleset>
+  <rule uid="{B7456AEC-304E-4DA7-9A51-263D7EFD5AD9}">
+    <conditions>
+      <or uid="8220EC40206547ECBB945ACB55480755">
+        <condition id="{419CF8CE-EDC4-4D24-B7C4-4730DB9E9CDE}" uid="2C7F2311F1C74AF69838DA78C52D3597" except="true" />
+        <condition id="{3BFF6EFA-DC06-4CC6-B7C0-289C59956ECB}" uid="EA526DD22E1E4901A7893D32E7F960DE" feature="DmsConditionalRendering" except="true" />
+      </or>
+    </conditions>
+    <actions>
+      <action id="{EDDE9129-8CF8-4630-A625-56BA8E38489E}" uid="4BE3B76BC16C4856901D27C112F45FBA" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 20
+
+Analytics Visibility
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140331T165146
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+12b77387-7b75-4870-9a4a-9b7fe9ee015b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140818T102225:635439541459070988
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

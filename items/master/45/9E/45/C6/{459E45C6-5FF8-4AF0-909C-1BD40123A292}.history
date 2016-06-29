@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{459E45C6-5FF8-4AF0-909C-1BD40123A292}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.9031156Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search View Layout",
+    "itemPath": "/sitecore/layout/Layouts/Coveo/Search View Layout",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

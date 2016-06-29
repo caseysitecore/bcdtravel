@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9FE1046F-1486-49D7-B662-E128DB878175}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.4218279Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetInjectionDepth",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Advanced Settings/FacetInjectionDepth",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

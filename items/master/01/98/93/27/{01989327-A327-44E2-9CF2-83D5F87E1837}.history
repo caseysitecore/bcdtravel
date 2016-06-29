@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{01989327-A327-44E2-9CF2-83D5F87E1837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.5084980Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxAdvancedOptionsWarning",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties/OmniboxAdvancedOptionsWarning",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3D2D0F62-6D30-465A-AB43-FB83A7B667C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.3883210Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "DocumentOpen",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/DocumentOpen",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

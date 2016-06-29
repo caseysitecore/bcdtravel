@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{34372721-76EF-46B0-A211-7CFC00EA17D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.6623450Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Toggle",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Toggle",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

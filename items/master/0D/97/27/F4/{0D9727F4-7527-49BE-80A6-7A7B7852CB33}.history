@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0D9727F4-7527-49BE-80A6-7A7B7852CB33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:46.0816200Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Licensing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Licensing",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

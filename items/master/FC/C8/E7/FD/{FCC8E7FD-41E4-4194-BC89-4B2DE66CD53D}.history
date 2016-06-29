@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FCC8E7FD-41E4-4194-BC89-4B2DE66CD53D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.0743782Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "BoostingWeightRange",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/BoostingWeightRange",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

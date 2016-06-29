@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4565AA55-B44E-4987-8A09-8B6EFE3CF40D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.6145890Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchBoxMustLinkSearchPage",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchBoxMustLinkSearchPage",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

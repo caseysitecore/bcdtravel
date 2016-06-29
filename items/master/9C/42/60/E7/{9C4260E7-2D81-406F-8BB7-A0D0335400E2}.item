@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {9C4260E7-2D81-406F-8BB7-A0D0335400E2}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/__Standard Values
+parent: {1A4C7DB9-4466-43D0-B21A-E795EE333FCB}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {1A4C7DB9-4466-43D0-B21A-E795EE333FCB}
+templatekey: Facet Date Slider Parameters
+created: 20160629T193627:636028257874630000
+
+----field----
+field: {3094D236-5985-4C4F-AE6A-E30740885532}
+name: Caching
+key: caching
+content-length: 15
+
+0|0|0|0|0|0|0|0

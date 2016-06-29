@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{98C041A7-4BF6-476C-A72A-1F766A34254C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.1803867Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ComputedFields",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/ComputedFields",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

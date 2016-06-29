@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{87167A64-4094-452C-BFED-DF99DFD833BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.7411855Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Date Sort View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Date Sort View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

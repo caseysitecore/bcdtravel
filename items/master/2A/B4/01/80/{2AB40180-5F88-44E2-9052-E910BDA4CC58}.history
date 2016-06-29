@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2AB40180-5F88-44E2-9052-E910BDA4CC58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.9270344Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Tab Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Tab Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

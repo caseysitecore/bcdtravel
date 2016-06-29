@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8A7FD0EE-DB3C-4E49-BFC3-5D45A938DE65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.9174403Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "contains string",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/contains string",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

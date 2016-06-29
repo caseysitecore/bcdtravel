@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6427C86C-C265-4756-A333-DCB80BB79966}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.4614168Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Analytics",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Analytics",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

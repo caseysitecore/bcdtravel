@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FCF713C1-A65F-429E-8F30-74E5B44D85B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.6105055Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxEnableTopQueryAddonHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties/OmniboxEnableTopQueryAddonHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

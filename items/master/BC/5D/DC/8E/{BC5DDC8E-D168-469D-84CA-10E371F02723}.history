@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BC5DDC8E-D168-469D-84CA-10E371F02723}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.8895280Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "RuleContainsUnsupportedActions",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/RuleContainsUnsupportedActions",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

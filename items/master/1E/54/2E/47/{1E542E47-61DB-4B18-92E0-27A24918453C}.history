@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1E542E47-61DB-4B18-92E0-27A24918453C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.5519218Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Basic Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Basic Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

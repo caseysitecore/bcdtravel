@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{14958B6B-FC27-46D5-90B9-D10C8209EBDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.3838250Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Advanced Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Advanced Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

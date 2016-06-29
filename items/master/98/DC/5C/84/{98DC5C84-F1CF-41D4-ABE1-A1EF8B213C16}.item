@@ -1,0 +1,89 @@
+----item----
+version: 1
+id: {98DC5C84-F1CF-41D4-ABE1-A1EF8B213C16}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Tab Parameters/Exclude Components/ExcludeComponents
+parent: {8CE4D58D-4830-4342-A930-34274DA22E1F}
+name: ExcludeComponents
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20160629T193627:636028257870670000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 29
+
+Template Inheritance TreeList
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 89
+
+datasource=/sitecore&templateitem=/sitecore/templates/CoveoModule/Search/Base Id Template
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+25
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 107
+
+<link linktype="external" url="https://developers.coveo.com/display/SitecoreV4/Tab+Component+Properties" />
+----version----
+language: en
+version: 1
+revision: 65222024-01eb-4468-9809-7c1ca2374bae
+
+----field----
+field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
+name: Title
+key: title
+content-length: 18
+
+Exclude components
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 252
+
+Excludes the selected components when the tab is selected.
+
+To be selectable from the TreeList, the component should use a DataSource Rendering Parameters that inherits from the "Base Id Template" located in "/sitecore/templates/CoveoModule/Search".
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20160304T164600
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+65222024-01eb-4468-9809-7c1ca2374bae
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20160309T113217:635931199376198719
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

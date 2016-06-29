@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D1CEB607-90D2-4E20-B91C-C130274FC2F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.4805770Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchAsYouTypeButtonHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchAsYouTypeButtonHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

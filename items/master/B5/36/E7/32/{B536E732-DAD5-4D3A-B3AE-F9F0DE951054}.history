@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B536E732-DAD5-4D3A-B3AE-F9F0DE951054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.3284825Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "NoSuggestionsButtonTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/NoSuggestionsButtonTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

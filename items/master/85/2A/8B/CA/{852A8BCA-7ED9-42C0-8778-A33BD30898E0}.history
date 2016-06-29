@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{852A8BCA-7ED9-42C0-8778-A33BD30898E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.5425827Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchAsYouTypeDelayHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchAsYouTypeDelayHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

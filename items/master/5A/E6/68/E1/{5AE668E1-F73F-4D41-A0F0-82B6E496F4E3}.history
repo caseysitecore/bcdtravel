@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5AE668E1-F73F-4D41-A0F0-82B6E496F4E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.8094398Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "EnableAutomaticBoostingToolTip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/EnableAutomaticBoostingToolTip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

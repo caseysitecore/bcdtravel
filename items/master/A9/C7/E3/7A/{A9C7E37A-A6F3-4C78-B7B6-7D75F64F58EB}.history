@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A9C7E37A-A6F3-4C78-B7B6-7D75F64F58EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.0988011Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

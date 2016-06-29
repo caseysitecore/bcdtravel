@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1DAEC034-6829-4D27-9933-26F7792B52B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.4494030Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Top",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Pager Locations/Top",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {F3DA3A2F-A17F-46E0-B0FF-E7B9ED6F8C09}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Coveo Licensing/Tags/Default
+parent: {CD3D601C-2C53-4471-85C9-C6EEE7BDA1C2}
+name: Default
+master: {00000000-0000-0000-0000-000000000000}
+template: {854BA861-63EA-4A0C-8C7B-541E9A7EC4C1}
+templatekey: Tags Definition
+created: 20160629T193646:636028258061500000
+
+----field----
+field: {42F77151-098F-496A-94CF-590B7EDEEABE}
+name: Tags
+key: tags
+content-length: 38
+
+{5A355A23-0148-48CB-9017-90A696EAF155}
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 7a3da53f-31ed-4a63-bd08-f04c14519904
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140817T162116
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7a3da53f-31ed-4a63-bd08-f04c14519904
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140817T165618:635438913783442142
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

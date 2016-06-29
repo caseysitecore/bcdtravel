@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{06FD0A79-93B8-4DF6-B863-B44CC147FD88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.0573697Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Minimum",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Computed Field Operations/Minimum",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

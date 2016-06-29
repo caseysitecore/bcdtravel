@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3BE9D05A-3D10-4137-ADBB-5A5F1B2F05F2}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T19:36:45.8786029Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Elementskabelon",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Items/Item Template",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

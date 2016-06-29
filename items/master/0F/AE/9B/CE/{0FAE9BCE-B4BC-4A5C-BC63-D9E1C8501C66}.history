@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0FAE9BCE-B4BC-4A5C-BC63-D9E1C8501C66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.6734209Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Coveo Search Rules",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

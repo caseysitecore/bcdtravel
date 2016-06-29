@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{25B460CB-77B2-43F3-9A3B-DE86D735A8F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.4244064Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CustomRangeItemDoesNotExists",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/CustomRangeItemDoesNotExists",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

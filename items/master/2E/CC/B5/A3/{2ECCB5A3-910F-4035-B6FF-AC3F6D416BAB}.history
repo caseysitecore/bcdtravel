@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2ECCB5A3-910F-4035-B6FF-AC3F6D416BAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.0649631Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Field Sort Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Field Sort Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

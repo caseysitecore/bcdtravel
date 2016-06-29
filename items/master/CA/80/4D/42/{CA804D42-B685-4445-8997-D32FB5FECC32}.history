@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CA804D42-B685-4445-8997-D32FB5FECC32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.1024635Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "InfiniteScrollPageSizeGreaterThanZero",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/InfiniteScrollPageSizeGreaterThanZero",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

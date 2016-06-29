@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CE28E65E-909A-4BE2-90C7-B20B63D5A2CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.7666010Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Select Template",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Select Template",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

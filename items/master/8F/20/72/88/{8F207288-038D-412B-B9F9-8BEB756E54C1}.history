@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8F207288-038D-412B-B9F9-8BEB756E54C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:21.3465729Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "QuerySummaryOnlyDisplaySearchTips",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Query Helpers/QuerySummaryOnlyDisplaySearchTips",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

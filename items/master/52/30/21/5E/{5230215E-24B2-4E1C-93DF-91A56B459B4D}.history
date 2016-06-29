@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5230215E-24B2-4E1C-93DF-91A56B459B4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.0264493Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "is not equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/is not equal to",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

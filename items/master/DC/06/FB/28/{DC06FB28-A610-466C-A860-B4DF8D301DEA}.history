@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DC06FB28-A610-466C-A860-B4DF8D301DEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.3593192Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Document Quickview",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Document Quickview",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

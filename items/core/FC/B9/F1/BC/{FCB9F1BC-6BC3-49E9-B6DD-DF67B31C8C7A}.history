@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{FCB9F1BC-6BC3-49E9-B6DD-DF67B31C8C7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.3190613Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Collection Multilist",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Collection Multilist",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

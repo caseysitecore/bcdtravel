@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CCBE0AAF-677A-47B6-B283-29A8B1F65AAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.4382430Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Field Sort",
+    "itemPath": "/sitecore/layout/Sublayouts/Coveo/Coveo Field Sort",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

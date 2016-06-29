@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{030CD153-07B5-4AF1-8CC6-84EBA07C27FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.6093392Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Select",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Select",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

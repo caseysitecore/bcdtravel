@@ -1,0 +1,68 @@
+----item----
+version: 1
+id: {2CD7475C-1907-434A-98B7-69E96BCF8CCA}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Coveo Conditional Renderings/Visibility/Renderings Visibility
+parent: {B07CC6D8-360A-406A-86A8-95A3C4009CF5}
+name: Renderings Visibility
+master: {00000000-0000-0000-0000-000000000000}
+template: {271F5CF1-95C7-474D-9F04-06C6EBB20D8F}
+templatekey: Rule Elements Visibility Rule
+created: 20160629T193645:636028258051030000
+
+----version----
+language: en
+version: 1
+revision: 3712511c-df8b-4c69-ac4a-2ddcc19a756b
+
+----field----
+field: {664CECEB-0446-4063-92A3-1E14837F4D0C}
+name: Rule
+key: rule
+content-length: 408
+
+<ruleset>
+  <rule uid="{A13116F7-F580-4E83-B9E6-6F4BA2D5B4D3}">
+    <conditions>
+      <condition id="{3BFF6EFA-DC06-4CC6-B7C0-289C59956ECB}" uid="43AEE841B9854FCDB545E167B4BDB4D5" feature="DmsConditionalRendering" except="true" />
+    </conditions>
+    <actions>
+      <action id="{EDDE9129-8CF8-4630-A625-56BA8E38489E}" uid="39B2F957268C4685AF14C8D9DCD5556F" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 21
+
+Renderings Visibility
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140817T162022
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3712511c-df8b-4c69-ac4a-2ddcc19a756b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140818T102512:635439543122797344
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

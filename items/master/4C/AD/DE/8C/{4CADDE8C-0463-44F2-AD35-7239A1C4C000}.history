@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4CADDE8C-0463-44F2-AD35-7239A1C4C000}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.1231336Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Omnibox Result List Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Omnibox Result List Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

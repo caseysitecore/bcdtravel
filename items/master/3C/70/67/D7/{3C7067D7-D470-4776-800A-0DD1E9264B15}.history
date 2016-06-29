@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3C7067D7-D470-4776-800A-0DD1E9264B15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.8894527Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FilterCulture",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Results scope/FilterCulture",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

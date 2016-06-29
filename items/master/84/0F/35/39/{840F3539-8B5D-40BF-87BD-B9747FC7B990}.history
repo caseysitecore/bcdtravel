@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{840F3539-8B5D-40BF-87BD-B9747FC7B990}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:40.4351528Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Did You Mean",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Misc/Did You Mean",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

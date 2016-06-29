@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{489BA2AE-1B14-491E-A0FD-80EB2A10F275}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.8741970Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Facet View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Facet View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3FAC58E0-00E0-41DC-A7F6-7A6E1197C09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.6242584Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search Mobile",
+    "itemPath": "/sitecore/layout/Sublayouts/Coveo/Coveo Search Mobile",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

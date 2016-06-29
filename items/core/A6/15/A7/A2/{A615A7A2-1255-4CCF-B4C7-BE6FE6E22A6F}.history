@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{A615A7A2-1255-4CCF-B4C7-BE6FE6E22A6F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T19:36:18.1030436Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Resources",
+    "itemPath": "/sitecore/content/Applications/Control Panel/Coveo Search/Resources",
+    "commandType": "Item",
+    "template": "Task option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{67795A78-5E7F-452C-9936-78A310E87C92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.8379451Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderAutoGenerateRange",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Range Settings/FacetSliderAutoGenerateRange",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

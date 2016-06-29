@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F3DCE327-3978-4FD8-B34F-D167E3F36FEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.8803615Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Link",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Search Link",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

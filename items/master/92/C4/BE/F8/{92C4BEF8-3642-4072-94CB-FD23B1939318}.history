@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{92C4BEF8-3642-4072-94CB-FD23B1939318}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.5801720Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Omnibox Suggestions Providers",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/Web Forms/Coveo Omnibox Suggestions Providers",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

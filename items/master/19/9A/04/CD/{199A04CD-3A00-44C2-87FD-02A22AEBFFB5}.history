@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{199A04CD-3A00-44C2-87FD-02A22AEBFFB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.7124384Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ResultsPerPage",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Paging/ResultsPerPage",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

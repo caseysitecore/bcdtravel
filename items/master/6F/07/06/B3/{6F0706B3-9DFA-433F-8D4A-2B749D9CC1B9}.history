@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6F0706B3-9DFA-433F-8D4A-2B749D9CC1B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.8535174Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Boosting/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

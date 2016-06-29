@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{BFF2FEC1-CFFC-495B-8F50-13A084A8150D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.5552697Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Template Field Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Template Field Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

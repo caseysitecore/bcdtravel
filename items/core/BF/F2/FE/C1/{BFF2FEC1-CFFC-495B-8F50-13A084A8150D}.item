@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {BFF2FEC1-CFFC-495B-8F50-13A084A8150D}
+database: core
+path: /sitecore/system/Field types/Coveo Types/Template Field Picker
+parent: {35DFEEF8-4EBA-4C7C-B90E-91ABF2FC7513}
+name: Template Field Picker
+master: {00000000-0000-0000-0000-000000000000}
+template: {F8A17D6A-118E-4CD7-B5F5-88FF37A4F237}
+templatekey: Template field type
+created: 20160629T193618:636028257785330000
+
+----field----
+field: {0F0A5388-0467-4A45-95C0-729B1D6DB9FD}
+name: Control
+key: control
+content-length: 27
+
+coveoui:TemplateFieldPicker
+----version----
+language: en
+version: 1
+revision: 75083f45-2838-44a3-8e58-348b5f83f61b
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130924T092451
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+75083f45-2838-44a3-8e58-348b5f83f61b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130924T092503:635156115036116594
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

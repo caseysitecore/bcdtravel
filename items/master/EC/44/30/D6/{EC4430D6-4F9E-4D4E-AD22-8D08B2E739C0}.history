@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EC4430D6-4F9E-4D4E-AD22-8D08B2E739C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.3253987Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ConfiguredFields",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/ConfiguredFields",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

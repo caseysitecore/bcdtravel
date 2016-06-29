@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AC102896-C0B0-4A10-937B-E1B75B1C92AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.0737989Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetNumberOfValuesInFacetSearch",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Navigation/FacetNumberOfValuesInFacetSearch",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

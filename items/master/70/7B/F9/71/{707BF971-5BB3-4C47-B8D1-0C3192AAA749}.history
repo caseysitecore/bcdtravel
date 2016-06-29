@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{707BF971-5BB3-4C47-B8D1-0C3192AAA749}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.8934458Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FieldMustBeFacet",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/FieldMustBeFacet",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

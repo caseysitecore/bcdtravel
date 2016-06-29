@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{54D8C7E3-7999-47D1-B3D2-A4ED8BC17E95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:21.9396226Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Custom Ranges",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Custom Ranges",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

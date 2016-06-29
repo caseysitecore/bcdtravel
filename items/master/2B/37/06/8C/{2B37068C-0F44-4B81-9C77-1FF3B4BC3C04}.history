@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2B37068C-0F44-4B81-9C77-1FF3B4BC3C04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.1390534Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "BoostExpressionRules",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Tab Parameters/Results Scope/BoostExpressionRules",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

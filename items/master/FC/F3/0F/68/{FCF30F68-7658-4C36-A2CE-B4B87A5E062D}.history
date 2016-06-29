@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FCF30F68-7658-4C36-A2CE-B4B87A5E062D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.6543364Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Available Sorts",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{325E7B28-A409-4162-BA64-73F4ADB9E987}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.1670489Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Edit Coveo Facet Properties",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Edit Coveo Facet Properties",
+    "commandType": "Item",
+    "template": "WebEdit Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

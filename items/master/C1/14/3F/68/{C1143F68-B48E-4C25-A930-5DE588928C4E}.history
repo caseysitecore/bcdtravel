@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C1143F68-B48E-4C25-A930-5DE588928C4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.4484990Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Infinite scrolling",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Infinite scrolling",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

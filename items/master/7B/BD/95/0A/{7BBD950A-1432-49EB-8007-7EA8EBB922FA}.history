@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7BBD950A-1432-49EB-8007-7EA8EBB922FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.2192244Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Tab View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Tab View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

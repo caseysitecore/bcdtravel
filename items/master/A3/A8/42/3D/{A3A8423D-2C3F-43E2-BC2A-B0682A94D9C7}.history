@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A3A8423D-2C3F-43E2-BC2A-B0682A94D9C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.7744366Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "EnableAutomaticBoosting",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/EnableAutomaticBoosting",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

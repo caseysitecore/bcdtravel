@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{134579E4-8116-4000-A4CA-A3A705D781A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:35.9257799Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Clear All",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Facet Clear All",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{873AFA5C-B4E6-48F9-8315-D2ACFFA7DE34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.7503520Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Omnibox Field",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Omnibox Field",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{99BC18F9-620F-4AB7-9B5E-03E3FC71DC5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.4019090Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Appearance Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Appearance Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

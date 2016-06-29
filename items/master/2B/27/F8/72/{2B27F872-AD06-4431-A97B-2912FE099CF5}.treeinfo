@@ -3,5 +3,7 @@
   "templateId": "{267D9AC7-5D85-4E9D-AF89-99AB296CC218}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
   "parentId": "{ADB6A28A-100F-4E9E-8594-2A4BE2976332}",
-  "childIds": []
+  "childIds": [
+    "{BAE2B8F4-989A-48B5-8795-AAF6D9B24E7D}"
+  ]
 }

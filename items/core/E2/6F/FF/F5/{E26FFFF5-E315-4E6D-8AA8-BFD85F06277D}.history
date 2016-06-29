@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{E26FFFF5-E315-4E6D-8AA8-BFD85F06277D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.6033454Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Text With Tokens",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Text With Tokens",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

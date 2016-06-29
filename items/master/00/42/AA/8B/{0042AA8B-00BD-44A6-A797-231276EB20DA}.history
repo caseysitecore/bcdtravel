@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0042AA8B-00BD-44A6-A797-231276EB20DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.6895946Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Select IsDate",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Select IsDate",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

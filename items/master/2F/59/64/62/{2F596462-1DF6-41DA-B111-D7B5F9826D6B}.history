@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2F596462-1DF6-41DA-B111-D7B5F9826D6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.4664929Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxProperties",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

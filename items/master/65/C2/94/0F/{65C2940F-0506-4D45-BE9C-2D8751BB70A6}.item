@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {65C2940F-0506-4D45-BE9C-2D8751BB70A6}
+database: master
+path: /sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts/Score
+parent: {FCF30F68-7658-4C36-A2CE-B4B87A5E062D}
+name: Score
+master: {00000000-0000-0000-0000-000000000000}
+template: {EEB2C022-A947-4007-81EB-9D32B1DD1D87}
+templatekey: List Value Parameter
+created: 20160629T193642:636028258028100000
+
+----field----
+field: {860D9BFE-DDCA-49D2-A7A4-59A7EF6F2D32}
+name: Value
+key: value
+content-length: 5
+
+score
+----version----
+language: en
+version: 1
+revision: 1d7cd05f-e50e-461c-9aeb-eda0cda34481
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140221T152255
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1d7cd05f-e50e-461c-9aeb-eda0cda34481
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140221T152343:635285930237553101
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

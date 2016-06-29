@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{65C2940F-0506-4D45-BE9C-2D8751BB70A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.8263498Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Score",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Available Sorts/Score",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

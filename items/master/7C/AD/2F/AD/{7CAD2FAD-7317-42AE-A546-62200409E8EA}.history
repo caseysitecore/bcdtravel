@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7CAD2FAD-7317-42AE-A546-62200409E8EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.3684097Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxEnableFieldAddon",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Advanced Omnibox Options/OmniboxEnableFieldAddon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

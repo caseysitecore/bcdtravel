@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E0CB86F6-B4DB-41A8-99CD-32D249B9B030}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.0034481Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "is like",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/is like",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

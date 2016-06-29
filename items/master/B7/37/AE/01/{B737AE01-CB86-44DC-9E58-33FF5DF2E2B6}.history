@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B737AE01-CB86-44DC-9E58-33FF5DF2E2B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.1848903Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Advanced Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Advanced Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

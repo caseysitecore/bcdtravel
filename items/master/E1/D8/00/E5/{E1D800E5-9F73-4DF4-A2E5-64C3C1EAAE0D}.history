@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E1D800E5-9F73-4DF4-A2E5-64C3C1EAAE0D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:23.1287206Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderDateStart",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Range Settings/FacetSliderDateStart",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AA4A3752-E9CE-4505-B6D2-3E62CC12F430}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.5094141Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "DefaultSortDirectionEmpty",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/DefaultSortDirectionEmpty",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

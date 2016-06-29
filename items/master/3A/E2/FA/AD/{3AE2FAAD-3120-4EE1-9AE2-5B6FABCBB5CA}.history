@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3AE2FAAD-3120-4EE1-9AE2-5B6FABCBB5CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.1844623Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Pattern Card",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Analytics/Pattern Card",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

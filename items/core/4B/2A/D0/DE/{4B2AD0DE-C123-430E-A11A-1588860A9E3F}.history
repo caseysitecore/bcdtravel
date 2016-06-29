@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{4B2AD0DE-C123-430E-A11A-1588860A9E3F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T19:36:17.8220211Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search",
+    "itemPath": "/sitecore/content/Applications/Control Panel/Coveo Search",
+    "commandType": "Item",
+    "template": "Task page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

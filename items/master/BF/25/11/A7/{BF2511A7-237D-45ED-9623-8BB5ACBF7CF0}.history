@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BF2511A7-237D-45ED-9623-8BB5ACBF7CF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.9605348Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "RuleMustContainsBoostAction",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/RuleMustContainsBoostAction",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

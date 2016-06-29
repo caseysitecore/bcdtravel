@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C8540AD7-7F92-4B68-9E10-286045511513}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.0774536Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "starts with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/starts with",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

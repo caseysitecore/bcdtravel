@@ -10,10 +10,38 @@ template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 created: 20160629T193651:636028258111970000
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 18
+
+Coveo for Sitecore
+----field----
+field: {5322A457-A605-4A38-A0D1-F944B7F781D9}
+name: Package version
+key: package version
+content-length: 3
+
+4.0
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 20
+
+Coveo Solutions Inc.
+----field----
+field: {8403A346-67C5-4616-B239-18BF4675852D}
+name: Package publisher
+key: package publisher
+content-length: 20
+
+Coveo Solutions Inc.
 ----version----
 language: en
 version: 1
-revision: cf69bc84-41f0-4d54-be2f-1d5f40aefee5
+revision: 635941b5-ce63-4958-b484-bd8287edf64b
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +70,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cf69bc84-41f0-4d54-be2f-1d5f40aefee5
+635941b5-ce63-4958-b484-bd8287edf64b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

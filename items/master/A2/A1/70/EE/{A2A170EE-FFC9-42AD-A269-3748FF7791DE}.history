@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A2A170EE-FFC9-42AD-A269-3748FF7791DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.7196867Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderValueCaption",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Appearance Settings/FacetSliderValueCaption",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

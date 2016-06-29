@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A1D45F78-24C1-4A54-93F5-FDC2DEEDB01E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.7431037Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo",
+    "itemPath": "/sitecore/layout/Layouts/Coveo",
+    "commandType": "Item",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6569A66D-2A68-494E-81F1-A3069B0A5658}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.8002740Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoFacet",
+    "itemPath": "/sitecore/media library/Coveo/CoveoFacet",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

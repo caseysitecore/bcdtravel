@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{A5CB8814-5440-4C30-8B88-D2D5AD6E7CB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:51.2080443Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "20160629T193651Z",
+    "itemPath": "/sitecore/system/Packages/Installation history/Coveo for Sitecore/20160629T193651Z",
+    "commandType": "Item",
+    "template": "Package registration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

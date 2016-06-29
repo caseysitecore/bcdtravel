@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B1FF3CA7-7D00-4560-B25C-B6BFD4D389C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.2994791Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "NoSuggestionsButtonHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/NoSuggestionsButtonHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

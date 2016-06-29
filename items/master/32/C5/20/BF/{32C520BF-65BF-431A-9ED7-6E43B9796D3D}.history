@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{32C520BF-65BF-431A-9ED7-6E43B9796D3D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.5753366Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Search",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Search",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

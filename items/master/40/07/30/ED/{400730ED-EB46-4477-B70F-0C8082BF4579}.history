@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{400730ED-EB46-4477-B70F-0C8082BF4579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.5095791Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchAsYouTypeButtonTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchAsYouTypeButtonTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

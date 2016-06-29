@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0E05BDD5-1E7F-46E8-BD0E-C0898B8D5048}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.5183331Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Range Graph",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Range Graph",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

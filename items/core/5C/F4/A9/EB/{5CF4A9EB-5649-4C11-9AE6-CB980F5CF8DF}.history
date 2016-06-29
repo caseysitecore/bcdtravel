@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{5CF4A9EB-5649-4C11-9AE6-CB980F5CF8DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.4121444Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Facet Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{86BF24F6-8282-4052-92F0-4D5896E9C8CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.9936194Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SslCertificatePathIsEmpty",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SslCertificatePathIsEmpty",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

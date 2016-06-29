@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{73EFD0CD-3D2E-4F91-8099-1F1C61D61839}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.7375977Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Select Range",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Select Range",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

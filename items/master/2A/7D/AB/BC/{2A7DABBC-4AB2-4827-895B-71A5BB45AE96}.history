@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2A7DABBC-4AB2-4827-895B-71A5BB45AE96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.2375566Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "LastTimeModified",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Search Interface/LastTimeModified",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{248E38C0-65C9-4B6B-8342-E3D2A7712529}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:35.1607156Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Breadcrumb Click",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Breadcrumb Click",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

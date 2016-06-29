@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3BFF6EFA-DC06-4CC6-B7C0-289C59956ECB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:46.1106222Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Feature Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Licensing/Feature Enabled",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

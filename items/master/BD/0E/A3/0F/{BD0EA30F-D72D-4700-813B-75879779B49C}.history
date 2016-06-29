@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BD0EA30F-D72D-4700-813B-75879779B49C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.3122319Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Facet",
+    "itemPath": "/sitecore/layout/Sublayouts/Coveo/Coveo Facet",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DD0ED7BD-3C2E-4AD0-9B34-539AF9502C68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:38.4179861Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Slider Graph Click",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Facet Slider Graph Click",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

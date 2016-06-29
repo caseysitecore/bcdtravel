@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{857638F1-4852-4935-A8BA-D92E62EB4C3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.2348120Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetEnableSettings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Options/FacetEnableSettings",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

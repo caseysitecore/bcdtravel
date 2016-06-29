@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E44229B6-B359-49F3-8D9B-F1BCB27304B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:34.1166292Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Warnings",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Warnings",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

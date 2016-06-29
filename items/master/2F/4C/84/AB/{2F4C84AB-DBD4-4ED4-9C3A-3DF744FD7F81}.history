@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2F4C84AB-DBD4-4ED4-9C3A-3DF744FD7F81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.9336166Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SliderInvalidRange",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SliderInvalidRange",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

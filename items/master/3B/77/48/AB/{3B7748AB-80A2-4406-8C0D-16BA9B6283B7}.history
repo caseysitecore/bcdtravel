@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3B7748AB-80A2-4406-8C0D-16BA9B6283B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:40.8921924Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Query",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Query",
+    "commandType": "Item",
+    "template": "Page Event Category",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

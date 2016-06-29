@@ -1,0 +1,82 @@
+----item----
+version: 1
+id: {DD0091BC-8D39-41C2-B6E8-A8509B696E84}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Tab Parameters/Basic Settings/TabIcon
+parent: {3AA75004-194C-4F17-9892-53CBD3853647}
+name: TabIcon
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20160629T193627:636028257870230000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 5
+
+Image
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 114
+
+<link linktype="external" url="https://developers.coveo.com/display/JsSearchV1/Tab+Component#TabComponent-icon" />
+----version----
+language: en
+version: 1
+revision: e94481f0-c2be-497c-8514-e564de1195b6
+
+----field----
+field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
+name: Title
+key: title
+content-length: 4
+
+Icon
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 99
+
+This icon will be shown next to the caption.
+
+If no caption is specified, only the icon is shown.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20160304T164600
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e94481f0-c2be-497c-8514-e564de1195b6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20160304T164617:635927067778298962
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

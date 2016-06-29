@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D158A667-3F56-4F86-9E54-45589E45D5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.6949330Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B8564ECE-5170-41F5-84CE-C92E09034231}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.2201432Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Tab Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Tab Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

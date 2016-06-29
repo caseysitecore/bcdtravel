@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{2E8B58C8-F546-4CF4-B56F-96DA2D145422}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T19:36:18.0080357Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Diagnostic Page",
+    "itemPath": "/sitecore/content/Applications/Control Panel/Coveo Search/Diagnostic Page",
+    "commandType": "Item",
+    "template": "Task option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

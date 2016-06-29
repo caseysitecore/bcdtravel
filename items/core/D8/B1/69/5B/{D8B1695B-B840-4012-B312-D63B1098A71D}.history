@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{D8B1695B-B840-4012-B312-D63B1098A71D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.2930611Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Automatic Boosting",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Automatic Boosting",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

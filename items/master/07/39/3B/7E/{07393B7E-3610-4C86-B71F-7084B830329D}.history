@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{07393B7E-3610-4C86-B71F-7084B830329D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:47.0847026Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "HasLayout",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Coveo/HasLayout",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

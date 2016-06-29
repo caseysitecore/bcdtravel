@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1E6C9830-45FA-4801-9D4D-E87B76C13F7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:45.7545925Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Descendants or Self",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Items/Descendants or Self",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

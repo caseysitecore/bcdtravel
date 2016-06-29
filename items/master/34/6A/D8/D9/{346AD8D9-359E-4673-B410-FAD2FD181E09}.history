@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{346AD8D9-359E-4673-B410-FAD2FD181E09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.1843805Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Exact (Slowest)",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Facet Accuracy/Exact",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D8A88DA4-43EC-4A42-AD11-41CFF8110C95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.1931395Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Sort Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Sort Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

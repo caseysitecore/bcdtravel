@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F6734C1C-6C9C-4A14-898A-6A3603F3052D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.7966037Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SelectField",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SelectField",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

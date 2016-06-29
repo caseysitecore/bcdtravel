@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{39D5B995-9968-4341-9760-F08125E4DCE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.1944719Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "NoCustomDateRangeHeader",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/NoCustomDateRangeHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

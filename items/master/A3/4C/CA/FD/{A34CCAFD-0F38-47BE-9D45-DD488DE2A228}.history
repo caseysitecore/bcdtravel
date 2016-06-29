@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A34CCAFD-0F38-47BE-9D45-DD488DE2A228}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.9711216Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search View Layout WebCrawler",
+    "itemPath": "/sitecore/layout/Layouts/Coveo/Search View Layout WebCrawler",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AEE1DE34-61C5-4C9B-9A16-79A71BFD9219}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.5966772Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderDateFormat",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Appearance Settings/FacetSliderDateFormat",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

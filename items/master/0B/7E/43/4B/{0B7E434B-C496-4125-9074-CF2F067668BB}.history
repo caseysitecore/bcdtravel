@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0B7E434B-C496-4125-9074-CF2F067668BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.5544102Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Relevancy",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Sort Types/Relevancy",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

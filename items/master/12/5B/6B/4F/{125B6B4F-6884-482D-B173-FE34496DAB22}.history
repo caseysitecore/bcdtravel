@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{125B6B4F-6884-482D-B173-FE34496DAB22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.0964701Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "KeepOmniboxSuggestionsProvidersDefaultOrdering",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Box Parameters/Basic Settings/KeepOmniboxSuggestionsProvidersDefaultOrdering",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

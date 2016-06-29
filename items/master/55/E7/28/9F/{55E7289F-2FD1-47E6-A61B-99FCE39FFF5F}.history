@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{55E7289F-2FD1-47E6-A61B-99FCE39FFF5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.6425902Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SearchIndexUnavailable",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SearchIndexUnavailable",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

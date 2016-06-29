@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{85539AD9-57A8-434F-A8DD-B2E44C719BDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.4801645Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Tabs MVC",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/MVC/Coveo Tabs MVC",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

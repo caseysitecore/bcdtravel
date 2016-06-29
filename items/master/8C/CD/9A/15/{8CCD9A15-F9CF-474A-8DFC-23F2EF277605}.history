@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8CCD9A15-F9CF-474A-8DFC-23F2EF277605}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.4183990Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "None",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Pager Locations/None",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{54507DBB-8536-4956-AF13-297EAA6AD85E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.7641867Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Facet Date Slider View",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Facet Date Slider View",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

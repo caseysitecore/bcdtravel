@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FA9836BC-2AA2-41BF-8E01-381AF2ECA34D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.5473345Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Range Slider",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Range Slider",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

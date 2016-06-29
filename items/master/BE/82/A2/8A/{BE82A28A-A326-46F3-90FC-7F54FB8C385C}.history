@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BE82A28A-A326-46F3-90FC-7F54FB8C385C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.8574500Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "EnableAutomaticBoosting",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Results scope/EnableAutomaticBoosting",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{662A73DD-E891-455A-B3B4-B50819FCE205}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.2304810Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search Page (MVC)",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Page MVC",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

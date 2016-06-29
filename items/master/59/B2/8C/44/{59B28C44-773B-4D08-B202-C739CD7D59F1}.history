@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{59B28C44-773B-4D08-B202-C739CD7D59F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.5126697Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderGraphSteps",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Advanced Settings/FacetSliderGraphSteps",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

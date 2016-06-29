@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{10B7246A-25EB-4717-B063-A0794EBE41A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.0812132Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search View Mobile",
+    "itemPath": "/sitecore/layout/Renderings/Coveo/Coveo Search View Mobile",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

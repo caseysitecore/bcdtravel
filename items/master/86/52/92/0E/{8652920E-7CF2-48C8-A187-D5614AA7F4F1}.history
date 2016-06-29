@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8652920E-7CF2-48C8-A187-D5614AA7F4F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.7168519Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetComputedField",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Computed Field/FacetComputedField",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

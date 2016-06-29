@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E76D9FC3-3064-4F26-B54F-83E2782950D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.6680145Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Advanced Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Sort Parameters/Advanced Settings",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

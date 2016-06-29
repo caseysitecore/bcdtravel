@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7106A34C-0077-404A-AC13-7966857A6831}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Sort Parameters/Basic Settings/SortField
+parent: {4BEDCD0C-FB9A-46D0-A5EA-A1287224FAAC}
+name: SortField
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20160629T193626:636028257867300000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 17
+
+Sort Field Picker
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+137
+----version----
+language: en
+version: 1
+revision: 83cd7517-7b6a-4f4e-947f-2adef2574e5d
+
+----field----
+field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
+name: Title
+key: title
+content-length: 10
+
+Sort Field
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20131002T082603
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83cd7517-7b6a-4f4e-947f-2adef2574e5d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20131113T130722:635199448427109970
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

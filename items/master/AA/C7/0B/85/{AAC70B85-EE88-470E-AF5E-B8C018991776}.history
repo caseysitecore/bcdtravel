@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AAC70B85-EE88-470E-AF5E-B8C018991776}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.0364570Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "HasLayoutErrorMessage",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/HasLayoutErrorMessage",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

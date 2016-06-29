@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{FCDEB477-10E9-4A8F-A7C1-9056F1CFB883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.4692691Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Index Names Drop Down List",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Index Names Drop Down List",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

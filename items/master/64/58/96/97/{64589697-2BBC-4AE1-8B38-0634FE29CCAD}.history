@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{64589697-2BBC-4AE1-8B38-0634FE29CCAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:24.7568552Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetComputedFieldCaption",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Computed Field/FacetComputedFieldCaption",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

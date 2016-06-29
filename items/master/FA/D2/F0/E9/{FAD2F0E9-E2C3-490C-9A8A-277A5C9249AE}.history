@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FAD2F0E9-E2C3-490C-9A8A-277A5C9249AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.7702694Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo",
+    "itemPath": "/sitecore/media library/Coveo",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

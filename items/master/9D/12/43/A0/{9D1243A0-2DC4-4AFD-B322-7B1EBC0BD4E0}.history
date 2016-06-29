@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9D1243A0-2DC4-4AFD-B322-7B1EBC0BD4E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.6850994Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Top Results/Top Result/__Standard Values",
+    "commandType": "Item",
+    "template": "Top Result",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

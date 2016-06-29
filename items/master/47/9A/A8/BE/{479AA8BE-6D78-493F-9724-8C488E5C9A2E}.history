@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{479AA8BE-6D78-493F-9724-8C488E5C9A2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.4214896Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxButtonTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxButtonTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

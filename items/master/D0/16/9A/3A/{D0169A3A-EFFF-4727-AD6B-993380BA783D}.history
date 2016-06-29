@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D0169A3A-EFFF-4727-AD6B-993380BA783D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.6754296Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "DominantKeysBoostingThresholdToolTip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/DominantKeysBoostingThresholdToolTip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AFA14A1B-09DA-48B7-97D1-210F4ECC0F11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.1333903Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "IncludeBucketFoldersInResults",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Advanced/IncludeBucketFoldersInResults",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

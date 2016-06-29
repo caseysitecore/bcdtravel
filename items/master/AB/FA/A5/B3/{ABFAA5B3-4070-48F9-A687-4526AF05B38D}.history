@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{ABFAA5B3-4070-48F9-A687-4526AF05B38D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.8266053Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SliderEmptyDate",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/SliderEmptyDate",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

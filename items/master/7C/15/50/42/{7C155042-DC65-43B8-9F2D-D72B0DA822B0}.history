@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7C155042-DC65-43B8-9F2D-D72B0DA822B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.1443765Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Accuracy",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Facet Accuracy",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

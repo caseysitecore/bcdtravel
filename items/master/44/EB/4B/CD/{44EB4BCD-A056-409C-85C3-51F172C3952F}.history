@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{44EB4BCD-A056-409C-85C3-51F172C3952F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.9123581Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Average",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Computed Field Operations/Average",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

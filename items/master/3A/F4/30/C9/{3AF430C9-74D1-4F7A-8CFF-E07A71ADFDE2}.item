@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {3AF430C9-74D1-4F7A-8CFF-E07A71ADFDE2}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Options/FacetIcon
+parent: {8125D1F1-E3B8-4A81-B98A-2A2C9F9C380B}
+name: FacetIcon
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20160629T193622:636028257829530000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 5
+
+Image
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+2743
+----version----
+language: en
+version: 1
+revision: 19ec10be-e219-4af4-9da2-11aad9b325f0
+
+----field----
+field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
+name: Title
+key: title
+content-length: 4
+
+Icon
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 101
+
+Specifies the facet icon that is displayed with the title. The icon must come from the media library.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140516T175210
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19ec10be-e219-4af4-9da2-11aad9b325f0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140723T143257:635417227770897992
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

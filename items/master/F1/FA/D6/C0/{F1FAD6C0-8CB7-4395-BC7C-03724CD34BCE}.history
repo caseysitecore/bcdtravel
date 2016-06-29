@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F1FAD6C0-8CB7-4395-BC7C-03724CD34BCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.8560294Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Sorts",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Sorts",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

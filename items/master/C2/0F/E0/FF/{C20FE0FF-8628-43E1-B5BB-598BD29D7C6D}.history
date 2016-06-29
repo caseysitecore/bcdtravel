@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C20FE0FF-8628-43E1-B5BB-598BD29D7C6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.1643027Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoTab",
+    "itemPath": "/sitecore/media library/Coveo/CoveoTab",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6E1189FE-6858-42BE-BB65-D84E3C382509}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.2264678Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Profile Card",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Analytics/Profile Card",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

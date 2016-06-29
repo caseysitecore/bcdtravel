@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{35DFEEF8-4EBA-4C7C-B90E-91ABF2FC7513}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.2730589Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Types",
+    "itemPath": "/sitecore/system/Field types/Coveo Types",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

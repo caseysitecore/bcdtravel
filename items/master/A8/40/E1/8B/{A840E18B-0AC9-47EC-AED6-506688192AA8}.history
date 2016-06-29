@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A840E18B-0AC9-47EC-AED6-506688192AA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.7332671Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Tab",
+    "itemPath": "/sitecore/layout/Sublayouts/Coveo/Coveo Tab",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

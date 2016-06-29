@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C7CE4E72-CB09-438A-ACDA-C5874F40F9AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.7305144Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "OmniboxTimeoutTooltip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/OmniboxProperties/OmniboxTimeoutTooltip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

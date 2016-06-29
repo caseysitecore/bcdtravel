@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{91A66051-7D2B-4CE1-9B33-D28F9F20B7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.1008839Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetEnableCollapse",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Options/FacetEnableCollapse",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {56886C91-80A0-4E80-A505-47E26CEC75E8}
+database: master
+path: /sitecore/templates/CoveoModule/Search/Coveo Search Page/__Standard Values
+parent: {D0B70D73-C95B-4B8F-B7A6-EBA91CBC8301}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {D0B70D73-C95B-4B8F-B7A6-EBA91CBC8301}
+templatekey: Coveo Search Page
+created: 20160629T193627:636028257874070000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}|{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 2373
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{7EA1F01C-6952-4078-92DC-A3E77AD779B2}"><r id="{849CE463-D979-421B-A6A3-4A4A3C9B60CE}" ph="coveo-search" uid="{D953A7CC-98C5-4276-B996-D8877D8E9BE9}" /><r ds="" id="{624E2D4C-D674-45CF-B894-3F57282F9DA2}" par="FilterExpressionRules=%3Cruleset%3E%0D%0A%20%20%3Crule%20uid%3D%22%7B6F11961F-8518-4183-A170-4DA74292A5F6%7D%22%20name%3D%22Basic%20filtering%22%3E%0D%0A%20%20%20%20%3Cconditions%3E%0D%0A%20%20%20%20%20%20%3Cand%20uid%3D%2232ACA0FD48C146A591196E045015CBA7%22%3E%0D%0A%20%20%20%20%20%20%20%20%3Ccondition%20id%3D%22%7B1E6C9830-45FA-4801-9D4D-E87B76C13F7D%7D%22%20uid%3D%22F5913770440B442B8EF6D273208B5F90%22%20itemid%3D%22%7B0DE95AE4-41AB-4D01-9EB0-67441B7C2450%7D%22%20%2F%3E%0D%0A%20%20%20%20%20%20%20%20%3Ccondition%20id%3D%22%7BD99FA65C-3A44-4CF4-9FB8-4C32F0FA366A%7D%22%20uid%3D%22408E1F096EFB4CD58C6ED69E5A5EEE9B%22%20%2F%3E%0D%0A%20%20%20%20%20%20%3C%2Fand%3E%0D%0A%20%20%20%20%3C%2Fconditions%3E%0D%0A%20%20%3C%2Frule%3E%0D%0A%3C%2Fruleset%3E&amp;BoostExpressionRules&amp;EnableAutomaticBoosting&amp;FilterCulture=1&amp;PagerLocation=%7BA1FBD885-7B5E-4AD3-87D1-06AB48937629%7D&amp;PagerShowPreviousNext=1&amp;PagerNumberOfPages=10&amp;PagerMaxNumberOfPages=100&amp;SearchBoxBehavior&amp;ResultsPerPage=10&amp;SearchBoxPlaceholderText&amp;QuerySummaryEnableSearchTips=1&amp;QuerySummaryOnlyDisplaySearchTips&amp;DidYouMeanEnableAutoCorrection=1&amp;EnableInfiniteScroll&amp;InfiniteScrollPageSize=10&amp;DisplayFacets=1&amp;DisplayLogo=1&amp;DisplaySearchBox=1&amp;DisplaySorting=1&amp;HideUntilFirstQuery=1&amp;DisplayQueryDuration=1&amp;DisplayQuerySummary=1&amp;DisplayBreadcrumb=1&amp;DisplayDidYouMean=1&amp;DisplayErrorReport=1&amp;DisplayResultList=1&amp;DisplayTabs=1&amp;ExternalContentSources&amp;ExternalContentCollections&amp;EnableCoveoUsageAnalytics=1&amp;CoveoUsageAnalyticsCustomMetadata&amp;EnableSitecoreAnalytics&amp;SitecoreAnalyticsRestUri=%2Fcoveo%2Frest%2Fv6%2Fanalytics&amp;ThrowExceptionOnValidationError&amp;AutoTriggerQuery=1&amp;ExcerptLength=200&amp;EnableHistory=1&amp;EnableClientSideLogging&amp;IncludeBucketFoldersInResults&amp;IncludeMediaFoldersInResults&amp;RestUri=%2Fcoveo%2Frest&amp;DefaultSortType&amp;DefaultSortDirection&amp;DefaultSortField" ph="coveo-search" uid="{2B82E7BC-4EDB-45BA-A790-301D0400F15E}" /></d></r>
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: 37d3d3f7-d2f7-4407-a436-b09d573e5b67
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20061024T104300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+37d3d3f7-d2f7-4407-a436-b09d573e5b67
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20160405T115645:635954542050700120
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

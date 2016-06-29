@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6706ECF9-0FEB-4099-8DCE-BD8C2819AC19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.0443759Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "AdvancedBoostingSettings",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/AdvancedBoostingSettings",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

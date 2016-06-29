@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{54DB0307-857B-4884-9790-A3D5E13457A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.7793538Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Pager",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Pager",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

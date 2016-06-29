@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4DB30FFC-4F6C-417C-8D6E-C0B00D550B74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.1434596Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo xDB/DMS",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Analytics",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

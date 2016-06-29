@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{56621AB6-4A08-46B3-907B-838061051890}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:45.5615771Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Date Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Fields/Date Field",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

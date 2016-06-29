@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E1BC054C-970B-4BF3-9D3B-40C594C7EFA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.6241759Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Search WebCrawler",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/Web Forms/Coveo Search WebCrawler",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

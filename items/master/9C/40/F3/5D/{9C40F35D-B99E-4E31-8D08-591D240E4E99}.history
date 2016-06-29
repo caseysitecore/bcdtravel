@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9C40F35D-B99E-4E31-8D08-591D240E4E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.0612958Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoSetting",
+    "itemPath": "/sitecore/media library/Coveo/CoveoSetting",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{28FB6875-3481-488E-9211-42A5A5597342}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:26.4929998Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Result Scope",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Omnibox Result List Parameters/Result Scope",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

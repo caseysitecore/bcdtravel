@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{C827E444-3670-4366-8BF3-FC09707BF2CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.3901472Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Numeric Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Facet Numeric Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

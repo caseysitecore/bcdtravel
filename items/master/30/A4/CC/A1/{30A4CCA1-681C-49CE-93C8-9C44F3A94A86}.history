@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{30A4CCA1-681C-49CE-93C8-9C44F3A94A86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.8124319Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo String Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

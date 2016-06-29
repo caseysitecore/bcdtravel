@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{554DF3C5-125A-43E1-93BC-56E3FF111438}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:27.8261092Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Layout Mobile",
+    "itemPath": "/sitecore/layout/Layouts/Coveo/Search Layout Mobile",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

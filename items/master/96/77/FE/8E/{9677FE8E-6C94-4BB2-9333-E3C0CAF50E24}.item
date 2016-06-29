@@ -10,10 +10,17 @@ template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
 created: 20160629T191249:636028243695870000
 
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
 ----version----
 language: en
 version: 1
-revision: 2cd4d14a-313c-4ddb-b958-08cb73790435
+revision: 0feb507e-5c0e-49f9-a43a-263d815c22f1
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -56,7 +63,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2cd4d14a-313c-4ddb-b958-08cb73790435
+0feb507e-5c0e-49f9-a43a-263d815c22f1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -71,3 +78,10 @@ key: __updated by
 content-length: 14
 
 sitecore\Casey
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A84A3674-4317-49B7-847F-B3AF8506D04B}

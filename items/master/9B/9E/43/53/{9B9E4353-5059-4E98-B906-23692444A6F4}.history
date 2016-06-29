@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9B9E4353-5059-4E98-B906-23692444A6F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.2276462Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Date Sort Parameters/Basic Settings/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

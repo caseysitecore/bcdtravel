@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{30B60461-6DEA-4614-B800-AADE4ED893DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:42.5763310Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Indexing and Search",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

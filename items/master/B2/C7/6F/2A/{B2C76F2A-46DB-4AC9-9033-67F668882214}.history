@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B2C76F2A-46DB-4AC9-9033-67F668882214}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.4335741Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "UpdatedBy",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Search Interface/UpdatedBy",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

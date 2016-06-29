@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{ADB6A28A-100F-4E9E-8594-2A4BE2976332}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.0123732Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo",
+    "itemPath": "/sitecore/system/Dictionary/Coveo",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

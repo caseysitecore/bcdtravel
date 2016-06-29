@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0543EA9B-B532-4BDE-989B-341EF893BBF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:41.5162423Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Box Clear",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Query/Search Box Clear",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

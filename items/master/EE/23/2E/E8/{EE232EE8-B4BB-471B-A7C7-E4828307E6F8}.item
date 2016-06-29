@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {EE232EE8-B4BB-471B-A7C7-E4828307E6F8}
+database: master
+path: /sitecore/system/Settings/Indexing and Search/Coveo/Sort Types/Field
+parent: {7D161834-FB7A-4B02-9E65-08C2F76E1FD8}
+name: Field
+master: {00000000-0000-0000-0000-000000000000}
+template: {EEB2C022-A947-4007-81EB-9D32B1DD1D87}
+templatekey: List Value Parameter
+created: 20160629T193643:636028258035100000
+
+----field----
+field: {860D9BFE-DDCA-49D2-A7A4-59A7EF6F2D32}
+name: Value
+key: value
+content-length: 5
+
+field
+----version----
+language: en
+version: 1
+revision: 68198987-0db4-4b5f-8166-5ef6ed57ce18
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140221T152802
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+68198987-0db4-4b5f-8166-5ef6ed57ce18
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140221T152805:635285932855234843
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

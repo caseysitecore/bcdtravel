@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{506C71D8-981D-49FC-97B0-4E8CFACDCB31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.2721470Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "MVC",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/MVC",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

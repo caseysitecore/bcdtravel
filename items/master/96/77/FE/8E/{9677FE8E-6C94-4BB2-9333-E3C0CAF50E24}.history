@@ -128,7 +128,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/Test",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "074804a4cfa8cc5c0b7546c9fff316b9b76a41ee",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{9677FE8E-6C94-4BB2-9333-E3C0CAF50E24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:14:05.4715709Z",
+    "label": "Deleted",
+    "workflowState": "{A84A3674-4317-49B7-847F-B3AF8506D04B}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Test",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/Test",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "074804a4cfa8cc5c0b7546c9fff316b9b76a41ee",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

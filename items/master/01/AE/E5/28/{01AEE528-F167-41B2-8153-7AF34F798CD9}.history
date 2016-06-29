@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{01AEE528-F167-41B2-8153-7AF34F798CD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:41.2002156Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search As You Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Query/Search As You Type",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

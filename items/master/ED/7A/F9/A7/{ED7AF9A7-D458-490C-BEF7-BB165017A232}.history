@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{ED7AF9A7-D458-490C-BEF7-BB165017A232}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.9644515Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FriendlySearchUnavailableDetail",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/FriendlySearchUnavailableDetail",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

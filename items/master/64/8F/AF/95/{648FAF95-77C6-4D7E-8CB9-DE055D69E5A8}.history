@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{648FAF95-77C6-4D7E-8CB9-DE055D69E5A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.2981479Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Facets MVC",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/MVC/Coveo Facets MVC",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

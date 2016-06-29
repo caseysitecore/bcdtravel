@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0B9BE4D3-6858-444F-A485-01DA448004BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:21.7766091Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Custom Date Ranges",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Custom Date Ranges",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

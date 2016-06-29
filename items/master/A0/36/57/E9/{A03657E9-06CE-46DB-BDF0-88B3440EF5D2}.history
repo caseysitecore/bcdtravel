@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A03657E9-06CE-46DB-BDF0-88B3440EF5D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.6184163Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Ascending",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Sorting Directions/Ascending",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

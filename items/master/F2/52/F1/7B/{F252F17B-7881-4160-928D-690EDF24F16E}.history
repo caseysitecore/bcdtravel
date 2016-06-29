@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F252F17B-7881-4160-928D-690EDF24F16E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.0581281Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Range Model",
+    "itemPath": "/sitecore/layout/Models/Coveo/Facet Range Model",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

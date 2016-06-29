@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{D565DB48-7AFE-428A-B482-565515C75A91}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.2430555Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Edit Coveo Tab Properties",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Edit Coveo Tab Properties",
+    "commandType": "Item",
+    "template": "WebEdit Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

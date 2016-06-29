@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{73ABD6D0-66DA-4FD3-B161-E67270D15CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:40.8711885Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Top Field Suggestion Click",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Misc/Top Field Suggestion Click",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

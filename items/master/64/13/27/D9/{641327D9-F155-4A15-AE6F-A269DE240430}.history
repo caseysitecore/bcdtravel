@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{641327D9-F155-4A15-AE6F-A269DE240430}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:38.7190104Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Sort",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Facet Sort",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

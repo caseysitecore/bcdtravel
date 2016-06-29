@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A636EEC6-CE21-4B8C-A861-40E38E928CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.7493587Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ItemId",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Base Id Template/Id/ItemId",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

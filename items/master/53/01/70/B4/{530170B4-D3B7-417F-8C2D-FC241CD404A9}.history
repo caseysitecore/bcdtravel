@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{530170B4-D3B7-417F-8C2D-FC241CD404A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.8133564Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Result Sort",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Result Sort",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

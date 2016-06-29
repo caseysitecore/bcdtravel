@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{861E9050-2D10-4D06-89D8-CEA1FB846D27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:28.4411614Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Sorts MVC",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Coveo/MVC/Coveo Sorts MVC",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

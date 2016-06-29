@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {861E9050-2D10-4D06-89D8-CEA1FB846D27}
+database: master
+path: /sitecore/layout/Placeholder Settings/Coveo/MVC/Coveo Sorts MVC
+parent: {506C71D8-981D-49FC-97B0-4E8CFACDCB31}
+name: Coveo Sorts MVC
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20160629T193628:636028257883870000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 15
+
+coveo-sorts-mvc
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 116
+
+{C4201996-1341-4252-9C37-71C68CF6EE98}|{87167A64-4094-452C-BFED-DF99DFD833BC}|{AADEBC4A-08BE-418D-A64A-F0093EBA8C55}
+----version----
+language: en
+version: 1
+revision: f3adda73-8ef0-473c-befa-19201781a541
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140314T143211
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f3adda73-8ef0-473c-befa-19201781a541
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140423T085345:635338400256654243
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

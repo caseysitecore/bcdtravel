@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6B88CB63-9567-44B7-BB52-98BAA5FD8696}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.4443258Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Deselect",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Facet Deselect",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5482CEED-6C0E-4C89-89B2-BCEA9B0068B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.0494516Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "matches the regular expression",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Coveo String Operators/matches the regular expression",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

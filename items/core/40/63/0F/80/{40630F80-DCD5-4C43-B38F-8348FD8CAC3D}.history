@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{40630F80-DCD5-4C43-B38F-8348FD8CAC3D}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T19:36:18.0540403Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "License Details",
+    "itemPath": "/sitecore/content/Applications/Control Panel/Coveo Search/License Details",
+    "commandType": "Item",
+    "template": "Task option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

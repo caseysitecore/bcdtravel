@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{04D3C3C8-FF94-477A-BC2B-F17238CB239A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:45.9466089Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Item Template Is or Inherits from",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Items/Item Template Is or Inherits from",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

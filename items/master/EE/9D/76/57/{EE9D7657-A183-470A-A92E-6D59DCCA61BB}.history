@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EE9D7657-A183-470A-A92E-6D59DCCA61BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:19.5734271Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "SitecoreAnalyticsRestUri",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Analytics/SitecoreAnalyticsRestUri",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

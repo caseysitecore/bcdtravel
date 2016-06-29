@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6E5AEAF9-C7B7-45C8-9CFD-B21BC2A70FF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.9083642Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Submit",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Search Submit",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

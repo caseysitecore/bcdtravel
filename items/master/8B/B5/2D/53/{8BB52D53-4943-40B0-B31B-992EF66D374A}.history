@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8BB52D53-4943-40B0-B31B-992EF66D374A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.3313168Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Document Field",
+    "itemPath": "/sitecore/media library/Coveo/Page Events/Document Field",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

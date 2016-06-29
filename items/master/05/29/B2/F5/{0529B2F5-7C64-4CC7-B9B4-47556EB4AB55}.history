@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0529B2F5-7C64-4CC7-B9B4-47556EB4AB55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.0793714Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Sum",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Computed Field Operations/Sum",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

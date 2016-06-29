@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3DA06D50-9299-4E65-8FFE-9D955A968600}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:22.6606814Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderSeparator",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Appearance Settings/FacetSliderSeparator",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

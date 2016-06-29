@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3FF89995-7C50-4381-9A1D-A4B99A705527}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:39.3700637Z",
+    "label": "Created",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Facet Unexclusion",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Coveo/Facets/Facet Unexclusion",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

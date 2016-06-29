@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{4FE3A5EA-C07D-42DE-8509-0BAFFD857544}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.1890507Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Edit Coveo Search Properties",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Edit Coveo Search Properties",
+    "commandType": "Item",
+    "template": "WebEdit Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

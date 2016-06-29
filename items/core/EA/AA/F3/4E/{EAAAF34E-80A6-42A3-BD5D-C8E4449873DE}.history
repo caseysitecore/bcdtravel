@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{EAAAF34E-80A6-42A3-BD5D-C8E4449873DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.5012607Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Search Box Behavior Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Search Box Behavior Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

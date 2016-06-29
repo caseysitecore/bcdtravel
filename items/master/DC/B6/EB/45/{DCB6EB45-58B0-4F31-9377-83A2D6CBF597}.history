@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DCB6EB45-58B0-4F31-9377-83A2D6CBF597}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.2243834Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Less Precise (Fast)",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Facet Accuracy/Less Precise",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

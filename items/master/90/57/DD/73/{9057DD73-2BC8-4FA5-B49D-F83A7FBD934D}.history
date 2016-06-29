@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9057DD73-2BC8-4FA5-B49D-F83A7FBD934D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.9025377Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "DisplayTabs",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Layout/DisplayTabs",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

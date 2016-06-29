@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{352FD107-C51D-4DEF-AABC-753A0276E88C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.1654682Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "InfluenceBoostingToolTip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/InfluenceBoostingToolTip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

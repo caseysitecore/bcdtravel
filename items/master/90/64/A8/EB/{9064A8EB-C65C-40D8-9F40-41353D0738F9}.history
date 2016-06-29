@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9064A8EB-C65C-40D8-9F40-41353D0738F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.7645117Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Boosting",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Boosting",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

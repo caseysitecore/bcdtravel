@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{C6BA951A-DF1C-486C-ADA3-1FE15054E1C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:18.5262634Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Sort Field Picker",
+    "itemPath": "/sitecore/system/Field types/Coveo Types/Sort Field Picker",
+    "commandType": "Item",
+    "template": "Template field type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

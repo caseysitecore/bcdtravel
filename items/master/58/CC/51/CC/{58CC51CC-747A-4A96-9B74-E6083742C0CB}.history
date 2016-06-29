@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{58CC51CC-747A-4A96-9B74-E6083742C0CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.2953968Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ConditionMustHaveAValue",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/ConditionMustHaveAValue",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

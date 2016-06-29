@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AC886FA4-C381-40AC-8570-59DC36451382}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:43.5024065Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Date",
+    "itemPath": "/sitecore/system/Settings/Indexing and Search/Coveo/Sort Types/Date",
+    "commandType": "Item",
+    "template": "List Value Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

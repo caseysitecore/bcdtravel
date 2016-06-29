@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6F9B447B-5632-49DE-AE93-592ECBE4EFB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.1413833Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ComponentValidationError",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/ComponentValidationError",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

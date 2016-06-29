@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{81F008CC-39C6-4EDB-8D79-F1E9032350E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:17.9180295Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Cloud Admin",
+    "itemPath": "/sitecore/content/Applications/Control Panel/Coveo Search/Cloud Admin",
+    "commandType": "Item",
+    "template": "Task option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

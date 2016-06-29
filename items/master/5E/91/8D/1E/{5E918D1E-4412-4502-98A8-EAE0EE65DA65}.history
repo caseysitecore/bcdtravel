@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5E918D1E-4412-4502-98A8-EAE0EE65DA65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:46.9256902Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Fields",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Coveo Fields",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

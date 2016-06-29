@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CE48943F-FCD6-466F-AEF2-E390A9BA84A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:31.7404328Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "DominantKeysBoostingValueToolTip",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/DominantKeysBoostingValueToolTip",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

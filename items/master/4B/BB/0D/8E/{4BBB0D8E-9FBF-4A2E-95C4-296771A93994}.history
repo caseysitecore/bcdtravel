@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4BBB0D8E-9FBF-4A2E-95C4-296771A93994}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:20.4144964Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ExcerptLength",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Advanced/ExcerptLength",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

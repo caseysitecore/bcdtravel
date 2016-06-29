@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E6D03914-E47F-4F65-B047-F5716953ED52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:25.9719564Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "FacetSliderStart",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Range Settings/FacetSliderStart",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

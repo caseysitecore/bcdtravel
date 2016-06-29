@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6F2E0E4D-6B64-45FD-9C49-D06282D2EECC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:32.7995217Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "ResultListHeightGreaterThanZero",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/ResultListHeightGreaterThanZero",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

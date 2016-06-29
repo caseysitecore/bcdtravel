@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0F6AC8F1-B32F-475F-B836-2A79EDF685AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:30.1863045Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Page Events",
+    "itemPath": "/sitecore/media library/Coveo/Page Events",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C27128E5-3328-4D6E-B95F-3F9EAE44CD4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:45.7265898Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Coveo Items",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Items",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

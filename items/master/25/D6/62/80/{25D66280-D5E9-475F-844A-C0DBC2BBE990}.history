@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{25D66280-D5E9-475F-844A-C0DBC2BBE990}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:44.9585269Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Local Search Queries",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Coveo Conditional Renderings/Local Search Queries",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

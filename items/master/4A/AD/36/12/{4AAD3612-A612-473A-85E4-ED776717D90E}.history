@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{4AAD3612-A612-473A-85E4-ED776717D90E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:29.9962884Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "CoveoSearchMobile",
+    "itemPath": "/sitecore/media library/Coveo/CoveoSearchMobile",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

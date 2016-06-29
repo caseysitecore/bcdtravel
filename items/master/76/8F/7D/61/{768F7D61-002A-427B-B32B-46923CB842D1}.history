@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{768F7D61-002A-427B-B32B-46923CB842D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T19:36:33.3315658Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Casey",
+    "itemName": "Template",
+    "itemPath": "/sitecore/system/Dictionary/Coveo/Search Interface/Template",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

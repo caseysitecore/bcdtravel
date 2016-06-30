@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 28d00893-6278-47b7-8e99-407f846e7c01
+revision: ca5a8a7b-9dde-46ba-a847-79054febc030
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -54,10 +54,9 @@ content-length: 109
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 566
+content-length: 536
 
-<p>Welcome to the Launch Sitecore site. It is designed to help you evaluate Sitecore and understand the key concepts about the Sitecore architecture.  Sitecore is a platform to deliver business-specific content management solutions. The Sitecore platform enables customers to implement solutions that meet their needs without compromise.  Launch Sitecore is a site to help understand what those building blocks are and how to use them. It can also be using as an accelerator for proof of concepts or as a test bed for add on modules.</p>
-<p> This is new content.</p>
+<p>Welcome to the Launch Sitecore site. It is designed to help you evaluate Sitecore and understand the key concepts about the Sitecore architecture.  Sitecore is a platform to deliver business-specific content management solutions. The Sitecore platform enables customers to implement solutions that meet their needs without compromise.  Launch Sitecore is a site to help understand what those building blocks are and how to use them. It can also be used as an accelerator for proof of concepts or as a test bed for add on modules.</p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -99,21 +98,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-28d00893-6278-47b7-8e99-407f846e7c01
+ca5a8a7b-9dde-46ba-a847-79054febc030
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160630T191220Z
+20160630T160245Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

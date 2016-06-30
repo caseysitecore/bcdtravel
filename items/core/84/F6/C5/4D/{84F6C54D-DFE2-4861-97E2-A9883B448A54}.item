@@ -10,11 +10,60 @@ template: {4288C357-8017-47BC-827F-D69181CAAAA1}
 templatekey: Vault Report
 created: 20160630T193604:636029121641800000
 
+----field----
+field: {AEE5C6C6-CB2D-4645-AE50-8640E8ED293F}
+name: NavigateUrl
+key: navigateurl
+content-length: 158
+
+/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports?id={84F6C54D-DFE2-4861-97E2-A9883B448A54}&menuItemId={84F6C54D-DFE2-4861-97E2-A9883B448A54}
 ----version----
 language: en
 version: 1
-revision: dfc9c1c1-e03b-4b84-9b16-0ebb5cc1a3c3
+revision: af6831be-ccf7-4029-8c74-00cee9dc808e
 
+----field----
+field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
+name: Query
+key: query
+content-length: 139
+
+Timestamp BETWEEN "2016-05-31T04:00:00.000Z" AND "2016-07-01T03:59:59.000Z" AND (EventType != "Snapshot" AND ActiveUser = "sitecore\admin")
+----field----
+field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
+name: Filters
+key: filters
+content-length: 53
+
+EventType != "Snapshot"|ActiveUser = "sitecore\admin"
+----field----
+field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
+name: Start Date
+key: start date
+content-length: 15
+
+20160531T000000
+----field----
+field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
+name: End Date
+key: end date
+content-length: 7
+
+{today}
+----field----
+field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
+name: CombineEvents
+key: combineevents
+content-length: 1
+
+0
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 20
+
+Admin Changes Report
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -35,7 +84,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dfc9c1c1-e03b-4b84-9b16-0ebb5cc1a3c3
+af6831be-ccf7-4029-8c74-00cee9dc808e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

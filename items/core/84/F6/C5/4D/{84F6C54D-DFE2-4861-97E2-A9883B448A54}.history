@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{84F6C54D-DFE2-4861-97E2-A9883B448A54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:36:04.2176398Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Admin Changes Report",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Admin Changes Report",
+    "commandType": "Item",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

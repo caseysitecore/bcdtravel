@@ -303,7 +303,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 703184d9-b2b1-42e2-9a7d-74777f64e73f
+revision: d0d3c2a3-2d10-4a51-8ba0-63457360161a
 
 ----field----
 field: {AAEAC7F2-E33E-4B34-9023-AB6F59D3A427}
@@ -323,9 +323,9 @@ Clean, modern & responsive
 field: {764646D1-347E-419D-8B86-67457C73D905}
 name: Body
 key: body
-content-length: 624
+content-length: 627
 
-<p>Welcome to Launch Sitecore. This site is dedicated to your successful evaluation of the Sitecore Experience Platform.  This site will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features this platform offers.  From authoring content to workflow and publishing to creating personalized experiences, testing and analytics, this site will allow you to understand the building blocks that will power your content-driven digital marketing strategy into the future.</p>
+<p>Beinvenido to Launch Sitecore. This site is dedicated to your successful evaluation of the Sitecore Experience Platform.  This site will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features this platform offers.  From authoring content to workflow and publishing to creating personalized experiences, testing and analytics, this site will allow you to understand the building blocks that will power your content-driven digital marketing strategy into the future.</p>
 ----field----
 field: {918A64F3-3CE1-46FE-AFE0-7BDEAE9F6299}
 name: Call to Action Link
@@ -416,21 +416,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-703184d9-b2b1-42e2-9a7d-74777f64e73f
+d0d3c2a3-2d10-4a51-8ba0-63457360161a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160629T190442Z
+20160630T194221Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\Casey
+sitecore\admin
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

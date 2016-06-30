@@ -109,7 +109,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/The-Launch-Sitecore-Site",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": "a7c06d1f0d9867a05cab24d0eea7559c79af590d",
+    "sourceControlRevisionId": "526d19903734371c635b48dc0137fa8e61e1af8f",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": "master",
+    "itemId": "{46E75848-9D92-47E9-A5AA-40A64B689E4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:15:21.2043252Z",
+    "label": "Restored",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "The-Launch-Sitecore-Site",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/The-Launch-Sitecore-Site",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

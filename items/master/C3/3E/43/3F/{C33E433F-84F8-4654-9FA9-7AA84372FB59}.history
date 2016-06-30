@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C33E433F-84F8-4654-9FA9-7AA84372FB59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:28.1414375Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "menu-pull-down",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/menu-pull-down",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

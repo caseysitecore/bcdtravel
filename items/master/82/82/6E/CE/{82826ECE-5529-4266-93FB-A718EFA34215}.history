@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82826ECE-5529-4266-93FB-A718EFA34215}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:04.2844453Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Montana",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Montana",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

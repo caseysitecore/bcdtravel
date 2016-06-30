@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75CF4DCB-A7B9-4EF6-8B0B-803F285905E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:25.5052175Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "distribute-vertical-centers",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-vertical-centers",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E185D7A-2D66-4D71-8B0C-59E2A4633B48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.0409369Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Title Image and Body",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Article Title Image and Body",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

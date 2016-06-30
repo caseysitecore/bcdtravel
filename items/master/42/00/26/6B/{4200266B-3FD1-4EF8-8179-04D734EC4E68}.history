@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4200266B-3FD1-4EF8-8179-04D734EC4E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:08.2197477Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Age",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Age",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

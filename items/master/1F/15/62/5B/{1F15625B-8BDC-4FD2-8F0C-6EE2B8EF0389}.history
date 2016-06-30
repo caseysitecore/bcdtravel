@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F15625B-8BDC-4FD2-8F0C-6EE2B8EF0389}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:48.8931627Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Day of Week",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Week",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

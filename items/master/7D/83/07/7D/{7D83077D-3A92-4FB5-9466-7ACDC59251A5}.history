@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D83077D-3A92-4FB5-9466-7ACDC59251A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:21.7439045Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "align-top-edges",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-top-edges",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

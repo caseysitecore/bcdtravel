@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55D7E435-73BD-4492-B66E-FD42173055D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.1426821Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unpublished between",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Unpublished between",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

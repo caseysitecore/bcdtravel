@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55F734C4-657A-4D54-9E15-94FCFDD4E521}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:24.2020941Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trinidad and Tobago",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Trinidad and Tobago",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

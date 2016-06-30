@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5737F02-F120-4E33-B5A4-56D10F99D51F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:40.7554906Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Objective",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Winner Strategies/Test Objective",
+    "commandType": "Item",
+    "template": "Test Winner Strategy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

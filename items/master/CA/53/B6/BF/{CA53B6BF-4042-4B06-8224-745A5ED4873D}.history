@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA53B6BF-4042-4B06-8224-745A5ED4873D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:31.2386908Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "star-2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/star-2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

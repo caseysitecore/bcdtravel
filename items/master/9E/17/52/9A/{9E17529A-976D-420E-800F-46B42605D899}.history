@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E17529A-976D-420E-800F-46B42605D899}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.7988263Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "People",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

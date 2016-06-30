@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89E3D647-5F12-4C48-9C7C-C0C8C5433E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:44.5908099Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing & Search",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

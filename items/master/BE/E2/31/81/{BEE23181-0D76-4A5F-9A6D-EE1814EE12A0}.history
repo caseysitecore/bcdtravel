@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BEE23181-0D76-4A5F-9A6D-EE1814EE12A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:30.0735945Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "safe",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/safe",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

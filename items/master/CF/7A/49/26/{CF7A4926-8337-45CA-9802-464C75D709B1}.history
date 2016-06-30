@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF7A4926-8337-45CA-9802-464C75D709B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.6248140Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayout",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Sublayout",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

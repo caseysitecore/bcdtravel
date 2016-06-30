@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BE7D597-63AA-48F2-A8AE-C55695DE0B7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:18.7756616Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "tree line",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/tree line",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

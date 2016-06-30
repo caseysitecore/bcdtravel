@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFA807C4-4494-49CC-9ABC-5A04414767F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.2478702Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Tags",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

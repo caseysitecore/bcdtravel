@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{305C04EA-E324-43FA-9F49-55C4945C4936}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.1621076Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Widget",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Text Widget",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA482B3E-E840-4C58-8269-3D4AEACE0072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:25.5982250Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "document-remove",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/document-remove",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

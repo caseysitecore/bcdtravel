@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DF6DA21-E745-444C-956E-1D4A96AB8821}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:36.6001162Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

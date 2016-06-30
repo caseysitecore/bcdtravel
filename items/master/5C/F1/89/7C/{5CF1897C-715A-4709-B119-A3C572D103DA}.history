@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CF1897C-715A-4709-B119-A3C572D103DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.6018854Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "zoom-in-2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/zoom-in-2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

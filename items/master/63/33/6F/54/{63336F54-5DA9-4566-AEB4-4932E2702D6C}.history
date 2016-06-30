@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63336F54-5DA9-4566-AEB4-4932E2702D6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:06.7826544Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Referrers",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Has Referrers",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

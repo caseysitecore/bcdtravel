@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EF53D69-9CF1-41A6-AA24-6A0E430FB677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.0018498Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Carousel/Carousel",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

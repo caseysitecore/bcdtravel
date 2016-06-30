@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCEAF329-D74D-42E5-9023-452E08CDE246}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:01.3541939Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit language",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

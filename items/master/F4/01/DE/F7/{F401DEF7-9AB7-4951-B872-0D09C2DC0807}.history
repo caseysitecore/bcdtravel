@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F401DEF7-9AB7-4951-B872-0D09C2DC0807}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.2240206Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inverse Monochrome Logo",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Logos/Inverse Monochrome Logo",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

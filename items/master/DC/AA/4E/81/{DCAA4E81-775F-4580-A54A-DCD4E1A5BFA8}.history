@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCAA4E81-775F-4580-A54A-DCD4E1A5BFA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.1480144Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BCD-Travel-Logo",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Logos/BCD-Travel-Logo",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

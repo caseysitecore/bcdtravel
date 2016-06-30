@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7FDF8DA-BA96-42AE-B302-867E4CD25724}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:38.0192343Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

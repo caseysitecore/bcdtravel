@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F00879D5-A7B2-447A-BA18-5687465FFA2B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.7644135Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore User Interfaces",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

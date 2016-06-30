@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DA8EDE0-0485-4486-98BD-DE96E8B485F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:25.7922402Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "expand-2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/expand-2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

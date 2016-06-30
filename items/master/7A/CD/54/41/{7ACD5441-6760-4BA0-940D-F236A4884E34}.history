@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7ACD5441-6760-4BA0-940D-F236A4884E34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.3808677Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "wifi-full",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wifi-full",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

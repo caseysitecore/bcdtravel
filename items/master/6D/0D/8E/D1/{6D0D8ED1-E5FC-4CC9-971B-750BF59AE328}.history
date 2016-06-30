@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D0D8ED1-E5FC-4CC9-971B-750BF59AE328}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:26.4623130Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "fork",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/fork",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

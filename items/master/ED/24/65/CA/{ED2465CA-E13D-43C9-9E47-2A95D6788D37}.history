@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED2465CA-E13D-43C9-9E47-2A95D6788D37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:16.4224512Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Armenia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Armenia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

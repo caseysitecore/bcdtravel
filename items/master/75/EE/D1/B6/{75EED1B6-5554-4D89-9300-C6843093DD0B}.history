@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75EED1B6-5554-4D89-9300-C6843093DD0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:28.4314595Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "nib",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/nib",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

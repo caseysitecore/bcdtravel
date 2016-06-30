@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F3231A5-AE4E-4E02-A435-6B17C7E00A03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.8789932Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recent Workflow History",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Recent Workflow History",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

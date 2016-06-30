@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A34CC16-6E7B-4254-804A-5AEF0A3D9936}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.2490217Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purple",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Color/Purple",
+    "commandType": "Item",
+    "template": "Color",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

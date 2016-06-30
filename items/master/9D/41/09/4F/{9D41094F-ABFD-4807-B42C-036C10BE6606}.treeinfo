@@ -1,0 +1,9 @@
+{
+  "itemName": "Qualified Users",
+  "templateId": "{8CE2707A-3742-4A89-933B-065E5BE02BC9}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F46741E9-E9F6-4044-AE29-B762EF9A306B}",
+  "childIds": [
+    "{946337F1-C397-497D-87C3-F43F6DB886BE}"
+  ]
+}

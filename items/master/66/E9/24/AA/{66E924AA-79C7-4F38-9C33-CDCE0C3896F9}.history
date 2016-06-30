@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66E924AA-79C7-4F38-9C33-CDCE0C3896F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.4377813Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIp Postal Code",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/GeoIp Postal Code",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

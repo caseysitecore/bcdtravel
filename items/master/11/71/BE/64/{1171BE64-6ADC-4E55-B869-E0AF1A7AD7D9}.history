@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1171BE64-6ADC-4E55-B869-E0AF1A7AD7D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.4007033Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Selector",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameter Types/User Selector",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

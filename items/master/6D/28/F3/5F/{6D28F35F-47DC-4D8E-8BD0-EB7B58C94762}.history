@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D28F35F-47DC-4D8E-8BD0-EB7B58C94762}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:32.7378134Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "user-3",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-3",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

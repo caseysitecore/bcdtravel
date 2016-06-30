@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B59DDA9-868F-4758-AA48-98CA5CABE6CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:14.5862983Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ByDay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Goal Conversions/ByDay",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

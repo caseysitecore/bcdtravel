@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{114BBAB3-C73C-46AE-938B-79F4369D0EA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.4558741Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "wifi-mid",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wifi-mid",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

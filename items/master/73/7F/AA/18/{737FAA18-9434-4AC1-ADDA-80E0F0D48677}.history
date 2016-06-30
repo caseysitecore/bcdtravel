@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{737FAA18-9434-4AC1-ADDA-80E0F0D48677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:30.2326081Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "settings-2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/settings-2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

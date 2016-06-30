@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{339D3839-4805-4AF9-ACF9-DB6AE011B83F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.3849508Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Broken Links",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Broken Links",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

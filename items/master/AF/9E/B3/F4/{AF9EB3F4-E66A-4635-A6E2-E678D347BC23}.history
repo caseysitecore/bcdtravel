@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF9EB3F4-E66A-4635-A6E2-E678D347BC23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.8044973Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Set Editor",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Rule Set Editor",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

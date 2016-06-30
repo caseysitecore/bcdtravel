@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97843AB7-6111-470B-AA0F-A28A27824395}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:31.7717355Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "swatches",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/swatches",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

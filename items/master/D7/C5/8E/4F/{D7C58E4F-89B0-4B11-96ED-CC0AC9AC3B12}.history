@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7C58E4F-89B0-4B11-96ED-CC0AC9AC3B12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:32.3967973Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unclassified Organizations - Daily",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Value/Unclassified Organizations - Daily",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E12D5FD8-1296-466F-AC59-B808E47BF1E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:06.8406576Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log Filter",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Log Filter",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

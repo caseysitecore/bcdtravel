@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B503229-440D-4A36-A1F1-677992DDBEE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:43.6957114Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/templates/System/Experience Explorer",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

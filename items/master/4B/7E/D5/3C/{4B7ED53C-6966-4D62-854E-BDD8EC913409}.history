@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B7ED53C-6966-4D62-854E-BDD8EC913409}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.6905638Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lock",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Lock",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

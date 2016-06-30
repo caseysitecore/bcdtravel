@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED67F1E0-54F7-4080-B23E-5F38599DB18A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.4179536Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Broken Links in publishable items",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Broken Links in publishable items",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

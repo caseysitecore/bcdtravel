@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{945BEFCA-862E-471E-A6FE-3C68EBB99935}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.2207817Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Devices",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Devices",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

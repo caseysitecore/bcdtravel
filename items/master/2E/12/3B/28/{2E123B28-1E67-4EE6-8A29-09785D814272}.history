@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E123B28-1E67-4EE6-8A29-09785D814272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.9339126Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Man in Green 2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Green 2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

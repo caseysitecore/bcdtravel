@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52E72A2E-FDDB-435A-9416-12316D053AD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:27.3473467Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/templates/Branches/Launch Sitecore/Microsite/$name/Configuration",
+    "commandType": "Item",
+    "template": "Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

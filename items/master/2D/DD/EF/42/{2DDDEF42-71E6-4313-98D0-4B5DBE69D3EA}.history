@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DDDEF42-71E6-4313-98D0-4B5DBE69D3EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.0030009Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Surgeon in Blue",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Surgeon in Blue",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

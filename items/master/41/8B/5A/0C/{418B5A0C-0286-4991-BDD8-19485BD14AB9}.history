@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{418B5A0C-0286-4991-BDD8-19485BD14AB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.9028223Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Heading",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Login Heading",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

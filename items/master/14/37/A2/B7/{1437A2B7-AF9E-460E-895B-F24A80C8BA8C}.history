@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1437A2B7-AF9E-460E-895B-F24A80C8BA8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:49.8942545Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/RSS",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F8208D1-FE81-4CAA-9824-1AEE5D07EFBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:53.0255052Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Postal Code",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Postal Code",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

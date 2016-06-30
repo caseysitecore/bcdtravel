@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{575A25C8-5C6F-4530-A48F-F38E23E9DBD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:51.3353428Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Event Subscription",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan State/Data/Page Event Subscription",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

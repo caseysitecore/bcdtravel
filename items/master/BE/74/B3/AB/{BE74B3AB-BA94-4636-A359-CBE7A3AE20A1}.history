@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE74B3AB-BA94-4636-A359-CBE7A3AE20A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.4058840Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Navigation",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Navigation/Secondary Navigation",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

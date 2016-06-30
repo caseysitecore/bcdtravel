@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47189B32-137C-44DA-A0CA-73654F840F79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.2048452Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Persist Login",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels/Persist Login",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

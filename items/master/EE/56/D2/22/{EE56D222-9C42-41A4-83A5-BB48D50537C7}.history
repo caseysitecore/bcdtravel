@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE56D222-9C42-41A4-83A5-BB48D50537C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:57.5838912Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Visits",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

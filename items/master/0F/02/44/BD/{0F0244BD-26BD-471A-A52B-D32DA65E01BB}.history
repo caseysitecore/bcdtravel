@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F0244BD-26BD-471A-A52B-D32DA65E01BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:06.8886793Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "content-secondary",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Content/content-secondary",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

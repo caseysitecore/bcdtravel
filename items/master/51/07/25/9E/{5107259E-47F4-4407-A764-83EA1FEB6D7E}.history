@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5107259E-47F4-4407-A764-83EA1FEB6D7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.3089450Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Woman in Blue 2",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Blue 2",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

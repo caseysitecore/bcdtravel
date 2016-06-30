@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76CA87D4-D9DA-4EE2-AEEE-19F0D304F270}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.9273649Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tim-Gardner",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Tim-Gardner",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

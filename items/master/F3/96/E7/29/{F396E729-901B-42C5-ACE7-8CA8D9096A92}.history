@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F396E729-901B-42C5-ACE7-8CA8D9096A92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:21.2098612Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "table selection block",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/table selection block",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

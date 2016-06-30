@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57A86CEB-DED5-4FE8-91AA-5FFCB238D05C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.0077626Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sitecorelogo",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/sitecorelogo",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

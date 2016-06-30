@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DCB55D3-E8BA-45FA-ADA8-99579A8DA436}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.8672466Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "High Level",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Information Type/Pattern Cards/High Level",
+    "commandType": "Item",
+    "template": "Pattern Card",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

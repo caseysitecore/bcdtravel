@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39F88BFF-2B06-4BEE-859B-66C264AE3F6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:02.3622777Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Workflow State",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

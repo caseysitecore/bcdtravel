@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C52A04A-D5C0-4099-97DD-CCD5677FF21B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.6337220Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Field",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

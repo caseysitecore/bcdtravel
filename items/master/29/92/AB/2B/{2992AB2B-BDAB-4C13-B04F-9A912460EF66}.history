@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2992AB2B-BDAB-4C13-B04F-9A912460EF66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.1170115Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Worker in Overalls",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Worker in Overalls",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

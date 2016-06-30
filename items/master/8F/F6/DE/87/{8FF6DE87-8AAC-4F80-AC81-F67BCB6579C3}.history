@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FF6DE87-8AAC-4F80-AC81-F67BCB6579C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.4088628Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "My Favorites",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Links/My Favorites",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

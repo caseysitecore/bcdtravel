@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48409D56-0D69-446D-9CA8-D95104636A37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:47.5340209Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Google Button Parameters/Social/Application",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

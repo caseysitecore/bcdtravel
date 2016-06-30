@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31ADDF4F-F2AA-436A-A459-A3E1A7808471}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.1432834Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Building a large multinational multilingual site",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Building-a-large-multinational-multilingual-site",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

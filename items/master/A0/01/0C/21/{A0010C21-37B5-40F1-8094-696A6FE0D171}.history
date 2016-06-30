@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0010C21-37B5-40F1-8094-696A6FE0D171}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.3748838Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation Bar",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Navigation/Navigation Bar",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

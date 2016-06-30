@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D12EDB73-6273-413C-8328-D2F48982AFE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.6878868Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS Session Info No Profile Key Values",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/DMS Session Info No Profile Key Values",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

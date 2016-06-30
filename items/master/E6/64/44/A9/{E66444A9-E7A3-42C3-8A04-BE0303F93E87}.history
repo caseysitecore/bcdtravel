@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E66444A9-E7A3-42C3-8A04-BE0303F93E87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.4690404Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boxed",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Layout Style/Boxed",
+    "commandType": "Item",
+    "template": "Layout Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "marketingspot",
+  "templateId": "{F1828A2C-7E5D-4BBD-98CA-320474871548}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6FFFFAB9-C6F5-4656-AFE3-383A39626EE0}",
+  "childIds": [
+    "{0DBC62F8-303F-4AD5-AA07-21F6D5C8E4AA}"
+  ]
+}

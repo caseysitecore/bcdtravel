@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A8BB23-0725-4297-9BFC-97702C64F69F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.2059518Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Promo with No Image",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Promo with No Image",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

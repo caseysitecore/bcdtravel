@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC37BD58-4283-4329-8104-E5067C750BE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.4037179Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Term",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Template Overrides/Term",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

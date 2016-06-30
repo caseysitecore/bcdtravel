@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F6FBACC-C72C-4FC7-A704-69F711C82592}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.7989863Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pilot Modern",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Pilot Modern",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

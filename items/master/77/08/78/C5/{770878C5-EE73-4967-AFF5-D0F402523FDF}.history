@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{770878C5-EE73-4967-AFF5-D0F402523FDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:09.2538248Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Data/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

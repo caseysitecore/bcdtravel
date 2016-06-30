@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BA953EE-84AD-4753-870E-ABE82AF900C4}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:39.3993481Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button/Data/Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

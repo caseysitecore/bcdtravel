@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB6DD55D-75E3-4A02-9793-7054ED90FCB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:41.0335001Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Rules/Script",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

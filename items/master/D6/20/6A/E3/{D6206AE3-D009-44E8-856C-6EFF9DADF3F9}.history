@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6206AE3-D009-44E8-856C-6EFF9DADF3F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.9499289Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Abstract Box",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Abstract Box",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

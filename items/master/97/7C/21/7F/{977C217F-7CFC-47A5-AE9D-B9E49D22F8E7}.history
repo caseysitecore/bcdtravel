@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{977C217F-7CFC-47A5-AE9D-B9E49D22F8E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.9678301Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Usage",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Usage",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

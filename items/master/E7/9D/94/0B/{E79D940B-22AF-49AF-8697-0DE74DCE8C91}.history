@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E79D940B-22AF-49AF-8697-0DE74DCE8C91}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.5507914Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pending Lookup",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/Pending Lookup",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

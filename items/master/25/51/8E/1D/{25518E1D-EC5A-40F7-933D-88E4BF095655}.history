@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25518E1D-EC5A-40F7-933D-88E4BF095655}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.0751790Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network Architect",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Network Architect",
+    "commandType": "Item",
+    "template": "Profile Card - Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

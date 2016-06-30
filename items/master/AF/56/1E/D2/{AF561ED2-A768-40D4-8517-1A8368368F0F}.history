@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF561ED2-A768-40D4-8517-1A8368368F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.0609227Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LogViewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/LogViewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

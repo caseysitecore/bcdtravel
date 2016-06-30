@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4684940-196D-4314-8E53-12C0B05BD311}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.3394659Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Getting Started with Launch Sitecore",
+    "itemPath": "/sitecore/content/Global/Content/Promo Spots/Getting Started with Launch Sitecore",
+    "commandType": "Item",
+    "template": "Promo Spot",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

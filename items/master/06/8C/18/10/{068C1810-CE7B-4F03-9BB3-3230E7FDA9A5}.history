@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{068C1810-CE7B-4F03-9BB3-3230E7FDA9A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.7428990Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pawns",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC263BB1-711F-4E2E-83B9-E13B3D44BCB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.7364901Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalize in Content Editor",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Personalize in Content Editor",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

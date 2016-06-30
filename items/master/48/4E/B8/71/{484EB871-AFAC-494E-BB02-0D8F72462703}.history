@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{484EB871-AFAC-494E-BB02-0D8F72462703}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:39.1653590Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clicks To Pages By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Clicks To Pages By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

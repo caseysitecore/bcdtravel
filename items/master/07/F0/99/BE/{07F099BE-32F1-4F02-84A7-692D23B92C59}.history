@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07F099BE-32F1-4F02-84A7-692D23B92C59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:28.6684781Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "outgoing",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/outgoing",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

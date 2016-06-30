@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C45E9B5A-3161-41C0-ABDD-41ABC080971E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.3819507Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Woman in Green",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Green",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

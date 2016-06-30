@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0781C86C-671A-4056-968C-66C48130AED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:18.4346075Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alt Required",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Alt Required",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

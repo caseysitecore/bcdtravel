@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7AE94D04-1C5F-43C8-A748-5F413AA18ED4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:33.7068953Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Images",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

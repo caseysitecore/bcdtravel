@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0463E22A-00EF-4DD5-9DB6-6F4898982AAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:06.8096726Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Microsite",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Microsite",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

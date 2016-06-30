@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6C0A839-1621-4B57-A582-949782D89216}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:32.5448132Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages that Report Errors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Pages that Report Errors",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

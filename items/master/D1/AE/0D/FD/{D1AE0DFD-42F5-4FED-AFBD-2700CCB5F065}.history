@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1AE0DFD-42F5-4FED-AFBD-2700CCB5F065}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.6504964Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Documentation",
+    "itemPath": "/sitecore/content/Global/Settings/External Sites/Documentation",
+    "commandType": "Item",
+    "template": "External Site",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{614891D8-F5F2-4D8F-9A1E-5B3AEC0FF91E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:14.9703314Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Entry Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Entry Pages",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F386C96-DED5-4842-A969-5FE2AB6E1A46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:39.1443437Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Poll",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Poll",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

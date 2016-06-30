@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B2A2CB3-6DAD-4DA3-97CD-98A2CF1D087F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:24.6771473Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "compose-4",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compose-4",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39FFFE3E-5581-4CE0-BA9F-E155142DFD72}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:27.3133429Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/Launch Sitecore/Microsite/$name",
+    "commandType": "Item",
+    "template": "Microsite Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

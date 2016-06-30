@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34DFE48A-8B58-4E27-9199-E72A855D8237}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:21.9548982Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email Reports",
+    "itemPath": "/sitecore/system/Tasks/Commands/Email Reports",
+    "commandType": "Item",
+    "template": "Report Email Task",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F6FB150-D8D8-4D62-BCAE-9E58A71145BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.8890762Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Onsite Behavior",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior",
+    "commandType": "Item",
+    "template": "Accordion",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

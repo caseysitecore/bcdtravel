@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF5350C8-21BF-43A3-BCEF-71F29D91AEF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.7383346Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chris-Castle",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Chris-Castle",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

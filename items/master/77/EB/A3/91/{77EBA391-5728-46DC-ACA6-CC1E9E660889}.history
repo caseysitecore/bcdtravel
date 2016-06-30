@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77EBA391-5728-46DC-ACA6-CC1E9E660889}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.8364224Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Copyright",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

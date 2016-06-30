@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91A9C25B-0E67-4215-BBEC-2219CFBCD0D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:26.7973220Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "home-3",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/home-3",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

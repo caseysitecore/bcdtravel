@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88FBE2AD-1C44-40B4-A8B4-5E249650FB27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:31.6616803Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

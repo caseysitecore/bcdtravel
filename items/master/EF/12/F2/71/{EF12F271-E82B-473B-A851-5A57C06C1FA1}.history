@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF12F271-E82B-473B-A851-5A57C06C1FA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.6225567Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Delete",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Delete",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

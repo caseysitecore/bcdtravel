@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F551E1DE-6D6E-4B06-B85F-AA0B3697B8DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.2319546Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Promo with Thumbnail",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Promo with Thumbnail",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

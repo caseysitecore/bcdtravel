@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F20F3F12-7DC8-402B-ADC2-0A73C831A6C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.9175879Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "workflow",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Workflow/workflow",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

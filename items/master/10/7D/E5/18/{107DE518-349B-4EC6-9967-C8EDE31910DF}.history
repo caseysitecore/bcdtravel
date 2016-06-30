@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{107DE518-349B-4EC6-9967-C8EDE31910DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:57.8278805Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/ASR/Value",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

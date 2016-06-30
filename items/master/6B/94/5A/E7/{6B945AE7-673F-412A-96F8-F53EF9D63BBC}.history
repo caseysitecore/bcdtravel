@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B945AE7-673F-412A-96F8-F53EF9D63BBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:53.9535905Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By entry page URL",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By entry page URL",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

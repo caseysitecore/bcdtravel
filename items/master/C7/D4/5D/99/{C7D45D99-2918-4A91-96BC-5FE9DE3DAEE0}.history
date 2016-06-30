@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D45D99-2918-4A91-96BC-5FE9DE3DAEE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.1368612Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon and Title List for Query",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Icon and Title List for Query",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

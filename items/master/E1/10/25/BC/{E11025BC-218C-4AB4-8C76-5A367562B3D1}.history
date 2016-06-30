@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E11025BC-218C-4AB4-8C76-5A367562B3D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.5719667Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "White Pawn",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/White Pawn",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

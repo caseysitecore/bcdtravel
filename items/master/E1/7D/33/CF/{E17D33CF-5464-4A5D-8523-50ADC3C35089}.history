@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E17D33CF-5464-4A5D-8523-50ADC3C35089}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.9787513Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Verb",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

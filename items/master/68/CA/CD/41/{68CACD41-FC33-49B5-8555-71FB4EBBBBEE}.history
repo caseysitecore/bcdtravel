@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68CACD41-FC33-49B5-8555-71FB4EBBBBEE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:40.2334205Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tooltip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/Tooltip",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

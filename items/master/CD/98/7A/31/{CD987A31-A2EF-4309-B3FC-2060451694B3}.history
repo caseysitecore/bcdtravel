@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD987A31-A2EF-4309-B3FC-2060451694B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:57.4058787Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reports",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

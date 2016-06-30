@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC47BEA7-3514-4AE9-BA37-088D54B6DBE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:51.5003562Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher/Configuration",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0E849F4-55C8-4219-B21F-2C025F329F0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:23.8400775Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bullhorn",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bullhorn",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

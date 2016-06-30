@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E248CC4-62F6-4F47-9EF5-B84D204CF4BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.9774356Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu Color",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Colors/Menu Color",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

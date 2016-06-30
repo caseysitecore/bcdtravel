@@ -1,0 +1,9 @@
+{
+  "itemName": "Glossary Section",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CC56DB05-9426-4C1D-A180-E25449821D05}",
+  "childIds": [
+    "{A8C41EE8-D936-4BC4-B942-A28633295ED0}"
+  ]
+}

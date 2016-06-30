@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{096EA1E0-4159-46AD-923E-B06DD14E6439}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.4464681Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Tree",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture/Content Tree",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

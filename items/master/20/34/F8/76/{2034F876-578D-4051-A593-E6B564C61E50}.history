@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2034F876-578D-4051-A593-E6B564C61E50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.0779392Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Biography",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Biography",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

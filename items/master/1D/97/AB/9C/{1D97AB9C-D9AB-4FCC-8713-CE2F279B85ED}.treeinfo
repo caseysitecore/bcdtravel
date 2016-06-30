@@ -1,0 +1,10 @@
+{
+  "itemName": "Page Editor Message",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2BBCEAD6-0436-493D-8876-53D3DD9A90C9}",
+  "childIds": [
+    "{1C35547A-8CE6-4C3B-A690-4B3BFE23EECC}",
+    "{28E86407-B186-4302-AC8C-E60B5D96DDAA}"
+  ]
+}

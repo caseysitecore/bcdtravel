@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18E9AADC-A889-4758-8F11-EA77D1571727}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.0140019Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stale Workflow Items",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Stale Workflow Items",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

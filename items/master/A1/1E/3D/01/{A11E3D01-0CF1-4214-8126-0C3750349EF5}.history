@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A11E3D01-0CF1-4214-8126-0C3750349EF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.6239020Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Right Sidebar",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/Right Sidebar",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F07D197-CF56-4814-9345-C030DECE0FED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.1358462Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AuditPerItem",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/AuditPerItem",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

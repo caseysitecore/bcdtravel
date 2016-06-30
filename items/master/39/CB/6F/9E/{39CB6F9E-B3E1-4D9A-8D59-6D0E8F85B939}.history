@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39CB6F9E-B3E1-4D9A-8D59-6D0E8F85B939}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:27.0123407Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "intersect",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/intersect",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

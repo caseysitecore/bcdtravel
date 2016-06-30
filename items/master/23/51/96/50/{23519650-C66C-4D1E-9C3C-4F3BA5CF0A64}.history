@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23519650-C66C-4D1E-9C3C-4F3BA5CF0A64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:32.3137812Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "toggle-off",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/toggle-off",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

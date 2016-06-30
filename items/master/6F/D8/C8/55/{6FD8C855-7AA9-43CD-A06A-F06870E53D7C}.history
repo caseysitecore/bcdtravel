@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FD8C855-7AA9-43CD-A06A-F06870E53D7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.6673266Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brandon-Royal",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Brandon-Royal",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

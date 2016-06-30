@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B51248-E0E6-483E-9405-45E72A4B8584}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:13.4661958Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

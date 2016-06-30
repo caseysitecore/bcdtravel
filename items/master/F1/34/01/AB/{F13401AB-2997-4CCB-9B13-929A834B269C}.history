@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F13401AB-2997-4CCB-9B13-929A834B269C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:09.8918782Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Class/Data/Display class",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

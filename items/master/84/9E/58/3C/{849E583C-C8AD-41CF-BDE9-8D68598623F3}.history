@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{849E583C-C8AD-41CF-BDE9-8D68598623F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.8289035Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alias",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/Alias",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

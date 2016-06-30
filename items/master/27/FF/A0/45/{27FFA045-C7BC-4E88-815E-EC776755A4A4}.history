@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27FFA045-C7BC-4E88-815E-EC776755A4A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:15.2033482Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined items",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

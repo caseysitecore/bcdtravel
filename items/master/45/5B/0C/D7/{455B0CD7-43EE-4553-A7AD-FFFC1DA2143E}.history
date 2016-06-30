@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{455B0CD7-43EE-4553-A7AD-FFFC1DA2143E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.3985513Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error Page",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Error Page",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

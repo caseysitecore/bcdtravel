@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A98ABCD-B422-44A7-A920-74346CECB767}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.3148567Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Learn More",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Links/Learn More",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

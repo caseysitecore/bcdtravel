@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18A68A88-F1B0-4FA1-9C93-6182B366616B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:48.2781227Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SMS automation",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation programs/SMS automation",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB130771-65E6-47D9-ACA1-FEBF2D6B2AED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:01.5211898Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Duration",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Test Duration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9D9890A-415E-4EDA-84B7-C47B09A78414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.5713216Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create an AB Test",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Create-an-AB-Test",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

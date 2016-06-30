@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C52B6B9A-DE01-420E-BDCC-856744A2F61F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.1344420Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assembly Setting",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a Custom Sorting Routine for Content/Assembly Setting",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

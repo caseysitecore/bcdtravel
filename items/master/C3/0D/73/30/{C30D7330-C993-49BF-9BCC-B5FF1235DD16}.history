@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C30D7330-C993-49BF-9BCC-B5FF1235DD16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.2693763Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation-Details",
+    "itemPath": "/sitecore/content/Home/Glossary/Presentation-Details",
+    "commandType": "Item",
+    "template": "Term",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

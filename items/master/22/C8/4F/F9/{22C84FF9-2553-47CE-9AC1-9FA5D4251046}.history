@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C84FF9-2553-47CE-9AC1-9FA5D4251046}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.9445077Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "clones3",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional/clones3",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

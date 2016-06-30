@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A38B34F9-9E74-4640-BEC7-F7AB69387786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.3758687Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "My Owned Items",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/My Owned Items",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

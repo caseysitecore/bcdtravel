@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3A8E92-270D-46AA-8DD6-A4188F903ADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:52.2554500Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Sitecore",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Launch Sitecore",
+    "commandType": "Item",
+    "template": "Goal Category",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

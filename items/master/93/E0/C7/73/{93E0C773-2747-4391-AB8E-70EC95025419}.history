@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93E0C773-2747-4391-AB8E-70EC95025419}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:34.6679573Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zone",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Zone",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

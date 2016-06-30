@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8E40633-21D3-4BF5-8655-D3C7EA4D786C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:02.3362863Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Marketer",
+    "commandType": "Item",
+    "template": "Preset",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

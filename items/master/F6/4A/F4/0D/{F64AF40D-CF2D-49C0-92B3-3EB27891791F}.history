@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F64AF40D-CF2D-49C0-92B3-3EB27891791F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.6574082Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Presentation",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

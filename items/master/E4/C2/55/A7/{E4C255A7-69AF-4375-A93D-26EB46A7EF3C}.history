@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4C255A7-69AF-4375-A93D-26EB46A7EF3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.1705339Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Root",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Site Root/Site Root",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C1B5EC5-03E2-4FE7-A294-5E2D63F501FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.4461222Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "one three one",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one three one",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

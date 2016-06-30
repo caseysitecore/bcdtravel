@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCAF9154-7C0B-4640-8704-5899A25963B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.5998102Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard Values",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Standard Values",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

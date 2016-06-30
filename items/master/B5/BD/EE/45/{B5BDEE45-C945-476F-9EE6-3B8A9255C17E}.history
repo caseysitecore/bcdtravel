@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5BDEE45-C945-476F-9EE6-3B8A9255C17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:00.6841470Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Persona",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

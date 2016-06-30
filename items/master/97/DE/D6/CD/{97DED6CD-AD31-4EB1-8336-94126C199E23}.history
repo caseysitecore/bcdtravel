@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97DED6CD-AD31-4EB1-8336-94126C199E23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:02.7683077Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Page Level Test Definition/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Level Test Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

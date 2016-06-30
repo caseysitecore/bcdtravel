@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{918A64F3-3CE1-46FE-AFE0-7BDEAE9F6299}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:06.3516313Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action Link",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Home/Home/Call to Action Link",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

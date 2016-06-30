@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{469E570C-5FC3-48F2-9E33-8DC31246377C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:17.7035462Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Email",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Email",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DF0937C-9DFB-4D7E-8334-F0BE97A224E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.0957700Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vancouver",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/Vancouver",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

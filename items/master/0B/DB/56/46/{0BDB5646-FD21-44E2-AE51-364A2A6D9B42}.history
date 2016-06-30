@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BDB5646-FD21-44E2-AE51-364A2A6D9B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:16.1004234Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Algeria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Algeria",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

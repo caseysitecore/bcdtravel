@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:07.3957185Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Body",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/Main/Body",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

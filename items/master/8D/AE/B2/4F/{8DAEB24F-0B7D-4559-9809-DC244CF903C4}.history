@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DAEB24F-0B7D-4559-9809-DC244CF903C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.9980844Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Promo with Image",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Promo with Image",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

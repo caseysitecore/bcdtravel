@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2EAFCF3-A40F-4E7B-BF9A-80CC6384457D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.5067871Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/Pages",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

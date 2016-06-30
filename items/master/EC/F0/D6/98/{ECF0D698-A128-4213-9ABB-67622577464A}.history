@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECF0D698-A128-4213-9ABB-67622577464A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:07.2117023Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Base Templates/Site Section/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

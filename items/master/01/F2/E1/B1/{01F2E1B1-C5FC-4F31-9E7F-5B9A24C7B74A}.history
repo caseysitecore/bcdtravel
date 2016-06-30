@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01F2E1B1-C5FC-4F31-9E7F-5B9A24C7B74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.7328902Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email is Not Valid",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Email is Not Valid",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

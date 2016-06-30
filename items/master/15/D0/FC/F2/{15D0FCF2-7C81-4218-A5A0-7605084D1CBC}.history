@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15D0FCF2-7C81-4218-A5A0-7605084D1CBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.8482583Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Our-Strategy",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy",
+    "commandType": "Item",
+    "template": "Article Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

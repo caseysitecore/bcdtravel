@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37CCB1DC-8004-4FCF-BD9E-B4EB322A4345}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.3710329Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gray",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Color/Gray",
+    "commandType": "Item",
+    "template": "Color",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

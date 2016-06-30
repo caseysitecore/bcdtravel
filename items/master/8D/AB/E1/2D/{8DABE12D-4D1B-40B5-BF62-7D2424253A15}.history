@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DABE12D-4D1B-40B5-BF62-7D2424253A15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.4492287Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thought-Leaders",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders",
+    "commandType": "Item",
+    "template": "Team Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

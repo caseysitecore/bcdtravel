@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85E0B34E-3DBD-4991-882A-FAC8445712F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.3407131Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Template Overrides/Home",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

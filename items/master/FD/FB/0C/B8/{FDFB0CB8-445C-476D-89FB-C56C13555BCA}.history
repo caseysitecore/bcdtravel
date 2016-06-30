@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDFB0CB8-445C-476D-89FB-C56C13555BCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:51.5693924Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PR events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/PR/PR events",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

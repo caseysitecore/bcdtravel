@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{748DF8F7-09E4-4A34-8CE3-6908C5E9BD11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:02.0632306Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Behaviors/Behavior/__Standard Values",
+    "commandType": "Item",
+    "template": "Behavior",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

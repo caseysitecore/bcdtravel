@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{344B6AE4-99ED-4545-A306-7ECAFA1C166D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:15.0113326Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Goal Conversions",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Goal Conversions",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F78528A3-926E-48DA-A288-09EB0E81175E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.6830578Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Secure/Login",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91E1A271-4A2E-4A17-B2BE-CF1061A16D12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:44.3617809Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Packages",
+    "itemPath": "/sitecore/templates/System/Packages",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

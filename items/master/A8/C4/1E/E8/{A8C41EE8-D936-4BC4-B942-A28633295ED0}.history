@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8C41EE8-D936-4BC4-B942-A28633295ED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:07.6647397Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Site Sections/Glossary Section/__Standard Values",
+    "commandType": "Item",
+    "template": "Glossary Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

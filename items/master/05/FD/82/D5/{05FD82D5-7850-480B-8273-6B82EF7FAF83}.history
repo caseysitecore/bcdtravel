@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05FD82D5-7850-480B-8273-6B82EF7FAF83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:01.8822183Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Strategy/Test Variable Strategy Script/References",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6452983-D1BA-49E6-AFFE-92BEE2C184B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:05.6735321Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action/Tests",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

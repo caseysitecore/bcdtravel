@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9D22899-C137-4B62-86FA-3400E0AD3861}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.2738590Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locked Items",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/Locked Items",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

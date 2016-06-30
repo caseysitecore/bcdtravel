@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4601152C-B68D-4A27-AF0B-938F97194746}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.5708826Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recently Modified",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/Recently Modified",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

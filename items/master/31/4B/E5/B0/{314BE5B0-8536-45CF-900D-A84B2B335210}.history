@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{314BE5B0-8536-45CF-900D-A84B2B335210}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:00.5461050Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Strategy",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Strategy",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

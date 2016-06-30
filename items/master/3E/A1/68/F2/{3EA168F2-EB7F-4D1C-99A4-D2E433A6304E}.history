@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EA168F2-EB7F-4D1C-99A4-D2E433A6304E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.7008103Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Login",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

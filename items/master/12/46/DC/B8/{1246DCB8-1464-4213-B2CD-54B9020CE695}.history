@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1246DCB8-1464-4213-B2CD-54B9020CE695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.1714516Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Learn the Terms",
+    "itemPath": "/sitecore/content/Global/Content/Carousel Items/Developer Carousel/Learn the Terms",
+    "commandType": "Item",
+    "template": "Carousel Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F11AAD6-9978-4CD0-BF8E-792AFE3F9A49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.4064648Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "language_wizard",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages/language_wizard",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

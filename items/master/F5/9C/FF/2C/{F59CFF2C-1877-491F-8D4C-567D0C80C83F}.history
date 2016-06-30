@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F59CFF2C-1877-491F-8D4C-567D0C80C83F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.7328126Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Logout",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

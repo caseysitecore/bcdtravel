@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EA97F1D-0685-4637-9D3D-D4F289BA7950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.2782941Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Presentation",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/What-is-Presentation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

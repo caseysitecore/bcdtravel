@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{483E37BD-D36E-4E7D-86FC-D4D23B3E1965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:02.8533268Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Prospect",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification/Prospect",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

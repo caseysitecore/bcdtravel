@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B4E05D8-31D0-4323-BBFF-69BD82092264}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.8747500Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mountains",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/Mountains",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

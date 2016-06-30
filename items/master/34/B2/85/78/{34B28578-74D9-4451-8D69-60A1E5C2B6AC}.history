@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34B28578-74D9-4451-8D69-60A1E5C2B6AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.7628157Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recycle item",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Recycle item",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

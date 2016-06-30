@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78AF4416-38F9-4066-BB53-779DE548014B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.2176961Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chris Castle",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Chris Castle",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

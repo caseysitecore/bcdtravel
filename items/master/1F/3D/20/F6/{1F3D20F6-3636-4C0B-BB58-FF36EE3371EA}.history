@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F3D20F6-3636-4C0B-BB58-FF36EE3371EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:30.0165736Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session Begin/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

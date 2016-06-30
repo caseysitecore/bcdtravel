@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FF6A10E-9797-4797-A905-1DB655A7618C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.4310356Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blue Black",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Color/Blue Black",
+    "commandType": "Item",
+    "template": "Color",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56F8E5CD-FC68-4DD7-9D69-083D9BD86A7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.5644775Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Rules",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Create Rules",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

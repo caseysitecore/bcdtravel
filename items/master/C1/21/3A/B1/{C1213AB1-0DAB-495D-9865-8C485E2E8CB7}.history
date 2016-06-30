@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1213AB1-0DAB-495D-9865-8C485E2E8CB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.2054470Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "newsletter_goal",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/newsletter_goal",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

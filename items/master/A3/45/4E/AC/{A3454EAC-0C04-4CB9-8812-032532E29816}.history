@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3454EAC-0C04-4CB9-8812-032532E29816}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:20.9037894Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering/Editor Options/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

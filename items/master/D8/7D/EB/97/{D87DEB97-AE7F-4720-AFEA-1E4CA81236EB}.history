@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D87DEB97-AE7F-4720-AFEA-1E4CA81236EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.7492498Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Developers",
+    "itemPath": "/sitecore/content/Home/Audience/Developers",
+    "commandType": "Item",
+    "template": "Audience Segment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

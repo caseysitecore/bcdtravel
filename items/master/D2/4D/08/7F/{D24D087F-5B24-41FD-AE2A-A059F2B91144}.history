@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D24D087F-5B24-41FD-AE2A-A059F2B91144}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.4707925Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Descendants",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Search/Descendants",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

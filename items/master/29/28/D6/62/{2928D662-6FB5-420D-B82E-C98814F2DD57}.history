@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2928D662-6FB5-420D-B82E-C98814F2DD57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.4695540Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connie Rule",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Connie Rule",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

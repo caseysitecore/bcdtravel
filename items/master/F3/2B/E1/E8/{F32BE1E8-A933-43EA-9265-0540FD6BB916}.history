@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:40.8614874Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Toolbox",
+    "itemPath": "/sitecore/system/Toolbox",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

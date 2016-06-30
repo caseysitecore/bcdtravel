@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC58A8E7-B0E3-4965-A402-16C571A51933}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.2243695Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Backgrounds",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

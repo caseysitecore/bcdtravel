@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EB3AA94-F6F1-4908-ADE3-4E474221BDD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:50.8243318Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Telemarketing",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Telemarketing",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

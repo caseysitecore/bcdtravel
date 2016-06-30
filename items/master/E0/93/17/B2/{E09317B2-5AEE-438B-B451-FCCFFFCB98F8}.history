@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E09317B2-5AEE-438B-B451-FCCFFFCB98F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.5279613Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items with Security for an account",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Items with Security for an account",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

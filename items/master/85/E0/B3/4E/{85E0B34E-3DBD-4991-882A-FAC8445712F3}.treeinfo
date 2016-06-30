@@ -1,0 +1,9 @@
+{
+  "itemName": "Home",
+  "templateId": "{C3B037A0-46E5-4B67-AC7A-A144B962A56F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B6FC740A-3F94-4790-8679-1C6193DAB9CB}",
+  "childIds": [
+    "{CEE47EBD-FA89-499B-B5ED-C5148FF0D6BE}"
+  ]
+}

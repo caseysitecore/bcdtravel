@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B437187B-9B55-475A-B4DA-35E34E3BE410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:02.9883557Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Quotation/__Standard Values",
+    "commandType": "Item",
+    "template": "Quotation",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

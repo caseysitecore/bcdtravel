@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9D12CE1-6CC8-4292-9674-EFF5EF3908F4}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:40.3844581Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing Clusters By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/Testing Clusters By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

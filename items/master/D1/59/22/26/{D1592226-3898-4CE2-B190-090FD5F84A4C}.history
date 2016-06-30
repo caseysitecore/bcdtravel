@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1592226-3898-4CE2-B190-090FD5F84A4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:24.0440510Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering Options",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

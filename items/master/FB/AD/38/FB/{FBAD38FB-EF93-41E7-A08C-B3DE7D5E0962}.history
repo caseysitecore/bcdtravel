@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBAD38FB-EF93-41E7-A08C-B3DE7D5E0962}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.0855114Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wisconsin",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Wisconsin",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

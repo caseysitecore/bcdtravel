@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF41CA3B-9919-4001-9BBC-2244FAB78E9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.4807870Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/Goals",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

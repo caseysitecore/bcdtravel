@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A0B6C13-EFC8-4A00-8A6A-B709A89B1E11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:48.5891471Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter display",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display/Twitter display",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0CABA4C-EE68-4215-AD07-8DA7D9EC54E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.4337267Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "contributor-content-primary",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Template Overrides/Contributor/contributor-content-primary",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

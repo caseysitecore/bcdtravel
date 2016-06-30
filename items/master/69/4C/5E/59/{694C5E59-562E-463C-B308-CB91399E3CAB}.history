@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{694C5E59-562E-463C-B308-CB91399E3CAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.0598568Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Articles By Contributor",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Articles By Contributor",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

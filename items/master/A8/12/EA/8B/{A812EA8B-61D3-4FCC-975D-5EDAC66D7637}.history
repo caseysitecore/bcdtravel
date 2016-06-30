@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A812EA8B-61D3-4FCC-975D-5EDAC66D7637}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.8928362Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "document edit",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/document edit",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

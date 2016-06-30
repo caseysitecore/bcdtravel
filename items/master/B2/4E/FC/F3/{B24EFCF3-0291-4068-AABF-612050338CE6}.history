@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B24EFCF3-0291-4068-AABF-612050338CE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.6545590Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kick",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Kick",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

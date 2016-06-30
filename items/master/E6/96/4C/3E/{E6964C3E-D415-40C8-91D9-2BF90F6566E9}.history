@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6964C3E-D415-40C8-91D9-2BF90F6566E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.4455569Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Page",
+    "itemPath": "/sitecore/templates/Launch Sitecore/General Page",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

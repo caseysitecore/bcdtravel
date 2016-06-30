@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FE97449-F425-4789-AB93-C246BFA1749B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:59.5620274Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Columns",
+    "itemPath": "/sitecore/templates/System/ASR/Viewer/Viewer/Columns",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

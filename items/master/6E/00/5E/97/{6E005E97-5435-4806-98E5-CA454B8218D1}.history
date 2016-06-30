@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E005E97-5435-4806-98E5-CA454B8218D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:07.5547305Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Team Section",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Site Sections/Team Section",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

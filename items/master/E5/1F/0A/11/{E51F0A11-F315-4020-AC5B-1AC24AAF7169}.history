@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E51F0A11-F315-4020-AC5B-1AC24AAF7169}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:02.9093509Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Promo Spot/General/Image",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

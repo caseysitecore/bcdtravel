@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CC4F982-B89D-44B5-B74E-46DAF1AE6148}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:18.5916435Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "piano",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/piano",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

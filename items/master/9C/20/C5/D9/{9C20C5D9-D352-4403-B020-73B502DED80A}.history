@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C20C5D9-D352-4403-B020-73B502DED80A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:18.0836027Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "chain",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/chain",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

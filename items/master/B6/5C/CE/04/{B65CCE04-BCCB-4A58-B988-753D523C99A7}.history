@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B65CCE04-BCCB-4A58-B988-753D523C99A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.3625510Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Audience Segment",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Audience Segment",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

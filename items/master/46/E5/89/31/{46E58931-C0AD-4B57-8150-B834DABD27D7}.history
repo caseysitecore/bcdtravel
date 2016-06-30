@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46E58931-C0AD-4B57-8150-B834DABD27D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.4719611Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Green Pawn",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Green Pawn",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78CF88BA-6957-4366-8368-12F3CED0184F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:31.1386582Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Template",
+    "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE1DFD0A-3A38-4786-89C9-6BA7993D9CBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:21.0468360Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Martinique",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Martinique",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

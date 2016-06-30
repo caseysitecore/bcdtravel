@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B3FE22D-1DC9-4CC4-9665-1A3F2DDD6732}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:02.3732868Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Filters",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

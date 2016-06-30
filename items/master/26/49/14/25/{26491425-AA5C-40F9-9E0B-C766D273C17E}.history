@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26491425-AA5C-40F9-9E0B-C766D273C17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:46.6019451Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/Application",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

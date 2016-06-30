@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDBE5D4D-97C1-4E16-BAA5-E45981FE573F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.0934443Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Building a Site",
+    "itemPath": "/sitecore/content/Global/Content/Carousel Items/Developer Carousel/Building a Site",
+    "commandType": "Item",
+    "template": "Carousel Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

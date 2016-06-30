@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A00D97A-E3A8-4011-B519-FEB70E80EA54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:53.2555230Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Adjust Boost",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search/Adjust Boost",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

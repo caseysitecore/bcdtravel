@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{731E311E-754C-48B4-ABEA-955ADA660C52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.9399980Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Policeman USA",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Policeman USA",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

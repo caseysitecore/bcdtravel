@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B7E58C0-2663-4198-B99A-C56A5FBAFE53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.3657002Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameter Types/Text",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2FD8EB3-41B2-4CD9-816B-C8F515980C7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:23.0819867Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open Properties after Add",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Editor Options/Open Properties after Add",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

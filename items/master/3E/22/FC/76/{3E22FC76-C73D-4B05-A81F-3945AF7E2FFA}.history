@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E22FC76-C73D-4B05-A81F-3945AF7E2FFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:18.0165964Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bridge",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/bridge",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

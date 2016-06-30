@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B40929DE-9ED0-4AF6-813D-7B9BFCB95134}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.5845622Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Content",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Profile Content",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

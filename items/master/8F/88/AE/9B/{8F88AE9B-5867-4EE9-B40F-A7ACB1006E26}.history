@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F88AE9B-5867-4EE9-B40F-A7ACB1006E26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.7628389Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monochrome",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

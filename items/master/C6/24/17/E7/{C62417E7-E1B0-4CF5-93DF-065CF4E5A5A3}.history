@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C62417E7-E1B0-4CF5-93DF-065CF4E5A5A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.4087799Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIp Location",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/GeoIp Location",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

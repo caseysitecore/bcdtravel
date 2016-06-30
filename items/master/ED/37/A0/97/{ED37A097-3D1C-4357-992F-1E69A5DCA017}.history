@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED37A097-3D1C-4357-992F-1E69A5DCA017}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.6388057Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert rules",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Insert rules",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

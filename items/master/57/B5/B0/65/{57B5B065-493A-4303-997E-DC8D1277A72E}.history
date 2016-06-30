@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:45.6528650Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/templates/System/Social/Connector",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F37A576-12E9-460D-BCE7-4EA47DA9EC6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:05.3215020Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Launch Create Test Dialog Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Launch Create Test Dialog Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

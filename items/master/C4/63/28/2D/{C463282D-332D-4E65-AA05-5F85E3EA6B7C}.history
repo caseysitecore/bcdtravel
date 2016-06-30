@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C463282D-332D-4E65-AA05-5F85E3EA6B7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.3529489Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Audit",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Audit",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

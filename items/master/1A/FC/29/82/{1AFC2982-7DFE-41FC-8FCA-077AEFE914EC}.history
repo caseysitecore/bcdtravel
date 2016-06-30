@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1AFC2982-7DFE-41FC-8FCA-077AEFE914EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:28.9034723Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Xsl Rendering",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Xsl Rendering/__Xsl Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

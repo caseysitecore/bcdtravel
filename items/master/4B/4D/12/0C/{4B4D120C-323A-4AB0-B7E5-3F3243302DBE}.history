@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B4D120C-323A-4AB0-B7E5-3F3243302DBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:51.0703211Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan Condition/Rules",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

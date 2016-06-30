@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8190B4FA-9A46-465A-B5B9-48E9A0207E00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.6394006Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Information Architecture",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

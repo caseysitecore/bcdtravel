@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CDE80C5-B23B-44EC-907A-03232C182978}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.0719253Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Man in Suit",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Suit",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3600A74D-E5F3-413F-A834-016C7A4B126E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:07.0477050Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Base Templates/General Fields/General",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

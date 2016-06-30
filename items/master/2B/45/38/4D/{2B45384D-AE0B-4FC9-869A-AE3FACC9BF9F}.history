@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B45384D-AE0B-4FC9-869A-AE3FACC9BF9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.9535844Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has invalid name",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Has invalid name",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

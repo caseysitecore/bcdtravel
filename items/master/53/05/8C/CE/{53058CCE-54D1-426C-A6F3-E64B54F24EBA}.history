@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53058CCE-54D1-426C-A6F3-E64B54F24EBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.6669054Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One Four One",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Four One",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

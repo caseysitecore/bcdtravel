@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35A4BB67-B0E2-4BB5-A962-648CD8C0C45C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:40.2074325Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone Landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Windows Phone Landscape",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

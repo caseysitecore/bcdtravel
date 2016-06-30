@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9F08988-6488-4D19-8C92-EB4C7AEB14E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:34.3609502Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Name",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Site Map Group/Data/Site Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

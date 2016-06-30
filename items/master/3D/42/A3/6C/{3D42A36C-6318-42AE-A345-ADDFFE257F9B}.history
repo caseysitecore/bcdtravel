@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D42A36C-6318-42AE-A345-ADDFFE257F9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:12.5721473Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/HD TV/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AD015CB-E1A7-4CD7-BFBB-F8B50AB1FC8C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:27.0062956Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

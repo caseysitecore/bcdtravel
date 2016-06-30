@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DFBF335C-FE2A-477D-908D-F518BE7B2DBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:36.5091490Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slider",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Slider",
+    "commandType": "Item",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

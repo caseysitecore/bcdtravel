@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B13A9B0-AD82-4222-A002-39CFCDC95EB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.8343419Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matt-Goodman",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Matt-Goodman",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

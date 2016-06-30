@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48B4F35B-BB71-46C5-A49F-33C74E6A42CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:18.2796178Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "dandeliion",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/dandeliion",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

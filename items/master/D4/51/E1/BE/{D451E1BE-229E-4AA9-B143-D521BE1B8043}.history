@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D451E1BE-229E-4AA9-B143-D521BE1B8043}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.4624749Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TDS Makes a Developers Life Easier",
+    "itemPath": "/sitecore/content/Global/Content/Quotations/TDS Makes a Developers Life Easier",
+    "commandType": "Item",
+    "template": "Quotation",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

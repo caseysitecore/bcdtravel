@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46C98287-C050-428B-ADAE-0A79EBD10BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:30.2025890Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Engine - Organic Branded",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Search Engine - Organic Branded",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

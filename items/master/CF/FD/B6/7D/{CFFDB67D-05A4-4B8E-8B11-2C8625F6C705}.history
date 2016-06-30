@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFFDB67D-05A4-4B8E-8B11-2C8625F6C705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.5884845Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Queries",
+    "itemPath": "/sitecore/content/Global/Settings/Queries",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

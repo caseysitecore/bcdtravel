@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4AF5ADF2-F0EF-4F39-9EAF-AADADED0025B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.6908189Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workbox",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Workbox",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50DE289A-6273-4B6B-93E4-86BC27D03476}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.7454156Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Items",
+    "itemPath": "/sitecore/content/Global/Content/Carousel Items",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

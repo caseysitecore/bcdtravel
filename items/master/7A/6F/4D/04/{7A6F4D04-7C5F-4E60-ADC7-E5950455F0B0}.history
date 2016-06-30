@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A6F4D04-7C5F-4E60-ADC7-E5950455F0B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.5483923Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Creating a List Control",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating a List Control",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

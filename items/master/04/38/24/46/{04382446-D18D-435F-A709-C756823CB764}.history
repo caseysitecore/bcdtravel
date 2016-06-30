@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04382446-D18D-435F-A709-C756823CB764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:33.4808307Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Map Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Map Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

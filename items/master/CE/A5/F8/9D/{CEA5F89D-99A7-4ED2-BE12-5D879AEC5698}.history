@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CEA5F89D-99A7-4ED2-BE12-5D879AEC5698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:59.0289816Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Active",
+    "itemPath": "/sitecore/templates/System/ASR/Report Email Task/Report Email/Active",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

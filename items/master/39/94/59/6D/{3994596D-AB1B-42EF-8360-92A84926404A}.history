@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3994596D-AB1B-42EF-8360-92A84926404A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:28.0664139Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Percentage",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

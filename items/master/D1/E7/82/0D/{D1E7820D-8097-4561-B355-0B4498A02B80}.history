@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1E7820D-8097-4561-B355-0B4498A02B80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.1909341Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SessionsViewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/SessionsViewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

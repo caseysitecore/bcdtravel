@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40AC2D94-D9D5-4907-8B3A-346A9DC8BD35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:46.3429396Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager",
+    "itemPath": "/sitecore/system/Marketing Control Panel/FXM",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66C6FCD1-57D4-4939-A490-DDFE2E0DDF39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.0461802Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Digital Marketer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Digital Marketer",
+    "commandType": "Item",
+    "template": "Profile Card - Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

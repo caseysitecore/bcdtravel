@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A4B6F7E-EDB7-48CF-B862-ED497FA9CB1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:18.0175719Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Must Include P Tags",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Launch Sitecore/Must Include P Tags",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

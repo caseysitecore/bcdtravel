@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{679FFA3D-03A3-45BF-9565-70A59C777DB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:08.6928269Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Analytics",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

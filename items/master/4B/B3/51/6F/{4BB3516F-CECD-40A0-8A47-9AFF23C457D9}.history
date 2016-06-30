@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BB3516F-CECD-40A0-8A47-9AFF23C457D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.4207960Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Placeholder",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Placeholder",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD79720A-C6C4-4F56-8DAB-F30E152D2758}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:54.6946420Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Deletable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Deletable",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

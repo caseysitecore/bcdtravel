@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABD7B792-203A-4389-833D-7B91D010F638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:04.0343957Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MaxDuration",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Scheduling/MaxDuration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

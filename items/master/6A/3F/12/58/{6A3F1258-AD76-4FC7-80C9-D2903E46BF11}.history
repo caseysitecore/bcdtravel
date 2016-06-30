@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A3F1258-AD76-4FC7-80C9-D2903E46BF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.7575841Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TrimVersions",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/TrimVersions",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

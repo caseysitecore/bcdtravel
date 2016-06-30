@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0751B146-851C-4766-88D2-CE00AE26961A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.9588324Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aliases",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/Aliases",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CD235C1-28AF-43D7-94A4-BD72789A9152}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.2869429Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Active Aliases",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Active Aliases",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

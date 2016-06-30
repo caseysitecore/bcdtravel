@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD3497C0-31B3-4F75-9DA8-90FB17E159A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.4714753Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Search",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Item/Site Search",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CBEBA13-2A2C-455F-996B-B48D0FD994E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.6030514Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "list is empty",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/list is empty",
+    "commandType": "Item",
+    "template": "Page Editor Message",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

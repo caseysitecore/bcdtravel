@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0FD780B-E721-47C9-ADA6-63D5F5ED5859}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:23.0740131Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sao Tome and Principe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

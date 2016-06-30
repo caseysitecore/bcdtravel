@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5F360-CA8F-4193-AA5A-B52BEA2C84B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:57.4238684Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

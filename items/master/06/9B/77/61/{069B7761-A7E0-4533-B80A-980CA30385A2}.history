@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{069B7761-A7E0-4533-B80A-980CA30385A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:00.8741558Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Index",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Index",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

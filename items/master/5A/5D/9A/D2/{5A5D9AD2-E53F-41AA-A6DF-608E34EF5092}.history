@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A5D9AD2-E53F-41AA-A6DF-608E34EF5092}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.6997280Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MediaRoot",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/MediaRoot",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

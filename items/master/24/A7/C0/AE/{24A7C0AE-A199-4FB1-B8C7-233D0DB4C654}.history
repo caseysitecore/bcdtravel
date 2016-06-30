@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24A7C0AE-A199-4FB1-B8C7-233D0DB4C654}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.8197385Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Rendering",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

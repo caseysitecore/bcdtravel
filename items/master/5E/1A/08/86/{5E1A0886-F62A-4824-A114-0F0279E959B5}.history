@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E1A0886-F62A-4824-A114-0F0279E959B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.8184148Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Content",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

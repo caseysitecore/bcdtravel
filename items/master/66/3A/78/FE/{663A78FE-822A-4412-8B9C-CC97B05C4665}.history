@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{663A78FE-822A-4412-8B9C-CC97B05C4665}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:23.7830578Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sweden",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sweden",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

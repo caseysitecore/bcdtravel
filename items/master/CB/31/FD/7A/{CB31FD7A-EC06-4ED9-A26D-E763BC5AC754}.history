@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB31FD7A-EC06-4ED9-A26D-E763BC5AC754}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:54.7286466Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Readable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Readable",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

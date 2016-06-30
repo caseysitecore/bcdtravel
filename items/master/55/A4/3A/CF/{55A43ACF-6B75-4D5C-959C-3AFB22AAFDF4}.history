@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55A43ACF-6B75-4D5C-959C-3AFB22AAFDF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.1809351Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Man with Headset",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man with Headset",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

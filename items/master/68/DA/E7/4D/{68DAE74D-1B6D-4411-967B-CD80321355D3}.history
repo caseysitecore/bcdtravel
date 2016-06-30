@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68DAE74D-1B6D-4411-967B-CD80321355D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.3082965Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Binding Content and Presentation",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Binding-Content-and-Presentation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

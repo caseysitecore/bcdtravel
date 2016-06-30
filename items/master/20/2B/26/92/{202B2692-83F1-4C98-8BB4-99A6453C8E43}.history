@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{202B2692-83F1-4C98-8BB4-99A6453C8E43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.0540059Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Errors",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Validation Errors",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

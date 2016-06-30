@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F46741E9-E9F6-4044-AE29-B762EF9A306B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:53.3245382Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Evaluation Plan",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Engagement Plans/Evaluation Plan",
+    "commandType": "Item",
+    "template": "Engagement Plan",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

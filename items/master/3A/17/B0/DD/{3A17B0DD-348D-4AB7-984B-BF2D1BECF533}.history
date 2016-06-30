@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A17B0DD-348D-4AB7-984B-BF2D1BECF533}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.2085334Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Strategy",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test Strategy",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

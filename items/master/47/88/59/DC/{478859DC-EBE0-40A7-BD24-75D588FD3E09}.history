@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{478859DC-EBE0-40A7-BD24-75D588FD3E09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:00.6561457Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Information Type",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Information Type",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

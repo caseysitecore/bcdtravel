@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CC3DEB5-738E-4657-9289-FD3A0E19C1BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.5131276Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "one two four",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one two four",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

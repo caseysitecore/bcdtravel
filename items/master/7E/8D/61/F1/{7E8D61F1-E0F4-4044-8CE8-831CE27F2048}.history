@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E8D61F1-E0F4-4044-8CE8-831CE27F2048}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.5863956Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Creating the Site Menu",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating the Site Menu",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

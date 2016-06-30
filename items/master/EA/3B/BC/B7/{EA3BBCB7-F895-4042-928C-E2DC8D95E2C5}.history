@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA3BBCB7-F895-4042-928C-E2DC8D95E2C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.5108053Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Rendering",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

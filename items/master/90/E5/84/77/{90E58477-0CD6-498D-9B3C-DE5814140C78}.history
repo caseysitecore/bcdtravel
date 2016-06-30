@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90E58477-0CD6-498D-9B3C-DE5814140C78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:58.7400027Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDA",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

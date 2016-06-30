@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F6A456C-90AB-4A3C-94C2-33AFD97016FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.0016696Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regex Field Filter",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Regex Field Filter",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

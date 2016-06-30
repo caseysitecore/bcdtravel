@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76F69848-865A-4944-A8B5-8D9E94456E58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.0886924Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "full-row3",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Full/full-row3",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

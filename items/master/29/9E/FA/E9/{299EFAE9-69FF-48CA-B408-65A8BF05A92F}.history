@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{299EFAE9-69FF-48CA-B408-65A8BF05A92F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.2435392Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show in Sites Menu",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Site Root/Site Root/Show in Sites Menu",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

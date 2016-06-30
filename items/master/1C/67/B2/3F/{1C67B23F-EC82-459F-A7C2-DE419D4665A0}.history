@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C67B23F-EC82-459F-A7C2-DE419D4665A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:54.8016523Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Writeable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Writeable",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

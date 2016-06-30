@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B859D38-2197-4F0E-B508-18E17B71CA1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:28.3614076Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Properties",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Properties",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

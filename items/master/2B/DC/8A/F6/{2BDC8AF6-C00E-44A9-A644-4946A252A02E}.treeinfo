@@ -1,0 +1,10 @@
+{
+  "itemName": "Title Abstract and Text",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5D0FFD25-DA70-4DFF-85C0-6E045DC497B4}",
+  "childIds": [
+    "{7D54A1B9-03C2-4466-8AA4-B7B66362B667}",
+    "{3A79F99C-3E9D-4D5F-86F6-1FC35D2D728F}"
+  ]
+}

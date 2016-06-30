@@ -1,0 +1,10 @@
+{
+  "itemName": "Page Editor Thumbnails",
+  "templateId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{135D1DF3-D95C-479A-B83A-56E4CA7BFF26}",
+  "childIds": [
+    "{92353268-CD64-4860-B294-45FFEF552BE4}",
+    "{B78B7CD4-42E2-47B4-B9BC-53E9230CC234}"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5A33A4A-7A5D-4D83-BBD3-AF9CA4582827}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:09.7698689Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Translation",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Translation",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

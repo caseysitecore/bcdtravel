@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83E58187-D1E5-4FB8-953E-EE89816EC0B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:09.4268612Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Fields",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

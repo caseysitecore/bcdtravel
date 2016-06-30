@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0C02C83-23E3-4A3D-95F4-037C79678314}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:58.0469018Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SingleItemContext",
+    "itemPath": "/sitecore/templates/System/ASR/Command/Command/SingleItemContext",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

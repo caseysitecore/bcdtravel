@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5230C73-CECF-484A-8C04-CEAD0E9FB005}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.0174404Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Color",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Colors/Site Color",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

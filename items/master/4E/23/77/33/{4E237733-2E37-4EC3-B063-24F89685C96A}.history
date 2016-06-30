@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E237733-2E37-4EC3-B063-24F89685C96A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.5488059Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Desktop",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Sitecore Desktop",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

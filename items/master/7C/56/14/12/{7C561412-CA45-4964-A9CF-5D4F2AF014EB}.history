@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C561412-CA45-4964-A9CF-5D4F2AF014EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.5884028Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{A84A3674-4317-49B7-847F-B3AF8506D04B}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Step-1",
+    "itemPath": "/sitecore/content/Developing-in-Sitecore/Step-1",
+    "commandType": "Item",
+    "template": "Microsite Subpage",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

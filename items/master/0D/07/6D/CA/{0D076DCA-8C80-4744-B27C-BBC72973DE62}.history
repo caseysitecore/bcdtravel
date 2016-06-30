@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D076DCA-8C80-4744-B27C-BBC72973DE62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:12.7061563Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

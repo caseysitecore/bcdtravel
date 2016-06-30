@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB2E8E98-828E-40FF-BFDD-3136F3C0C51A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.3457060Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matthew Goodman",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Matthew Goodman",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

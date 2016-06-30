@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{627B9E26-95FA-446E-B203-03960C8BA66A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.7988202Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove link",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Remove link",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

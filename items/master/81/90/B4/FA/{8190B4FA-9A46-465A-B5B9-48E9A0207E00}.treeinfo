@@ -1,0 +1,10 @@
+{
+  "itemName": "Information Architecture",
+  "templateId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{876775FB-C06C-4ED9-AFBA-268FCD803041}",
+  "childIds": [
+    "{096EA1E0-4159-46AD-923E-B06DD14E6439}",
+    "{D747A11D-E382-4493-9512-A97B5648CCCE}"
+  ]
+}

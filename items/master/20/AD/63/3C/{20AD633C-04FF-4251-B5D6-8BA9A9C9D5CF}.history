@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20AD633C-04FF-4251-B5D6-8BA9A9C9D5CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.8398148Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Further Reading",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Further Reading",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{873BC162-F4E0-4C7D-BF8D-7DF38AC975CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.9439975Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regex Item Searcher",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Regex Item Searcher",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

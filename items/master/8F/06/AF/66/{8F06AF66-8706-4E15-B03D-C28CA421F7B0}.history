@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F06AF66-8706-4E15-B03D-C28CA421F7B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:17.7735613Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comoros",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Comoros",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

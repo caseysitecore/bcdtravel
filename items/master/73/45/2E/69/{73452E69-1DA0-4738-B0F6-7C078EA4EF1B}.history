@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73452E69-1DA0-4738-B0F6-7C078EA4EF1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:12.9161282Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Control Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Search Control Type",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

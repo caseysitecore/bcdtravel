@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0087664-F046-418B-A141-25FEEF5CC048}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.4175625Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connie",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Connie",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFC4A071-5574-404A-8206-FB502FCA909B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.8925925Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Prerequisite Articles",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Article/Article/Prerequisite Articles",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

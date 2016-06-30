@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D1DB71C-9ACF-4192-8384-5F9B6D533F95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:30.4726036Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89DD3F62-4C38-40B7-B06B-6BA4BE28E7EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.5999022Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Sidebars",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/No Sidebars",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

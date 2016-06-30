@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5035F4A5-8FC3-468D-BBE4-771F852D1898}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:39.8274125Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Statistics",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Statistics",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F813CF67-7E37-445E-A105-F7C3F478DD2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:36.7361583Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Add Tag",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

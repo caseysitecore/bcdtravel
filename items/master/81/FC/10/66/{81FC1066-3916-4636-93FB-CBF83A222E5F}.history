@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81FC1066-3916-4636-93FB-CBF83A222E5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.7379830Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nurse in Green",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Nurse in Green",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48A0E8C2-DFD6-4AEA-BCD9-749A7F61531F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.6960592Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Components",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

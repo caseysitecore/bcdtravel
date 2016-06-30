@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B493703-9F5F-4812-BBAC-510B30A613F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.8218981Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Passwords do not match",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Passwords do not match",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

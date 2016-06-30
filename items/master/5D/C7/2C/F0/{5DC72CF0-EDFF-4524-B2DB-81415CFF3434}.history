@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DC72CF0-EDFF-4524-B2DB-81415CFF3434}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:08.9718497Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Details",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Analytics/Visit Details",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

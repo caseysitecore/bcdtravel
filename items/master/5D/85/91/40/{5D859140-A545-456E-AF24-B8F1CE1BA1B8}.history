@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D859140-A545-456E-AF24-B8F1CE1BA1B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.6708099Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log in and out",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Log in and out",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

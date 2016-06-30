@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26C7F5C8-2BC0-429B-9F7E-BFE053CAE897}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:01.6852231Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact engagement value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Contact engagement value",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

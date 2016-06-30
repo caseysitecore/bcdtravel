@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0472C9AA-0C01-4BCA-960A-EB9F4C3A904F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.0069369Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Title and Body",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Article Title and Body",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

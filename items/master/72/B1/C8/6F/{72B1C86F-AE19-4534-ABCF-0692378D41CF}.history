@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72B1C86F-AE19-4534-ABCF-0692378D41CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:57.0518167Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Source",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Report Query/Data Source",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

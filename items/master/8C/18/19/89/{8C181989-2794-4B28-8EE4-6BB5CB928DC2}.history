@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C181989-2794-4B28-8EE4-6BB5CB928DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:52.8434601Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Boosting Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boosting Rules",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D21C994-E1F2-4A64-BD48-5A7357A7075C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:55.3937022Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enroll In Automation State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Launch Sitecore/Enroll In Automation State",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

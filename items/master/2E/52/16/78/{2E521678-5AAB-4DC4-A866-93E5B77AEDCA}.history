@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E521678-5AAB-4DC4-A866-93E5B77AEDCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.5174734Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditions",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Conditions",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

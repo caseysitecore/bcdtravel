@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E7F37E8-6A98-46E6-9353-34AB682A7CC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.7628921Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Invalid username or password",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Invalid username or password",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

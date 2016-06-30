@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B7D51B3-8769-4D1B-AC44-AC4A56050EA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.2953787Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering",
+    "itemPath": "/sitecore/content/Home/Glossary/Rendering",
+    "commandType": "Item",
+    "template": "Term",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

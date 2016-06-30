@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A869B04-F1F3-409A-866E-0050AFB972C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:44.8838301Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Version CM",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

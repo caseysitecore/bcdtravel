@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2E90283-29F2-4EAF-895E-E8DE8DAEEC69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:06.7076617Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Job Title",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Team Member/Main/Job Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

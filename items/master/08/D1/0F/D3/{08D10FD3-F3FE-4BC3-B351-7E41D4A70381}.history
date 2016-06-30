@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08D10FD3-F3FE-4BC3-B351-7E41D4A70381}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:57.5859204Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quick Action Bar",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Quick Action Bar",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7E1C014-93C9-42D5-B4C8-A307AC30E929}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.3062136Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Developing-in-Sitecore",
+    "itemPath": "/sitecore/content/Developing-in-Sitecore",
+    "commandType": "Item",
+    "template": "Microsite Home",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

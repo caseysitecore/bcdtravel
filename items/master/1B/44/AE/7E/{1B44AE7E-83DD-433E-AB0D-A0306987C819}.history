@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B44AE7E-83DD-433E-AB0D-A0306987C819}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.2821070Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "both sidebars",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content/both sidebars",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A76F1133-79F5-443B-9467-EBA7AB418BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.2197032Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "full-row3d",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Full/full-row3d",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

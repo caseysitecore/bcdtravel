@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E015919B-B458-4A27-BB4C-FBFFE93AE049}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.6227973Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Articles",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Articles",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

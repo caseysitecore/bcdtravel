@@ -1,0 +1,9 @@
+{
+  "itemName": "Email",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{55ECC766-BF85-4E85-92CB-53AE306F0414}",
+  "childIds": [
+    "{BA6571E9-4D3E-4381-B9C2-5C5DA3095CD6}"
+  ]
+}

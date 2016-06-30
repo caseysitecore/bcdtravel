@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BF10338-1CFF-4F9F-890E-E9F3078473F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.4633922Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard-Values",
+    "itemPath": "/sitecore/content/Home/Glossary/Standard-Values",
+    "commandType": "Item",
+    "template": "Term",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

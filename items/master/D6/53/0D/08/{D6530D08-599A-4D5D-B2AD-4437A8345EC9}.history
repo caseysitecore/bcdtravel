@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6530D08-599A-4D5D-B2AD-4437A8345EC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.0899291Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LogViewer no sorting",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/LogViewer no sorting",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

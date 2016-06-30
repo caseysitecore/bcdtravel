@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9B6FFEF-1DC9-4C0E-A815-C62822E1CBDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:06.6796612Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quote",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Team Member/Team Member Details/Quote",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

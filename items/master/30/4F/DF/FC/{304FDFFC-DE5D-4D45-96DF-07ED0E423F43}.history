@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{304FDFFC-DE5D-4D45-96DF-07ED0E423F43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:48.7551618Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email sent",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email campaigns/Email sent",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

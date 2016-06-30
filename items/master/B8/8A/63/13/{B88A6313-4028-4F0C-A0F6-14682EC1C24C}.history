@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B88A6313-4028-4F0C-A0F6-14682EC1C24C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:03.8824057Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditional Renderings",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Conditional Renderings",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

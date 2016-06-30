@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1444E00D-5658-48C8-83A7-419C788FFDA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.4980441Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Full Width",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Layout Style/Full Width",
+    "commandType": "Item",
+    "template": "Layout Style",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

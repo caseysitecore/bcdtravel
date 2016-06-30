@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1B287B4-F6CF-4E4B-844E-88C3E28A1D57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:03.9554278Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

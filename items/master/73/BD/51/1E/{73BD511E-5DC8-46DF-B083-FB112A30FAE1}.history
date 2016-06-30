@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73BD511E-5DC8-46DF-B083-FB112A30FAE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:00.8721627Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Technology",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Technology",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

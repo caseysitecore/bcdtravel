@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85B6978E-A524-4E8E-9DD2-4A73791A97F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.5768763Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Already registered",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Already registered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

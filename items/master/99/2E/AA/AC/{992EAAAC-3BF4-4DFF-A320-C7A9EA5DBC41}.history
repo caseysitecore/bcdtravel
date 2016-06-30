@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{992EAAAC-3BF4-4DFF-A320-C7A9EA5DBC41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.6889756Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logged in Users",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Logged in Users",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

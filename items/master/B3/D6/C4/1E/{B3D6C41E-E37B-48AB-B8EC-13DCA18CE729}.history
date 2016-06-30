@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3D6C41E-E37B-48AB-B8EC-13DCA18CE729}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:48.6471229Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal facet 2",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Goal classification/Classification/Goal facet 2",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

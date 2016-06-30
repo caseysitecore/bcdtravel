@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9E31429-DB92-4F22-9A5F-28950FEEA781}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:05.7305952Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error",
+    "itemPath": "/sitecore/layout/Models/Error",
+    "commandType": "Item",
+    "template": "Model",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

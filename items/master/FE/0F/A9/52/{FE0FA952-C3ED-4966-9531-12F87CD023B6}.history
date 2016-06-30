@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE0FA952-C3ED-4966-9531-12F87CD023B6}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.8674260Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Logo",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Presentation/Site Logo",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

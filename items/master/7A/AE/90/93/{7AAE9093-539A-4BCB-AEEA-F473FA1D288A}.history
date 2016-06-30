@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7AAE9093-539A-4BCB-AEEA-F473FA1D288A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:08.4357806Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucketing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Bucketing",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

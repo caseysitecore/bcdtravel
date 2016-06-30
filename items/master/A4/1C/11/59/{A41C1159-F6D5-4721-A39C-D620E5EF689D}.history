@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A41C1159-F6D5-4721-A39C-D620E5EF689D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:34.2419221Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reverse",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap/Options/Reverse",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

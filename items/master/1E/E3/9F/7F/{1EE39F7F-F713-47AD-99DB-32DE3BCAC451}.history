@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EE39F7F-F713-47AD-99DB-32DE3BCAC451}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.9447555Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rockets",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/Rockets",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

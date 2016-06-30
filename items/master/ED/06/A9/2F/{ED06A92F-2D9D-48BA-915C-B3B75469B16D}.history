@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED06A92F-2D9D-48BA-915C-B3B75469B16D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.3438638Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media usage scanner",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/Media usage scanner",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

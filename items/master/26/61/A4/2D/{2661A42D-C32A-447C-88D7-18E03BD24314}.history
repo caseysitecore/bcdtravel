@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2661A42D-C32A-447C-88D7-18E03BD24314}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.6393425Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{A84A3674-4317-49B7-847F-B3AF8506D04B}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brad-Christie",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Brad-Christie",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

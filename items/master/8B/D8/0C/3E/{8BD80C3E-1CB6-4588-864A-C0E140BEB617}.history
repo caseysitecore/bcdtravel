@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BD80C3E-1CB6-4588-864A-C0E140BEB617}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.9105153Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Query/Query",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

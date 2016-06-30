@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F96A23A8-88FB-4304-B8F2-CD9932BD2F9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:32.9967915Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeChannel",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludeChannel",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

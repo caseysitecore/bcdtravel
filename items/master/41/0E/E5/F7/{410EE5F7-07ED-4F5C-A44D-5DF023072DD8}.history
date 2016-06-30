@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{410EE5F7-07ED-4F5C-A44D-5DF023072DD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:01.0901720Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Traffic Type",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

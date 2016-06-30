@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07003270-D56D-42C2-90E1-99125E0ED1AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:01.3882208Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Filter",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

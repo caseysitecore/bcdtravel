@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF18FB9-E44A-4A0D-BD17-9338A3665200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:56.2077469Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Run",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

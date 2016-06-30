@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89730EC0-79CE-4B64-AA50-8C45D38D2D0D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:36.2680906Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

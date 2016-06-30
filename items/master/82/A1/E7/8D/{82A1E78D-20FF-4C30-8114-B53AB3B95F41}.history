@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82A1E78D-20FF-4C30-8114-B53AB3B95F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.1071820Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Owner",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Content Owner",
+    "commandType": "Item",
+    "template": "Pattern Card",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

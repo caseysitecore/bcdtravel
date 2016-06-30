@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{586CB36D-FDCB-4FBB-8766-B5C4B810191B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.7895704Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unlock",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Unlock",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

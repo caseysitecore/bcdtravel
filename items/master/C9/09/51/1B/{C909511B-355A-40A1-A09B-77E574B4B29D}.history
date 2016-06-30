@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C909511B-355A-40A1-A09B-77E574B4B29D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.1654426Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "goals checklist",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/goals checklist",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

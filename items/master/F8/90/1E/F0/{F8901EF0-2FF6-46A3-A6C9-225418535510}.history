@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8901EF0-2FF6-46A3-A6C9-225418535510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.5224796Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Getting Started as a Developer",
+    "itemPath": "/sitecore/content/Global/Content/Text Widgets/Getting Started as a Developer",
+    "commandType": "Item",
+    "template": "Text Widget",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

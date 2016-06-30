@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F83DC33B-21CA-4C5E-8D19-8E4B7A204165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.9434330Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Color",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Colors/Header Color",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

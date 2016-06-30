@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5D56897-23D1-46F3-B8FB-D351C1CAFB7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:54.3636276Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By asset facet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By asset facet",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

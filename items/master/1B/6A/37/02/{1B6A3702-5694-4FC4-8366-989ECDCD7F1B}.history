@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B6A3702-5694-4FC4-8366-989ECDCD7F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.3185475Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Group",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Article Group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

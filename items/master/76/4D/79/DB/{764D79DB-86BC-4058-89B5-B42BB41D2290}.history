@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{764D79DB-86BC-4058-89B5-B42BB41D2290}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.0988599Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon and Title List",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Icon and Title List",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

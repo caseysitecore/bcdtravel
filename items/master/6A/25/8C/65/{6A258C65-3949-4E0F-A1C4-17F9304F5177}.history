@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A258C65-3949-4E0F-A1C4-17F9304F5177}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.6330525Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "no version in current language",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/no version in current language",
+    "commandType": "Item",
+    "template": "Page Editor Message",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE214ACE-6CBA-477D-B4E9-D762CE4CF15E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.5213909Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create a goal",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

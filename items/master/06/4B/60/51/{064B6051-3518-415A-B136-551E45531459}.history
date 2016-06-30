@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{064B6051-3518-415A-B136-551E45531459}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:44.5537763Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Url",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Start Url",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

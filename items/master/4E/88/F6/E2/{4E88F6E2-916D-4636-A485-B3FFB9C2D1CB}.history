@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E88F6E2-916D-4636-A485-B3FFB9C2D1CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:48.0790762Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media classification",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Media classification",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

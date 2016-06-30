@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0D16EEE-3A05-4E43-A082-795A32B873C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:40.7764633Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Condition",
+    "itemPath": "/sitecore/templates/System/Rules/Condition",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

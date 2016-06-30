@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EFBB0CA-F629-4624-BD8E-0B8550998F7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.2077643Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Links",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Links",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

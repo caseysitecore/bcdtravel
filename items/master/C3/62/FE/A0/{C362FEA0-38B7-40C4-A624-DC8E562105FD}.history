@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C362FEA0-38B7-40C4-A624-DC8E562105FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.7124983Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Developer Articles",
+    "itemPath": "/sitecore/content/Global/Settings/Queries/All Developer Articles",
+    "commandType": "Item",
+    "template": "Query",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

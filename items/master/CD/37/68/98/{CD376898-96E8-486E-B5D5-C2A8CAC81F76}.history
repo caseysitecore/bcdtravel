@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD376898-96E8-486E-B5D5-C2A8CAC81F76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.7957357Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regex",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Regex",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

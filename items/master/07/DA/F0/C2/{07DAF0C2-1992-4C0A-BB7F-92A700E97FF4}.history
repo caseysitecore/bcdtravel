@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07DAF0C2-1992-4C0A-BB7F-92A700E97FF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.0102735Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Content",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/What-is-Content",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

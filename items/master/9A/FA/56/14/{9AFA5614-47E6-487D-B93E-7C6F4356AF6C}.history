@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AFA5614-47E6-487D-B93E-7C6F4356AF6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:57.4978849Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

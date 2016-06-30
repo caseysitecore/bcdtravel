@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD07DECD-CF87-41B4-948D-DD497F036DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:10.1069414Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Featured Quotation",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Featured Quotation",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

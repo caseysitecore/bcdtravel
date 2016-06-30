@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{964BE0C4-4992-46DF-A8A6-0DC5BD85CC98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.3364578Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "language_locale",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages/language_locale",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

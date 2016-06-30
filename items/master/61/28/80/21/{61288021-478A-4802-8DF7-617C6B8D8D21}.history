@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61288021-478A-4802-8DF7-617C6B8D8D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:48.3151251Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other digital events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital events/Other digital events",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

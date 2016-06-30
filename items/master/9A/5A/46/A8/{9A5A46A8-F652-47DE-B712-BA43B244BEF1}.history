@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A5A46A8-F652-47DE-B712-BA43B244BEF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:06.8096544Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locking",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Locking",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83B3C681-B850-46AF-B64D-3481EADDE6F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.4067865Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrers",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Mode/Referrers",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

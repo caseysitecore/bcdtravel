@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A87ABAE-56F8-4323-81E4-B69D894160B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.6889231Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "One Three One",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Three One",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0015FB05-D226-4BAC-BE34-C3AA1EA4E161}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.3974694Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "What is Your Job Function",
+    "itemPath": "/sitecore/content/Global/Content/Promo Spots/What is Your Job Function",
+    "commandType": "Item",
+    "template": "Promo Spot",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

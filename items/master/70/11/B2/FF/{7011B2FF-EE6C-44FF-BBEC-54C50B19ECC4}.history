@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7011B2FF-EE6C-44FF-BBEC-54C50B19ECC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:12.8401672Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

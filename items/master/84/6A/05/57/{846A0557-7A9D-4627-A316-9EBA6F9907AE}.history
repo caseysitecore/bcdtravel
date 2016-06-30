@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{846A0557-7A9D-4627-A316-9EBA6F9907AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.2788735Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Team List",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Team List",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

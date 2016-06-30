@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:23.8670592Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

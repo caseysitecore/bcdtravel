@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BE26B46-E7B0-4AF1-8BD1-9B164332B3E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:06.9416687Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No referrers",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/No referrers",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

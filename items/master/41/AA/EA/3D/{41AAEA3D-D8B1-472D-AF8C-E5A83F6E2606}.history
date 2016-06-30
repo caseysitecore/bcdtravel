@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41AAEA3D-D8B1-472D-AF8C-E5A83F6E2606}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.7489814Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "My Owned Items",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/My Owned Items",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5B9A7D9-6033-4F80-B98E-6F8B503C6FC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.0768368Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels/Location",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

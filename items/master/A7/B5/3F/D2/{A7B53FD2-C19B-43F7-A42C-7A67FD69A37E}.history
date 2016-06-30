@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7B53FD2-C19B-43F7-A42C-7A67FD69A37E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:32.8377772Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ChannelMap/__Standard Values",
+    "commandType": "Item",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

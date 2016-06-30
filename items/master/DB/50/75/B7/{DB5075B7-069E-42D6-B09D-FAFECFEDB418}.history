@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB5075B7-069E-42D6-B09D-FAFECFEDB418}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.1938666Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Queried List",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Queried List",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

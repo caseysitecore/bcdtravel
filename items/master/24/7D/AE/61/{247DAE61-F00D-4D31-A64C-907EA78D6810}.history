@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{247DAE61-F00D-4D31-A64C-907EA78D6810}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:30.7396781Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MSSQL",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

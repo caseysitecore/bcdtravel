@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.7314977Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show In Search Results",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Item/Site Search/Show In Search Results",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A493DBE3-D44F-4B1D-86A5-C45D1D987719}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:02.3032827Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Developer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Developer",
+    "commandType": "Item",
+    "template": "Preset",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

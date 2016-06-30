@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFAE3254-B606-4AD3-9367-01B3801A4A8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:02.5583122Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Partner",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification/Business Partner",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

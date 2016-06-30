@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D92498F-1E2D-45CF-9F10-FB7FE1A48312}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.9279063Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unable to register",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Unable to register",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

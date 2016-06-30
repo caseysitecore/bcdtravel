@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{851ED52D-19C6-4BD3-91AD-595A3794A8F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:24.4591087Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve without Test",
+    "itemPath": "/sitecore/system/Workflows/Regular Workflow/Awaiting Approval/Approve without Test",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

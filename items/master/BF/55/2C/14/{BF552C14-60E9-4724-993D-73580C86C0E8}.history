@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF552C14-60E9-4724-993D-73580C86C0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:05.2505202Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boosting",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing/Boosting",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

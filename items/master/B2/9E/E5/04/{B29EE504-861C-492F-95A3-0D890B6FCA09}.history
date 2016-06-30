@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B29EE504-861C-492F-95A3-0D890B6FCA09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:26.9263089Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Defined",
+    "itemPath": "/sitecore/templates/User Defined",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

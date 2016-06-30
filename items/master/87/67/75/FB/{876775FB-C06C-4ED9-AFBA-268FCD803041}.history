@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{876775FB-C06C-4ED9-AFBA-268FCD803041}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.1963634Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Article Screenshots",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

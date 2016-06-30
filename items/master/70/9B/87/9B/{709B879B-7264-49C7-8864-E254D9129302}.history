@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{709B879B-7264-49C7-8864-E254D9129302}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:54.9006380Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card/Data/Image",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

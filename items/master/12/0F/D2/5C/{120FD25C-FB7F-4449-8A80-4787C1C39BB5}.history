@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{120FD25C-FB7F-4449-8A80-4787C1C39BB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.6658167Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Manager",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Template Manager",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

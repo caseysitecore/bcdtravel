@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19E4B56F-2582-4660-97F1-B72051F553B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.9696004Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Article Group/__Standard Values",
+    "commandType": "Item",
+    "template": "Article Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{459DBF7C-1A25-4EDF-86DA-32020B0AFC4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:38.0402823Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Beginner",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2013/08/17/00/08/Beginner",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC56DB05-9426-4C1D-A180-E25449821D05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.7465819Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Sections",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Site Sections",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

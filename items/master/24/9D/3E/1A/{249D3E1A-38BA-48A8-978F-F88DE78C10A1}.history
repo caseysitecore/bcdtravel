@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249D3E1A-38BA-48A8-978F-F88DE78C10A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:19.6477175Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hungary",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hungary",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

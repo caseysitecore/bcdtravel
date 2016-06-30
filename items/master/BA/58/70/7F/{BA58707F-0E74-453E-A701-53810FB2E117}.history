@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA58707F-0E74-453E-A701-53810FB2E117}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:02.6203233Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Set/__Standard Values",
+    "commandType": "Item",
+    "template": "Carousel Set",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

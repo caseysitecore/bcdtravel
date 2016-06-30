@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A54F981-6618-4D81-B90A-EF9794DA0C8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:59.8160766Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Optimization Candidates",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Optimization Candidates",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

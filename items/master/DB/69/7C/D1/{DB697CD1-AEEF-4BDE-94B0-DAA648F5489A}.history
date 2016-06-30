@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB697CD1-AEEF-4BDE-94B0-DAA648F5489A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.5563997Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workbox",
+    "itemPath": "/sitecore/content/Home/Glossary/Workbox",
+    "commandType": "Item",
+    "template": "Term",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

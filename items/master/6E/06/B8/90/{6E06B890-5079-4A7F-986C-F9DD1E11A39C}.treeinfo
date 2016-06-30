@@ -1,0 +1,9 @@
+{
+  "itemName": "Carousel",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F53033B9-CD0B-4AAE-9EA8-375D7C94C54D}",
+  "childIds": [
+    "{7EF53D69-9CF1-41A6-AA24-6A0E430FB677}"
+  ]
+}

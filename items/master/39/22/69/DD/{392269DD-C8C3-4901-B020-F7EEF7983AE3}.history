@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{392269DD-C8C3-4901-B020-F7EEF7983AE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:17.6055489Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chile",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chile",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

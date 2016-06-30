@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E00DB4F0-B206-4544-AD90-25D201CFB62C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:00.6081339Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matches Pattern",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Matches Pattern",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

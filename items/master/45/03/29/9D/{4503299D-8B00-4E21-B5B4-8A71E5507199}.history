@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4503299D-8B00-4E21-B5B4-8A71E5507199}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.3895358Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filters",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

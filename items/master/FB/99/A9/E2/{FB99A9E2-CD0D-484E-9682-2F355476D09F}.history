@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB99A9E2-CD0D-484E-9682-2F355476D09F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:10.1198968Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Html editor/Html Custom Button/Data/Click",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

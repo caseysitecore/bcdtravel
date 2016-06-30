@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FC1C4D5-BB1B-4D5B-B782-2E07D1FB89E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.5998015Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Execute workflow command",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Execute workflow command",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40F64856-87AB-4C52-AF9A-078CA3A11DB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.9348230Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register Heading",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Register Heading",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

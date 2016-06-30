@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083CC92D-03B7-46FB-BCE2-1C9DDAEB89DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:12.9591639Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Rules",
+    "itemPath": "/sitecore/system/Settings/Insert Rules",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

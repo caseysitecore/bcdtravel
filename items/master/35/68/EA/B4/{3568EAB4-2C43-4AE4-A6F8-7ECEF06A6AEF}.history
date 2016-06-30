@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3568EAB4-2C43-4AE4-A6F8-7ECEF06A6AEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.2848524Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add to Favorites",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Links/Add to Favorites",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C5BBA56-53D3-4332-9D94-59F165990A3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:06.0026036Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Audience Segment/__Standard Values",
+    "commandType": "Item",
+    "template": "Audience Segment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

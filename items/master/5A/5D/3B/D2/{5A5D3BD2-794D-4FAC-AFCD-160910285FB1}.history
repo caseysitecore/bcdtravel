@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A5D3BD2-794D-4FAC-AFCD-160910285FB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.7074078Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multilingual Multiregional",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{164881FE-0249-4D6E-9532-60B71E0D3874}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.6774951Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Content Owner Articles",
+    "itemPath": "/sitecore/content/Global/Settings/Queries/All Content Owner Articles",
+    "commandType": "Item",
+    "template": "Query",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

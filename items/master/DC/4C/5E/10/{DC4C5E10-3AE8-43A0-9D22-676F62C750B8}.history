@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC4C5E10-3AE8-43A0-9D22-676F62C750B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:08.8068340Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Navigation",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

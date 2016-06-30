@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F30F5689-A838-4E34-8F2A-EDF78610B59A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.3543764Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icons",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

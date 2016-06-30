@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656FA114-4731-4DC8-BEB9-CD566875F33D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:23.8550819Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Syrian Arab Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.6354885Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Children In Menu",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Children In Menu",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

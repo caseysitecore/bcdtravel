@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CC29119-82E2-449F-B208-33790D434B95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:28.5604232Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Keywords",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Keywords",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

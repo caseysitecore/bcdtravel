@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7C8CA1C-5F07-4231-B9D1-B5CF9882EC50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.6048799Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS Session Info Instructions",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/DMS Session Info Instructions",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

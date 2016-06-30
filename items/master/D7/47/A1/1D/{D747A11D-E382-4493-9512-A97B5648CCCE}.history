@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D747A11D-E382-4493-9512-A97B5648CCCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.4784692Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Structure",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture/Template Structure",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

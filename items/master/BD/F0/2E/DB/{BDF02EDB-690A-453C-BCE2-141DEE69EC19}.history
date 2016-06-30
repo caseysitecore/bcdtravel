@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDF02EDB-690A-453C-BCE2-141DEE69EC19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.5035601Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Looks Like Connie",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Looks Like Connie",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

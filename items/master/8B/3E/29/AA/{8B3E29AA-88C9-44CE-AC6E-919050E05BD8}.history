@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B3E29AA-88C9-44CE-AC6E-919050E05BD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.8118136Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Featured Articles",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Featured Articles",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

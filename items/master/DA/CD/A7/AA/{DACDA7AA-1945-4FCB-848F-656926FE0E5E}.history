@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DACDA7AA-1945-4FCB-848F-656926FE0E5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:21.1468317Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duplicate Map",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer/Duplicate Map",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

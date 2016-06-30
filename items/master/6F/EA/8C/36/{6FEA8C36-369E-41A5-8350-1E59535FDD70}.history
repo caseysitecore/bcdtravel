@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FEA8C36-369E-41A5-8350-1E59535FDD70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.9683539Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content-Editor",
+    "itemPath": "/sitecore/content/Home/Glossary/Content-Editor",
+    "commandType": "Item",
+    "template": "Term",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

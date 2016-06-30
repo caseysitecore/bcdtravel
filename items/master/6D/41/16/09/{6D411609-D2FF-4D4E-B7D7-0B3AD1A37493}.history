@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D411609-D2FF-4D4E-B7D7-0B3AD1A37493}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:24.3221034Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Turkmenistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkmenistan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

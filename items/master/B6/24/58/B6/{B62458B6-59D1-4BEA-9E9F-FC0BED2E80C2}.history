@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B62458B6-59D1-4BEA-9E9F-FC0BED2E80C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:55.9317461Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcome Maps",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Path Analyzer Map Groups/Outcome Maps",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

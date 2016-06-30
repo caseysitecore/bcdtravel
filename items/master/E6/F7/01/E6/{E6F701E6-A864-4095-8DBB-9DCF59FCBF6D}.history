@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6F701E6-A864-4095-8DBB-9DCF59FCBF6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.0775180Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Test",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Start Test",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

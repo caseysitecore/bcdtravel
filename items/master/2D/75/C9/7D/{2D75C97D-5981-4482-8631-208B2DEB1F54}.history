@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D75C97D-5981-4482-8631-208B2DEB1F54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.4822277Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Glossary",
+    "itemPath": "/sitecore/content/Home/Glossary",
+    "commandType": "Item",
+    "template": "Glossary Section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

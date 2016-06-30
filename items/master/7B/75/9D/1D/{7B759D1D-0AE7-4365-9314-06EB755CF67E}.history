@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B759D1D-0AE7-4365-9314-06EB755CF67E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:52.6454742Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Area Code",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Area Code",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

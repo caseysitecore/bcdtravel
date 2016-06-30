@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A410F42C-903A-4D73-AF5C-F13313EA1BF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.8613612Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mike-Casey",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Mike-Casey",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EB8EF2A-66C0-4A9D-915D-F616098E96A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.1132804Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enable multiple languages",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Enable-multiple-languages",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

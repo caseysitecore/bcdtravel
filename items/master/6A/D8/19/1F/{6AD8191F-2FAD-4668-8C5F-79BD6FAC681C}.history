@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AD8191F-2FAD-4668-8C5F-79BD6FAC681C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:23.1449968Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suspended",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

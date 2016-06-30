@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD783557-3277-4E30-960B-D0235BAE8A61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:04.6784474Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy Associated Tests Action",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

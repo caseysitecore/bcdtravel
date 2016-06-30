@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E26F3542-84C8-49CA-90A8-B3C8C1E4D032}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.7191471Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Thumbnails",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

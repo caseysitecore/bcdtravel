@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DB8017E-2F41-43A5-B64D-55E481053EFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.9598413Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "elements selection",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/elements selection",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

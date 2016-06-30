@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4A0FB13-9758-427C-A7EB-1A406C045192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.8727572Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

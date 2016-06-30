@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEAB758C-DB47-44D0-861C-4E962988C6C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.4388861Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tertiary Navigation",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Navigation/Tertiary Navigation",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

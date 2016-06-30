@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{854BA861-63EA-4A0C-8C7B-541E9A7EC4C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:42.8986380Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags Definition",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definition",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

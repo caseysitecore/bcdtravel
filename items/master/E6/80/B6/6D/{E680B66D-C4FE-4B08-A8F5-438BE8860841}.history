@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E680B66D-C4FE-4B08-A8F5-438BE8860841}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.0189233Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedField",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/LinkedField",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CD5B345-971A-4B3B-9CC4-7D651DAE2614}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.3050257Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orange",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Color/Orange",
+    "commandType": "Item",
+    "template": "Color",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94F817F2-27E6-4308-989D-5D0FD9FFE85F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.8524243Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text Widgets",
+    "itemPath": "/sitecore/content/Global/Content/Text Widgets",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

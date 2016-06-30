@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD7EEBB0-6267-43BD-A6FC-6F9273F8AC31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.5048708Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove from Favorites",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Links/Remove from Favorites",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

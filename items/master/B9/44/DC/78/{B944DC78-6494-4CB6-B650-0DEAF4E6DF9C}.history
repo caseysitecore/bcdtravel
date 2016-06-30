@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B944DC78-6494-4CB6-B650-0DEAF4E6DF9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.5620480Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "item is not tagged",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/item is not tagged",
+    "commandType": "Item",
+    "template": "Page Editor Message",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

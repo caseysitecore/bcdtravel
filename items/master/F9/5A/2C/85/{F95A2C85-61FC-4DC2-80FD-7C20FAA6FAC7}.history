@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F95A2C85-61FC-4DC2-80FD-7C20FAA6FAC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.3517902Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Library",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Media Library",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

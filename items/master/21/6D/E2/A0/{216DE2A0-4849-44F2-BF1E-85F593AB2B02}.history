@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{216DE2A0-4849-44F2-BF1E-85F593AB2B02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.6129717Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locked Items",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Locked Items",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

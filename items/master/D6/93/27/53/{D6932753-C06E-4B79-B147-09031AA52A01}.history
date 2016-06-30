@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6932753-C06E-4B79-B147-09031AA52A01}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:39.9604271Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Write Test Outcomes",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Test Outcomes",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

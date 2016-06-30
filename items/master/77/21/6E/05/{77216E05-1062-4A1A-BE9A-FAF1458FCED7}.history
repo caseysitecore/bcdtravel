@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77216E05-1062-4A1A-BE9A-FAF1458FCED7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.8461538Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-appstore-activity",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-appstore-activity",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47C49DE9-9789-4E1D-BECF-2137B490320E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:25.7152114Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renew Account",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired/Renew/Renew Account",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

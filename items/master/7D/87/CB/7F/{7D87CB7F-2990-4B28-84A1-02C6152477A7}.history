@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D87CB7F-2990-4B28-84A1-02C6152477A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:10.8529573Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on paste",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on paste",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

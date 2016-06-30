@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A51065BD-A32C-4E1C-A534-C4D2B4D59B7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.1964531Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Optimizing the Site",
+    "itemPath": "/sitecore/content/Global/Content/Carousel Items/Marketer Carousel/Optimizing the Site",
+    "commandType": "Item",
+    "template": "Carousel Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

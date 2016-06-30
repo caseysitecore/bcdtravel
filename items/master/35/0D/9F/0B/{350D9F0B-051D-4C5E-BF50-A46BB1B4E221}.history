@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{350D9F0B-051D-4C5E-BF50-A46BB1B4E221}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.8009847Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Orphaned media assets report",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Orphaned media assets report",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

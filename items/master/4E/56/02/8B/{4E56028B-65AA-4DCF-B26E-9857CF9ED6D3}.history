@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E56028B-65AA-4DCF-B26E-9857CF9ED6D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.7802530Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network Architects",
+    "itemPath": "/sitecore/content/Home/Audience/Network-Architects",
+    "commandType": "Item",
+    "template": "Audience Segment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

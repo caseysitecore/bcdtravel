@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88B4EBDD-F3E1-4B8B-8186-5134488E96DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.0427639Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skyline",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/Skyline",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

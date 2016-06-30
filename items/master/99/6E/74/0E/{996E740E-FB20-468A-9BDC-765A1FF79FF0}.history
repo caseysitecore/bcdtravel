@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{996E740E-FB20-468A-9BDC-765A1FF79FF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.0904385Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quick Info",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator/Quick Info",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F250092D-2E1B-45F0-96F7-C83CCEC453E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:47.4760241Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

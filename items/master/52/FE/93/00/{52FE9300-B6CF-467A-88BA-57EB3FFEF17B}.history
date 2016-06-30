@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52FE9300-B6CF-467A-88BA-57EB3FFEF17B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.4253893Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu Type",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Type",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

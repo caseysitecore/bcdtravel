@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5858A42-07AD-4CBC-BACA-7FCB79AAC326}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:18.2195888Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "US Social Security Number",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/US Social Security Number",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

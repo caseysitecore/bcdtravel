@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC5959D4-75C9-49FA-B6F8-C90AAF5FF243}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.3117870Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Layout",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

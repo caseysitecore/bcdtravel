@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB41E28F-0610-4A85-AB8A-9FA69FDD2C75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.3007737Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/Campaign",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

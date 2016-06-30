@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E16C1F0-9DEE-4549-B72F-2F9C2441F2BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:13.5842151Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lookups",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51D36071-6CBD-49D9-BFCB-1193B4B8BE7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.1354479Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background Color",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Colors/Background Color",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

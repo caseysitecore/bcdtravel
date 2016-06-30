@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6FC740A-3F94-4790-8679-1C6193DAB9CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:06.8346741Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Overrides",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Template Overrides",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

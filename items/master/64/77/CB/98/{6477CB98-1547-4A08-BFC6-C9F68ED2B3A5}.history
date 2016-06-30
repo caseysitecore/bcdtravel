@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:57.4718817Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Other Maps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

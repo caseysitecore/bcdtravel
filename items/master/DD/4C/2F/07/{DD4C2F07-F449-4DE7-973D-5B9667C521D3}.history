@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD4C2F07-F449-4DE7-973D-5B9667C521D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.3058753Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Navigation",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Navigation/Footer Navigation",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

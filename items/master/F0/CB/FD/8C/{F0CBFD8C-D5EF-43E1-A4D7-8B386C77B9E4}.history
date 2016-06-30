@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0CBFD8C-D5EF-43E1-A4D7-8B386C77B9E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:43.5927038Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Sorting",
+    "itemPath": "/sitecore/templates/System/Child Sorting",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

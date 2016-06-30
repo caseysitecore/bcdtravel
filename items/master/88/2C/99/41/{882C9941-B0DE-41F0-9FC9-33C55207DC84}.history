@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{882C9941-B0DE-41F0-9FC9-33C55207DC84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:06.5366461Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Security Page/__Standard Values",
+    "commandType": "Item",
+    "template": "Security Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

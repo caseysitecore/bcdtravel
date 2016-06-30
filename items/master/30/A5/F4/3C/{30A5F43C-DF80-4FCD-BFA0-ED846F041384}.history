@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30A5F43C-DF80-4FCD-BFA0-ED846F041384}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.6792442Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Digital Marketers",
+    "itemPath": "/sitecore/content/Home/Audience/Digital-Marketers",
+    "commandType": "Item",
+    "template": "Audience Segment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

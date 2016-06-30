@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{008E8007-B2FF-4DEE-8D24-BD96E6E12B9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.9855149Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Available Variations",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Available Variations",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

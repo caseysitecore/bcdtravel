@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0479B5F-5306-42DE-BDA5-0C6BAC34737D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.6598039Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background Articles",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Background Articles",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

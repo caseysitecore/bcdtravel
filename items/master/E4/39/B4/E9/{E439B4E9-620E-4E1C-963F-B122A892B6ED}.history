@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E439B4E9-620E-4E1C-963F-B122A892B6ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.8114217Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quotations",
+    "itemPath": "/sitecore/content/Global/Content/Quotations",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

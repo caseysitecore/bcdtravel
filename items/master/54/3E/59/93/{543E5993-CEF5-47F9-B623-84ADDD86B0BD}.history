@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{543E5993-CEF5-47F9-B623-84ADDD86B0BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.3217043Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kevin DiTroia",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Kevin DiTroia",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

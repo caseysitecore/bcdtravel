@@ -1,0 +1,10 @@
+{
+  "itemName": "Page Structure",
+  "templateId": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F53033B9-CD0B-4AAE-9EA8-375D7C94C54D}",
+  "childIds": [
+    "{99C616CE-B5FD-4ABB-B8F7-F16390FBA8F1}",
+    "{54F8C2C3-FDED-46BD-A6C1-3C09BCD86419}"
+  ]
+}

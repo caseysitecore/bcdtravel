@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80011BFC-8ECE-4354-BBBE-F4F4F1D2B7CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:53.7905463Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lifetime",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

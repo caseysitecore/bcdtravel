@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBCC96D8-4A66-497C-A375-E16C9C490609}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.7634996Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Network Admin Articles",
+    "itemPath": "/sitecore/content/Global/Settings/Queries/All Network Admin Articles",
+    "commandType": "Item",
+    "template": "Query",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

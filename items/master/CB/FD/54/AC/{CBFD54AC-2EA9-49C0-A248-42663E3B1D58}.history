@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBFD54AC-2EA9-49C0-A248-42663E3B1D58}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:58.6529529Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commands",
+    "itemPath": "/sitecore/templates/System/ASR/Report/Commands",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

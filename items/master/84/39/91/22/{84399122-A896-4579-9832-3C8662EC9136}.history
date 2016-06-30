@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84399122-A896-4579-9832-3C8662EC9136}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.1936940Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Casey Piket",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Casey Piket",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D766141-8D12-43B8-9F08-A67A1E32F923}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.5063123Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Creating-a-personalized-experience",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Creating-a-personalized-experience",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

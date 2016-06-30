@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97963D48-BD06-46CA-8279-CD2BA3C7AA36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.6355710Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Team Member",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Team Member",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

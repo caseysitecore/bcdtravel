@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A22BD79E-AFE5-4F0B-B9AC-DFB1572C7AAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.2696922Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date picker",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameter Types/Date picker",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

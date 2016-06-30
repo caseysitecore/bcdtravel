@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E67477C-440C-4BCA-A358-3D29AED89F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:08.2757692Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "contains",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

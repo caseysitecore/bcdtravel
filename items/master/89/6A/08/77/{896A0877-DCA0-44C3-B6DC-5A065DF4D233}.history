@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{896A0877-DCA0-44C3-B6DC-5A065DF4D233}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.7374991Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Marketing Articles",
+    "itemPath": "/sitecore/content/Global/Settings/Queries/All Marketing Articles",
+    "commandType": "Item",
+    "template": "Query",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

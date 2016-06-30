@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7870A0A-20C5-401E-9A44-F78A7186CE4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.2167715Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Today",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/AgeISO/Today",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

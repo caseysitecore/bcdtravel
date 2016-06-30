@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D7E9063-A2B9-4F2E-A9FA-5655F72DD70B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.1195258Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test button",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test button",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

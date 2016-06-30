@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDD7C6B1-622A-4362-9CFF-DDE9866C68EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:08.3927777Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "starts with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

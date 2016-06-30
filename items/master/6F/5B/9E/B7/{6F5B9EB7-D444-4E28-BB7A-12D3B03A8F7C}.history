@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F5B9EB7-D444-4E28-BB7A-12D3B03A8F7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:55.1186568Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Age",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Age",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

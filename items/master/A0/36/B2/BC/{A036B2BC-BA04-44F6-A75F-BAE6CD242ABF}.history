@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A036B2BC-BA04-44F6-A75F-BAE6CD242ABF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:16.8624693Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path",
+    "itemPath": "/sitecore/templates/System/Layout/Layout/Data/Path",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

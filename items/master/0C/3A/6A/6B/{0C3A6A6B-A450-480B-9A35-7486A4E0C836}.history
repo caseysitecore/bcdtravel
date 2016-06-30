@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C3A6A6B-A450-480B-9A35-7486A4E0C836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.7824199Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Promo Spots",
+    "itemPath": "/sitecore/content/Global/Content/Promo Spots",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

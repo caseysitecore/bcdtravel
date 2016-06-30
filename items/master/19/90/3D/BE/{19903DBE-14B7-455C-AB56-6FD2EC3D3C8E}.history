@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19903DBE-14B7-455C-AB56-6FD2EC3D3C8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.9023456Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Patrick-Wallace",
+    "itemPath": "/sitecore/content/Home/Thought-Leaders/Patrick-Wallace",
+    "commandType": "Item",
+    "template": "Team Member",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

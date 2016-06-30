@@ -1,0 +1,9 @@
+{
+  "itemName": "Term",
+  "templateId": "{C3B037A0-46E5-4B67-AC7A-A144B962A56F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B6FC740A-3F94-4790-8679-1C6193DAB9CB}",
+  "childIds": [
+    "{06CA0C36-5A12-4E79-ACB4-16B3D79980E5}"
+  ]
+}

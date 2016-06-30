@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20CD3F3B-14F0-47DA-B491-BDA36F6657A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.5607984Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check in",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Check in",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

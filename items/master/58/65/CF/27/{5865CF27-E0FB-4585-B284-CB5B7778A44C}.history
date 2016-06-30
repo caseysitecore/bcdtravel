@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5865CF27-E0FB-4585-B284-CB5B7778A44C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:53.4965524Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is User Qualified?",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Engagement Plans/Evaluation Plan/Registered Users/New item",
+    "commandType": "Item",
+    "template": "Engagement Plan Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0F8B87D-694B-4D1E-AC7F-E2266C7D62BB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:27.5093360Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Artist",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B17288BE-C99D-4337-B172-5559045C0C2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.5017118Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AgeInDays",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/AgeInDays",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

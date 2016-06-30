@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D804DA09-73F3-4BDE-B9F7-86181AA7EFA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.5935678Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Page",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Security Page",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

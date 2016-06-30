@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCCEB504-F32A-4F40-A141-508FF865E114}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.2016862Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow commands filter",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Workflow commands filter",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

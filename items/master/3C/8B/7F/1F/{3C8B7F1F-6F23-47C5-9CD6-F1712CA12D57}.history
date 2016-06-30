@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C8B7F1F-6F23-47C5-9CD6-F1712CA12D57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.7577335Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NumOfVersions",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/NumOfVersions",
+    "commandType": "Item",
+    "template": "Parameter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35345F55-A688-4518-98A4-02E9B456F7DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.1407593Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Headings",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

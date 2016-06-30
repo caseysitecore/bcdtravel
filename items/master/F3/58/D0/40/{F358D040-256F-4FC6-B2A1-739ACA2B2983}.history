@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F358D040-256F-4FC6-B2A1-739ACA2B2983}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:25.2541814Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Campaign",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

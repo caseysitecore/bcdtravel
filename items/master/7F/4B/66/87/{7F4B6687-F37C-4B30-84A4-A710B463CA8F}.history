@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F4B6687-F37C-4B30-84A4-A710B463CA8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.6104870Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore",
+    "itemPath": "/sitecore/content/Global/Settings/External Sites/Sitecore",
+    "commandType": "Item",
+    "template": "External Site",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

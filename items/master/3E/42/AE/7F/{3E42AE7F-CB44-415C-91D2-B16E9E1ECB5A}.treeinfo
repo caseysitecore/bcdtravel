@@ -1,0 +1,9 @@
+{
+  "itemName": "Approved",
+  "templateId": "{4B7E2DA9-DE43-4C83-88C3-02F042031D04}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}",
+  "childIds": [
+    "{4EA09915-BE13-4A3C-A6F6-238EEA34B92E}"
+  ]
+}

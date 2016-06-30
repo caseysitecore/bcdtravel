@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EF22969-80E8-4335-9E0C-17F5E49D2049}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.0658418Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Users",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Scanners/All Users",
+    "commandType": "Item",
+    "template": "Scanner",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

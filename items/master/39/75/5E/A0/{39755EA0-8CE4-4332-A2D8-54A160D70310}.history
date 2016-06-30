@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39755EA0-8CE4-4332-A2D8-54A160D70310}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.8688318Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cubes blue",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/cubes blue",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

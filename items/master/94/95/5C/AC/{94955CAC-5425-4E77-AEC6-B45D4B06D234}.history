@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94955CAC-5425-4E77-AEC6-B45D4B06D234}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.4213811Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Basic Presentation Description",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Basic Presentation Description",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

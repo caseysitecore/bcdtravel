@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D8E0421-C6B0-4B90-A4DA-2E7ECDFCAC7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.2178694Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Related Articles",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Related Articles",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

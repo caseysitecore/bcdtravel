@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69E585D6-BAD7-4FB9-811C-86EA2232A105}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.0151751Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Developer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Developer",
+    "commandType": "Item",
+    "template": "Profile Card - Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

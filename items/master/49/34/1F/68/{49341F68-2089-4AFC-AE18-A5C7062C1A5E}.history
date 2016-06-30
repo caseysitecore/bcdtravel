@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49341F68-2089-4AFC-AE18-A5C7062C1A5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.0422750Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Basic Presentation Explanation",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Basic-Presentation-Explanation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

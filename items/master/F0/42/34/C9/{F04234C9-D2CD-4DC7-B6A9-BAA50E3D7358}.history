@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F04234C9-D2CD-4DC7-B6A9-BAA50E3D7358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:17.0154986Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bosnia and Herzegovina",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bosnia and Herzegovina",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

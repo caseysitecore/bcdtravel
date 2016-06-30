@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BC7DC67-BDB3-41F7-BC0B-2EA972BC28F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:08.8938421Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secure",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Secure",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

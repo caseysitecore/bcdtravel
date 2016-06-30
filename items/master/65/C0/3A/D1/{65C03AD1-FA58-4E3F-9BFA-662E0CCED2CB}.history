@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65C03AD1-FA58-4E3F-9BFA-662E0CCED2CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:59.2379982Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SendEmpty",
+    "itemPath": "/sitecore/templates/System/ASR/Report Email Task/Report Email/SendEmpty",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

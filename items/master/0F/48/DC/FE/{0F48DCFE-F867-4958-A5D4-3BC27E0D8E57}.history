@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F48DCFE-F867-4958-A5D4-3BC27E0D8E57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.3837940Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Glossary/Page Editor",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

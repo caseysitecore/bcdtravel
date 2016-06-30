@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{754D0673-D682-434C-9CB8-E81CB09ADFC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.5865522Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy To",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Copy To",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DA433C5-26E7-4BA6-A1CA-9492F34E10D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.0164311Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "5242012 24540 PM",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator/5242012 24540 PM",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

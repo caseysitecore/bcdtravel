@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E31F779-A33F-4142-8D9A-E9C9C6F41D17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:24.3130939Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Awaiting Approval",
+    "itemPath": "/sitecore/system/Workflows/Regular Workflow/Awaiting Approval",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

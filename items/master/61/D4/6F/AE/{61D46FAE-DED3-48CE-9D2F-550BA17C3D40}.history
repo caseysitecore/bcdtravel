@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61D46FAE-DED3-48CE-9D2F-550BA17C3D40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:16.1344173Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

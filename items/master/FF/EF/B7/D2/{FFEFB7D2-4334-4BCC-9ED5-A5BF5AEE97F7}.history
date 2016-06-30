@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFEFB7D2-4334-4BCC-9ED5-A5BF5AEE97F7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:39.4183794Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Performance By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Personalization Performance By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "Microsite Home",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4D9A7E46-069C-405D-92AA-8141F0BBCA95}",
+  "childIds": [
+    "{EA431273-3D4F-4E3A-97E2-08E958D5B8F9}"
+  ]
+}

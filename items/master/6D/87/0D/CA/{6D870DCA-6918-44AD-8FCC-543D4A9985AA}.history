@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D870DCA-6918-44AD-8FCC-543D4A9985AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.3445579Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "options",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces/options",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

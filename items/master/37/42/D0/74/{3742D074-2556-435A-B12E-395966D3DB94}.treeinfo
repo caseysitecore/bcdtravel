@@ -1,0 +1,10 @@
+{
+  "itemName": "Approve with Test",
+  "templateId": "{CB01F9FC-C187-46B3-AB0B-97A8468D8303}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2E31F779-A33F-4142-8D9A-E9C9C6F41D17}",
+  "childIds": [
+    "{985D39AB-6546-4024-824B-87C4D6364821}",
+    "{C02F16CC-E673-4853-BBFC-68BF164F6732}"
+  ]
+}

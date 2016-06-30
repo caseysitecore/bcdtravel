@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC4F60C0-C257-40D9-AC6A-21CEED7030C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.1556922Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brandon Royal",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Brandon Royal",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

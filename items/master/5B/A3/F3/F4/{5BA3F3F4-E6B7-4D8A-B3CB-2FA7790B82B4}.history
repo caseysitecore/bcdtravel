@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BA3F3F4-E6B7-4D8A-B3CB-2FA7790B82B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.2865289Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{962A3491-463F-4E23-9A43-84A293473724}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.1744509Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visible Profiles",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Profiling/Visible Profiles",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

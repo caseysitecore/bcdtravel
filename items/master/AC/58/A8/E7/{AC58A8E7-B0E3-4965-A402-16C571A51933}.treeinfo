@@ -1,0 +1,10 @@
+{
+  "itemName": "Carousel Backgrounds",
+  "templateId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{1D481CD4-7928-45B3-861C-CE1FE831A775}",
+  "childIds": [
+    "{DBC6FD94-4C8E-4CA4-A7FF-40F4DE9DC51D}",
+    "{09F4C982-2FCB-40C4-8A81-F47C4CF1F122}"
+  ]
+}

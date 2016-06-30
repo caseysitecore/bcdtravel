@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADC0E9F6-36AB-4F23-90F7-28B9E063EC97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:33.2098681Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Sample Visits/Sample Visits",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BE8F0BE-1B3D-4C5D-8954-06A669367D69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:15.7973980Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Update Value on the Visitor User Profile",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Update Value on the Visitor User Profile",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

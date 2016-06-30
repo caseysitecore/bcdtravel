@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72E98124-D531-4EF7-97E2-390E547838B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:51.4963863Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other PR",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/PR/Other PR",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

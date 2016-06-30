@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A870FCC2-FD60-40CA-9EBB-A033CB5C5DA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.2990273Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monochrome Logo",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Logos/Monochrome Logo",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

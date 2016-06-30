@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8AAE0EC-76D0-4147-BB9F-D8301B612D96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:05.5945231Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Remove Tests Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Remove Tests Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07C0CAB1-A744-42EB-BA83-AFD313D598D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:23.2389866Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Control name",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl/Data/Control name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

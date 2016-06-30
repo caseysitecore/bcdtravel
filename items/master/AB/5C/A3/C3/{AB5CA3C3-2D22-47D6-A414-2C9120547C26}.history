@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB5CA3C3-2D22-47D6-A414-2C9120547C26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.1762867Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Minimizing Downtime During Deployment",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Minimizing-Downtime-During-Deployment",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

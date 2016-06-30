@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B04E5199-08C5-48D5-8634-F02D645E850F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.2853702Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Use",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

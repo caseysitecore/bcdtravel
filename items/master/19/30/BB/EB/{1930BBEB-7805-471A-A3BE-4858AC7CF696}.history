@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1930BBEB-7805-471A-A3BE-4858AC7CF696}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:50.8002932Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard template",
+    "itemPath": "/sitecore/templates/System/Templates/Standard template",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

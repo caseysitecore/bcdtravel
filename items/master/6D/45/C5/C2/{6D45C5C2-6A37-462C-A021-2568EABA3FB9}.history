@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D45C5C2-6A37-462C-A021-2568EABA3FB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.7195637Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rename",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Rename",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

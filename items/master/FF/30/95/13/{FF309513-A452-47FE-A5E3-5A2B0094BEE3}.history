@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF309513-A452-47FE-A5E3-5A2B0094BEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:17.9105723Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Costa Rica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Costa Rica",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

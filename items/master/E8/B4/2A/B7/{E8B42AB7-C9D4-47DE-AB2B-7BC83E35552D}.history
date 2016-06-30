@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8B42AB7-C9D4-47DE-AB2B-7BC83E35552D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:20.1467576Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kazakhstan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kazakhstan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

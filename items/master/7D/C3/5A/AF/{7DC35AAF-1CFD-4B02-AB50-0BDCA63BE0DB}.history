@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DC35AAF-1CFD-4B02-AB50-0BDCA63BE0DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.8589020Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Required",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Required",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

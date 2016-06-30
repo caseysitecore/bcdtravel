@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B55F676-FC53-42D3-A2A7-269F6E121067}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:08.2937460Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Family",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Family",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A5DE9E1-0CEB-444C-9F6F-F23EF0069867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.9789319Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Abstract Spot",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Single Item/Abstract Spot",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

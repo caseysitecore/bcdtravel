@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4674871A-2885-4504-9CDE-CFBA07B2FA69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:53.0834882Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monetary Value Applicable",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Monetary Value Applicable",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

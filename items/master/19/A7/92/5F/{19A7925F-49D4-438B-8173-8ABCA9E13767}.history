@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19A7925F-49D4-438B-8173-8ABCA9E13767}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:34.0189028Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Category",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Report/Report/Category",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

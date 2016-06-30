@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A38DA01F-A8C4-4748-96A9-5145D068632C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.1068376Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Button",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels/Login Button",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

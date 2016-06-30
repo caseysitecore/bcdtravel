@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70893EF5-98E6-4721-844A-C364D0D9E48E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:50.5562731Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Items",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92353268-CD64-4860-B294-45FFEF552BE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.3310296Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controls",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

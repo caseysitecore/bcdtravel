@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B2D82BC-97C9-4A49-9839-AA19522E552D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:17.7635748Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "inherited",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content/inherited",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

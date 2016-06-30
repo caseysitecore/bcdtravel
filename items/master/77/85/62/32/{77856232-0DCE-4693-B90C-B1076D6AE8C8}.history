@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77856232-0DCE-4693-B90C-B1076D6AE8C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.0038292Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Confirm Password",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels/Confirm Password",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

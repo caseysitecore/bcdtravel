@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F886A391-64C2-46A1-ABD4-94CE0E819C5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.2367665Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Messages",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

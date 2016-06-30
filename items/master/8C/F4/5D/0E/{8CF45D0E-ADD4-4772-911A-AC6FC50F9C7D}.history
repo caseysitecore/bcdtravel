@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CF45D0E-ADD4-4772-911A-AC6FC50F9C7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:29.4315120Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alt",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Alt",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

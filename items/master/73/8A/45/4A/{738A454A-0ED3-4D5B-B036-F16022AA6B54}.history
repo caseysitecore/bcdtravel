@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{738A454A-0ED3-4D5B-B036-F16022AA6B54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:45.6728756Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Event Category",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event Category",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

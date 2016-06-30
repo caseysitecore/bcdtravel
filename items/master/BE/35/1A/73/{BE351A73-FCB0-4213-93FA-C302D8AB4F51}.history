@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE351A73-FCB0-4213-93FA-C302D8AB4F51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:56.0557272Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shared",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Shared",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

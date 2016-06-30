@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2659F454-D5E1-4D7C-A71C-8D67600D46BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:44.6217800Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Service",
+    "itemPath": "/sitecore/templates/System/Services/Item Service",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

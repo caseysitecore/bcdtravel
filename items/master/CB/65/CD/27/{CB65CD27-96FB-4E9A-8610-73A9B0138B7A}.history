@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB65CD27-96FB-4E9A-8610-73A9B0138B7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:57.6528662Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reference",
+    "itemPath": "/sitecore/templates/System/ASR/Reference",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

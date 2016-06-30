@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3A0C929-8BDB-462E-ABF1-8052F76CBAB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.7779836Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not recently modified",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Not recently modified",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

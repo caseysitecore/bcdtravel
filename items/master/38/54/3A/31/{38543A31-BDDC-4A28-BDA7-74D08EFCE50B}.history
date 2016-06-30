@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38543A31-BDDC-4A28-BDA7-74D08EFCE50B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.1817623Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Labels",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

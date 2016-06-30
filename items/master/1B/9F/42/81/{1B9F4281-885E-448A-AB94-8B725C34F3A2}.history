@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B9F4281-885E-448A-AB94-8B725C34F3A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.1373684Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Text Widget/__Standard Values",
+    "commandType": "Item",
+    "template": "Text Widget",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

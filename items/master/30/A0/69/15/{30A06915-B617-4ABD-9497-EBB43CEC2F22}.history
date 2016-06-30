@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30A06915-B617-4ABD-9497-EBB43CEC2F22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.8929023Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unable to login",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/Unable to login",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

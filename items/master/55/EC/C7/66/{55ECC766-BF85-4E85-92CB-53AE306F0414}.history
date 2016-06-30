@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55ECC766-BF85-4E85-92CB-53AE306F0414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:57.6788690Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report",
+    "itemPath": "/sitecore/templates/System/ASR/Report",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

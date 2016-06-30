@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDF76F74-6FD5-4E9D-B9AE-04297F76DB86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:18.7416411Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "France Metropolitan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France Metropolitan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

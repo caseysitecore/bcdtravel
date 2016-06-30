@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13351B83-A539-45A5-BBEC-4E85721C2A69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:03.7664343Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiling",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Configuration/Profiling",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

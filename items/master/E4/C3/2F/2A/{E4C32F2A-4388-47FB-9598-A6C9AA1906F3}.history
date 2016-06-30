@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4C32F2A-4388-47FB-9598-A6C9AA1906F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:00.8041571Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns and Targeting",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Campaigns and Targeting",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

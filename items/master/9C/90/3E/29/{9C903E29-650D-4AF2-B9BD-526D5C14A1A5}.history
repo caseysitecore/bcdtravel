@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:56.6487750Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validator Bar",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Validation Rules/Validator Bar",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

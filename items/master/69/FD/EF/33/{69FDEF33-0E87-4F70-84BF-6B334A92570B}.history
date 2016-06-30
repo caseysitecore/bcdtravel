@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69FDEF33-0E87-4F70-84BF-6B334A92570B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:11.5370134Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shortcut",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Button/Data/Shortcut",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

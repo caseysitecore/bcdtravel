@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD6DAC05-FEF8-4581-A329-6CEA310E839B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.6674908Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Item In Secondary Menu",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Item In Secondary Menu",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

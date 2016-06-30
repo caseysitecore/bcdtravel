@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F01AAE6-90D8-4F48-A9DA-7B48E28A56B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:57.7588739Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saved Report",
+    "itemPath": "/sitecore/templates/System/ASR/Saved Report",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

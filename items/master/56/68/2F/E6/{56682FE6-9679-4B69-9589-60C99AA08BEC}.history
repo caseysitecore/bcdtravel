@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56682FE6-9679-4B69-9589-60C99AA08BEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:45.2498401Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Category",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign Category",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

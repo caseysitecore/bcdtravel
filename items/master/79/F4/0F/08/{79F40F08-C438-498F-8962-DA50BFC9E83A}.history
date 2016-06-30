@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79F40F08-C438-498F-8962-DA50BFC9E83A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.1718435Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Labels/Password",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

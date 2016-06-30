@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D0FFD25-DA70-4DFF-85C0-6E045DC497B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.7045772Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Templates",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Base Templates",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

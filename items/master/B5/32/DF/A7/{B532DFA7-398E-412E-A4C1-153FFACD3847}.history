@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B532DFA7-398E-412E-A4C1-153FFACD3847}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:58.3499465Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Member Of Network",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Is Member Of Network",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

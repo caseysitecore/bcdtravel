@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F75C7E5-25E5-4ED7-9D84-C76BCE23E84C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:03.7174140Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/content/Global/Settings",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

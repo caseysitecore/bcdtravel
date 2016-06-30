@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E1A879D-CAEE-47D0-86E7-205425916418}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:51.5703618Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Primary Domain",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher/Configuration/Primary Domain",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

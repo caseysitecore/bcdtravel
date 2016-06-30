@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:54.5095991Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Updated",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Statistics/Statistics/__Updated",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

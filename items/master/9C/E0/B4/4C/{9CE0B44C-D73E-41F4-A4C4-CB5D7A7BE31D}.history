@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CE0B44C-D73E-41F4-A4C4-CB5D7A7BE31D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.3727770Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIp City",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Current Visit/GeoIp City",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

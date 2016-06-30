@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A709D712-D835-4168-ACDF-D427BC138DA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:48.0030982Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other 3rd party pay-per-lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd party/Other 3rd party pay-per-lead",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

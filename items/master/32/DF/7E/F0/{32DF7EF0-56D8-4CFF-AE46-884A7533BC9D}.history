@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32DF7EF0-56D8-4CFF-AE46-884A7533BC9D}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:36.0070684Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tool Button Group",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button Group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

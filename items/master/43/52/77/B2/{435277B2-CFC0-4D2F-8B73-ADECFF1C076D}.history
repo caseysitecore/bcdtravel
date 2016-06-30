@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{435277B2-CFC0-4D2F-8B73-ADECFF1C076D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.4929589Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items with Invalid Names",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Items with Invalid Names",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

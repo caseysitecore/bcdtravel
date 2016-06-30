@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5815F1A-9114-46C8-8468-730AAB657634}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:52.5354738Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visited a Job Function Page",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Launch Sitecore/Visited a Job Function Page",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

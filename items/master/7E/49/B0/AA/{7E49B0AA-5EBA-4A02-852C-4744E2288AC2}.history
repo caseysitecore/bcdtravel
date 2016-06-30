@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E49B0AA-5EBA-4A02-852C-4744E2288AC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:49.1891592Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Goal Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

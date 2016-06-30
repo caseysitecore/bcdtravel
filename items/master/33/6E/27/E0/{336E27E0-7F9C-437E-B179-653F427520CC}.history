@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{336E27E0-7F9C-437E-B179-653F427520CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:02.5053122Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Item",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Link Item",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC38EBB3-F2E8-493D-B0E6-B8C68C9AFB85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:01.8762618Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Building-the-Site",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site",
+    "commandType": "Item",
+    "template": "Article Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

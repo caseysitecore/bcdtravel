@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3F7782E-6352-43BE-8BEE-A5CA0ABE9DA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:07.0097048Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "full-row2b",
+    "itemPath": "/sitecore/layout/Placeholder Settings/Launch Sitecore/Full/full-row2b",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

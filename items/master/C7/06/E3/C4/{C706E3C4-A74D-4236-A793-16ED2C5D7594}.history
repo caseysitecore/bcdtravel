@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C706E3C4-A74D-4236-A793-16ED2C5D7594}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:50.7542951Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editor",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Automation Action/Editor",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

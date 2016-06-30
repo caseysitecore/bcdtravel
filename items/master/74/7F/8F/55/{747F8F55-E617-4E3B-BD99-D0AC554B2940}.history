@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{747F8F55-E617-4E3B-BD99-D0AC554B2940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:50.1902483Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Goal",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

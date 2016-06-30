@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49A59B6F-8807-4FB6-8BD4-6A3E0BBAA619}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.6767349Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buildings",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/General Use/Buildings",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

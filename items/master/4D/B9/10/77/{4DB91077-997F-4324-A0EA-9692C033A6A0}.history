@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DB91077-997F-4324-A0EA-9692C033A6A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.1930177Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor Alerts",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D54D5F8B-4DBE-4D43-8D1E-405C138EC0CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.5789664Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Links",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Links",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

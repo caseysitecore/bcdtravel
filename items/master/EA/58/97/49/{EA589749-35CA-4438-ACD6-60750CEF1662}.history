@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA589749-35CA-4438-ACD6-60750CEF1662}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:16.2404490Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "wffm",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/wffm",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

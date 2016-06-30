@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65EBF460-6082-4C6B-8283-8BEB3C871A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:21.2778661Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "windows",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/windows",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

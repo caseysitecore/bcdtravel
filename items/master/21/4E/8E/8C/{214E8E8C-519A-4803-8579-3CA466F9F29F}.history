@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{214E8E8C-519A-4803-8579-3CA466F9F29F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:53.7815763Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By language specific email",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By language specific email",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

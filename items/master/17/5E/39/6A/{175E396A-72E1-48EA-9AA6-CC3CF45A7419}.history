@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{175E396A-72E1-48EA-9AA6-CC3CF45A7419}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.2569413Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WorkflowEventViewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/WorkflowEventViewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5FB201D-D71C-4262-92D0-5673EFA43927}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:27.2723372Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Slide",
+    "itemPath": "/sitecore/templates/Branches/Launch Sitecore/Carousel Set/$name/Sample Slide",
+    "commandType": "Item",
+    "template": "Carousel Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

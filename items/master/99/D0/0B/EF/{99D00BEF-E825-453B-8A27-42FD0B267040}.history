@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99D00BEF-E825-453B-8A27-42FD0B267040}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.3326985Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Selector",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameter Types/Item Selector",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

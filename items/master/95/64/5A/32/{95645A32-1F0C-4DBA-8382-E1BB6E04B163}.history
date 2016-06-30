@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95645A32-1F0C-4DBA-8382-E1BB6E04B163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.1673619Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor Thumbnails",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Page Editor Thumbnails",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

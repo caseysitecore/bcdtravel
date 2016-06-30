@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6BCF0C8F-BE73-4D20-BF97-5667712AA0F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:15.2583676Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contributors",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

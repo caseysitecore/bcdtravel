@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9522D5CC-2CB1-40F6-B86D-10CB42F2F9FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.2576989Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Howard Kim",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Howard Kim",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

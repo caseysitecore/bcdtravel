@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{796F3B16-7547-4722-A155-128BD1E4EB84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:35.1930192Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inverse Logo",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Logos/Inverse Logo",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AB87DBC-195D-4D03-A0F6-1CB0A28BA5F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.6308842Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS Session Info No Pattern Match",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/DMS Session Info No Pattern Match",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

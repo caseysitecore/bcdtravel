@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDBF46B4-5B52-4C7A-A254-B588EC52944E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:52.6774556Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replace",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Placeholder Positions/Replace",
+    "commandType": "Item",
+    "template": "Property",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

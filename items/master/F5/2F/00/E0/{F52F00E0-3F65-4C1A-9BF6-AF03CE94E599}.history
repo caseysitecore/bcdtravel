@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F52F00E0-3F65-4C1A-9BF6-AF03CE94E599}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:05.5555661Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Microsite Subpage",
+    "itemPath": "/sitecore/templates/Launch Sitecore/Microsite Subpage",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

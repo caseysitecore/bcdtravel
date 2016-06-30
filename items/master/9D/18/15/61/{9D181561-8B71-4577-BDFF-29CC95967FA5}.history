@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D181561-8B71-4577-BDFF-29CC95967FA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:04.4944772Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "About Launch Sitecore",
+    "itemPath": "/sitecore/content/Global/Content/Text Widgets/About Launch Sitecore",
+    "commandType": "Item",
+    "template": "Text Widget",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

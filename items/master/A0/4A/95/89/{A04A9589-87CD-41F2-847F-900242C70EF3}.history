@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A04A9589-87CD-41F2-847F-900242C70EF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.3984707Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Link",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/External Site/External Site/Site Link",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

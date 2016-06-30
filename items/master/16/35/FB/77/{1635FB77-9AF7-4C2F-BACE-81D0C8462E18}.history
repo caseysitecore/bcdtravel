@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1635FB77-9AF7-4C2F-BACE-81D0C8462E18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:14.3262466Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebMethod",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/WebMethod",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

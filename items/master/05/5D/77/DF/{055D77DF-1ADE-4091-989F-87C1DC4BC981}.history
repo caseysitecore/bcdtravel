@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{055D77DF-1ADE-4091-989F-87C1DC4BC981}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:02.3763021Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create a custom sorting routine for content",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Create-a-custom-sorting-routine-for-content",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

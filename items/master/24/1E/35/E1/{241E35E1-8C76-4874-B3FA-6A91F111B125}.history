@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{241E35E1-8C76-4874-B3FA-6A91F111B125}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:57.6498881Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Country",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

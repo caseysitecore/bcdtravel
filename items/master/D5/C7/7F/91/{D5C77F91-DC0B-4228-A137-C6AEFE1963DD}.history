@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5C77F91-DC0B-4228-A137-C6AEFE1963DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:10.3179134Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size/Data/Display size",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

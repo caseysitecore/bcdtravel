@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFC55974-5B68-45F2-A3AD-A993E29777D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:38.6713067Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Error",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC5E0128-CC07-40AC-A7DD-50334A801A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:36.7471457Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-3rd-party",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

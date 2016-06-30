@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BEF6918-EFF5-48DB-937F-914BD2EEB15D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:11.1549882Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Divider",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Divider",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A33B49B-4A7C-4050-91FE-88C0C5342B22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:00.8401596Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Management",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Content Management",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

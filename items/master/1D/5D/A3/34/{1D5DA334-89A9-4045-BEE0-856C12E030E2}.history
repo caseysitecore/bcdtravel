@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D5DA334-89A9-4045-BEE0-856C12E030E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:45.7988954Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Favorites",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Messages/No Favorites",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

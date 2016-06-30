@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920A5A2F-DCBA-4F3A-BA5D-2CF46447E27F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:46.4129483Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

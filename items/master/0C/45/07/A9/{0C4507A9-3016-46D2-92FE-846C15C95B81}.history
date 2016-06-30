@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C4507A9-3016-46D2-92FE-846C15C95B81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:09.1598636Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link List",
+    "itemPath": "/sitecore/layout/Renderings/LaunchSitecore/Lists/Link List",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

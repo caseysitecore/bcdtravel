@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{324E820F-DF93-4E65-9E88-40C1D897FC4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:11.6730596Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visit details are not available in page editor",
+    "itemPath": "/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/visit details are not available in page editor",
+    "commandType": "Item",
+    "template": "Page Editor Message",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

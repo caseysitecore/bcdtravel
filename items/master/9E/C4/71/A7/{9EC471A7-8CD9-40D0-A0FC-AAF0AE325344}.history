@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EC471A7-8CD9-40D0-A0FC-AAF0AE325344}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:52.5954773Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visited the About Page",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Launch Sitecore/Visited the About Page",
+    "commandType": "Item",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

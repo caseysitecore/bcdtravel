@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22B427EB-EC8B-4403-9DE7-67055DC3B2DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:21.2118471Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Micronesia Federated States of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Micronesia Federated States of",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

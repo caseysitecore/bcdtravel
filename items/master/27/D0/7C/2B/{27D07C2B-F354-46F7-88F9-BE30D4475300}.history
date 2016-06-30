@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27D07C2B-F354-46F7-88F9-BE30D4475300}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.8845786Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Created between",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Created between",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

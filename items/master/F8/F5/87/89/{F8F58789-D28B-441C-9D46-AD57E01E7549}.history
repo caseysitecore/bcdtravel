@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8F58789-D28B-441C-9D46-AD57E01E7549}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.1545183Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ASR",
+    "itemPath": "/sitecore/system/Modules/ASR",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

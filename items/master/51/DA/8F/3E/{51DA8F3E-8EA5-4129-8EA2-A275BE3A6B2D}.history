@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51DA8F3E-8EA5-4129-8EA2-A275BE3A6B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:55.8607438Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel Maps",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Path Analyzer Map Groups/Channel Maps",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

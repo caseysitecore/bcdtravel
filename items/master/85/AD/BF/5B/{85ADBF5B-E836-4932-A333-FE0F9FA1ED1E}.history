@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:59.7170369Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch Folder",
+    "itemPath": "/sitecore/templates/System/Branches/Branch Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13BE412A-1F8C-49C7-8011-F43F98842CB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:06.9126631Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No publishable versions",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/No publishable versions",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

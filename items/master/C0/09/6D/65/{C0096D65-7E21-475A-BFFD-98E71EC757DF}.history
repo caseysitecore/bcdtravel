@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0096D65-7E21-475A-BFFD-98E71EC757DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:19.2817014Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Justin West",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Contributors/Justin West",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

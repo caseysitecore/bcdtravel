@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DDCB4A3-415F-4726-8262-4854A599878A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.5565499Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Change Ownership",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Commands/Change Ownership",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

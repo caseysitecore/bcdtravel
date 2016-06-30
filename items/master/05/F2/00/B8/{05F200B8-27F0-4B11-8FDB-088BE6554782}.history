@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05F200B8-27F0-4B11-8FDB-088BE6554782}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.6449709Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logged errors",
+    "itemPath": "/sitecore/system/Modules/ASR/Reports/Logged errors",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

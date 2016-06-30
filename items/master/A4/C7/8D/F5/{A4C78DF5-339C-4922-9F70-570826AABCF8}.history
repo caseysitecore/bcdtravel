@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4C78DF5-339C-4922-9F70-570826AABCF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:07.0676772Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Save item filter",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Save item filter",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

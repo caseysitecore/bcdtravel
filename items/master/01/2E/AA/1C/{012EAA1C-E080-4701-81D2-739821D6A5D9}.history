@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{012EAA1C-E080-4701-81D2-739821D6A5D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:24:51.7923816Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OutcomesStorage",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/OutcomesStorage",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

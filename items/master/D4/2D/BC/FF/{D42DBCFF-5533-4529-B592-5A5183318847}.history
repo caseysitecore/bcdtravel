@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D42DBCFF-5533-4529-B592-5A5183318847}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:21.0338490Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "form blue",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/form blue",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

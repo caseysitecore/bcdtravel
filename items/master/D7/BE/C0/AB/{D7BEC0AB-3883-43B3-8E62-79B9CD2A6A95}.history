@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7BEC0AB-3883-43B3-8E62-79B9CD2A6A95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:58.8059913Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Campaigns",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

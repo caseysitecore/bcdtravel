@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF86F279-7C3D-43CD-BAE0-86FC15EFBF59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:05.9195833Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Exclude folders",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Filters/Exclude folders",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

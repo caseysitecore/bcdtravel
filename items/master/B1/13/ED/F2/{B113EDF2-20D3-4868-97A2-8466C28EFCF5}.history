@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B113EDF2-20D3-4868-97A2-8466C28EFCF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.3407808Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last year",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/AgeISO/Last year",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

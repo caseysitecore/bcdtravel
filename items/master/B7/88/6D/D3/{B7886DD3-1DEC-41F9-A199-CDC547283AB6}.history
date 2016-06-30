@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7886DD3-1DEC-41F9-A199-CDC547283AB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:08.8638253Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Templates",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Parameters/Verb/Templates",
+    "commandType": "Item",
+    "template": "Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

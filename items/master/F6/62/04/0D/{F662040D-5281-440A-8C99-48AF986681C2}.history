@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F662040D-5281-440A-8C99-48AF986681C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:01.7422357Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Information Type/Pattern Cards",
+    "commandType": "Item",
+    "template": "Pattern Cards",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

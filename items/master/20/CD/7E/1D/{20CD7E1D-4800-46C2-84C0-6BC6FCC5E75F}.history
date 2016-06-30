@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20CD7E1D-4800-46C2-84C0-6BC6FCC5E75F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:22.8529850Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Lucia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Lucia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

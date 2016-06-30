@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9E44555-02A6-407A-B4FC-96B9026CAADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:40.7344940Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publishing targets",
+    "itemPath": "/sitecore/system/Publishing targets",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

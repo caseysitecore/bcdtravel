@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B7B7673-0F9B-418A-BB05-535E5D6E959C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.2239369Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Viewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/User Viewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

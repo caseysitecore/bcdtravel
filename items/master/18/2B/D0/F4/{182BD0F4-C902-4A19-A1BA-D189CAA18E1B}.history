@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{182BD0F4-C902-4A19-A1BA-D189CAA18E1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:13.9862185Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Global",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B820570-CB3F-4644-9C04-2709BF0686BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:10.1309287Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Viewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/Media Viewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

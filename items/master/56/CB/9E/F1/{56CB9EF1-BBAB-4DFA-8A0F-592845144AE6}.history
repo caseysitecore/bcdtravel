@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56CB9EF1-BBAB-4DFA-8A0F-592845144AE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:20.7358237Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Color",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Color",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

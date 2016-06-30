@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{117BA748-16AE-4BFB-9276-E848B2CBF454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:46.0109125Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Results for",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Search/Search Results for",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

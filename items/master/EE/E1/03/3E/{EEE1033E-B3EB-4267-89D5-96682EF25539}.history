@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEE1033E-B3EB-4267-89D5-96682EF25539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:52.7864943Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

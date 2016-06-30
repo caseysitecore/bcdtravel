@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB192B29-F925-405A-90C7-C9F7AB9938E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:34.5089608Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Plue Pawn",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Plue Pawn",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

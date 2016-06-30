@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BC75539-D5C4-487B-AF35-FF13D62BD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:50.4542653Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Tasks/Command/Data/Method",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "itemName": "External Sites",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6F75C7E5-25E5-4ED7-9D84-C76BCE23E84C}",
+  "childIds": [
+    "{7F4B6687-F37C-4B30-84A4-A710B463CA8F}",
+    "{D1AE0DFD-42F5-4FED-AFBD-2700CCB5F065}"
+  ]
+}

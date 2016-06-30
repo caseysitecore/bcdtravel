@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C476345-5343-471A-BEED-30EADCBE54F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:22:44.7308066Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Definition",
+    "itemPath": "/sitecore/system/Dictionary/Launch Sitecore/Headings/Definition",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

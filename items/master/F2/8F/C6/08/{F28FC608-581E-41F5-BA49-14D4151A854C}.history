@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F28FC608-581E-41F5-BA49-14D4151A854C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:09.9939173Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemViewer",
+    "itemPath": "/sitecore/system/Modules/ASR/Configuration/Viewer/ItemViewer",
+    "commandType": "Item",
+    "template": "Viewer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

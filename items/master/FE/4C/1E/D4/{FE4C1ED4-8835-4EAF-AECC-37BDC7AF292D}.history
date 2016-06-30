@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE4C1ED4-8835-4EAF-AECC-37BDC7AF292D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:23:55.8947415Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Maps",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Path Analyzer Map Groups/Goal Maps",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

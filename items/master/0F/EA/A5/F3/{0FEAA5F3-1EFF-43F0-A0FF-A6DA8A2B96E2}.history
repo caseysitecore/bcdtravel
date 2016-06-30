@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FEAA5F3-1EFF-43F0-A0FF-A6DA8A2B96E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:25:34.2009194Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap/__Standard Values",
+    "commandType": "Item",
+    "template": "ReversableMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

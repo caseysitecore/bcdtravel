@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E003143-26F2-4A28-B70A-08548286F6BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T19:26:04.5954883Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show Item In Menu",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Item In Menu",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

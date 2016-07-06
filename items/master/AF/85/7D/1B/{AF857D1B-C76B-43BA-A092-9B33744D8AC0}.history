@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Accessing-Current-Visitor-Information",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "415a770349a3be43b4b5495e536eb8a5476b54d3",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{AF857D1B-C76B-43BA-A092-9B33744D8AC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.8804791Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Accessing Current Visitor Information",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Accessing-Current-Visitor-Information",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "415a770349a3be43b4b5495e536eb8a5476b54d3",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

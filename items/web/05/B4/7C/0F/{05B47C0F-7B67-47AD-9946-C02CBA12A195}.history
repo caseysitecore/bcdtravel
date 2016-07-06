@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{05B47C0F-7B67-47AD-9946-C02CBA12A195}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:28:48.7883739Z",
+    "label": "Moved from About-Launch-Sitecore to News",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Optimizing-the-Experience",
+    "itemPath": "/sitecore/content/Home/News/Optimizing-the-Experience",
+    "commandType": "Item",
+    "template": "Article Group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

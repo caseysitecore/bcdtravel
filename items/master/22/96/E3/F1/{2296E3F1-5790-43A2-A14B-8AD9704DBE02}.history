@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Create-a-Goal",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a2ce20746904d5f371129d3b53f826360b8215d9",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{2296E3F1-5790-43A2-A14B-8AD9704DBE02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:46.7011270Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Create a Goal",
+    "itemPath": "/sitecore/content/Home/News/Optimizing-the-Experience/Create-a-Goal",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "a2ce20746904d5f371129d3b53f826360b8215d9",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

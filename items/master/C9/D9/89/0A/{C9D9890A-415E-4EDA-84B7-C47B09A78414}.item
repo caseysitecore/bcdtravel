@@ -2,9 +2,9 @@
 version: 1
 id: {C9D9890A-415E-4EDA-84B7-C47B09A78414}
 database: master
-path: /sitecore/content/Home/News/Building-the-Site/Create-an-AB-Test
+path: /sitecore/content/Home/News/BCD Company News/Improve the World
 parent: {EC38EBB3-F2E8-493D-B0E6-B8C68C9AFB85}
-name: Create-an-AB-Test
+name: Improve the World
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: ee62d6c7-1ae6-4528-ab66-62df94faf163
+revision: 4a1e91b1-c6b0-4224-b9e8-f2c8773e097f
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -215,14 +215,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ee62d6c7-1ae6-4528-ab66-62df94faf163
+4a1e91b1-c6b0-4224-b9e8-f2c8773e097f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T162532Z
+20160705T194307Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

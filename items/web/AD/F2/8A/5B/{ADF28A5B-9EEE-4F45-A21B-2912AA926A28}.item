@@ -1,0 +1,155 @@
+----item----
+version: 1
+id: {ADF28A5B-9EEE-4F45-A21B-2912AA926A28}
+database: web
+path: /sitecore/content/Home/News
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: News
+master: {00000000-0000-0000-0000-000000000000}
+template: {53303AA5-8E78-4263-A476-C1E7ED791FDE}
+templatekey: Articles Section
+created: 20160703T162009:636031596098170000
+
+----field----
+field: {1E2AAB62-E924-421E-B766-BF8422CCBE44}
+name: Show Item In Footer Menu
+key: show item in footer menu
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+250
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
+----version----
+language: en
+version: 1
+revision: f0a51733-c599-4306-825c-d5b69f33b4a5
+
+----field----
+field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
+name: Title
+key: title
+content-length: 4
+
+News
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 288
+
+<p>There&rsquo;s something special happening in the travel industry. Some call it disruption. Others call it evolution. No matter what it&rsquo;s called, we like it. We&rsquo;re in our element here&mdash;a place that allows us to open doors and turn on the lights for others.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 2213
+
+<h3>Business travel consulting services from Advito</h3>
+<p> </p>
+<h3>Yesterday&rsquo;s procurement methods won&rsquo;t cut it anymore</h3>
+<p>
+There&rsquo;s something special happening in the travel industry. Some call it disruption. Others call it evolution. No matter what it&rsquo;s called, we like it. We&rsquo;re in our element here&mdash;a place that allows us to open doors and turn on the lights for others.<br>
+<br>
+At Advito, we see travel differently. We believe that you cannot sustain your procurement performance without evolving the way you source, contract, influence, and measure in this category.<br>
+<br>
+To deliver year-over-year savings, today&rsquo;s procurement requires a modern approach, more data and a fresh perspective.<br>
+<br>
+</p>
+<h3>We deliver year-over-year savings</h3>
+<p>Advito is the most progressive travel consultancy in the world. We exist to create modern approaches for procurement leaders to manage the travel and meetings categories at the leading edge of best practices.<br>
+<br>
+We provide better visibility into the true value of a contract than any of our competitors&mdash;unlocking savings and helping you win.<br>
+<br>
+We are a team of experts in air and hotel sourcing, digital marketing, traveler influence, communications strategy, meetings strategy and integration, and policy design&mdash;all with one thing in common: thought leadership and a proven track record of high success.<br>
+<br>
+We&rsquo;re leading the way to the future<br>
+<br>
+Yes, we still do air and hotel sourcing. We simply do it better and smarter, the way our evolving world demands. We also go beyond sourcing. We are the only travel consultancy that offers a dedicated, staffed and structured traveler engagement practice. We&rsquo;re also the only consultancy who has invested in the resources and is leading the way in SMM and Integrated Travel and Meetings (ITM).<br>
+<br>
+Our clients tell us that with us, they&rsquo;re procuring smarter and expanding their perspective. They say we&rsquo;re helping them prepare for the future. We&rsquo;d love to show you.<br>
+<br>
+Looking for more information on how Advito can help you procure smarter? Find it at www.advito.com.</p>
+<p> </p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{3B69D10B-B6D6-4BF7-8826-9C82BCCC418D}" />
+----field----
+field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
+name: Menu Title
+key: menu title
+content-length: 4
+
+News
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 13
+
+sitecore\bill
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160703T162009Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 13
+
+sitecore\bill
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f0a51733-c599-4306-825c-d5b69f33b4a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160705T202845Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+sitecore\bill
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

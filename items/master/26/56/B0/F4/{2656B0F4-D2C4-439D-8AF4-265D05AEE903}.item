@@ -2,9 +2,9 @@
 version: 1
 id: {2656B0F4-D2C4-439D-8AF4-265D05AEE903}
 database: master
-path: /sitecore/content/Home/News/Advito Industry News/Tag-Content-for-Each-Profile
+path: /sitecore/content/Home/News/Advito Industry News/Advito BCD Travel Cisco
 parent: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
-name: Tag-Content-for-Each-Profile
+name: Advito BCD Travel Cisco
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
@@ -52,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6a254ad2-addf-473d-befb-e2b157625d54
+revision: 28aca310-9898-4ae2-97f6-dae281925c1d
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -175,14 +175,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6a254ad2-addf-473d-befb-e2b157625d54
+28aca310-9898-4ae2-97f6-dae281925c1d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T201823Z
+20160705T201839Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

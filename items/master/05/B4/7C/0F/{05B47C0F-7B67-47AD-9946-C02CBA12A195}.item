@@ -2,9 +2,9 @@
 version: 1
 id: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
 database: master
-path: /sitecore/content/Home/News/Optimizing-the-Experience
+path: /sitecore/content/Home/News/Travel Industry News
 parent: {ADF28A5B-9EEE-4F45-A21B-2912AA926A28}
-name: Optimizing-the-Experience
+name: Travel Industry News
 master: {00000000-0000-0000-0000-000000000000}
 template: {1B6A3702-5694-4FC4-8366-989ECDCD7F1B}
 templatekey: Article Group
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6e218b3b-d114-4f3f-b564-76bf5ea52658
+revision: 4a50f34a-014b-423e-a4d5-077b75a9f9f2
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -84,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6e218b3b-d114-4f3f-b564-76bf5ea52658
+4a50f34a-014b-423e-a4d5-077b75a9f9f2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T162118Z
+20160705T200450Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

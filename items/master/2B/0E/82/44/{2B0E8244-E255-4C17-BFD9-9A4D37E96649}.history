@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2B0E8244-E255-4C17-BFD9-9A4D37E96649}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T17:35:27.8136056Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Adtivo-icon",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/Adtivo-icon",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: a998fdb5-8720-48dd-b1e0-d70c83a5f7cb
+revision: cf2aeecc-ce26-4bdf-8c8e-074a51f518cd
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -54,16 +54,16 @@ content-length: 191
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
 key: icon
-content-length: 184
+content-length: 183
 
-<image mediaid="{2A90D1E4-87ED-4BFD-8392-AE73747DECC6}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/g-o/link" src="~/media/2a90d1e487ed4bfd8392ae73747decc6.ashx" ></image>
+<image mediaid="{43AC962B-AB66-4D01-A19E-6D07A5034BBB}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/g-o/link" src="~/media/2a90d1e487ed4bfd8392ae73747decc6.ashx"></image>
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
-content-length: 17
+content-length: 16
 
-Building the Site
+BCD Company News
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -84,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a998fdb5-8720-48dd-b1e0-d70c83a5f7cb
+cf2aeecc-ce26-4bdf-8c8e-074a51f518cd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T194119Z
+20160705T194224Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

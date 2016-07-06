@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4DCC8D68-A1D5-4B02-AFDB-A2BE84D618C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:29:14.1973804Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "CoveoModule",
+    "itemPath": "/sitecore/templates/CoveoModule",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

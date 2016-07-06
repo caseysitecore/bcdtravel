@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A994FC25-BF5D-4628-9F0C-C0890FD2A11A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T17:15:05.5652790Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "engage-travelers-category",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/BCD Page Images/engage-travelers-category",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

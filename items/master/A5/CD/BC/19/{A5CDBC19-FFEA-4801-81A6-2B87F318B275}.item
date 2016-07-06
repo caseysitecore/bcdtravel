@@ -55,7 +55,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 9bacb5d8-ff54-4332-855b-dff5f3be1976
+revision: 6964161b-4fde-4e96-a9cb-2ac44abb9a13
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -68,16 +68,22 @@ Online Corporate Travel
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 119
+content-length: 68
 
-<p>An article section covering the discussions and considerations important for setting the project up for success.</p>
+<p>We help companies make the most of what they spend on travel.</p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 578
+content-length: 553
 
-<p>Do we have good handle on roles and responsibilities?  How do we ensure the best experience for our content authors, reviewers, publishers, marketers and visitors?  Have we properly researched and investigated the main Sitecore topics around contend and presentation separation, making effective use of the Page Editor user interface, workflow and publishing?  Taking time to understand the particular strengths of Sitecore's information architecture and presentation strategy are key to ensuring the effective use of the incredible building blocks the platform provides.</p>
+<div>We help companies make the most of what they spend on travel.</div>
+<ul>
+    <li>For travelers, this means keeping them safe and productive, and equipping them to make good choices on the road.</li>
+    <li>For travel and procurement managers, it means advising them on how to grow the value of their travel program.</li>
+    <li>For executives, we ensure that the travel program supports company objectives.</li>
+</ul>
+<div>In short, we help our clients travel smart and achieve more. Choose a category to find out how can we help you today.</div>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -112,14 +118,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9bacb5d8-ff54-4332-855b-dff5f3be1976
+6964161b-4fde-4e96-a9cb-2ac44abb9a13
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T155957Z
+20160703T161414Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

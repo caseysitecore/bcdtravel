@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: caaee7ff-d3b8-4a5e-afc9-411352febca6
+revision: 4c4f711c-eafc-4690-81dc-8da7b49f5f32
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -41,7 +41,7 @@ content-length: 280
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1563
+content-length: 1763
 
 <h2>The right intelligence for your travel program</h2>
 <h3>Better data means better decisions</h3>
@@ -57,7 +57,7 @@ DecisionSource&reg; helps you visualize information and make fast, confident dec
 <h3>Intuitive, highly visual information</h3>
 <br>
 <p>A new generation of analytics and intelligent reporting make it easy for you to identify program opportunities and share data with key stakeholders quickly and easily.</p>
-<h3>Stay on top of your program&rsquo;s performance</h3>
+<h3>Stay on top of your program&rsquo;s performance<img alt="More with Data" src="-/media/1e1ac23184ad4c25b2b7a499421e716b.ashx?h=249&amp;w=300" style="height: 249px; width: 300px; float: right; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"></h3>
 <p> </p>
 <p>We help you: </p>
 <ul>
@@ -66,6 +66,13 @@ DecisionSource&reg; helps you visualize information and make fast, confident dec
     <li>Act on opportunities before it&rsquo;s too late.</li>
 </ul>
 <p>Let&rsquo;s talk about how we can make your data work for you.</p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{44C0765A-9CBB-48DB-9C39-E9C483E67967}" />
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -100,14 +107,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-caaee7ff-d3b8-4a5e-afc9-411352febca6
+4c4f711c-eafc-4690-81dc-8da7b49f5f32
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T171200Z
+20160703T172030Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

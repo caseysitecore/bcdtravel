@@ -1,0 +1,48 @@
+----item----
+version: 1
+id: {055D77DF-1ADE-4091-989F-87C1DC4BC981}
+database: web
+path: /Create-a-custom-sorting-routine-for-content
+parent: {00000000-0000-0000-0000-000000000000}
+name: Create-a-custom-sorting-routine-for-content
+master: {00000000-0000-0000-0000-000000000000}
+template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
+templatekey: Article
+created: 20160628T185859:636027371392230000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 385
+
+<tracking>
+  <profile id="{62A90F30-9BAB-425B-8A6D-4AE5A28371D6}" name="Job Function" presets="devon the developer|100||">
+    <key name="Analytics" value="1" />
+    <key name="Copywriting" value="1" />
+    <key name="Personalization and Testing" value="2" />
+    <key name="Technology" value="5" />
+    <key name="Workflow and Publishing" value="3" />
+  </profile>
+</tracking>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{1B6A3702-5694-4FC4-8366-989ECDCD7F1B}
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}

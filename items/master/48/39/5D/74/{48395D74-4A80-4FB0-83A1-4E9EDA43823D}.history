@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{48395D74-4A80-4FB0-83A1-4E9EDA43823D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:25:59.7820227Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "About BCD Group",
+    "itemPath": "/sitecore/content/Global/Content/Quotations/About BCD Group",
+    "commandType": "Item",
+    "template": "Quotation",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

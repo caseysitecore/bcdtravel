@@ -21,23 +21,23 @@ content-length: 1
 field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
 name: Show Children In Menu
 key: show children in menu
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
 name: Show Item In Secondary Menu
 key: show item in secondary menu
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {1E2AAB62-E924-421E-B766-BF8422CCBE44}
 name: Show Item In Footer Menu
 key: show item in footer menu
-content-length: 1
+content-length: 0
 
-1
+
 ----field----
 field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
 name: Show In Search Results
@@ -62,7 +62,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d88e993f-896f-4d7a-a34f-18ae3f48fa45
+revision: 94e04b5b-53d0-4e20-9e81-9b80f51a18c5
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -126,14 +126,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d88e993f-896f-4d7a-a34f-18ae3f48fa45
+94e04b5b-53d0-4e20-9e81-9b80f51a18c5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T162248Z
+20160703T172828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

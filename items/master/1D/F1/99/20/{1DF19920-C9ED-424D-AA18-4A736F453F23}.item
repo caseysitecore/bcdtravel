@@ -2,9 +2,9 @@
 version: 1
 id: {1DF19920-C9ED-424D-AA18-4A736F453F23}
 database: master
-path: /sitecore/content/Global/Content/Quotations/Sitecore is Awesome
+path: /sitecore/content/Global/Content/Quotations/About Advito
 parent: {E439B4E9-620E-4E1C-963F-B122A892B6ED}
-name: Sitecore is Awesome
+name: About Advito
 master: {00000000-0000-0000-0000-000000000000}
 template: {BB5F90B5-6EFC-4FF0-BA65-35D0C325AFAE}
 templatekey: Quotation
@@ -13,7 +13,7 @@ created: 20160628T185850:636027371301730000
 ----version----
 language: en
 version: 1
-revision: f078af56-cf4a-4f10-9e6d-2f52e67af23d
+revision: 3d6bb06f-3a85-4ac0-9921-b05b4cebb3a1
 
 ----field----
 field: {60B57A34-140A-4E04-B576-E390D08E3231}
@@ -44,14 +44,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f078af56-cf4a-4f10-9e6d-2f52e67af23d
+3d6bb06f-3a85-4ac0-9921-b05b4cebb3a1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202429Z
+20160705T202443Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

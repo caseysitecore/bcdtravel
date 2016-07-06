@@ -2,7 +2,7 @@
 version: 1
 id: {2656B0F4-D2C4-439D-8AF4-265D05AEE903}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Tag-Content-for-Each-Profile
+path: /sitecore/content/Home/News/Advito Industry News/Tag-Content-for-Each-Profile
 parent: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
 name: Tag-Content-for-Each-Profile
 master: {00000000-0000-0000-0000-000000000000}
@@ -52,15 +52,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 59523047-959a-4634-a99c-c36b0b9d5a1a
+revision: b2da522b-bd73-4367-a90c-c4d1b3a08511
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 28
+content-length: 64
 
-Tag Content for Each Profile
+Advito and BCD Travel sign industry-leading agreement with Cisco
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
@@ -175,21 +175,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-59523047-959a-4634-a99c-c36b0b9d5a1a
+b2da522b-bd73-4367-a90c-c4d1b3a08511
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131218T152258:635229769788307002
+20160705T201759Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Create-a-custom-sorting-routine-for-content",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1b118ec0155d21e2d04ef99dd35e0532e3f77512",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{055D77DF-1ADE-4091-989F-87C1DC4BC981}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.7744712Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Create a custom sorting routine for content",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Create-a-custom-sorting-routine-for-content",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "1b118ec0155d21e2d04ef99dd35e0532e3f77512",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

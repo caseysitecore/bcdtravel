@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/What-is-Presentation",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d0f12198571aa73dbe8b946f0a124a9b833c9e45",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{5EA97F1D-0685-4637-9D3D-D4F289BA7950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.5014711Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "What is Presentation",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/What-is-Presentation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "d0f12198571aa73dbe8b946f0a124a9b833c9e45",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

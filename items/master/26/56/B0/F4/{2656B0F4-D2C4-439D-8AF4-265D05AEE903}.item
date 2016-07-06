@@ -52,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 84b988fa-935b-4a34-b156-e2e8f0fccb96
+revision: 331437a7-b4d5-4512-9c53-0e325ac5a3b0
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -65,8 +65,9 @@ Advito and BCD Travel sign industry-leading agreement with Cisco
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 8
+content-length: 172
 
+<p>BCD Travel and its consulting practice, Advito, have signed a marketing agreement with Cisco aimed at increasing the use of virtual collaboration solutions.</p>
 <p> </p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
@@ -159,14 +160,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-84b988fa-935b-4a34-b156-e2e8f0fccb96
+331437a7-b4d5-4512-9c53-0e325ac5a3b0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202251Z
+20160705T202317Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

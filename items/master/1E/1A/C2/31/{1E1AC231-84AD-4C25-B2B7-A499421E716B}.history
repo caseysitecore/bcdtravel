@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1E1AC231-84AD-4C25-B2B7-A499421E716B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T17:15:07.3224138Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "more-with-data",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/BCD Page Images/more-with-data",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

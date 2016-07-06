@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{5EA97F1D-0685-4637-9D3D-D4F289BA7950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:28:53.9238103Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "What is Presentation",
+    "itemPath": "/sitecore/content/Home/News/BCD Company News/What-is-Presentation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B4A2BCB2-CE65-4C95-980A-BBFC42CF0F9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:29:17.7106692Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Field Sort Parameters/Basic Settings/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

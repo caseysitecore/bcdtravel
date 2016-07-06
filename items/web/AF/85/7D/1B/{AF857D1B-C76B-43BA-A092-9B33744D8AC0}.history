@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{AF857D1B-C76B-43BA-A092-9B33744D8AC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:28:53.9648806Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Accessing Current Visitor Information",
+    "itemPath": "/sitecore/content/Home/News/BCD Company News/Accessing-Current-Visitor-Information",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

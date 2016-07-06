@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: babf31d9-3455-4356-b3d6-4634b24f3614
+revision: 246c7d61-16f5-4090-aa5f-f87c79f97d38
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -55,22 +55,22 @@ content-length: 188
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 934
+content-length: 1167
 
 <h2>Keep your travelers engaged at every stage of the trip</h2>
-<h3>Your travelers are your customers—and they’re consumers, too.</h3>
-<p>They want ease, convenience and great service when they get stuck. If you give them what they need and want to be productive before, during and after their trips, you’ll keep them happy—and achieve major program improvements.<br>
+<h3>Your travelers are your customers&mdash;and they&rsquo;re consumers, too.</h3>
+<p>They want ease, convenience and great service when they get stuck. If you give them what they need and want to be productive before, during and after their trips, you&rsquo;ll keep them happy&mdash;and achieve major program improvements.<br>
 <br>
-The good news is: Your travelers want to do the right thing. The more you engage them, the more compliant they’re likely to be.<br>
+The good news is: Your travelers want to do the right thing. The more you engage them, the more compliant they&rsquo;re likely to be. <img alt="Engage Travelers" src="-/media/3ffddc599e2a4ba1a38931f4eb906013.ashx?h=244&amp;w=400" style="height: 244px; width: 400px; float: right; margin-top: 5px; margin-bottom: 5px;"><br>
 <br>
-We’ll help you:</p>
+We&rsquo;ll help you:</p>
 <ul>
     <li>Make it easy to plan a trip.</li>
     <li>Encourage travelers to make good decisions based on your policy.</li>
     <li>Change traveler behavior to boost savings and satisfaction.</li>
-    <li>Engage your travelers at every phase of the trip – from planning through en route services, all the way to expense management.</li>
+    <li>Engage your travelers at every phase of the trip &ndash; from planning through en route services, all the way to expense management.</li>
 </ul>
-Get in touch, and we’ll help you get your travelers engaged.
+Get in touch, and we&rsquo;ll help you get your travelers engaged.
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -112,14 +112,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-babf31d9-3455-4356-b3d6-4634b24f3614
+246c7d61-16f5-4090-aa5f-f87c79f97d38
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T165817Z
+20160703T171831Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -2,8 +2,8 @@
 version: 1
 id: {C9D9890A-415E-4EDA-84B7-C47B09A78414}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Create-an-AB-Test
-parent: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
+path: /sitecore/content/Home/News/Building-the-Site/Create-an-AB-Test
+parent: {EC38EBB3-F2E8-493D-B0E6-B8C68C9AFB85}
 name: Create-an-AB-Test
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{EB14C49D-B95C-4104-86F7-D5C96FA33952}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:29:41.0295429Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/ASR/Saved Report/Data/Parameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

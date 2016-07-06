@@ -90,7 +90,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Information-Architecture",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7ba3669d5a271f850e9d6879470b4956ec752aa6",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{2D58F800-F15A-4A42-8B01-9F095A7E5315}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.4414581Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Information-Architecture",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Information-Architecture",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "7ba3669d5a271f850e9d6879470b4956ec752aa6",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

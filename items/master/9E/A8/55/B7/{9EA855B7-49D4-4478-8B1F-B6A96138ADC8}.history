@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9EA855B7-49D4-4478-8B1F-B6A96138ADC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:15:04.4741281Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "IntelligentPrograms-150x150",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/BCD Travel/IntelligentPrograms-150x150",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

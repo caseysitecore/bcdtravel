@@ -10,10 +10,17 @@ template: {DAF085E8-602E-43A6-8299-038FF171349F}
 templatekey: Jpeg
 created: 20160703T171507:636031629073070000
 
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
 ----version----
 language: en
 version: 1
-revision: a71802cd-a10e-41c8-aef3-19e1fb957703
+revision: d16f40f6-78cd-4881-b756-b5e7a4c74727
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a71802cd-a10e-41c8-aef3-19e1fb957703
+d16f40f6-78cd-4881-b756-b5e7a4c74727
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

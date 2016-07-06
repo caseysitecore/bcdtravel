@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2CC7C3FB-1D34-4133-B4E6-EA7AE496965E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:27:27.9147275Z",
+    "label": "Created",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Intelligent Programs",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/Intelligent Programs",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

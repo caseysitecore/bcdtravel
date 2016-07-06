@@ -2,7 +2,7 @@
 version: 1
 id: {49341F68-2089-4AFC-AE18-A5C7062C1A5E}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Basic-Presentation-Explanation
+path: /sitecore/content/Home/Articles/BCD Travel Services/Basic-Presentation-Explanation
 parent: {15D0FCF2-7C81-4218-A5A0-7605084D1CBC}
 name: Basic-Presentation-Explanation
 master: {00000000-0000-0000-0000-000000000000}
@@ -49,15 +49,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 99ef694f-1d0d-446c-8161-ae2437434445
+revision: 900a3e81-0f8c-450a-9728-cbfb780c0c96
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 30
+content-length: 20
 
-Basic Presentation Explanation
+BCD Meeting & Events
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
@@ -129,21 +129,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-99ef694f-1d0d-446c-8161-ae2437434445
+900a3e81-0f8c-450a-9728-cbfb780c0c96
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20140218T112727:635283196476381285
+20160703T174816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

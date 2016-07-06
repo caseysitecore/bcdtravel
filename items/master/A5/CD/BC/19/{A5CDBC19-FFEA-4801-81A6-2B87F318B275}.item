@@ -14,30 +14,37 @@ created: 20160628T185859:636027371392670000
 field: {7E003143-26F2-4A28-B70A-08548286F6BA}
 name: Show Item In Menu
 key: show item in menu
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
 name: Show Children In Menu
 key: show children in menu
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
 name: Show Item In Secondary Menu
 key: show item in secondary menu
-content-length: 0
+content-length: 1
 
+1
+----field----
+field: {1E2AAB62-E924-421E-B766-BF8422CCBE44}
+name: Show Item In Footer Menu
+key: show item in footer menu
+content-length: 1
 
+1
 ----field----
 field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
 name: Show In Search Results
 key: show in search results
-content-length: 0
+content-length: 1
 
-
+1
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -55,7 +62,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6964161b-4fde-4e96-a9cb-2ac44abb9a13
+revision: 114d4521-ed35-41da-91a7-0c489d6b0b92
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -75,7 +82,7 @@ content-length: 68
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 553
+content-length: 562
 
 <div>We help companies make the most of what they spend on travel.</div>
 <ul>
@@ -84,20 +91,21 @@ content-length: 553
     <li>For executives, we ensure that the travel program supports company objectives.</li>
 </ul>
 <div>In short, we help our clients travel smart and achieve more. Choose a category to find out how can we help you today.</div>
+<p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
 key: icon
-content-length: 191
+content-length: 190
 
-<image mediaid="{5F1AFA0F-CCDF-4194-B26C-E8E82FF99E68}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/a-b/alarm-clock" src="~/media/5f1afa0fccdf4194b26ce8e82ff99e68.ashx" ></image>
+<image mediaid="{7C1D2BE5-6EAB-430A-A348-53A94E454726}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/a-b/alarm-clock" src="~/media/5f1afa0fccdf4194b26ce8e82ff99e68.ashx"></image>
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
-content-length: 15
+content-length: 23
 
-Getting Started
+Online Corporate Travel
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -118,14 +126,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6964161b-4fde-4e96-a9cb-2ac44abb9a13
+114d4521-ed35-41da-91a7-0c489d6b0b92
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T161414Z
+20160703T161934Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

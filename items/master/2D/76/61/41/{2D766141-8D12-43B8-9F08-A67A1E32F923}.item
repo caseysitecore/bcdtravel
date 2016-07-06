@@ -48,47 +48,41 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 9d2731e5-e113-40ad-bcf5-f165b2fc9457
+revision: 8257d341-6cff-4789-a9e2-0b38402a7d29
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 34
+content-length: 38
 
-Creating a personalized experience
+Advito Industry Forecast for June 2016
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 125
+content-length: 364
 
-<p>This article describes setting up a simple personalization rule in the Page Editor user interface for Launch Sitecore.</p>
+<p><span style="text-align: justify; color: #404040;">According to Advito&rsquo;s June 2016 Industry Forecast Update, on-demand traveler tracking, continuous sourcing activities in lieu of an annual sourcing cycle and increased use of travel apps are among trends to watch for right now.</span></p>
+<p><span style="text-align: justify; color: #404040;"></span></p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 3273
+content-length: 2126
 
-<p>Sitecore's Page Editor user interface provides inline personalization features focused on creating a custom experience for site visitors.  Through the Page Editor, a content owner can easily change a control's output based on any number of visitor conditions, for both authenticated and anonymous visitors.  These conditions range from GEOIP information to whether a visitor has achieved a defined goal for the site to "patterns" that watch for specific visitor trends.  With this simple to use interface, a marketing team can implement rules that show or hide content, drive different content into the control, or decide to show a different control in its place.  This article shows the steps to create a simple rule on the Launch Sitecore home page.</p>
-<p><strong>Personalization using the Page Editor</strong></p>
-<p>The Page Editor contains inline personalization functionality that allows you to specify the rules and conditions that must be met before personalized content is displayed.  It also lets you test this functionality before you publish it on your website.  Basically, the thought process involves identifying the conditions to watch for and the resulting actions to take if that condition exists.</p>
-<p>For this example, we'll change the "marketing spot" messaging on the home page if the visitor has already visited the site.</p>
-<p>To apply this personalization rule to a control using the Page Editor:</p>
-<p>1. Login to the Page Editor and enable designing mode</p>
-<p><img width="441" height="98" class="img-polaroid" alt="Design" src="~/media/88457AA9F56F468BADB7489889587A51.ashx" /></p>
-<p>2. Hover over the control you want to add a rule to and click once. Select the <em>Personalize the Component </em>button:</p>
-<p><img height="346" alt="marketing spot" width="416" src="~/media/0dbc62f8303f4ad5aa0721f6d5c8e4aa.ashx" /></p>
-<p>3. Click <em>New Condition</em> and specify a name for this personalization rule. Select which content will show when this rule condition is met in the <em>Personalize Content </em>box. You could also choose to hide the component if the rule is met, or switch in another control/rendering by checking the <em>Enable personalization of component design </em>checkbox.</p>
-<p><img width="563" height="449" class="img-polaroid" alt="New Component" src="~/media/9169FB6CF5C44BBDA775DA938DDFF350.ashx" /></p>
-<p>4. Click the <em>Edit </em>button to open the <em>Rule Set Editor</em></p>
-<p><img width="561" height="447" class="img-polaroid" alt="Rule set" src="~/media/AF9EB3F4E66A4635A6E2E678D347BC23.ashx" /></p>
-<p>5. Here you can define a set of rules to trigger the change in content for this component. Click a rule to add it to the rule description. Once a rule is added to the description, click an underlined value to edit it.</p>
-<p><img width="496" height="552" class="img-polaroid" alt="Create Rule" src="~/media/56F8E5CDFC684DD79D69083D9BD86A7D.ashx" /></p>
-<p>6. Click ok and add more conditions if necessary. When you are finished, you are able to switch between the personalization conditions created by selecting the drop down on the control itself:</p>
-<p><img width="278" height="265" class="img-polaroid" alt="Condition" src="~/media/2E5216785AAB4DC4A86693E5B77AEDCA.ashx" /></p>
-<p ><br />
-</p>
+<h2><strong> </strong>Advito: Traveler tracking, increased use of traveler apps and industry predictions in Advito&rsquo;s June 2016 Industry Forecast Update</h2>
+<p> </p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, June 14, 2016 </strong>&ndash; According to Advito&rsquo;s June 2016 Industry Forecast Update, on-demand traveler tracking, continuous sourcing activities in lieu of an annual sourcing cycle and increased use of travel apps are among trends to watch for right now.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><em style="margin: 0px; padding: 0px; border: 0px;">Other market findings in Advito&rsquo;s June 2016 update include:</em></p>
+<ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px; text-align: justify;">
+    <li style="margin: 0px; padding: 0px; border: 0px;">Devaluation of currency poses a challenge in a number of emerging markets, particularly Latin America, which has seen large depreciations.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px;">World economy will grow slightly slower in 2016 than it did in 2015. Weak global demand means advanced economies are losing momentum as their exports struggle to find customers.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px;">Decreased oil price assumption to US$40 pb from US$50 pb, as we believe continued over-supply will delay any recovery in prices</li>
+    <li style="margin: 0px; padding: 0px; border: 0px;">Growing amount of uncertainty clouding the outlook as commentators suggest the industry has reached a peak in business travel demand, confidence, hotel performance and airfares</li>
+</ul>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">The Advito industry forecast released in September 2015, features special sections on travel risk and security, Airbnb, hotel program innovation and Lufthansa&rsquo;s distribution cost charge.</p>
+<p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -107,9 +101,9 @@ content-length: 38
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
-content-length: 22
+content-length: 38
 
-Inline Personalization
+Advito Industry Forecast for June 2016
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -130,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9d2731e5-e113-40ad-bcf5-f165b2fc9457
+8257d341-6cff-4789-a9e2-0b38402a7d29
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T201245Z
+20160705T201700Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

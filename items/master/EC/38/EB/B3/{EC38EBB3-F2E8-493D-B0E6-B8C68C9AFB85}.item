@@ -27,29 +27,29 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: bb8d1d79-7a2b-468b-b68f-d25a36ec37cd
+revision: a998fdb5-8720-48dd-b1e0-d70c83a5f7cb
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 17
+content-length: 12
 
-Building the Site
+Company News
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 95
+content-length: 52
 
-<p>An article section covering the implementation details around putting the site together.</p>
+<p>BCD Travel and BCD Travel Group company news.</p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 771
+content-length: 191
 
-<p>Now that we've answered some questions up front, it's time to get to it.  While everyone agrees how important it is to discuss strategy, timelines and project plans...there's nothing like getting to the exciting work of putting the site together.  Now it's time to model those goals we discussed, ensuring the best experience for all our audiences--both internal and external.  Control development will follow the principles of achieving the optimal experience for content owners, marketers AND visitors.  We will achieve the optimal balance of governance and flexibility.  We will ensure that content can be produced quickly and effectively, that it can be reviewed efficiently and without bottleneck, published at the exact right time and taken down when needed.</p>
+<p>List of BCD Travel and BCD Travel Group company news. This section will list press releases on company initiatives, programs and results important to any of BCD Travel's constituents. </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -84,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bb8d1d79-7a2b-468b-b68f-d25a36ec37cd
+a998fdb5-8720-48dd-b1e0-d70c83a5f7cb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T162046Z
+20160705T194119Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

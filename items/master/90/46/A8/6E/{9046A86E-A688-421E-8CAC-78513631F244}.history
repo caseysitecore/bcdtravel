@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9046A86E-A688-421E-8CAC-78513631F244}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:15:05.1821775Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "sidebar-pillar-02",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/BCD Travel/sidebar-pillar-02",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

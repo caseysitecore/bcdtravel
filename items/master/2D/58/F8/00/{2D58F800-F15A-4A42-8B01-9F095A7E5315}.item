@@ -53,15 +53,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c23511ac-bc49-43b7-8e85-90766981dcc1
+revision: d873e02b-0767-4550-b3ac-3b5f31c992dc
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 29
+content-length: 24
 
-Information Architecture Save
+Information Architecture
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
@@ -127,14 +127,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c23511ac-bc49-43b7-8e85-90766981dcc1
+d873e02b-0767-4550-b3ac-3b5f31c992dc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160630T213535Z
+20160630T214252Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

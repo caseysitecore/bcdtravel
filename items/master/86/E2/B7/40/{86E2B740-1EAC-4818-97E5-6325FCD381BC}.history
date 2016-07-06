@@ -90,7 +90,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Test",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "70a09d83d6dc24f0e60e872327cd5b72dfbe10c7",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{86E2B740-1EAC-4818-97E5-6325FCD381BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:14.1104943Z",
+    "label": "Deleted",
+    "workflowState": "{A84A3674-4317-49B7-847F-B3AF8506D04B}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Test",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Test",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "70a09d83d6dc24f0e60e872327cd5b72dfbe10c7",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

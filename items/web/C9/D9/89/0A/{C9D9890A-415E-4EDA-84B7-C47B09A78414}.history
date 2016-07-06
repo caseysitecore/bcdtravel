@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Moved",
+    "database": "web",
+    "itemId": "{C9D9890A-415E-4EDA-84B7-C47B09A78414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:28:53.2367465Z",
+    "label": "Moved from Advito Industry News to BCD Company News",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Create an AB Test",
+    "itemPath": "/sitecore/content/Home/News/BCD Company News/Create-an-AB-Test",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

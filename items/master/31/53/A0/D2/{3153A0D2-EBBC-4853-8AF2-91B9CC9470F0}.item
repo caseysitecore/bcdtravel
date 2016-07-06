@@ -2,13 +2,41 @@
 version: 1
 id: {3153A0D2-EBBC-4853-8AF2-91B9CC9470F0}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Workflow
+path: /sitecore/content/Home/Articles/Our-Strategy/Workflow
 parent: {15D0FCF2-7C81-4218-A5A0-7605084D1CBC}
 name: Workflow
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
 created: 20160628T185859:636027371393630000
+
+----field----
+field: {7E003143-26F2-4A28-B70A-08548286F6BA}
+name: Show Item In Menu
+key: show item in menu
+content-length: 0
+
+
+----field----
+field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
+name: Show Children In Menu
+key: show children in menu
+content-length: 0
+
+
+----field----
+field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
+name: Show Item In Secondary Menu
+key: show item in secondary menu
+content-length: 0
+
+
+----field----
+field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
+name: Show In Search Results
+key: show in search results
+content-length: 0
+
 
 ----field----
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
@@ -49,7 +77,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: fbd3fb09-df30-4c10-b10f-51a480af2cb7
+revision: 68475c22-a7f6-47cd-9119-4be077c4b5d5
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -126,9 +154,9 @@ content-length: 181
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
-content-length: 38
+content-length: 0
 
-{EF5350C8-21BF-43A3-BCEF-71F29D91AEF0}
+
 ----field----
 field: {EFC4A071-5574-404A-8206-FB502FCA909B}
 name: Prerequisite Articles
@@ -170,21 +198,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fbd3fb09-df30-4c10-b10f-51a480af2cb7
+68475c22-a7f6-47cd-9119-4be077c4b5d5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20140218T112726:635283196467092866
+20160703T162258Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

@@ -2,7 +2,7 @@
 version: 1
 id: {31ADDF4F-F2AA-436A-A459-A3E1A7808471}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Building-a-large-multinational-multilingual-site
+path: /sitecore/content/Home/Articles/Our-Strategy/Building-a-large-multinational-multilingual-site
 parent: {15D0FCF2-7C81-4218-A5A0-7605084D1CBC}
 name: Building-a-large-multinational-multilingual-site
 master: {00000000-0000-0000-0000-000000000000}
@@ -46,7 +46,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 90d1a458-20dd-4ee5-9501-68eea4eed01d
+revision: d8dd6cf1-3cff-47de-8225-b5f9179ce22c
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -152,9 +152,9 @@ content-length: 38
 field: {EFC4A071-5574-404A-8206-FB502FCA909B}
 name: Prerequisite Articles
 key: prerequisite articles
-content-length: 38
+content-length: 0
 
-{5EB8EF2A-66C0-4A9D-915D-F616098E96A5}
+
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -189,21 +189,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90d1a458-20dd-4ee5-9501-68eea4eed01d
+d8dd6cf1-3cff-47de-8225-b5f9179ce22c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20140218T112727:635283196475290953
+20160703T162351Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

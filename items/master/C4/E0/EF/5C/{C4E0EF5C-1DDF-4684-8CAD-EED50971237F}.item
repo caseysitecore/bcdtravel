@@ -2,7 +2,7 @@
 version: 1
 id: {C4E0EF5C-1DDF-4684-8CAD-EED50971237F}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Getting-Started/The-Sitecore-UIs
+path: /sitecore/content/Home/Articles/Online Corporate Travel/The-Sitecore-UIs
 parent: {A5CDBC19-FFEA-4801-81A6-2B87F318B275}
 name: The-Sitecore-UIs
 master: {00000000-0000-0000-0000-000000000000}
@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 695931a7-79ea-46c1-897d-9eafe9e9d0cd
+revision: 2daf1dd7-66eb-45e0-bf4d-5dd3d5287e73
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -69,7 +69,7 @@ content-length: 93
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 7511
+content-length: 7439
 
 <p>When working with any content management system, obviously one of the most important aspects is actually working with the content; editing, publishing, applying personalization or metadata, etc.</p>
 <p>Because Sitecore separates content from presentation, we provide a user interface that is optimized for each task - either content-centric, or presentation-centric. To access the various user interfaces, click <strong>Options</strong> at the login screen. (Note, this is where you can also access the User Interface Language options dropdown).</p>
@@ -116,7 +116,7 @@ content-length: 7511
 <p>In this case, you'll see the validation errors displaying in the Content tab next to the Abstract field as well as in the validation bar on the right. This particular issue is signalling the absence of content that is required on this item.</p>
 <p>The gutter on the left of the Content Tree can be used to indicate a large number of status messages, including validation, broken links, locked items, etc. You can right click to enable/disable various options.</p>
 <p><img width="327" height="555" alt="Sitecore Gutter Commands" src="~/media/B023AD92E7E148EBA0E802ED7EBD03E4.ashx"></p>
-<p>(For more information on validation, see the advanced article <a href="~/link.aspx?_id=0C3C261523EF4E278D563D9521F6FFCA&amp;_z=z">How to create a Custom Validator</a>.)</p>
+<p>(For more information on validation, see the advanced article How to create a Custom Validator.)</p>
 <h3></h3>
 <h3>Sitecore Desktop</h3>
 <p>Of course, for people like System Administrators, Information Architects, Developers, etc. who need to access other aspects of the system, we provide the Sitecore Desktop - which allows easy access to both the Page Editor and the Content Editor, as well as many other tools necessary for advanced tasks, the most used being:</p>
@@ -170,21 +170,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-695931a7-79ea-46c1-897d-9eafe9e9d0cd
+2daf1dd7-66eb-45e0-bf4d-5dd3d5287e73
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160629T192756Z
+20160703T162508Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\Casey
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

@@ -2,9 +2,9 @@
 version: 1
 id: {D451E1BE-229E-4AA9-B143-D521BE1B8043}
 database: master
-path: /sitecore/content/Global/Content/Quotations/TDS Makes a Developers Life Easier
+path: /sitecore/content/Global/Content/Quotations/About BCD Travel
 parent: {E439B4E9-620E-4E1C-963F-B122A892B6ED}
-name: TDS Makes a Developers Life Easier
+name: About BCD Travel
 master: {00000000-0000-0000-0000-000000000000}
 template: {BB5F90B5-6EFC-4FF0-BA65-35D0C325AFAE}
 templatekey: Quotation
@@ -13,7 +13,7 @@ created: 20160628T185850:636027371301870000
 ----version----
 language: en
 version: 1
-revision: 3a53c83f-0dd5-4888-b7c7-d04e3ccf0260
+revision: c40396f9-f5d4-4205-9bbc-e0c78b74d195
 
 ----field----
 field: {60B57A34-140A-4E04-B576-E390D08E3231}
@@ -44,14 +44,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3a53c83f-0dd5-4888-b7c7-d04e3ccf0260
+c40396f9-f5d4-4205-9bbc-e0c78b74d195
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202527Z
+20160705T202538Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

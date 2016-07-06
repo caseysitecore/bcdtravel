@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1B102D7F-9964-4F70-8E65-66577AF3C1A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:14:43.8789702Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "BCD Travel",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/BCD Travel",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

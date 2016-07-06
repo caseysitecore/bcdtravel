@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Workflow",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3b2fd2e68c90197817dfb13e347d521a79259851",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{3153A0D2-EBBC-4853-8AF2-91B9CC9470F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:23:21.7732920Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Workflow",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "3b2fd2e68c90197817dfb13e347d521a79259851",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

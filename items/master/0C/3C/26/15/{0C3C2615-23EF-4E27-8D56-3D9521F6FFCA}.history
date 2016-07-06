@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Create-a-Custom-Validator",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c12307a04253be590b664807c17b11cb5bda2c8c",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{0C3C2615-23EF-4E27-8D56-3D9521F6FFCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.9634839Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Create a Custom Validator",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Create-a-Custom-Validator",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "c12307a04253be590b664807c17b11cb5bda2c8c",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

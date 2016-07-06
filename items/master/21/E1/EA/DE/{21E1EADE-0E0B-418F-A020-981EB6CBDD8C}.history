@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Creating-a-List-Control",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fc0892a48dd3535c388ec6ec501f98da71e300ae",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{21E1EADE-0E0B-418F-A020-981EB6CBDD8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:14.0364894Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Creating-a-List-Control",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Creating-a-List-Control",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "fc0892a48dd3535c388ec6ec501f98da71e300ae",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

@@ -2,8 +2,8 @@
 version: 1
 id: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience
-parent: {63ABEE8A-4E38-4159-9193-D5F0A33AD666}
+path: /sitecore/content/Home/News/Optimizing-the-Experience
+parent: {ADF28A5B-9EEE-4F45-A21B-2912AA926A28}
 name: Optimizing-the-Experience
 master: {00000000-0000-0000-0000-000000000000}
 template: {1B6A3702-5694-4FC4-8366-989ECDCD7F1B}

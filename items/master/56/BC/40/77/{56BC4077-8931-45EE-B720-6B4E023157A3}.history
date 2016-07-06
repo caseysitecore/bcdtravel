@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{56BC4077-8931-45EE-B720-6B4E023157A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T18:20:09.8701595Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Advito",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/BCD Page Images/Advito",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

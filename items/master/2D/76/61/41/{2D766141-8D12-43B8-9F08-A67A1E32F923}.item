@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 8257d341-6cff-4789-a9e2-0b38402a7d29
+revision: df4f1eee-319c-40d6-b696-8d39071687ae
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -89,7 +89,7 @@ name: Icon
 key: icon
 content-length: 181
 
-<image mediaid="{286FCB06-13E7-4A1D-977A-172BE183CB15}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contrast" src="~/media/286fcb0613e74a1d977a172be183cb15.ashx" />
+<image mediaid="{01208932-D57D-47D4-8529-D04E138AB6E5}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contrast" src="~/media/286fcb0613e74a1d977a172be183cb15.ashx" />
 ----field----
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8257d341-6cff-4789-a9e2-0b38402a7d29
+df4f1eee-319c-40d6-b696-8d39071687ae
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T201700Z
+20160705T201721Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

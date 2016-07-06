@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{54B1B524-A8C2-442B-8DA2-F5BA89FBBB9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:15:04.0831003Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Disruption-Services_100x100",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/Icons/BCD Travel/Disruption-Services_100x100",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

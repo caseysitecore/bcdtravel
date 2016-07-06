@@ -59,6 +59,20 @@ b4iu0wcej2eibYXtB/ay3Lk4LT7id49QcJlCMRGnFnkdV6W1B1f20qnF2VdmVWR9U3SX/tACyk8c
 hrVIN5iJ39oOnCpNuqF8GW3NwHqnHT72qcOn7MP5vYF+gT6wdZ0UWCz/B4cLMuHSkuOwAAAAAElF
 TkSuQmCC
 ----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+64
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+64
+----field----
 field: {C06867FE-9A43-4C7D-B739-48780492D06F}
 name: Extension
 key: extension
@@ -80,6 +94,13 @@ content-length: 4
 
 2343
 ----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+64 x 64
+----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
@@ -89,7 +110,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 52a96be3-83c6-4c5d-9503-3e0450756525
+revision: c472d61c-7de1-4f46-84b1-6ef1719b8092
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -118,7 +139,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-52a96be3-83c6-4c5d-9503-3e0450756525
+c472d61c-7de1-4f46-84b1-6ef1719b8092
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

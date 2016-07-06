@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Building-a-large-multinational-multilingual-site",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1f321e79f85e60748d1c00490727ee2a15132f9c",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{31ADDF4F-F2AA-436A-A459-A3E1A7808471}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:24:06.2441697Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Building a large multinational multilingual site",
+    "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Building-a-large-multinational-multilingual-site",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "1f321e79f85e60748d1c00490727ee2a15132f9c",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

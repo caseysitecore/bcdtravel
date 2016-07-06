@@ -11,6 +11,13 @@ templatekey: Articles Section
 created: 20160703T162009:636031596098170000
 
 ----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+250
+----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -20,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6f20486b-9948-460c-abb4-ad16fe728991
+revision: aeb20b70-5e15-413c-b5f2-f752b84d62a8
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -63,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6f20486b-9948-460c-abb4-ad16fe728991
+aeb20b70-5e15-413c-b5f2-f752b84d62a8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T162010Z
+20160703T162021Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

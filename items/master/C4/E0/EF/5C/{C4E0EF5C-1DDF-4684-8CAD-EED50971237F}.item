@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: b4f1e12d-2669-46a3-8ba2-dce2a4736387
+revision: 4ff597bc-4156-4b5d-8b8b-e2a3205c7d7e
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -70,8 +70,21 @@ content-length: 486
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 8
+content-length: 1078
 
+<p>Travel means more to your company than booking a plane ticket or hotel room. It&rsquo;s also about the tools and solutions that help track, manage and guide travelers (and their expenses) through every step of a journey.<br>
+<br>
+Chances are that some part of your travel program will need to change to keep all of those elements working together in the right way.<br>
+<br>
+BCD Travel is uniquely positioned to help you cope with&ndash;and plan for&ndash;that change. We build service configurations that meet your needs now and allow for change as your organization evolves.<br>
+<br>
+We offer :</p>
+<ul>
+    <li>Booking tools and techniques that help people book in the way they prefer.</li>
+    <li>Automated trip authorization programs that support compliance and your duty of care.</li>
+    <li> Corporate payment systems suited to your organization&rsquo;s needs.</li>
+</ul>
+<div> Together with our sister organizations, Advito and BCD Meetings &amp; Events, we can also provide support for category sourcing management and meetings and events management.</div>
 <p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
@@ -114,14 +127,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b4f1e12d-2669-46a3-8ba2-dce2a4736387
+4ff597bc-4156-4b5d-8b8b-e2a3205c7d7e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T164130Z
+20160703T164424Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

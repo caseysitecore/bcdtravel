@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: de2071a1-957c-4c69-a88d-bb498c229355
+revision: d6ff61df-3bf2-4219-8344-a07771318a32
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -29,6 +29,44 @@ key: title
 content-length: 20
 
 Intelligent Programs
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 280
+
+<p>When operations are running smoothly, you are collecting massive amounts of accurate data that positions your program to continuously improve. Your data must be consolidated and analyzed so you have a complete understanding of spend patterns and traveler behavior.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1529
+
+<h2>The right intelligence for your travel program</h2>
+<h3>Better data means better decisions</h3>
+<br>
+See how your travel program compares&mdash;across the region or around the world&mdash;against your goals, your peers or top performers. And, put your data to work&mdash;making the right changes to improve.<br>
+<br>
+DecisionSource&reg; helps you visualize information and make fast, confident decisions about your program.<br>
+<br>
+<h3>Intelligence on demand</h3>
+<p>Within 90 minutes of booking, your program data is available for viewing. That&rsquo;s industry-leading speed&mdash;giving you a head start on managing the variables that can chip away at compliance, risk management and your bottom line.</p>
+<h3>Unparalleled accuracy</h3>
+<p>But, who wants speed without accuracy? We&rsquo;re the best in the industry when it comes to validating, cleaning and quality-checking data&mdash;whether it comes from us, another TMC or other sources.</p>
+<h3>Intuitive, highly visual information</h3>
+<br>
+<p>A new generation of analytics and intelligent reporting make it easy for you to identify program opportunities and share data with key stakeholders quickly and easily.</p>
+<h3>Stay on top of your program&rsquo;s performance</h3>
+<p> </p>
+We help you:
+<p> </p>
+<br>
+Focus on improvements, and strengthen your supplier deals.<br>
+Spot policy gaps, compliance issues and trends in traveler behavior.<br>
+Act on opportunities before it&rsquo;s too late.<br>
+<br>
+Let&rsquo;s talk about how we can make your data work for you.
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -63,14 +101,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-de2071a1-957c-4c69-a88d-bb498c229355
+d6ff61df-3bf2-4219-8344-a07771318a32
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T170033Z
+20160703T170904Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

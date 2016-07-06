@@ -10,11 +10,25 @@ template: {DAF085E8-602E-43A6-8299-038FF171349F}
 templatekey: Jpeg
 created: 20160703T173527:636031641277930000
 
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
 ----version----
 language: en
 version: 1
-revision: b2dd6a34-cd5b-4feb-9af8-f50aad5c22f4
+revision: 652d0e8d-9cf4-4776-81f6-5b4797f85723
 
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 11
+
+Adtivo Icon
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b2dd6a34-cd5b-4feb-9af8-f50aad5c22f4
+652d0e8d-9cf4-4776-81f6-5b4797f85723
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T173527Z
+20160703T173528Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

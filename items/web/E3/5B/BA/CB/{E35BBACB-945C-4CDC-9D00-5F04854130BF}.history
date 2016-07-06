@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E35BBACB-945C-4CDC-9D00-5F04854130BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:29:39.9624386Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/ASR/Saved Report/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

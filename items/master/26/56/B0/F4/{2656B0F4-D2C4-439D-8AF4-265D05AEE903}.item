@@ -52,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 62eff482-62c4-4741-9da8-26f67751c634
+revision: 84b988fa-935b-4a34-b156-e2e8f0fccb96
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -65,61 +65,45 @@ Advito and BCD Travel sign industry-leading agreement with Cisco
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 446
+content-length: 8
 
-<p>By assigning content profile values to items that make up your site you are able to gain a better understanding of the behavior, actions, and interests of your website visitors. The values you assign to each page accumulate as a visitor navigates through the site. This allows you to build a profile for an individual site visitor, which can then be used along with other DMS tools such as campaigns, personalization, and engagement plans.</p>
+<p> </p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 6129
+content-length: 7349
 
-<p>
-<strong>Tag Content for Each Profile</strong>
-</p>
-<p style="margin: 0in 0in 10pt;">In Sitecore, you can assign content profile values to a page on your website. By assigning content profile values to items that make up your site you are able to gain a better understanding of the behavior, actions, and interests of your website visitors. The values you assign to each page accumulate as a visitor navigates through the site. This allows you to build a profile for an individual site visitor, which can then be used along with other DMS tools such as campaigns, personalization, and engagement plans.</p>
-<p style="margin: 0in 0in 10pt;"><em>Profiles</em></p>
-<p style="margin: 0in 0in 10pt;"><img width="280" height="518" alt="Profiles" src="~/media/6751DA7C00FB4049AB1189DEEFFFEC88.ashx"></p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;">The Marketing Center (accessed using the Sitecore Desktop interface) contains a node entitled “Profiles”. The Profiles section is where you can create, edit, and manage profile settings which will then be applied to pages on your site. Profile settings consist of:</p>
-<p style="margin: 0in 0in 10pt;"><strong>Profile </strong> - a group of related profile keys. The Profile item’s child items will be the collection of related profile keys. The “type” field on the Profile item defines the relationship between the profile keys</p>
-<p style="margin: 0in 0in 10pt;"><em>Examples:</em> Age, Gender, Budget, Evaluator Type</p>
-<p style="margin: 0in 0in 10pt;"><img width="779" height="411" style="width: 595px; height: 282px;" alt="Prof Content" src="~/media/B40929DE9ED04AF6813D7B9BFCB95134.ashx"></p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;"><strong>Profile key - </strong>an attribute of the parent profile item.  The Profile Key contains a min, max, and default value. </p>
-<p style="margin: 0in 0in 10pt;"><em>Example 1:</em> A “Male” <em>Profile Key </em>is given a min value of 0 and a max value of 5 under the “Gender” <em>Profile</em>. A page can then be tagged with a score of 3 points on the “Male” <em>Profile Key.</em> This means when a site visitor hits this page, the visitor will accumulate 3 points towards being a male.</p>
-<p style="margin: 0in 0in 10pt;"><em>Example 2: </em>The Launch Sitecore demo site groups site visitors into an “Evaluator Type” profile. The four profile keys include:</p>
-<ul>
-  <li><em>Content Author</em> </li>
-  <li><em>Developer</em> </li>
-  <li><em>IT Professional</em> </li>
-  <li><em>Marketer</em> </li>
+<h2> Advito and BCD Travel sign industry-leading agreement with Cisco to power launch of a new Total Collaboration Management practice</h2>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;"> </strong></p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, April 15, 2016</strong> &ndash; BCD Travel and its consulting practice, Advito, have signed a marketing agreement with Cisco aimed at increasing the use of virtual collaboration solutions.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">The agreement positions BCD Travel as the leading travel management company in employing networking and collaboration technologies to increase the ROI on corporate travel programs. It also positions the company as a leader in helping businesses achieve greater work-life balance in the competition for talent.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;Virtual collaboration solutions can now effectively replace travel in many circumstances,&rdquo; says April Bridgeman, senior vice president, BCD Travel, and managing director, Advito. &ldquo;We see a new discipline emerging that uses a holistic and strategic approach to deciding which trips drive value and which meetings are best handled by virtual collaboration.&rdquo;</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;Travel avoidance is an obvious benefit of using video but the benefits go far beyond not having to catch a plane,&rdquo; said Andre Smit, who leads Cisco&rsquo;s worldwide collaboration sales organization. &ldquo;Since more than 45% of communication is visual, increasing the number of times you connect face-to-face improves communication. On a quality video call, the people involved feel like they are actually together in the same room &ndash; it helps drive a relationship. This is critical for remote workers, for meetings with partners and clients, for interactions with vendors and suppliers.&rdquo;</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">As a key part of the agreement, Advito has developed a powerful service set for companies to increase awareness and use of virtual collaboration assets&mdash;either reducing travel spend or shifting it toward higher value travel. The new Total Collaboration Management practice is aimed at increasing employee satisfaction and improving effectiveness of all types of employee collaboration. For example:</p>
+<ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px;">
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Setting reasonable and specific company goals for travel savings or spend shift to more valuable travel</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Engaging employees so they can determine when they should go to a meeting or stay put</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Actually making it easier for employees to stay</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Measuring progress along the way</li>
 </ul>
-<p><img width="778" height="484" style="width: 599px; height: 325px;" alt="Prof Key Content" src="~/media/8EF384E4B2E04202A509DB01826DC872.ashx"></p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;"><strong>Profile Card - </strong>The use of profile cards simplifies content profiling by grouping percentages of Profile Keys together. Profile Cards are placed on content items and represent a predefined set of Profile Key values. You can also create Persona Cards, which have extra fields to describe the life, habits, background, interests, and profession of a fictional character who contains aspects of the parent Profile. </p>
-<p style="margin: 0in 0in 10pt;"><em>Example: </em>Connie the Content Author scores the full 5 points for the Content Author Profile Key. This Profile Card will be placed on articles for Content Authors only.</p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;"> <img src="~/media/E0087664F046418BA14125FEEF5CC048.ashx" alt="Connie" style="width: 640px; height: 452px;"></p>
-<p style="margin: 0in 0in 10pt;"><strong>Pattern Card – </strong>a Pattern Card is used by the personalization rules engine to determine what profile attributes the current site visitor looks most like.</p>
-<p style="margin: 0in 0in 10pt;"><em>Example:</em> If a site visitor is hitting mostly Content Author tagged pages, but visits a few Marketer tagged pages, we are still going to say they <em>look like Connie</em></p>
-<p style="margin: 0in 0in 10pt;"><em><img src="~/media/BDF02EDB690A453CBCE2141DEE69EC19.ashx" alt="Looks like Connie" style="width: 640px; height: 338px;"></em></p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;">A personalization rule can then be created against this Pattern Card:</p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;"><em> <img width="497" height="101" alt="Connie Rule" src="~/media/2928D6626FB5420DB82EC98814F2DD57.ashx"></em></p>
-<p style="margin: 0in 0in 10pt;"><strong>What is the difference between Profile Cards and Pattern Cards?</strong></p>
-<ul>
-  <li>Profile Cards are applied to items, tagging the page with values for specific profile keys </li>
-  <li>A visitor’s profile is matched to Profile Patterns to determine who they look most like </li>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">This newly inked agreement with Cisco follows market analysis showing the continued dramatic increase in collaborative technologies. An October 2015 Advito survey of 442 travel managers found that:</p>
+<ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px;">
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">76% were working for companies already deploying video-conferencing</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">24% were using high-end immersive systems like telepresence</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">81% have access to either video-conferencing or telepresence facilities</li>
 </ul>
-<p style="margin: 0in 0in 10pt;"><strong>Applying Profile Cards to Items</strong></p>
-<p style="margin: 0in 0in 10pt;">After you have created the Profile Cards and assigned Profile Key values to them, you can start assigning the Profile Cards to the content items that make up your website. Assigning profile cards to content items makes it easier for you to implement profile values consistently across your website. The alternative is setting values for individual profile keys on each content item. </p>
-<p style="margin: 0in 0in 10pt;"><em>Example: </em>Below shows tagging a content authoring article with the “Connie” profile card. When a site visitor reads this article, they will get points towards a “Connie the Content Author” profile/persona.</p>
-<p style="margin: 0in 0in 10pt;">   <img src="~/media/F4F1E78FA8D6439A8E7FA1610BECF731.ashx" alt="Profile Card" style="width: 640px; height: 408px;"></p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">BCD Travel and Advito are betting that a number of factors will drive greater acceptance of virtual collaboration among business consumers:</p>
+<ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px;">
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Better prices</strong> &ndash; Prices have fallen rapidly, and some entry-level products are available for free.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">More options</strong> &ndash; Organizations can choose among a spectrum of tools to satisfy all virtual collaboration needs and price points. They can take advantage of much wider availability of multi-purpose conference systems, which are portable and much cheaper than immersive systems but deliver much better experiences than yesterday&rsquo;s video conferencing systems.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">It&rsquo;s become normal</strong> &ndash; Meeting by video has become the norm, thanks to cameras featured on most digital devices and apps like FaceTime, Skype and Google Hangouts.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Enhanced user experience</strong> &ndash; Technology has improved audio and video reproduction. Systems are now easier to use too, so employees can operate equipment without relying on technicians. And cloud-based bridging technology lets a variety of products easily connect.<br>
+    <strong style="margin: 0px; padding: 0px; border: 0px;">o More remote workers</strong> &ndash; Ever larger numbers of employees are working across locations, whether at home or in other countries. Virtual collaboration makes it easier for them to work together.</li>
+</ul>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;As organizations become more familiar with the costs and benefits of all types of professional collaboration, deciding what specific solution is most productive for a given situation will become more strategic,&rdquo; said Wendy Prewitt, vice president of global business development for BCD Travel. &ldquo;With their depth of experience in helping employees make the right booking choices, travel managers will play a growing role in managing virtual options. This includes integration with travel &mdash; helping employees decide &lsquo;Do I stay or do I go?&rsquo; &mdash; and most importantly, making it easier to stay.&rdquo;</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"> </p>
 <p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;"> </p>
-<p style="margin: 0in 0in 10pt;">For more information on Profiles, Profile Keys, Profile Cards, and Pattern Cards see Chapter 2 of the <a href="http://sdn.sitecore.net/reference/sitecore%206/marketing%20operations%20cookbook.aspx">Marketing Operations Cookbook</a>.  </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -131,9 +115,9 @@ content-length: 176
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
-content-length: 38
+content-length: 0
 
-{33879340-14B2-4BF2-93A2-FCC54C820BAD}
+
 ----field----
 field: {EFC4A071-5574-404A-8206-FB502FCA909B}
 name: Prerequisite Articles
@@ -175,14 +159,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-62eff482-62c4-4741-9da8-26f67751c634
+84b988fa-935b-4a34-b156-e2e8f0fccb96
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T201900Z
+20160705T202251Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

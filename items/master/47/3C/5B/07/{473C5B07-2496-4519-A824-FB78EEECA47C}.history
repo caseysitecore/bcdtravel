@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Creating-the-Site-Menu",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4ead801b27ea6d4e265cf9294dc2b415beafbc7f",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{473C5B07-2496-4519-A824-FB78EEECA47C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.6614630Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Creating the Site Menu",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Creating-the-Site-Menu",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "4ead801b27ea6d4e265cf9294dc2b415beafbc7f",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

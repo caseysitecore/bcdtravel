@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Minimizing-Downtime-During-Deployment",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5b49abc64e6a52d3ed5c7ad508b3eb7e48e12a44",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{AB5CA3C3-2D22-47D6-A414-2C9120547C26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:24:26.8770659Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Minimizing Downtime During Deployment",
+    "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Minimizing-Downtime-During-Deployment",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "5b49abc64e6a52d3ed5c7ad508b3eb7e48e12a44",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

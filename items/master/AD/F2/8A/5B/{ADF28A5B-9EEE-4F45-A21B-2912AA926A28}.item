@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d86f8ca2-8179-4e3d-bbe3-37a4be9f6169
+revision: 9bff4a53-28e8-436c-836f-e7623487eed0
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -43,6 +43,46 @@ key: title
 content-length: 4
 
 News
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 288
+
+<p>There&rsquo;s something special happening in the travel industry. Some call it disruption. Others call it evolution. No matter what it&rsquo;s called, we like it. We&rsquo;re in our element here&mdash;a place that allows us to open doors and turn on the lights for others.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 2213
+
+<h3>Business travel consulting services from Advito</h3>
+<p> </p>
+<h3>Yesterday&rsquo;s procurement methods won&rsquo;t cut it anymore</h3>
+<p>
+There&rsquo;s something special happening in the travel industry. Some call it disruption. Others call it evolution. No matter what it&rsquo;s called, we like it. We&rsquo;re in our element here&mdash;a place that allows us to open doors and turn on the lights for others.<br>
+<br>
+At Advito, we see travel differently. We believe that you cannot sustain your procurement performance without evolving the way you source, contract, influence, and measure in this category.<br>
+<br>
+To deliver year-over-year savings, today&rsquo;s procurement requires a modern approach, more data and a fresh perspective.<br>
+<br>
+</p>
+<h3>We deliver year-over-year savings</h3>
+<p>Advito is the most progressive travel consultancy in the world. We exist to create modern approaches for procurement leaders to manage the travel and meetings categories at the leading edge of best practices.<br>
+<br>
+We provide better visibility into the true value of a contract than any of our competitors&mdash;unlocking savings and helping you win.<br>
+<br>
+We are a team of experts in air and hotel sourcing, digital marketing, traveler influence, communications strategy, meetings strategy and integration, and policy design&mdash;all with one thing in common: thought leadership and a proven track record of high success.<br>
+<br>
+We&rsquo;re leading the way to the future<br>
+<br>
+Yes, we still do air and hotel sourcing. We simply do it better and smarter, the way our evolving world demands. We also go beyond sourcing. We are the only travel consultancy that offers a dedicated, staffed and structured traveler engagement practice. We&rsquo;re also the only consultancy who has invested in the resources and is leading the way in SMM and Integrated Travel and Meetings (ITM).<br>
+<br>
+Our clients tell us that with us, they&rsquo;re procuring smarter and expanding their perspective. They say we&rsquo;re helping them prepare for the future. We&rsquo;d love to show you.<br>
+<br>
+Looking for more information on how Advito can help you procure smarter? Find it at www.advito.com.</p>
+<p> </p>
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -77,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d86f8ca2-8179-4e3d-bbe3-37a4be9f6169
+9bff4a53-28e8-436c-836f-e7623487eed0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T173016Z
+20160703T173553Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

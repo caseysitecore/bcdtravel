@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 47afd99b-0a54-45ee-8a5e-8e1fd505f5ec
+revision: 641f8bc7-128e-47ba-8795-3431413778aa
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -70,11 +70,12 @@ content-length: 379
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1972
+content-length: 2092
 
 <h2>Should business meetings and incentive travel be a part of your program?</h2>
 <p>Make business meetings, incentives and events part of your corporate travel program</p>
 <p>Your company has many reasons for staging meetings. The size, scope and rationale vary, but these days almost all meetings have one thing in common: the need to show results. Some event management agencies excel at delivering high-touch experiences, while others have proven experience and methodologies in place to manage strategic meetings management solutions.</p>
+<p><img height="338" alt="Travel Services Meeting" width="600" src="-/media/ffa49dcbabc844518eff213d3d98d39c.ashx"></p>
 <p>With BCD Meeting &amp; Events, there&rsquo;s no need to make an either/or choice. We have the skills, services, and proven ability  to support customers at both ends of the meeting spectrum&mdash;and everything in between. We&rsquo;ll help you:</p>
 <ul>
     <li>Procure intelligently</li>
@@ -150,14 +151,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-47afd99b-0a54-45ee-8a5e-8e1fd505f5ec
+641f8bc7-128e-47ba-8795-3431413778aa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T180125Z
+20160703T182345Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

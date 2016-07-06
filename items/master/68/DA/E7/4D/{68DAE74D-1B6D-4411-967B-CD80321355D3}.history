@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/content/Home/News/Building-the-Site/Binding-Content-and-Presentation",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "86c0303159a0e5f693271dcd16b64faa646da585",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{68DAE74D-1B6D-4411-967B-CD80321355D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:25:13.5674565Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Binding Content and Presentation",
+    "itemPath": "/sitecore/content/Home/News/Building-the-Site/Binding-Content-and-Presentation",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "86c0303159a0e5f693271dcd16b64faa646da585",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

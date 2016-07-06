@@ -48,125 +48,48 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4a1e91b1-c6b0-4224-b9e8-f2c8773e097f
+revision: 9225a33d-a18b-4a6b-93c3-24980da4503d
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 20
+content-length: 48
 
-Multivariate Testing
+BCD Travel Employees Embrace "Improve the World"
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 179
+content-length: 472
 
-<p>Sitecore DMS allows you to dynamically test the content of your website to find out which components or combination of components are the most effective with site visitors.</p>
+<p><span style="text-align: justify; color: #404040;">The BCD Travel Foundation, the giving arm of BCD Travel, will provide $750,000 in operating expenses over the next five years to help fund L&rsquo;Ecole de Choix&mdash;&ldquo;The School of Choice&rdquo;&mdash; a private, non-profit elementary school in Mirebalais, Haiti. The funds will be raised by employee-led fundraising efforts and matching contributions from BCD Travel and its private owner.</span></p>
+<p> </p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 8321
+content-length: 4001
 
-<p>Sitecore gives you the ability to dynamically test the content of your website to find out which components or combination of components are the most effective. Multivariate tests can be used to see which variations of content work best with site visitors. You can track the results by pairing M/V tests with goals or campaigns to quantify a site visitor&rsquo;s value resulting from a multivariate test. </p>
-<p>The Page Editor is the most useful tool in setting up M/V testing. When you use the Page Editor to create a multivariate test, you have the following options:</p>
-<ul>
-    <li><strong>Test existing content</strong> &mdash; prepare several test variations as content items and make them available in the content tree. </li>
-    <li><strong>Clone a content item</strong> &mdash; duplicate items to test variations in content fields </li>
-    <li><strong>Create new content</strong> &mdash; create new content to use in your test. </li>
-    <li><strong>Change a component in the test</strong> &mdash;allows you to choose a different rendering or sublayout for the test. </li>
-    <li><strong>Hide a component in the test</strong> &mdash; allows for a variation of the test to hide the component entirely </li>
-    <li><strong>Create a combination test</strong> &mdash; select multiple pieces of content on the same page to run a combination test. </li>
-</ul>
+<h2> BCD Travel employees embrace &lsquo;improve the world&rsquo; corporate vision with $750,000 commitment to Haitian school</h2>
 <p> </p>
-<p><strong>Creating an MV Test in the Page Editor</strong></p>
-<p>To create a multivariate test in the Page Editor:</p>
-<p>1. Open the Page Editor and select a component on your website to test.</p>
-<p>2. Click the <strong>Test the component</strong> button on the floating toolbar to open the testing dialog.</p>
-<p>3. In the Test the Component dialog box, click <strong>New Variation</strong> to create a new test variation variable.</p>
-<p>4. Content options for this variation include:</p>
-<ul>
-    <li>Browse for content in the content tree by clicking the <strong>... </strong>button in the <strong>Test Content Item </strong>box </li>
-    <li>Change the component itself by selecting the <em>Enable variation of component design </em>checkbox </li>
-    <li>Hide the component by selecting the <em>Hide Component</em> checkbox </li>
-</ul>
-<p >5. Click OK in the Test the Component dialog box once you have added all your test variable variations.</p>
-<p> </p>
-<p><strong>Running an MV Test in the Page Editor</strong></p>
-<p>To run a multivariate test in the Page Editor:</p>
-<p>1. Select the <strong>Testing</strong> tab in the ribbon and click <strong>Start Test</strong>.</p>
-<p><em>Note: After you click start test, you will not be able to make any modifications to the test. If components in your test contain personalization, this will be paused while the test is running.</em></p>
-<p><em></em></p>
-<p>2. Enter a name for the test and click <strong>Start the Test</strong></p>
-<p >3. To preview the variations, use the arrows on the component itself:</p>
-<p >Or use the gallery on the ribbon to select variations and get a page overview of your test:</p>
-<p><em>Note: You can add more than one component to a multivariate test so that you can decide which combination of controls works best on a page.</em></p>
-<p><em></em></p>
-<p>4. Click <strong>Stop Test</strong> in the ribbon to stop the test and view your results. Using DMS, Goals enable site visitors to accumulate value. You can decide which variation of test variables is the most successful by the value it has accumulated during the test. The variation with the highest engagement value is typically the winner.</p>
-<p> </p>
-<p>You can use the marketing center to manage all of your tests as well as configure settings such as <em>Test Strategy:</em></p>
-<p><em></em><img width="587" height="266" alt="Test Strategy" src="~/media/3A17B0DD348D4AB7984BBF2D1BECF533.ashx" /></p>
-<p> </p>
-<p> </p>
-<p><strong>Further Development</strong></p>
-<p><em><strong>Test Strategy</strong></em></p>
-<p>You can customize tests by creating a new <em>Test Strategy.</em> For example, you could favor a test value by a certain percentage:</p>
-<p>1. Create a class similar to the following:</p>
-<p> </p>
-<div class="code">
-<div style="background-color: #dddddd; overflow: auto;">
-<ol style="padding: 0px 0px 0px 5px; background-color: #ffffff; margin: 0px 0px 0px 2.5em;">
-    <li>using Sitecore.Analytics.Testing; </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">public class PercentageMultiVariateTestStrategy : MultiVariateTestStrategyBase, IMultiVariateTestStrategy </li>
-    <li>{ </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">public TestCombination GetTestCombination(TestSet testset) </li>
-    <li>{ </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">Random rnd = new Random(); </li>
-    <li>byte[] combination = new byte[testset.Variables.Count]; </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">for (int i = 0; i &lt; combination.Length; i++) </li>
-    <li>{ </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">combination[i] = (byte)rnd.Next(testset.Variables[i].Values.Count); </li>
-    <li>// implement logic to select a test value </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">} </li>
-    <li>return new TestCombination(combination, testset); </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">} </li>
-    <li>} </li>
-</ol>
-</div>
-</div>
-<p> </p>
-<p>2. Create a new test strategy item underneath <strong>/sitecore/system/Settings/Analytics/Multivariate Test Strategies</strong></p>
-<p>3. The type field of the created test strategy item should be:</p>
-<p>YOUR_NAMESPACE.PercentageMultiVariateTestStrategy,YOUR_ASSEMBLY_NAME</p>
-<p> </p>
-<p><em><strong>Get test data from API</strong></em></p>
-<p>You can also retreive multivariate test data directly from the DMS API:</p>
-<p>The following is an example of how to get statistics from a single MV Test Set. The item path should be the path to your MV test in the content tree:</p>
-<div class="code">
-<div style="background-color: #dddddd; overflow: auto;">
-<ol style="padding: 0px 0px 0px 5px; background-color: #ffffff; margin: 0px 0px 0px 2.5em;">
-    <li>protected void Page_Load(object sender, EventArgs e) </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">{ </li>
-    <li>var testDef = new TestDefinitionItem(Tracker.DefinitionDatabase.GetItem("/sitecore/system/Marketing Center/Test Lab/doMultiVariate")); </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">var stats = TestManager.LoadTestStatistics(testDef); </li>
-    <li></li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">Response.Write("Runs: " + stats.TestRuns + "&lt;br/&gt;"); </li>
-    <li>foreach (var variable in stats.Testset.Variables) </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">{ </li>
-    <li>Response.Write("Label: " + variable.Label + "&lt;br/&gt;"); </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">var varStats = stats.GetVariableStatistics(variable.Id); </li>
-    <li>foreach (var value in varStats.Statistics) </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">{ </li>
-    <li>Response.Write("value: " + value.TestValue.Label + ", ValuePerVisit: " + value.ValuePerVisit + "&lt;br/&gt;"); </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">} </li>
-    <li>} </li>
-    <li style="background-color: #f3f3f3; background-position: initial initial; background-repeat: initial initial;">} </li>
-</ol>
-</div>
-</div>
-<p> </p>
+<p><strong>ATLANTA, July 05, 2016</strong> &ndash; The BCD Travel Foundation, the giving arm of BCD Travel, will provide $750,000 in operating expenses over the next five years to help fund L&rsquo;Ecole de Choix&mdash;&ldquo;The School of Choice&rdquo;&mdash; a private, non-profit elementary school in Mirebalais, Haiti. The funds will be raised by employee-led fundraising efforts and matching contributions from BCD Travel and its private owner.<br>
+<br>
+In addition to monetary contributions, the BCD Travel Foundation will organize and fund trips to L&rsquo;Ecole de Choix (pronounced &ldquo;schwa&rdquo;) for BCD Travel employees who wish to volunteer service hours at the school. The BCD Travel Foundation will also help promote additional fundraising initiatives for specific projects at the school, such as playground improvements and sanitation expansion.<br>
+<br>
+&ldquo;Our support of Choix is a natural fit for our company because it&rsquo;s aligned with our organization&rsquo;s core values. We encourage and enable our people to make a difference in the lives of our customers and our communities,&rdquo; said Leslie West, senior vice president of BCD Travel and chair of the BCD Travel Foundation board. &ldquo;Our foundation looks for ways to take this passion for helping others beyond serving customers to improve the lives of people around the world, with an emphasis on helping children.&rdquo;<br>
+<br>
+Added Kathy Jackson, executive vice president of Global Client Management and executive chair of Corporate Social Responsibility: &ldquo;Our commitment to corporate social responsibility is written into our vision statement&mdash;we promote positive social impact by improving communities worldwide. We summarize that commitment as simply &lsquo;doing good with everything we do.&rsquo;&rdquo;<br>
+<br>
+Choix opened in October 2011 and now educates 180 children from grades one through six. The philanthropic arm of Zynga, the gaming company behind Farmville and Words With Friends, provided seed money for the school&rsquo;s original physical infrastructure. Choix&rsquo;s operations now are supported entirely through individual contributions and philanthropic partnerships such as with BCDTF.<br>
+<br>
+Choix&rsquo;s mission is to develop future Haitian leaders by empowering students to shape their own futures, strengthen their communities, create their own choices and, ultimately, to change the world. With a commitment to gender equality and inclusion, the school&rsquo;s curriculum focuses on leadership development and communication skills for children living in the deepest conditions of poverty in Haiti.<br>
+<br>
+The poorest country in the western hemisphere, Haiti has an average literacy rate of 53% and only half of school-age children attend school. Fewer than 30 percent of Haitian youth graduate from sixth grade. The 2010 earthquake in Haiti destroyed almost 50% of the nation&rsquo;s schools and devastated the three main universities in Port-au-Prince.<br>
+<br>
+Christian Dahl, senior vice president, Strategic Talent Management &amp; Global Human Resources, and vice president of the BCD Travel Foundation board, believes that corporate social responsibility is essential to the company&rsquo;s success. He said the best employees are drawn to companies that demonstrate a genuine concern over the impact their businesses have on people and the environment.<br>
+<br>
+&ldquo;Without question, employees are driven by a need to make a comfortable living, and they want their company to succeed as a business,&rdquo; Dahl said. &ldquo;But people spend half their lives at work, and when possible they want to leverage all that effort to create positive social change in the world. That&rsquo;s why we think corporate social responsibility goes hand in hand with being a competitive and successful company.&rdquo;</p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -215,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4a1e91b1-c6b0-4224-b9e8-f2c8773e097f
+9225a33d-a18b-4a6b-93c3-24980da4503d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T194307Z
+20160705T194552Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8169E596-9FE5-4CE0-A213-62321D450617}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T17:14:53.5510669Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "BCD Page Images",
+    "itemPath": "/sitecore/media library/Launch Sitecore/Site Images/BCD Page Images",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

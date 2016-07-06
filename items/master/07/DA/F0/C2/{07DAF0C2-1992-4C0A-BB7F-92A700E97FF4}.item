@@ -2,9 +2,9 @@
 version: 1
 id: {07DAF0C2-1992-4C0A-BB7F-92A700E97FF4}
 database: master
-path: /sitecore/content/Home/Articles/BCD Travel Services/What-is-Content
+path: /sitecore/content/Home/Articles/BCD Travel Services/Business Travel Consulting Services
 parent: {15D0FCF2-7C81-4218-A5A0-7605084D1CBC}
-name: What-is-Content
+name: Business Travel Consulting Services
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
@@ -53,7 +53,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4a115a55-10bb-4f12-8352-e0eef3186451
+revision: 6e8dd75b-e6df-4efa-bed9-dfc2f5d542bb
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -155,14 +155,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4a115a55-10bb-4f12-8352-e0eef3186451
+6e8dd75b-e6df-4efa-bed9-dfc2f5d542bb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T173933Z
+20160703T173949Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

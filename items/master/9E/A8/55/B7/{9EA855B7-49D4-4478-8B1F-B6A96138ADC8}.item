@@ -182,6 +182,20 @@ content-length: 2
 
 64
 ----field----
+field: {90A6FE48-F3E0-42F3-A18A-EDAA7DB9CA57}
+name: DateTime
+key: datetime
+content-length: 19
+
+2016:02:19 16:53:57
+----field----
+field: {B0145335-8735-414B-9169-A1D4E4DC9641}
+name: Software
+key: software
+content-length: 33
+
+Adobe Photoshop CC 2015 (Windows)
+----field----
 field: {C06867FE-9A43-4C7D-B739-48780492D06F}
 name: Extension
 key: extension
@@ -219,7 +233,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 359aa70a-4298-45a7-960b-f0642d33bf5c
+revision: a8cd975b-8ab3-4d7e-a0d4-c18a50b4f51c
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -248,7 +262,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-359aa70a-4298-45a7-960b-f0642d33bf5c
+a8cd975b-8ab3-4d7e-a0d4-c18a50b4f51c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

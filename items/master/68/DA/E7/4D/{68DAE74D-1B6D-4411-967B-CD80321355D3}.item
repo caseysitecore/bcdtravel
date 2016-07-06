@@ -2,7 +2,7 @@
 version: 1
 id: {68DAE74D-1B6D-4411-967B-CD80321355D3}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Binding-Content-and-Presentation
+path: /sitecore/content/Home/News/Building-the-Site/Binding-Content-and-Presentation
 parent: {EC38EBB3-F2E8-493D-B0E6-B8C68C9AFB85}
 name: Binding-Content-and-Presentation
 master: {00000000-0000-0000-0000-000000000000}
@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 7cd21f2d-3c53-4b1f-8526-cfcbe13e37bb
+revision: bda8f6b4-db65-41c9-a16f-9aa1155ba5b8
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -109,9 +109,9 @@ content-length: 38
 field: {EFC4A071-5574-404A-8206-FB502FCA909B}
 name: Prerequisite Articles
 key: prerequisite articles
-content-length: 77
+content-length: 38
 
-{07DAF0C2-1992-4C0A-BB7F-92A700E97FF4}|{5EA97F1D-0685-4637-9D3D-D4F289BA7950}
+{07DAF0C2-1992-4C0A-BB7F-92A700E97FF4}
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -146,21 +146,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7cd21f2d-3c53-4b1f-8526-cfcbe13e37bb
+bda8f6b4-db65-41c9-a16f-9aa1155ba5b8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20140218T112727:635283196478472047
+20160703T162508Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

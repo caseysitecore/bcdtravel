@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CBD1E87B-11DF-42BA-BFAE-67D7ABC9BA69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T19:48:51.4121861Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\bill",
+    "itemName": "BCD Travel Announces 2016 MA Program",
+    "itemPath": "/sitecore/content/Home/News/BCD Company News/BCD Travel Announces 2016 MA Program",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

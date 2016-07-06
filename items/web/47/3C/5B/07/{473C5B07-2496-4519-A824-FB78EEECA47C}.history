@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "web",
+    "itemId": "{473C5B07-2496-4519-A824-FB78EEECA47C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-05T20:28:53.8887950Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Creating the Site Menu",
+    "itemPath": "/sitecore/content/Home/News/BCD Company News/Creating-the-Site-Menu",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

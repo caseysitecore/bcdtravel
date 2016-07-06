@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{86E2B740-1EAC-4818-97E5-6325FCD381BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-30T21:36:21.5279527Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test",
+    "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Test",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

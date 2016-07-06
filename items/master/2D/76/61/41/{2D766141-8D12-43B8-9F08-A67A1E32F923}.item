@@ -2,9 +2,9 @@
 version: 1
 id: {2D766141-8D12-43B8-9F08-A67A1E32F923}
 database: master
-path: /sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Creating-a-personalized-experience
+path: /sitecore/content/Home/News/Advito Industry News/Advito Industry Forecast June
 parent: {05B47C0F-7B67-47AD-9946-C02CBA12A195}
-name: Creating-a-personalized-experience
+name: Advito Industry Forecast June
 master: {00000000-0000-0000-0000-000000000000}
 template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
 templatekey: Article
@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: a6a8c049-c55b-4da6-a36a-f036b1a155d6
+revision: 9d2731e5-e113-40ad-bcf5-f165b2fc9457
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -130,21 +130,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a6a8c049-c55b-4da6-a36a-f036b1a155d6
+9d2731e5-e113-40ad-bcf5-f165b2fc9457
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150804T201934Z
+20160705T201245Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

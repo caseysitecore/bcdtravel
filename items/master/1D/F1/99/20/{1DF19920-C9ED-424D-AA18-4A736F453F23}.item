@@ -13,22 +13,24 @@ created: 20160628T185850:636027371301730000
 ----version----
 language: en
 version: 1
-revision: cdca41b5-7fd3-406d-ab31-86f177e3bd59
+revision: f078af56-cf4a-4f10-9e6d-2f52e67af23d
 
 ----field----
 field: {60B57A34-140A-4E04-B576-E390D08E3231}
 name: Quotation
 key: quotation
-content-length: 59
+content-length: 846
 
-Is Sitecore an awesome platform to develop on? Absolutely!!
+About Advito
+
+Advito is the travel industry’s most progressive consultancy, enabling procurement leaders to modernize their approach to managing the travel and meetings spend category. Led by a unique team of multi-disciplinary experts and thought leaders, we work with both clients and suppliers to push the boundaries of traditional air and hotel sourcing and strategic meetings management for higher program returns. We provide advisory, procurement and outsourcing services in the area of corporate travel sourcing, expense and meetings management, along with RFP development and management; benchmarking and vendor management services. We minimize our clients’ travel spend and maximize their travel program value in a data-rich, consumer empowered world. Headquartered in Chicago, Advito operates in key business markets around the world.
 ----field----
 field: {07EDEBCF-EE2C-4F64-A5FD-1DF221DF0014}
 name: Author
 key: author
-content-length: 12
+content-length: 9
 
-Chris Castle
+Bill Sapp
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -42,18 +44,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cdca41b5-7fd3-406d-ab31-86f177e3bd59
+f078af56-cf4a-4f10-9e6d-2f52e67af23d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20130817T092614:635123283748448509
+20160705T202429Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill

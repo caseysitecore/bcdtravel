@@ -53,7 +53,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d873e02b-0767-4550-b3ac-3b5f31c992dc
+revision: ace3147a-bb02-42c8-897b-e6cb33f50a97
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -66,9 +66,9 @@ Information Architecture
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 90
+content-length: 101
 
-<p>A description on why the Launch Sitecore information architecture is the way it is.</p>
+<p>A description on why the Launch Sitecore information architecture is the way it is. New stuff.</p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
@@ -127,14 +127,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d873e02b-0767-4550-b3ac-3b5f31c992dc
+ace3147a-bb02-42c8-897b-e6cb33f50a97
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160630T214252Z
+20160630T214322Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

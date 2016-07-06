@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Security-Authentication-and-Authorization",
     "commandType": "Item",
     "template": "Article",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6254924a88eae40e99d11e6e925b4dfc027edc45",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C78D1633-F577-4A1B-8C72-FED3D44D080C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-03T16:24:39.4660210Z",
+    "label": "Deleted",
+    "workflowState": "{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\bill",
+    "itemName": "Security Authentication and Authorization",
+    "itemPath": "/sitecore/content/Home/Articles/Our-Strategy/Security-Authentication-and-Authorization",
+    "commandType": "Item",
+    "template": "Article",
+    "sourceControlRevisionId": "6254924a88eae40e99d11e6e925b4dfc027edc45",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

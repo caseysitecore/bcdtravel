@@ -13,22 +13,24 @@ created: 20160628T185850:636027371301870000
 ----version----
 language: en
 version: 1
-revision: 7d804de2-0de7-4075-aaeb-9d3383194731
+revision: 3a53c83f-0dd5-4888-b7c7-d04e3ccf0260
 
 ----field----
 field: {60B57A34-140A-4E04-B576-E390D08E3231}
 name: Quotation
 key: quotation
-content-length: 41
+content-length: 589
 
-Using TFS makes a developers life easier.
+About BCD Travel
+
+BCD Travel helps companies make the most of what they spend on travel. For travelers, this means keeping them safe and productive, and equipping them to make good choices on the road. For travel and procurement managers, it means advising them on how to grow the value of their travel program. In short, we help our clients travel smart and achieve more. We make this happen in 110 countries with more than 12,000 creative, committed and experienced people. And it’s how we maintain an industry-leading client-retention rate of 97%, with 2015 sales of US$23.8 billion. 
 ----field----
 field: {07EDEBCF-EE2C-4F64-A5FD-1DF221DF0014}
 name: Author
 key: author
-content-length: 10
+content-length: 9
 
-Howard Kim
+Bill Sapp
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -42,21 +44,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7d804de2-0de7-4075-aaeb-9d3383194731
+3a53c83f-0dd5-4888-b7c7-d04e3ccf0260
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20130904T160439:635139074792239156
+20160705T202527Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\admin
+sitecore\bill
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock

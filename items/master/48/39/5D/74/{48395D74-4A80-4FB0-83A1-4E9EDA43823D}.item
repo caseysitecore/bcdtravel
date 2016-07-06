@@ -13,8 +13,24 @@ created: 20160705T202559:636033471597430000
 ----version----
 language: en
 version: 1
-revision: 4f9ad730-924f-4250-a987-b20a49d55cc2
+revision: e2fbc3d6-49da-4af9-98d6-0366f8e3e81b
 
+----field----
+field: {60B57A34-140A-4E04-B576-E390D08E3231}
+name: Quotation
+key: quotation
+content-length: 616
+
+About BCD Group
+
+BCD Group is a market leader in the travel industry. The privately owned company was founded in 1975 by John Fentener van Vlissingen and consists of BCD Travel (global corporate travel management), Travix (online travel: CheapTickets, Vliegwinkel, BudgetAir, Flugladen and Vayama), Park ‘N Fly (off-airport parking) and joint ventures Parkmobile International (mobile parking applications) and AERTrade International (consolidating and fulfillment). BCD Group employs over 12,500 people and operates in 110 countries with total sales of US$ 25.6 billion, including US$ 10 billion in partner sales.
+----field----
+field: {07EDEBCF-EE2C-4F64-A5FD-1DF221DF0014}
+name: Author
+key: author
+content-length: 9
+
+Bill Sapp
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,14 +58,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4f9ad730-924f-4250-a987-b20a49d55cc2
+e2fbc3d6-49da-4af9-98d6-0366f8e3e81b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202559Z
+20160705T202635Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

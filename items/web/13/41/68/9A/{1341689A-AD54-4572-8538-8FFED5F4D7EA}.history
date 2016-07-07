@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{1341689A-AD54-4572-8538-8FFED5F4D7EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:25.2846579Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Integration",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Integration",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

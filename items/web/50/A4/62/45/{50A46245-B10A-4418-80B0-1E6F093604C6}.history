@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{50A46245-B10A-4418-80B0-1E6F093604C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.5895030Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetBaseRanges",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Custom Date Ranges/Basic Settings/FacetBaseRanges",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{AAE32F81-2805-4F56-8FC8-128ABE0BB7AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.4628259Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Coveo Search Base Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

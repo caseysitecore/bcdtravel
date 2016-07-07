@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {DA940FB1-A2EC-431D-B872-CAB9EFA57958}
+database: web
+path: /sitecore/templates/CoveoModule/Search/Facet Parameters/__Standard Values
+parent: {21CAA282-563F-4666-AD5B-BDA0978B9D36}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {21CAA282-563F-4666-AD5B-BDA0978B9D36}
+templatekey: Facet Parameters
+created: 20160629T193627:636028257874830000
+
+----field----
+field: {3094D236-5985-4C4F-AE6A-E30740885532}
+name: Caching
+key: caching
+content-length: 15
+
+0|0|0|0|0|0|0|0
+----version----
+language: en
+version: 1
+revision: 1fd3aa5a-b9f3-4519-a5f4-0deb7b80e739
+
+----field----
+field: {F6D5912F-DA5F-431D-BCDB-922DCFDC17D8}
+name: FacetIsMultiValueField
+key: facetismultivaluefield
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140523T115034
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1fd3aa5a-b9f3-4519-a5f4-0deb7b80e739
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140623T093426:635391128660694330
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

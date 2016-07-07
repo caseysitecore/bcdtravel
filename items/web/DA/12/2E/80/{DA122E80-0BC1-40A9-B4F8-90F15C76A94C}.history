@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DA122E80-0BC1-40A9-B4F8-90F15C76A94C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.6179667Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableCoveoUsageAnalytics",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Analytics/EnableCoveoUsageAnalytics",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

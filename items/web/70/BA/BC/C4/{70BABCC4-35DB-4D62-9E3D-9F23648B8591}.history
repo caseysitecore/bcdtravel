@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{70BABCC4-35DB-4D62-9E3D-9F23648B8591}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.6673570Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetIncludeInOmniBox",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Integration/FacetIncludeInOmniBox",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

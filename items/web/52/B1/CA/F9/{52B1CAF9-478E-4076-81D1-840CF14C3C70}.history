@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{52B1CAF9-478E-4076-81D1-840CF14C3C70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.5198282Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchBoxPlaceholderText",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Paging/SearchBoxPlaceholderText",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

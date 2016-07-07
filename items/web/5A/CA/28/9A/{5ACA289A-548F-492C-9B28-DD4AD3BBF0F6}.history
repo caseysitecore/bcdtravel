@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5ACA289A-548F-492C-9B28-DD4AD3BBF0F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.8279824Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DefaultSortDirection",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Base Sorting Parameters/Default Sort Options/DefaultSortDirection",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

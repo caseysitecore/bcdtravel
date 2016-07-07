@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7E59DFC0-2C7A-499F-B760-52BFDB5E42D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:24.4305943Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facets",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

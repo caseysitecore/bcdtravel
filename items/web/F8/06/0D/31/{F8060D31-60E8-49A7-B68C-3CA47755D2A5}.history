@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F8060D31-60E8-49A7-B68C-3CA47755D2A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.9313768Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetAvailableSorts",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Options/FacetAvailableSorts",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

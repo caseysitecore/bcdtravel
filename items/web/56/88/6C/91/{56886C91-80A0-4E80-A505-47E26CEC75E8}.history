@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{56886C91-80A0-4E80-A505-47E26CEC75E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.4358239Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Page/__Standard Values",
+    "commandType": "Item",
+    "template": "Coveo Search Page",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

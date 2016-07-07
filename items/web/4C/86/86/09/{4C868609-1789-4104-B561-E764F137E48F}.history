@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4C868609-1789-4104-B561-E764F137E48F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.7404378Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PagerShowPreviousNext",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Paging/PagerShowPreviousNext",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

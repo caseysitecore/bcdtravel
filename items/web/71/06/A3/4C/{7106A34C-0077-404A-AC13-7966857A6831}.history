@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7106A34C-0077-404A-AC13-7966857A6831}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.1167979Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SortField",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Sort Parameters/Basic Settings/SortField",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

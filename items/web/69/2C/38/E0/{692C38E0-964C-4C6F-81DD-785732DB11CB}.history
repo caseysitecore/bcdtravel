@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{692C38E0-964C-4C6F-81DD-785732DB11CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.8973751Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetIcon",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Options/FacetIcon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

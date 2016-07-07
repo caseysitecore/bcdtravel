@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{77ED36D6-FDE4-48D7-BE8D-39393C19E2EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.2664783Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DisplayLogo",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Layout/DisplayLogo",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

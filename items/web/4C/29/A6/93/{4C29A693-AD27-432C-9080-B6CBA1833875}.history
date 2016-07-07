@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4C29A693-AD27-432C-9080-B6CBA1833875}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.7333641Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetMorePageSize",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Navigation/FacetMorePageSize",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

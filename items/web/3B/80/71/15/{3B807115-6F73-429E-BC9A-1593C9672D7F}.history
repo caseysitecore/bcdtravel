@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3B807115-6F73-429E-BC9A-1593C9672D7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.8214447Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query Helpers",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Query Helpers",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

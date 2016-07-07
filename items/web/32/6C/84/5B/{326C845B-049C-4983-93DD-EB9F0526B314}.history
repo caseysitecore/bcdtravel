@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{326C845B-049C-4983-93DD-EB9F0526B314}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.1198756Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExternalContentSources",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/External Content/ExternalContentSources",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

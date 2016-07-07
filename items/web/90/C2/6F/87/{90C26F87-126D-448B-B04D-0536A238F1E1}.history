@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{90C26F87-126D-448B-B04D-0536A238F1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.5574238Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ToggleDirection",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Date Sort Parameters/Basic Settings/ToggleDirection",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

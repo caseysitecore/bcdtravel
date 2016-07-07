@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{8336DAB0-F7E5-405E-9324-9412895F6C6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.4858273Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paging",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Paging",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

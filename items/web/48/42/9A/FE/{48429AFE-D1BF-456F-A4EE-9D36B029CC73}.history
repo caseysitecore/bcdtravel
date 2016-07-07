@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{48429AFE-D1BF-456F-A4EE-9D36B029CC73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.1520833Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetSliderDateEnd",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Range Settings/FacetSliderDateEnd",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

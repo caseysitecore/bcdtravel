@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {9FE1046F-1486-49D7-B662-E128DB878175}
+database: web
+path: /sitecore/templates/CoveoModule/Search/Facet Range Parameters/Advanced Settings/FacetInjectionDepth
+parent: {14958B6B-FC27-46D5-90B9-D10C8209EBDF}
+name: FacetInjectionDepth
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20160629T193624:636028257843970000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 8
+
+Droplink
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 38
+
+{7C155042-DC65-43B8-9F2D-D72B0DA822B0}
+----field----
+field: {B118496A-0F78-4A27-B55F-0A6C4B0B0FE1}
+name: Default value
+key: default value
+content-length: 38
+
+{DCB6EB45-58B0-4F31-9377-83A2D6CBF597}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+2493
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 127
+
+<link url="http://developers.coveo.com/display/JsSearchV1/Facet+Component#FacetComponent-injectionDepth" linktype="external" />
+----version----
+language: en
+version: 1
+revision: 1df2d499-9d9f-45c4-840b-4badd68acb83
+
+----field----
+field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
+name: Title
+key: title
+content-length: 58
+
+Facet accuracy determined by the number of scanned results
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 400
+
+The facet accuracy selection sets the injection depth, the number of search results that are scanned to find possible facet values. Selections from Less Precise (Fast) to Exact (Slowest) progressively increase the number of scanned results, ensuring more possible facet values are found, at the cost of performance. The default value is Less Precise (Fast) for which 1000 search results are scanned. 
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140210T143419
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1df2d499-9d9f-45c4-840b-4badd68acb83
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20160325T152647:635945164071779232
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{70489BE8-1F7B-4879-90E7-46F0D9D9E0CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.6717647Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TopResultQueries",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Top Results/Top Result/Basic Settings/TopResultQueries",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

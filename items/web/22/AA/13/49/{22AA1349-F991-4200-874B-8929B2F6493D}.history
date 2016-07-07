@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{22AA1349-F991-4200-874B-8929B2F6493D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:25.5646803Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetSliderEnd",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Range Settings/FacetSliderEnd",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

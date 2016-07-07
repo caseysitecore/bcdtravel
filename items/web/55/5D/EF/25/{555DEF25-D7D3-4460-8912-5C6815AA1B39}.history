@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{555DEF25-D7D3-4460-8912-5C6815AA1B39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.5878338Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Results scope",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Results scope",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

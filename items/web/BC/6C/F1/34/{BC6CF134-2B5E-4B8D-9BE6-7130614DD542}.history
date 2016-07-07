@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{BC6CF134-2B5E-4B8D-9BE6-7130614DD542}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.4519538Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OmniboxEnableQueryExtensionAddon",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Advanced Omnibox Options/OmniboxEnableQueryExtensionAddon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

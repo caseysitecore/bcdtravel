@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{294075E4-CB2C-4E5F-A646-416FC078581F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.1768030Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Coveo Search Box Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Box Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

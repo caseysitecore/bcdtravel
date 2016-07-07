@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{C312A77D-7B97-46F8-B1D0-1CCE160F27AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.4149532Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OmniboxEnableSimpleFieldAddon",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Base Parameters/Advanced Omnibox Options/OmniboxEnableSimpleFieldAddon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{61C74F91-04E9-4592-AD20-52002FB36A06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:24.5456024Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Integration",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Integration",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

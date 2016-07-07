@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{14C6A515-A44E-405E-8269-B0210D24441D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:24.7026138Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

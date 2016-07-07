@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4C7F9DD5-A71D-4CF1-ADA8-C47223A89486}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.9067822Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Relevancy Sort Parameters/Basic Settings/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

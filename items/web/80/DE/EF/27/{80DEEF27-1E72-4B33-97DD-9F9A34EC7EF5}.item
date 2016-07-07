@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {80DEEF27-1E72-4B33-97DD-9F9A34EC7EF5}
+database: web
+path: /sitecore/templates/CoveoModule/Search/Facets/Facets Folder/__Standard Values
+parent: {FD83ABDE-F5AC-4139-A236-E2EBBF98D96E}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {FD83ABDE-F5AC-4139-A236-E2EBBF98D96E}
+templatekey: Facets Folder
+created: 20160629T193627:636028257875900000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 155
+
+{21CAA282-563F-4666-AD5B-BDA0978B9D36}|{8861E1C8-EBC0-42AF-AD9B-DCD2CF6F71C6}|{D0706C86-B94B-476C-8ED4-5B84A4B2A516}|{1A4C7DB9-4466-43D0-B21A-E795EE333FCB}
+----version----
+language: en
+version: 1
+revision: 45e42566-a58b-4693-956b-637af5ee240b
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 34
+
+20160325T152647:635945164071779232
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+45e42566-a58b-4693-956b-637af5ee240b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20160325T152647:635945164071779232
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

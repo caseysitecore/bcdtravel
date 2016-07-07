@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{80DEEF27-1E72-4B33-97DD-9F9A34EC7EF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:24.4855977Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facets/Facets Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Facets Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

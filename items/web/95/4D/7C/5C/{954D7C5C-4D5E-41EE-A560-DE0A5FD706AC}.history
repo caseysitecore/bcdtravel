@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{954D7C5C-4D5E-41EE-A560-DE0A5FD706AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.8223677Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetEnableMoreLess",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Navigation/FacetEnableMoreLess",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

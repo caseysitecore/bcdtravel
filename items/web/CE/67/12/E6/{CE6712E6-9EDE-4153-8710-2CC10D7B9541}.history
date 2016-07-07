@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{CE6712E6-9EDE-4153-8710-2CC10D7B9541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:25.0606403Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetDateFormat",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Basic Settings/FacetDateFormat",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

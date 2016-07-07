@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4011F505-1D0D-49C5-875D-B40C7BC0D4F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.1287223Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FilterExpressionRules",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Omnibox Result List Parameters/Result Scope/FilterExpressionRules",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

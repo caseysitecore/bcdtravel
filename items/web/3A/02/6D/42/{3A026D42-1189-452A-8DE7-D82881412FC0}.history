@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3A026D42-1189-452A-8DE7-D82881412FC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.2874794Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DisplayFacets",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Layout/DisplayFacets",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

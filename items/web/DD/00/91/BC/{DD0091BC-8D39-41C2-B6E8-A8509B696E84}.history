@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{DD0091BC-8D39-41C2-B6E8-A8509B696E84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.4487481Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TabIcon",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Tab Parameters/Basic Settings/TabIcon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

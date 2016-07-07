@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{F4728044-6FE2-4FAA-B048-40E0CF19B6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.7129739Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Sorting Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Base Sorting Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

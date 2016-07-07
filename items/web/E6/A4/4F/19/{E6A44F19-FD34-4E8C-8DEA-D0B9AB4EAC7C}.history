@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E6A44F19-FD34-4E8C-8DEA-D0B9AB4EAC7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.3220950Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetSliderAnimationDuration",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Advanced Settings/FacetSliderAnimationDuration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{FE1783FA-AF9D-4AC2-B5D3-596847A30DF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.2014725Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DisplayQueryDuration",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Layout/DisplayQueryDuration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

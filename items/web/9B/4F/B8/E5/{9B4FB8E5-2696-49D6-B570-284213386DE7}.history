@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9B4FB8E5-2696-49D6-B570-284213386DE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.4514923Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "InfiniteScrollPageSize",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Infinite scrolling/InfiniteScrollPageSize",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

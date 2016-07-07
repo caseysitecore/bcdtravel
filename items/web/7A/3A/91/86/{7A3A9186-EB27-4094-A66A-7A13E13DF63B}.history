@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7A3A9186-EB27-4094-A66A-7A13E13DF63B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.6027586Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Internal",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Top Results/Top Result/Internal",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

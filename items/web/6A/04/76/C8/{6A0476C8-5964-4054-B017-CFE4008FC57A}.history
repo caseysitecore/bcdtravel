@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6A0476C8-5964-4054-B017-CFE4008FC57A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:24.9756351Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetTitle",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Range Parameters/Basic Settings/FacetTitle",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

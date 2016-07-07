@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D94A1CD9-83EE-4D37-8DF9-CAAA2B357058}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.7655163Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RangeStart",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Base Date Range/Basic Settings/RangeStart",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

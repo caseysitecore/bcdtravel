@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D39795B6-CAE6-4C82-AC43-80FA2D07E987}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.8585232Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Basic Settings",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Base Range/Basic Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{7E77178E-D6D1-4CB0-B8D8-1CD5B62E19FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.8527781Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Relevancy Sort Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Relevancy Sort Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

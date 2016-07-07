@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{466FC7BF-4502-473D-9B15-1A354B77AECE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.3924882Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AutoTriggerQuery",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Advanced/AutoTriggerQuery",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

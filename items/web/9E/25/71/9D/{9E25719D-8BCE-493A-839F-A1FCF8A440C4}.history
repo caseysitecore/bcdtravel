@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9E25719D-8BCE-493A-839F-A1FCF8A440C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:27.2348092Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchBoxUniqueId",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Box Parameters/Basic Settings/SearchBoxUniqueId",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

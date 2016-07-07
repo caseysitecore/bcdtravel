@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{A828B4BE-0DCA-48AF-AB17-0F0244C03861}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:29.3921024Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetSliderUnitSign",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Appearance Settings/FacetSliderUnitSign",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

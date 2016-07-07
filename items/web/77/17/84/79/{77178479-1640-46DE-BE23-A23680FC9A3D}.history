@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{77178479-1640-46DE-BE23-A23680FC9A3D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:26.4777485Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TabCaption",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Tab Parameters/Basic Settings/TabCaption",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

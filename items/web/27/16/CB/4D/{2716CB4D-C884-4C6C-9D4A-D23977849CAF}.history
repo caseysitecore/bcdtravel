@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2716CB4D-C884-4C6C-9D4A-D23977849CAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:28.9429913Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Integration",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Date Slider Parameters/Integration",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{E7725E1D-FC56-416C-B04C-13D5DE61FF6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.4974195Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Sort Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Date Sort Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

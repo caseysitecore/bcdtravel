@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D46B5506-A719-432F-A772-E7B27DF803F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:25.3216608Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetIncludeInBreadcrumb",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters/Integration/FacetIncludeInBreadcrumb",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

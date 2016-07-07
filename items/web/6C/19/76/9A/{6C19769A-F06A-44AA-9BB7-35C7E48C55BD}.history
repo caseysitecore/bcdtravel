@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{6C19769A-F06A-44AA-9BB7-35C7E48C55BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:31.7045134Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Date Range",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Custom Ranges Parameters/Base Date Range",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{AC6EFC71-8A5F-4987-B37D-0BA3123A3B9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.0803877Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetTogglingOperator",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Advanced Settings/FacetTogglingOperator",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

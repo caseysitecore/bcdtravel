@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{3EE98C2B-C171-4685-A5EA-C1F843FD7339}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.3464079Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Computed Field",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Computed Field",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

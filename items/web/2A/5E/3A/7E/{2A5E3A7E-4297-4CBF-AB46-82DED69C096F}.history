@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{2A5E3A7E-4297-4CBF-AB46-82DED69C096F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.1933959Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetLookupField",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Parameters/Advanced Settings/FacetLookupField",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

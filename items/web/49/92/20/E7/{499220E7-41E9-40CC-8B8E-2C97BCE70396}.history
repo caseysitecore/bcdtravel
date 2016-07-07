@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{499220E7-41E9-40CC-8B8E-2C97BCE70396}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:30.7124360Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PagerNumberOfPages",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Coveo Search Parameters/Paging/PagerNumberOfPages",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

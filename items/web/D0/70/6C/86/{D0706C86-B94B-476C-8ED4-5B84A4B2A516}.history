@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{D0706C86-B94B-476C-8ED4-5B84A4B2A516}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-07T13:14:25.2476551Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet Slider Parameters",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Facet Slider Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

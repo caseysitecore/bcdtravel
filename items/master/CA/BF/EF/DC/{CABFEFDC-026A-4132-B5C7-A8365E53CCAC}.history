@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CABFEFDC-026A-4132-B5C7-A8365E53CCAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:50:12.5375913Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "intelligent programs",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/50/intelligent programs",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

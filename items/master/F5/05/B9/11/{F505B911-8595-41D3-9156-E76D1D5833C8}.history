@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F505B911-8595-41D3-9156-E76D1D5833C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:57:26.7679958Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "improve the world",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/57/improve the world",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

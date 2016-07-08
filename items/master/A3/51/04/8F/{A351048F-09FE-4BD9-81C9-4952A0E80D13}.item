@@ -10,10 +10,24 @@ template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
 templatekey: Bucket
 created: 20160708T160010:636035904102370000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1
-revision: 702c60d4-e08a-4b62-890b-d3999b9999cf
+revision: 86e3a546-5cb6-457f-933b-33c8804078ea
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-702c60d4-e08a-4b62-890b-d3999b9999cf
+86e3a546-5cb6-457f-933b-33c8804078ea
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160708T160010Z
+20160708T161946Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

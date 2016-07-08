@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{EA814DCD-A38B-4667-BB3B-DF2E52C22273}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T13:38:52.5765454Z",
+    "label": "Saved",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\casey",
+    "itemName": "BCD Travel Search MVC",
+    "itemPath": "/sitecore/content/Home/BCD Travel Search MVC",
+    "commandType": "Item",
+    "template": "Coveo Search Page MVC",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

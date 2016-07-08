@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9878FB5F-35EB-4C90-B9EE-CB8176548624}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:50:08.7166697Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "Formatting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Appearance/Formatting",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

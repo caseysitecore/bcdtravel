@@ -2,14 +2,28 @@
 version: 1
 id: {8236AE57-CE91-47C2-AC6C-3EA00A6A468A}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/59/advito industry forecast
-parent: {15C99B92-96CF-4AF2-A8F6-63864E7C658D}
+path: /sitecore/system/Settings/Buckets/TagRepository/advito industry forecast
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: advito industry forecast
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T155905:636035903454170000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

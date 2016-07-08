@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8236AE57-CE91-47C2-AC6C-3EA00A6A468A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:59:05.4535782Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "advito industry forecast",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/59/advito industry forecast",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

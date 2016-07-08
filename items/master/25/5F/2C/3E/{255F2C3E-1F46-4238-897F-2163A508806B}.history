@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{255F2C3E-1F46-4238-897F-2163A508806B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:54:49.3268258Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "reporting accuracy",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/54/reporting accuracy",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -2,8 +2,8 @@
 version: 1
 id: {459DBF7C-1A25-4EDF-86DA-32020B0AFC4B}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2013/08/17/00/08/Beginner
-parent: {ED99AAA1-325A-418C-8123-390AB3BC04E1}
+path: /sitecore/system/Settings/Buckets/TagRepository/Beginner
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: Beginner
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
@@ -11,12 +11,26 @@ templatekey: Tag
 created: 20160628T185926:636027371667370000
 
 ----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
 field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
 name: __Bucket Parent Reference
 key: __bucket parent reference
 content-length: 38
 
 {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

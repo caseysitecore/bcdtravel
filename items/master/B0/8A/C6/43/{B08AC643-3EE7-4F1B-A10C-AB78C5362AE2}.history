@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B08AC643-3EE7-4F1B-A10C-AB78C5362AE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:01:54.3560327Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "corporate travel payment programs",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/01/corporate travel payment programs",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -2,14 +2,28 @@
 version: 1
 id: {0BCE6A34-B0E9-4AC1-9776-8FE0550B1D4F}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/52/service configurations
-parent: {EE52B472-D8EC-411F-9CB0-747D0EE49694}
+path: /sitecore/system/Settings/Buckets/TagRepository/service configurations
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: service configurations
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T155256:636035899767970000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

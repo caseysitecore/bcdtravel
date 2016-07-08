@@ -1,0 +1,129 @@
+----item----
+version: 1
+id: {1EA8892F-9A93-4743-9E5E-E26C6FB466EC}
+database: master
+path: /sitecore/content/Home/BCD Travel Search
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: BCD Travel Search
+master: {00000000-0000-0000-0000-000000000000}
+template: {D0B70D73-C95B-4B8F-B7A6-EBA91CBC8301}
+templatekey: Coveo Search Page
+created: 20160707T171309:636035083893000000
+
+----field----
+field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
+name: Show Children In Menu
+key: show children in menu
+content-length: 0
+
+
+----field----
+field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
+name: Show Item In Secondary Menu
+key: show item in secondary menu
+content-length: 0
+
+
+----field----
+field: {1E2AAB62-E924-421E-B766-BF8422CCBE44}
+name: Show Item In Footer Menu
+key: show item in footer menu
+content-length: 1
+
+1
+----field----
+field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
+name: Show In Search Results
+key: show in search results
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+475
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: ecb27bd6-2616-497c-a5b0-68ffa62c505b
+
+----field----
+field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
+name: Menu Title
+key: menu title
+content-length: 6
+
+Search
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 5500
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1A6ED920-365C-47D2-AA65-D12E0D165D3B}" p:before="*" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetTitle=Category&amp;FacetField=%7BF4260135-5684-4F40-89A4-0C685E2B5FF5%7D&amp;FacetNumberOfValues=5&amp;FacetSort=%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D&amp;FacetEnableCollapse=1&amp;FacetEnableSettings=1&amp;FacetAvailableSorts=%7BF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7D%7C%7B445BCEBE-D11E-4247-B07C-D775601B9F12%7D%7C%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D%7C%7B65C2940F-0506-4D45-BE9C-2D8751BB70A6%7D&amp;FacetIcon&amp;FacetEnableFacetSearch=1&amp;FacetNumberOfValuesInFacetSearch=15&amp;FacetEnableMoreLess=1&amp;FacetMorePageSize=10&amp;FacetIncludeInOmniBox&amp;FacetIncludeInBreadcrumb=1&amp;FacetNumberOfValuesInBreadcrumb=5&amp;FacetComputedField&amp;FacetComputedFieldOperation&amp;FacetComputedFieldFormat&amp;FacetComputedFieldCaption&amp;FacetLookupField&amp;FacetIsMultiValueField&amp;FacetUseAnd&amp;FacetTogglingOperator&amp;FacetShowIcon=1&amp;FacetInjectionDepth=%7BDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7D&amp;ItemId=_10A20F9F-9C83-4179-AA33-AA7BBD9FBBDF" s:ph="/coveo-search/coveo-facets" /><r uid="{2309B17B-A437-4222-BD77-B01DF641A142}" p:after="r[@uid='{1A6ED920-365C-47D2-AA65-D12E0D165D3B}']" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetTitle=Tags&amp;FacetField=%7B56EF9816-35AD-4160-B5DC-ECA7FE7DCFC2%7D&amp;FacetNumberOfValues=5&amp;FacetSort=%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D&amp;FacetEnableCollapse=1&amp;FacetEnableSettings=1&amp;FacetAvailableSorts=%7BF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7D%7C%7B445BCEBE-D11E-4247-B07C-D775601B9F12%7D%7C%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D%7C%7B65C2940F-0506-4D45-BE9C-2D8751BB70A6%7D&amp;FacetIcon&amp;FacetEnableFacetSearch=1&amp;FacetNumberOfValuesInFacetSearch=15&amp;FacetEnableMoreLess=1&amp;FacetMorePageSize=10&amp;FacetIncludeInOmniBox&amp;FacetIncludeInBreadcrumb=1&amp;FacetNumberOfValuesInBreadcrumb=5&amp;FacetComputedField&amp;FacetComputedFieldOperation&amp;FacetComputedFieldFormat&amp;FacetComputedFieldCaption&amp;FacetLookupField&amp;FacetIsMultiValueField=1&amp;FacetUseAnd&amp;FacetTogglingOperator&amp;FacetShowIcon=1&amp;FacetInjectionDepth=%7BDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7D&amp;ItemId=_FF3F8DBC-3CC0-466E-8F76-46E5F314A466" s:ph="/coveo-search/coveo-facets" /><r uid="{87B7E665-102C-4FCA-88B7-FD7C47B9359A}" p:after="r[@uid='{2309B17B-A437-4222-BD77-B01DF641A142}']" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetTitle=Author&amp;FacetField=%7B8CAAE9E1-7E74-4491-927F-FE821DBCA5A8%7D&amp;FacetNumberOfValues=5&amp;FacetSort=%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D&amp;FacetEnableCollapse=1&amp;FacetEnableSettings=1&amp;FacetAvailableSorts=%7BF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7D%7C%7B445BCEBE-D11E-4247-B07C-D775601B9F12%7D%7C%7BF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7D%7C%7B65C2940F-0506-4D45-BE9C-2D8751BB70A6%7D&amp;FacetIcon&amp;FacetEnableFacetSearch=1&amp;FacetNumberOfValuesInFacetSearch=15&amp;FacetEnableMoreLess=1&amp;FacetMorePageSize=10&amp;FacetIncludeInOmniBox&amp;FacetIncludeInBreadcrumb=1&amp;FacetNumberOfValuesInBreadcrumb=5&amp;FacetComputedField&amp;FacetComputedFieldOperation&amp;FacetComputedFieldFormat&amp;FacetComputedFieldCaption&amp;FacetLookupField&amp;FacetIsMultiValueField=1&amp;FacetUseAnd&amp;FacetTogglingOperator&amp;FacetShowIcon=1&amp;FacetInjectionDepth=%7BDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7D&amp;ItemId=_37877E7D-E21E-4809-B33D-3246880308BB" s:ph="/coveo-search/coveo-facets" /><r uid="{2B82E7BC-4EDB-45BA-A790-301D0400F15E}" s:par="FilterExpressionRules=%3Cruleset%3E%0D%0A%20%20%3Crule%20uid%3D%22%7B6F11961F-8518-4183-A170-4DA74292A5F6%7D%22%20name%3D%22Basic%20filtering%22%3E%0D%0A%20%20%20%20%3Cconditions%3E%0D%0A%20%20%20%20%20%20%3Ccondition%20id%3D%22%7B1E6C9830-45FA-4801-9D4D-E87B76C13F7D%7D%22%20uid%3D%22F5913770440B442B8EF6D273208B5F90%22%20itemid%3D%22%7B0DE95AE4-41AB-4D01-9EB0-67441B7C2450%7D%22%20%2F%3E%0D%0A%20%20%20%20%3C%2Fconditions%3E%0D%0A%20%20%3C%2Frule%3E%0D%0A%3C%2Fruleset%3E&amp;BoostExpressionRules&amp;EnableAutomaticBoosting&amp;FilterCulture=1&amp;PagerLocation=%7BA1FBD885-7B5E-4AD3-87D1-06AB48937629%7D&amp;SearchBoxBehavior&amp;PagerShowPreviousNext=1&amp;PagerNumberOfPages=10&amp;PagerMaxNumberOfPages=100&amp;QuerySummaryEnableSearchTips=1&amp;ResultsPerPage=10&amp;QuerySummaryOnlyDisplaySearchTips&amp;DidYouMeanEnableAutoCorrection=1&amp;SearchBoxPlaceholderText&amp;EnableInfiniteScroll&amp;InfiniteScrollPageSize=10&amp;DisplayFacets=1&amp;DisplayLogo&amp;DisplaySearchBox=1&amp;DisplaySorting=1&amp;HideUntilFirstQuery=1&amp;DisplayQueryDuration=1&amp;DisplayQuerySummary=1&amp;DisplayBreadcrumb=1&amp;DisplayDidYouMean=1&amp;DisplayErrorReport=1&amp;DisplayResultList=1&amp;DisplayTabs=1&amp;ExternalContentSources&amp;ExternalContentCollections&amp;EnableCoveoUsageAnalytics=1&amp;CoveoUsageAnalyticsCustomMetadata&amp;EnableSitecoreAnalytics&amp;SitecoreAnalyticsRestUri=%2Fcoveo%2Frest%2Fv6%2Fanalytics&amp;AutoTriggerQuery=1&amp;ThrowExceptionOnValidationError&amp;ExcerptLength=200&amp;EnableHistory=1&amp;EnableClientSideLogging&amp;IncludeBucketFoldersInResults&amp;IncludeMediaFoldersInResults&amp;QueryPipelineName&amp;RestUri=%2Fcoveo%2Frest&amp;OmniboxEnableFieldAddon&amp;OmniboxEnableSimpleFieldAddon&amp;OmniboxEnableQueryExtensionAddon&amp;DefaultSortType&amp;DefaultSortDirection&amp;DefaultSortField" /></d></r>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160707T171309Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ecb27bd6-2616-497c-a5b0-68ffa62c505b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160708T140756Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

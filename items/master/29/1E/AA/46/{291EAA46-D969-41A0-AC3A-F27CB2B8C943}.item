@@ -191,7 +191,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: f5aa13c6-3ea1-4238-a864-8e8cf57501d7
+revision: e50ae69c-9537-4030-b5c1-faddb576de52
 
 ----field----
 field: {CC084D53-FA58-4591-B7C7-20E7A60C8A4A}
@@ -227,14 +227,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f5aa13c6-3ea1-4238-a864-8e8cf57501d7
+e50ae69c-9537-4030-b5c1-faddb576de52
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160708T153319Z
+20160708T153320Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -246,9 +246,9 @@ sitecore\casey
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics
 key: __semantics
-content-length: 38
+content-length: 0
 
-{C2C2D05B-2103-43A0-A9FF-D0083D0B1EAD}
+
 ----version----
 language: ja-JP
 version: 1

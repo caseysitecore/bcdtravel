@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9B34AC44-649B-4117-87B5-F85300B45B8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:51:22.2419338Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "built for change",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/51/built for change",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

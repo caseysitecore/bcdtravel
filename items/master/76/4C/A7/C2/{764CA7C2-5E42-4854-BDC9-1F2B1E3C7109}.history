@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{764CA7C2-5E42-4854-BDC9-1F2B1E3C7109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:02:18.3658746Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "business travel",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/02/business travel",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

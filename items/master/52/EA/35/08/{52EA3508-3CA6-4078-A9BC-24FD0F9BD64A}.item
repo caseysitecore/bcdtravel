@@ -2,14 +2,28 @@
 version: 1
 id: {52EA3508-3CA6-4078-A9BC-24FD0F9BD64A}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/48/online corporate travel
-parent: {85CFA943-7F03-46D7-8F93-D798EAB82AD3}
+path: /sitecore/system/Settings/Buckets/TagRepository/online corporate travel
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: online corporate travel
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T154803:636035896833800000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3C2F9FE3-95B0-45EC-8C1A-D23870DC98AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:57:36.5797493Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "bcd travel news",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/57/bcd travel news",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

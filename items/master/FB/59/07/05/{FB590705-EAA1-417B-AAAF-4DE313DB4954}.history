@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FB590705-EAA1-417B-AAAF-4DE313DB4954}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:49:42.1872641Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "engaged travelers",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/49/engaged travelers",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

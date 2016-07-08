@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BC88C728-448A-4833-80DA-ECE02F7D92AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:53:45.8129384Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "better data",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/53/better data",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A1BC9C38-FC01-4A1D-9EC1-B0B56D171A75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:03:08.6197246Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "03",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/03",
+    "commandType": "Item",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

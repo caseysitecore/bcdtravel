@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{17E04B9C-C46F-4CB6-9EF1-0D28A5F98F15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:50:26.5516661Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "tmc",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/50/tmc",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

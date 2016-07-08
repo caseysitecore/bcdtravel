@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8CB37E9E-57EF-40B5-A1BD-C37A3ACB28C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:00:43.1960492Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "travel security alerts",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/00/travel security alerts",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

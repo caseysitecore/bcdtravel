@@ -14,9 +14,9 @@ created: 20160519T084204:635992441248900000
 field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
 name: __Editors
 key: __editors
-content-length: 77
+content-length: 38
 
-{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}|{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}
+{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
 name: __Masters
@@ -149,7 +149,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: b3c968e8-c8ef-42af-9f8d-9309b27e7f53
+revision: d952df4f-b94d-4484-a5c6-20244c5ec8e9
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -178,7 +178,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b3c968e8-c8ef-42af-9f8d-9309b27e7f53
+d952df4f-b94d-4484-a5c6-20244c5ec8e9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

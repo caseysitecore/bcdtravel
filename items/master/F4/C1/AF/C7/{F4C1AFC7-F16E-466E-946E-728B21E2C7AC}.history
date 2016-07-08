@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F4C1AFC7-F16E-466E-946E-728B21E2C7AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:53:21.4970755Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "boost savings",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/53/boost savings",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

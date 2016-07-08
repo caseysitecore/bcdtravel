@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5B85E663-FDD2-4D0B-92F6-223E40444DA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:54:31.8964907Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "intelligence on demand",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/54/intelligence on demand",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

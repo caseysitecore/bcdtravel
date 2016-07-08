@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {B6F7DEAC-1636-41DC-A4CD-519474146D03}
+database: master
+path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/53/plan a trip
+parent: {4880D6E3-CEE1-43CE-8F7D-6CDD3425132F}
+name: plan a trip
+master: {00000000-0000-0000-0000-000000000000}
+template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
+templatekey: Tag
+created: 20160708T155309:636035899893070000
+
+----version----
+language: en
+version: 1
+revision: 441ca419-da62-4eb6-a6b3-8f88d53e61ae
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160708T155309Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+441ca419-da62-4eb6-a6b3-8f88d53e61ae
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160708T155309Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

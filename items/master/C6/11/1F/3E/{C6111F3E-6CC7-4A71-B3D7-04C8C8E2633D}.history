@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C6111F3E-6CC7-4A71-B3D7-04C8C8E2633D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:00:55.7800133Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "world health organization",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/00/world health organization",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{778C0B17-44F3-4864-BBF4-B9ECF0A82062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:53:57.8548626Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "better decisions",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/53/better decisions",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

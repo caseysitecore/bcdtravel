@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{18980404-B7FE-4C03-9154-2B204173C224}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:56:05.2667485Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "sourcing and contracting",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/56/sourcing and contracting",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

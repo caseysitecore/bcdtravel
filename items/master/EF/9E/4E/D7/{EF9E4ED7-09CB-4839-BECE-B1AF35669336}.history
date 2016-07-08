@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{EF9E4ED7-09CB-4839-BECE-B1AF35669336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:51:07.4367986Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "cost containment",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/51/cost containment",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -10,10 +10,24 @@ template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
 templatekey: Bucket
 created: 20160628T185926:636027371667230000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1
-revision: 22137201-97ca-4963-84e5-27d10d142f59
+revision: 0c027cd0-df4d-458e-8004-51a01fab3754
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,18 +49,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-22137201-97ca-4963-84e5-27d10d142f59
+0c027cd0-df4d-458e-8004-51a01fab3754
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131112T141803:635198626835601929
+20160708T161946Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 14
 
-sitecore\Anonymous
+sitecore\casey

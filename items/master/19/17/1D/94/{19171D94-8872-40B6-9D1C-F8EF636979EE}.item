@@ -2,14 +2,28 @@
 version: 1
 id: {19171D94-8872-40B6-9D1C-F8EF636979EE}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/02/business intelligence platform
-parent: {D84A9876-6A94-41EF-9DAF-6330C9354845}
+path: /sitecore/system/Settings/Buckets/TagRepository/business intelligence platform
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: business intelligence platform
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T160239:636035905591670000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

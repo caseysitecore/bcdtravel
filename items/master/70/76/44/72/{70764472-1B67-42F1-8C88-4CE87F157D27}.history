@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{70764472-1B67-42F1-8C88-4CE87F157D27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:57:14.2380358Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "data aggregation and analysis",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/57/data aggregation and analysis",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

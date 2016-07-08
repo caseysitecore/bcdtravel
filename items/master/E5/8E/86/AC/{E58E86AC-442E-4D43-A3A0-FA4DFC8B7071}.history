@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E58E86AC-442E-4D43-A3A0-FA4DFC8B7071}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:00:32.2662106Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "bcd travel risk",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/00/bcd travel risk",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -2,14 +2,28 @@
 version: 1
 id: {715BE6B9-7957-4867-A8FE-A5D4277EFB92}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/49/travelers
-parent: {09553BEE-D857-4CAF-933E-A2D961EE51E1}
+path: /sitecore/system/Settings/Buckets/TagRepository/travelers
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: travelers
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T154958:636035897984300000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

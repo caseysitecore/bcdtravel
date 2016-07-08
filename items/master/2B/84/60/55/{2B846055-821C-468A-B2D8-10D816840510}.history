@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2B846055-821C-468A-B2D8-10D816840510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:55:28.8488571Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "advito",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/55/advito",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

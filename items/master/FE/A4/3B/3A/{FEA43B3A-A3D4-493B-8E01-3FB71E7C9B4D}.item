@@ -2,14 +2,28 @@
 version: 1
 id: {FEA43B3A-A3D4-493B-8E01-3FB71E7C9B4D}
 database: master
-path: /sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/58/bcd travel foundation
-parent: {F96A4D2D-126D-4D94-9223-C7E4A4396BC6}
+path: /sitecore/system/Settings/Buckets/TagRepository/bcd travel foundation
+parent: {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
 name: bcd travel foundation
 master: {00000000-0000-0000-0000-000000000000}
 template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
 templatekey: Tag
 created: 20160708T155801:636035902813300000
 
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+0
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1

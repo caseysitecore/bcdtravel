@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9287ABA8-9D94-4ADC-B430-07F78BBCE4F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:59:48.8519317Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "business travel demand",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/59/business travel demand",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

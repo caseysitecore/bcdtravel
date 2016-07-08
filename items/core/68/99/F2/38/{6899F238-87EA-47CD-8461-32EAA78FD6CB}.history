@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6899F238-87EA-47CD-8461-32EAA78FD6CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:50:08.6006590Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Your Apps/Vault",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

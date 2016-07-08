@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FEA43B3A-A3D4-493B-8E01-3FB71E7C9B4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:58:01.3656659Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "bcd travel foundation",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/58/bcd travel foundation",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

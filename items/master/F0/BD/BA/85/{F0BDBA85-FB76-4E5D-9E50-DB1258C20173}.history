@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F0BDBA85-FB76-4E5D-9E50-DB1258C20173}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:59:59.4547437Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "travel disruption information",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/59/travel disruption information",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

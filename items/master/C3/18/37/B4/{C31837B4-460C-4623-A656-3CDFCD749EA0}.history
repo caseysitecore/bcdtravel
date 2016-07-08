@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C31837B4-460C-4623-A656-3CDFCD749EA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:00:10.3295777Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "us visa waiver",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/00/us visa waiver",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

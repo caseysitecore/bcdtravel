@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8F1A9468-4FE2-4946-9CF5-9854F170CE18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:58:35.6472934Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "university students",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/58/university students",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

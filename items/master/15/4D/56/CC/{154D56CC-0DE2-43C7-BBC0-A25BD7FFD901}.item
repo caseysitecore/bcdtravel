@@ -30,7 +30,7 @@ name: __Is Bucket
 key: __is bucket
 content-length: 1
 
-1
+0
 ----field----
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
@@ -149,7 +149,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 8ee34e66-06e1-4996-be43-dca8b96d2e3e
+revision: b3c968e8-c8ef-42af-9f8d-9309b27e7f53
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -178,21 +178,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8ee34e66-06e1-4996-be43-dca8b96d2e3e
+b3c968e8-c8ef-42af-9f8d-9309b27e7f53
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20130208T162152:634959373122140990
+20160708T161949Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----version----
 language: ja-JP
 version: 1

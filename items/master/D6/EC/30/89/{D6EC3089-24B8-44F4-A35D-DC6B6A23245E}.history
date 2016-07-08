@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D6EC3089-24B8-44F4-A35D-DC6B6A23245E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:55:14.9827934Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "business travel consulting",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/55/business travel consulting",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

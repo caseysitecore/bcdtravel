@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9BE321B7-E9F2-454A-9A3A-8EA63C4997A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:51:36.3360147Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "corporate payment systems",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/51/corporate payment systems",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

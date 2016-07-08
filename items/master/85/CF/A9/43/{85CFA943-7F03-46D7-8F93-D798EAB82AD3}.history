@@ -52,7 +52,26 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/48",
     "commandType": "Item",
     "template": "Bucket",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c6c579ef288b22c0a4e02f4e6c6e20906fec2f53",
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{85CFA943-7F03-46D7-8F93-D798EAB82AD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:19:48.9872430Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "48",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/48",
+    "commandType": "Item",
+    "template": "Bucket",
+    "sourceControlRevisionId": "c6c579ef288b22c0a4e02f4e6c6e20906fec2f53",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.0.144"
   }

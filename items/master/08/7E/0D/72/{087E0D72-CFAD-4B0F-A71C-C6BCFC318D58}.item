@@ -11,30 +11,16 @@ templatekey: Tag
 created: 20160628T185926:636027371668130000
 
 ----field----
-field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
-name: __Hidden
-key: __hidden
-content-length: 1
-
-0
-----field----
 field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
 name: __Bucket Parent Reference
 key: __bucket parent reference
 content-length: 38
 
 {154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}
-----field----
-field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
-name: __Is Bucket
-key: __is bucket
-content-length: 1
-
-0
 ----version----
 language: en
 version: 1
-revision: 9b79aa5e-7ea0-4a32-a6df-b61bb32ed9a5
+revision: 639b5daa-5353-4cb4-b8b9-52392bafc923
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,18 +35,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9b79aa5e-7ea0-4a32-a6df-b61bb32ed9a5
+639b5daa-5353-4cb4-b8b9-52392bafc923
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131112T141806:635198626864542454
+20160708T161946Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 14
 
-sitecore\Anonymous
+sitecore\casey

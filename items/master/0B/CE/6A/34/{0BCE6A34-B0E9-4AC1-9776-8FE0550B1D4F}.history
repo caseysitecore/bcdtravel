@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0BCE6A34-B0E9-4AC1-9776-8FE0550B1D4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:52:56.8121830Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "service configurations",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/52/service configurations",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2E81D72E-6BBC-438E-A261-01D68DA81A2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:52:20.3043840Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "bcd travel group",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/52/bcd travel group",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

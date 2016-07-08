@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{06D61F2F-5DA6-4034-8472-73EB262E0C0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:56:19.4398344Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "attendee management",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/56/attendee management",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

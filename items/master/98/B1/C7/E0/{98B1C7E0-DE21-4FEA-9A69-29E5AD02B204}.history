@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{98B1C7E0-DE21-4FEA-9A69-29E5AD02B204}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:52:45.1052878Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "meetings and events",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/52/meetings and events",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

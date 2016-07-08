@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{52EA3508-3CA6-4078-A9BC-24FD0F9BD64A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:48:03.3996942Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "online corporate travel",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/48/online corporate travel",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

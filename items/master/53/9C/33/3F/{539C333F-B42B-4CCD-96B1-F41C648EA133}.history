@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{539C333F-B42B-4CCD-96B1-F41C648EA133}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:02:28.8606769Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "instant messaging",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/02/instant messaging",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

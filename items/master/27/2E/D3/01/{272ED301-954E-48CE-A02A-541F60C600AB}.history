@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{272ED301-954E-48CE-A02A-541F60C600AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:56:35.2800502Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "onsite event management",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/56/onsite event management",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

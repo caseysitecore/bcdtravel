@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C30BC415-7CFA-493E-B46C-5613190C983E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:03:08.6747296Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "decisionsource",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/03/decisionsource",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

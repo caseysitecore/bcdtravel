@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E35778D5-C456-4D4B-97F1-B3C6926E90C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:58:24.2404182Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "management associate program",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/58/management associate program",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

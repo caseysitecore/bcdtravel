@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9E42F2EF-6D5B-46BB-A5E5-288FC3CCC695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:01:18.4791764Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "virtual payment reality",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/01/virtual payment reality",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

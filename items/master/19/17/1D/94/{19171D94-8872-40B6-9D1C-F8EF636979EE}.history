@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{19171D94-8872-40B6-9D1C-F8EF636979EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:02:39.1804686Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "business intelligence platform",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/16/02/business intelligence platform",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

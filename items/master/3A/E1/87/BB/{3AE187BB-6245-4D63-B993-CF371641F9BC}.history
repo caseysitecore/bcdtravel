@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3AE187BB-6245-4D63-B993-CF371641F9BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T15:58:13.5595994Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "ma program",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2016/07/08/15/58/ma program",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

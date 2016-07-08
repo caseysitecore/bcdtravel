@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{04658279-EAF8-404F-AD5D-51D29F722747}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T14:36:53.6699624Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/CoveoModule/Search/Tab Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "Tab Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

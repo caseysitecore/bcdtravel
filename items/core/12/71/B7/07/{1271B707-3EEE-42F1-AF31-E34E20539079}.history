@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1271B707-3EEE-42F1-AF31-E34E20539079}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-08T16:50:08.6046601Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\casey",
+    "itemName": "Common",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]

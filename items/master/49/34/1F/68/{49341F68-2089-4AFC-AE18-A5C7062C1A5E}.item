@@ -14,15 +14,14 @@ created: 20160628T185859:636027371393200000
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
 name: __Tracking
 key: __tracking
-content-length: 385
+content-length: 317
 
 <tracking>
-  <profile id="{62A90F30-9BAB-425B-8A6D-4AE5A28371D6}" name="Job Function" presets="devon the developer|100||">
-    <key name="Analytics" value="1" />
-    <key name="Copywriting" value="1" />
-    <key name="Personalization and Testing" value="2" />
-    <key name="Technology" value="5" />
-    <key name="Workflow and Publishing" value="3" />
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="analysts|100||">
+    <key name="Analytics" value="5" />
+    <key name="Event Planning" value="0" />
+    <key name="Travel Consulting" value="1" />
+    <key name="Technology" value="2" />
   </profile>
 </tracking>
 ----field----
@@ -49,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 07a28cd1-a8a2-4406-b94e-4001da1a3e86
+revision: e77ad135-4874-498f-be12-648157646ac5
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -179,14 +178,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-07a28cd1-a8a2-4406-b94e-4001da1a3e86
+e77ad135-4874-498f-be12-648157646ac5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183759Z
+20160709T191237Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

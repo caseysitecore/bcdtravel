@@ -21,20 +21,20 @@ content-length: 214
 field: {85970AB7-22EA-4206-BE86-C0167178860B}
 name: Profile Card Value
 key: profile card value
-content-length: 302
+content-length: 292
 
 <tracking>
   <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment">
-    <key name="Analytics" value="5" />
-    <key name="Campaigns and Targeting" value="5" />
-    <key name="Content Management" value="2" />
-    <key name="Technology" value="0" />
+    <key name="Analytics" value="1" />
+    <key name="Technology" value="2" />
+    <key name="Event Planning" value="3" />
+    <key name="Travel Consulting" value="3" />
   </profile>
 </tracking>
 ----version----
 language: en
 version: 1
-revision: d7da6fb1-53de-4cac-883c-3c6312771d79
+revision: 5feda126-6f96-45f6-ba15-4d2d931be3a6
 
 ----field----
 field: {A26FC256-1DB0-44AA-BA3D-1C830BF882A2}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d7da6fb1-53de-4cac-883c-3c6312771d79
+5feda126-6f96-45f6-ba15-4d2d931be3a6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190332Z
+20160709T190746Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

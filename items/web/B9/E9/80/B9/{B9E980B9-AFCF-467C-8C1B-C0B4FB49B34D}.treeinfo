@@ -1,0 +1,10 @@
+{
+  "itemName": "MediaFramework",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3C1715FE-6A13-4FCF-845F-DE308BA9741D}",
+  "childIds": [
+    "{99DFCDF8-8814-445F-805B-FC5E8F527400}",
+    "{3C93D4EF-1C20-4C64-B0AD-F7D4F1201833}"
+  ]
+}

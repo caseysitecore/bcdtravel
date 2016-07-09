@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 246c7d61-16f5-4090-aa5f-f87c79f97d38
+revision: 59b6c68a-c07f-4920-ab10-a9b88fc1f91f
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -55,22 +55,22 @@ content-length: 188
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1167
+content-length: 1115
 
 <h2>Keep your travelers engaged at every stage of the trip</h2>
-<h3>Your travelers are your customers&mdash;and they&rsquo;re consumers, too.</h3>
-<p>They want ease, convenience and great service when they get stuck. If you give them what they need and want to be productive before, during and after their trips, you&rsquo;ll keep them happy&mdash;and achieve major program improvements.<br>
+<h3>Your travelers are your customers—and they’re consumers, too.</h3>
+<p>They want ease, convenience and great service when they get stuck. If you give them what they need and want to be productive before, during and after their trips, you’ll keep them happy—and achieve major program improvements.<br>
 <br>
-The good news is: Your travelers want to do the right thing. The more you engage them, the more compliant they&rsquo;re likely to be. <img alt="Engage Travelers" src="-/media/3ffddc599e2a4ba1a38931f4eb906013.ashx?h=244&amp;w=400" style="height: 244px; width: 400px; float: right; margin-top: 5px; margin-bottom: 5px;"><br>
+The good news is: Your travelers want to do the right thing. The more you engage them, the more compliant they’re likely to be. <img alt="Engage Travelers" src="-/media/3ffddc599e2a4ba1a38931f4eb906013.ashx?h=244&w=400" style="height: 244px; width: 400px; float: right; margin-top: 5px; margin-bottom: 5px;"><br>
 <br>
-We&rsquo;ll help you:</p>
+We’ll help you:</p>
 <ul>
     <li>Make it easy to plan a trip.</li>
     <li>Encourage travelers to make good decisions based on your policy.</li>
     <li>Change traveler behavior to boost savings and satisfaction.</li>
-    <li>Engage your travelers at every phase of the trip &ndash; from planning through en route services, all the way to expense management.</li>
+    <li>Engage your travelers at every phase of the trip – from planning through en route services, all the way to expense management.</li>
 </ul>
-Get in touch, and we&rsquo;ll help you get your travelers engaged.
+Get in touch, and we’ll help you get your travelers engaged.
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -78,6 +78,13 @@ key: icon
 content-length: 183
 
 <image mediaid="{2F2281AB-5EF8-4020-8BE4-B62DE6C50E09}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/g-o/home" src="~/media/76dfc58859494933bcc76c26cf83bef9.ashx"></image>
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 7
+
+Article
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -112,28 +119,28 @@ name: __Revision
 key: __revision
 content-length: 36
 
-246c7d61-16f5-4090-aa5f-f87c79f97d38
+59b6c68a-c07f-4920-ab10-a9b88fc1f91f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T171831Z
+20160709T154952Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics
 key: __semantics
-content-length: 0
+content-length: 38
 
-
+{FB590705-EAA1-417B-AAAF-4DE313DB4954}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

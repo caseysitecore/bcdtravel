@@ -17,10 +17,17 @@ key: parameters
 content-length: 5
 
 Group
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 67
+
+http://bcdtravel.local/temp/iconcache/office/32x32/revert_users.png
 ----version----
 language: en
 version: 1
-revision: 4864bb0c-6156-483a-95cd-5a5715826f25
+revision: 824e0cbe-78fe-4cff-8f0d-808b942afda5
 
 ----field----
 field: {31CA077F-EF38-4980-8A24-05408031B2BC}
@@ -56,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4864bb0c-6156-483a-95cd-5a5715826f25
+824e0cbe-78fe-4cff-8f0d-808b942afda5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T184150Z
+20160709T184209Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

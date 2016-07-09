@@ -303,36 +303,37 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: d0d3c2a3-2d10-4a51-8ba0-63457360161a
+revision: d216b754-0e90-46c8-8e51-4a6ca69a8ec9
 
 ----field----
 field: {AAEAC7F2-E33E-4B34-9023-AB6F59D3A427}
 name: Title
 key: title
-content-length: 29
+content-length: 10
 
-Getting Started with Sitecore
+BCD Travel
 ----field----
 field: {2FB9AEBD-D6E1-4EA5-8A04-7B6AD0EC3132}
 name: Subtitle
 key: subtitle
-content-length: 26
+content-length: 27
 
-Clean, modern & responsive
+Corporate Travel Management
 ----field----
 field: {764646D1-347E-419D-8B86-67457C73D905}
 name: Body
 key: body
-content-length: 627
+content-length: 481
 
-<p>Beinvenido to Launch Sitecore. This site is dedicated to your successful evaluation of the Sitecore Experience Platform.  This site will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features this platform offers.  From authoring content to workflow and publishing to creating personalized experiences, testing and analytics, this site will allow you to understand the building blocks that will power your content-driven digital marketing strategy into the future.</p>
+<p><span style="text-align: justify; color: #404040;">BCD Travel was founded on Jan. 3, 2006, when BCD Group announced its decision to purchase TQ3 Travel Solutions Management Holding GmbH and a majority interest in The Travel Company. These two companies were combined with WorldTravel BTI under one ownership to form BCD Travel. The company formally began trading under its new brand on March 31, 2006.</span></p>
+<p><span style="text-align: justify; color: #404040;"></span></p>
 ----field----
 field: {918A64F3-3CE1-46FE-AFE0-7BDEAE9F6299}
 name: Call to Action Link
 key: call to action link
 content-length: 38
 
-{63ABEE8A-4E38-4159-9193-D5F0A33AD666}
+{0009BBAE-874A-45F5-8DA6-C7FAE3A7AE63}
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -351,9 +352,9 @@ Home
 field: {71DFEE6E-6AC9-4F83-9A15-748D42C4646E}
 name: Site Name
 key: site name
-content-length: 15
+content-length: 10
 
-Launch Sitecore
+BCD Travel
 ----field----
 field: {299EFAE9-69FF-48CA-B408-65A8BF05A92F}
 name: Show in Sites Menu
@@ -375,6 +376,13 @@ key: __short description
 content-length: 20
 
 Welcome to Sitecore.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1854
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{52D796F3-ABC1-48CA-B1F6-CE901C71888B}"><rls><ruleset><rule uid="{BA9DC88E-FBC4-4736-B330-ECD27B9CE007}"><p:d /></rule><rule uid="{7D0C387B-412B-4D93-A347-4E833F5E5598}" p:before="*" s:name="Information Architect"><actions><action uid="C4F394FF5FB54934AB4E366F0491C68A" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{0720FC50-5617-4A67-9794-9B56BA3038BD}" /></actions><conditions><condition uid="D600916CA46A40A08A5BFE019921D225" s:id="{6426B5B4-83E9-4E24-BA97-43293A10B47D}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions></rule><rule uid="{AE5F6CC5-9BBF-42F9-AB28-66DEA1C746DC}"><p:d /></rule><rule uid="{00000000-0000-0000-0000-000000000000}"><actions><action uid="287459B20BBC4EC1A3C21EC97CF8CEE4" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C8231E47-89A9-448B-9019-8CCCF8750728}" /></actions></rule></ruleset></rls></r><r uid="{3EC360C9-708D-4E58-9DED-5D8FD4620ED5}"><rls><ruleset><rule uid="{CE1B45D1-2819-42CA-A64B-433DA52EF116}"><p:d /></rule><rule uid="{5BA3A134-ECC9-48ED-BCF2-34F806D62742}"><p:d /></rule></ruleset></rls></r><r uid="{348B6EEA-B101-4312-AFC2-313212D2350C}"><rls><ruleset><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="2EF44C21689042E0BED247998168833B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{EE02BE24-30DE-4BB7-A52A-46693A78EF4F}"><rls><ruleset><rule uid="{39FCDAEC-8D32-4297-B8C1-0FA451415E36}"><p:d /></rule></ruleset></rls></r><r uid="{3829E486-2259-42FF-9385-33F26CF71A94}"><rls><ruleset><rule uid="{5E93ED2E-AEC7-4B66-9E08-61FF8C306099}"><p:d /></rule><rule uid="{7E0E4C3D-BEF9-4424-8645-2D8B4194ED86}"><p:d /></rule></ruleset></rls></r></d></r>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -416,21 +424,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d0d3c2a3-2d10-4a51-8ba0-63457360161a
+d216b754-0e90-46c8-8e51-4a6ca69a8ec9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160630T194221Z
+20160709T203718Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

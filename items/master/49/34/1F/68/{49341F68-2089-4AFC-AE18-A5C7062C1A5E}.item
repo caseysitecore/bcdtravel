@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c3fda758-43ee-4185-a7ec-b0cca1523849
+revision: 71d297be-0925-4a6b-abb4-99184f1bf6af
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -70,13 +70,13 @@ content-length: 379
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 2092
+content-length: 2070
 
 <h2>Should business meetings and incentive travel be a part of your program?</h2>
 <p>Make business meetings, incentives and events part of your corporate travel program</p>
 <p>Your company has many reasons for staging meetings. The size, scope and rationale vary, but these days almost all meetings have one thing in common: the need to show results. Some event management agencies excel at delivering high-touch experiences, while others have proven experience and methodologies in place to manage strategic meetings management solutions.</p>
 <p><img height="338" alt="Travel Services Meeting" width="600" src="-/media/ffa49dcbabc844518eff213d3d98d39c.ashx"></p>
-<p>With BCD Meeting &amp; Events, there&rsquo;s no need to make an either/or choice. We have the skills, services, and proven ability  to support customers at both ends of the meeting spectrum&mdash;and everything in between. We&rsquo;ll help you:</p>
+<p>With BCD Meeting & Events, there’s no need to make an either/or choice. We have the skills, services, and proven ability  to support customers at both ends of the meeting spectrum—and everything in between. We’ll help you:</p>
 <ul>
     <li>Procure intelligently</li>
     <li>Sourcing and contracting</li>
@@ -114,9 +114,16 @@ content-length: 180
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
-content-length: 38
+content-length: 0
 
-{A410F42C-903A-4D73-AF5C-F13313EA1BF2}
+
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 7
+
+Article
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -131,6 +138,13 @@ key: __display name
 content-length: 0
 
 
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 216
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{10F779BE-924F-4CDD-8510-C69D92D0A8E7}"><p:d /></r><r uid="{7B7951B4-28FD-4A41-B7FE-95DB9F747B1E}" p:after="*[1=2]" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -151,28 +165,28 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c3fda758-43ee-4185-a7ec-b0cca1523849
+71d297be-0925-4a6b-abb4-99184f1bf6af
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T182548Z
+20160709T155244Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics
 key: __semantics
-content-length: 0
+content-length: 77
 
-
+{98B1C7E0-DE21-4FEA-9A69-29E5AD02B204}|{272ED301-954E-48CE-A02A-541F60C600AB}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

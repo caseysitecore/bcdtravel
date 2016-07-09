@@ -2,7 +2,7 @@
 version: 1
 id: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
 database: master
-path: /sitecore/templates/Launch Sitecore/Base Templates/Author Keywords/Main/Group
+path: /sitecore/templates/Launch Sitecore/Base Templates/Author Group/Main/Group
 parent: {3E149787-6C84-4EDB-95D1-4DBDDE267F9B}
 name: Group
 master: {00000000-0000-0000-0000-000000000000}
@@ -21,9 +21,9 @@ Droplist
 field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
 name: Source
 key: source
-content-length: 0
+content-length: 38
 
-
+/sitecore/content/Global/Content/Group
 ----field----
 field: {337E20E1-999A-4EEA-85AD-B58A03AE75CC}
 name: Quick Action Bar
@@ -62,7 +62,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 56da8ed4-c835-4969-9daf-56689531888d
+revision: 795409f0-2fa5-46b5-a347-ac3945a12814
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -75,9 +75,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20110624T090435
+20110624T130435Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -91,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-56da8ed4-c835-4969-9daf-56689531888d
+795409f0-2fa5-46b5-a347-ac3945a12814
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183026Z
+20160709T183222Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

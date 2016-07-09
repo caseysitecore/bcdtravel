@@ -14,19 +14,18 @@ created: 20160628T185859:636027371393570000
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
 name: __Tracking
 key: __tracking
-content-length: 577
+content-length: 519
 
 <tracking>
-  <profile id="{62A90F30-9BAB-425B-8A6D-4AE5A28371D6}" name="Job Function" presets="developer|100||">
-    <key name="Analytics" value="0" />
-    <key name="Copywriting" value="2" />
-    <key name="Personalization and Testing" value="2" />
-    <key name="Technology" value="5" />
-    <key name="Workflow and Publishing" value="1" />
-  </profile>
   <profile id="{478859DC-EBE0-40A7-BD24-75D588FD3E09}" name="Information Type" presets="high level|100||">
     <key name="Detailed" value="0" />
     <key name="High Level" value="1" />
+  </profile>
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="analysts|100||">
+    <key name="Analytics" value="5" />
+    <key name="Event Planning" value="0" />
+    <key name="Travel Consulting" value="1" />
+    <key name="Technology" value="2" />
   </profile>
 </tracking>
 ----field----
@@ -53,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: e964f354-fdfe-4ac2-a26a-70282c08c12a
+revision: 0fcf7925-65e7-4a85-b7a7-00552f3ee264
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -177,14 +176,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e964f354-fdfe-4ac2-a26a-70282c08c12a
+0fcf7925-65e7-4a85-b7a7-00552f3ee264
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183753Z
+20160709T191224Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

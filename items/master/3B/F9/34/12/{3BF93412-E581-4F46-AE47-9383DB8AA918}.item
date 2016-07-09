@@ -2,26 +2,26 @@
 version: 1
 id: {3BF93412-E581-4F46-AE47-9383DB8AA918}
 database: master
-path: /sitecore/templates/Launch Sitecore/Base Templates/Author Keywords/__Standard Values
+path: /sitecore/templates/Launch Sitecore/Base Templates/Author Group/__Standard Values
 parent: {D5D4AC70-4B0F-460D-939C-F77377826B69}
 name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {D5D4AC70-4B0F-460D-939C-F77377826B69}
-templatekey: Author Keywords
+templatekey: Author Group
 created: 20160709T182856:636036857362630000
 
 ----version----
 language: en
 version: 1
-revision: 84589d7b-aebf-409b-8dfc-b1672e4a4a50
+revision: 5e3e6c9d-8b70-4561-83eb-0c1c45eb7ccc
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
-name: Title
-key: title
-content-length: 5
+name: Author
+key: author
+content-length: 0
 
-$name
+
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -33,9 +33,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20111214T101900
+20111214T151900Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-84589d7b-aebf-409b-8dfc-b1672e4a4a50
+5e3e6c9d-8b70-4561-83eb-0c1c45eb7ccc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T182856Z
+20160709T183113Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

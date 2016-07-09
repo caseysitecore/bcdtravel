@@ -11,6 +11,20 @@ templatekey: Article
 created: 20160705T194851:636033449312470000
 
 ----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 330
+
+<tracking>
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="information architect|100||">
+    <key name="Analytics" value="4" />
+    <key name="Event Planning" value="3" />
+    <key name="Travel Consulting" value="3" />
+    <key name="Technology" value="2" />
+  </profile>
+</tracking>
+----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -20,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 07a6d4c2-d395-4d7e-bd1a-4b07023cd1e9
+revision: df481bbe-f184-440a-91e6-74d92057a3f9
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -124,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-07a6d4c2-d395-4d7e-bd1a-4b07023cd1e9
+df481bbe-f184-440a-91e6-74d92057a3f9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183840Z
+20160709T191336Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -1,0 +1,131 @@
+----item----
+version: 1
+id: {0009BBAE-874A-45F5-8DA6-C7FAE3A7AE63}
+database: master
+path: /sitecore/content/Home/About Us
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: About Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {53303AA5-8E78-4263-A476-C1E7ED791FDE}
+templatekey: Articles Section
+created: 20160707T134434:636034958747900000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+450
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
+----version----
+language: en
+version: 1
+revision: d871fe86-ae27-4775-a660-57ddab49ad8d
+
+----field----
+field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
+name: Title
+key: title
+content-length: 8
+
+About Us
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 366
+
+<p>BCD Travel was founded on Jan. 3, 2006, when BCD Group announced its decision to purchase TQ3 Travel Solutions Management Holding GmbH and a majority interest in The Travel Company. These two companies were combined with WorldTravel BTI under one ownership to form BCD Travel. The company formally began trading under its new brand on March 31, 2006.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1181
+
+<p>BCD Travel helps companies make the most of what they spend on travel. For travelers, this means keeping them safe and productive, and equipping them to make good choices on the road. For travel and procurement managers, it means advising them on how to grow the value of their travel program. In short, we help our clients travel smart and achieve more. We make this happen in 110 countries with more than 12,000 creative, committed and experienced people. And it’s how we maintain an industry-leading client-retention rate of 97%, with 2015 sales of US$23.8 billion.</p>
+<p>BCD Group is a market leader in the travel industry. The privately owned company was founded in 1975 by John Fentener van Vlissingen and consists of BCD Travel (global corporate travel management), Travix (online travel: CheapTickets, Vliegwinkel, BudgetAir, Flugladen and Vayama), Park ‘N Fly (off-airport parking) and joint ventures Parkmobile International (mobile parking applications) and AERTrade International (consolidating and fulfillment). BCD Group employs over 13,000 people and operates in 100+ countries with total sales of US$ 25.4 billion, including US$ 10 billion in partner sales.</p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{97843AB7-6111-470B-AA0F-A28A27824395}" />
+----field----
+field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
+name: Menu Title
+key: menu title
+content-length: 8
+
+About Us
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 275
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{87A9805B-F47B-47E6-AC80-C30CEC097C43}"><p:d /></r><r uid="{E3C921C1-6B37-40DF-8561-FD69332E444B}" p:after="*[1=2]" /><r uid="{377674D0-615F-4B8A-A8F5-AEE38E82BF36}"><p:d /></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160707T134434Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d871fe86-ae27-4775-a660-57ddab49ad8d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160709T175801Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
+name: __Semantics
+key: __semantics
+content-length: 116
+
+{74DE5F47-3355-4ECD-B9BE-27D12242B878}|{FEA43B3A-A3D4-493B-8E01-3FB71E7C9B4D}|{2E81D72E-6BBC-438E-A261-01D68DA81A2A}
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

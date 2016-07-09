@@ -2,9 +2,9 @@
 version: 1
 id: {6CF853A8-9CF7-4123-855D-CDE3BF60DCBB}
 database: master
-path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Network Architect
+path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Information Architect
 parent: {E2A4D08F-861B-489D-816D-4F633873EF93}
-name: Network Architect
+name: Information Architect
 master: {00000000-0000-0000-0000-000000000000}
 template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
 templatekey: Pattern Card
@@ -41,7 +41,7 @@ content-length: 292
 ----version----
 language: en
 version: 1
-revision: e8525313-ef89-47d4-bc83-29e6dd8d6b1d
+revision: af57e65e-694e-4a5f-8894-8d4d31e7d2da
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e8525313-ef89-47d4-bc83-29e6dd8d6b1d
+af57e65e-694e-4a5f-8894-8d4d31e7d2da
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190534Z
+20160709T190544Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -2,9 +2,9 @@
 version: 1
 id: {25518E1D-EC5A-40F7-933D-88E4BF095655}
 database: master
-path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Network Architect
+path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Information Architect
 parent: {5FFA5E63-C49D-4D82-9BDD-9A9FC913AE9D}
-name: Network Architect
+name: Information Architect
 master: {00000000-0000-0000-0000-000000000000}
 template: {448C4D57-F0F1-4278-8AB8-93DB46C94F1B}
 templatekey: Profile Card - Persona
@@ -34,7 +34,7 @@ content-length: 292
 ----version----
 language: en
 version: 1
-revision: bb642e40-ac05-4b14-8767-954cb861743f
+revision: d85fd6c1-360f-405a-8857-99c983ec70f7
 
 ----field----
 field: {A26FC256-1DB0-44AA-BA3D-1C830BF882A2}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bb642e40-ac05-4b14-8767-954cb861743f
+d85fd6c1-360f-405a-8857-99c983ec70f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190447Z
+20160709T190455Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

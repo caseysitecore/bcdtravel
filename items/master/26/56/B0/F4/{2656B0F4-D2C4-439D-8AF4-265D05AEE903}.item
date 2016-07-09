@@ -52,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 331437a7-b4d5-4512-9c53-0e325ac5a3b0
+revision: 9b6d2e85-1549-4e28-9f27-95904f8d742d
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -73,15 +73,15 @@ content-length: 172
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 7349
+content-length: 7187
 
 <h2> Advito and BCD Travel sign industry-leading agreement with Cisco to power launch of a new Total Collaboration Management practice</h2>
 <p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;"> </strong></p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, April 15, 2016</strong> &ndash; BCD Travel and its consulting practice, Advito, have signed a marketing agreement with Cisco aimed at increasing the use of virtual collaboration solutions.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, April 15, 2016</strong> – BCD Travel and its consulting practice, Advito, have signed a marketing agreement with Cisco aimed at increasing the use of virtual collaboration solutions.</p>
 <p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">The agreement positions BCD Travel as the leading travel management company in employing networking and collaboration technologies to increase the ROI on corporate travel programs. It also positions the company as a leader in helping businesses achieve greater work-life balance in the competition for talent.</p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;Virtual collaboration solutions can now effectively replace travel in many circumstances,&rdquo; says April Bridgeman, senior vice president, BCD Travel, and managing director, Advito. &ldquo;We see a new discipline emerging that uses a holistic and strategic approach to deciding which trips drive value and which meetings are best handled by virtual collaboration.&rdquo;</p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;Travel avoidance is an obvious benefit of using video but the benefits go far beyond not having to catch a plane,&rdquo; said Andre Smit, who leads Cisco&rsquo;s worldwide collaboration sales organization. &ldquo;Since more than 45% of communication is visual, increasing the number of times you connect face-to-face improves communication. On a quality video call, the people involved feel like they are actually together in the same room &ndash; it helps drive a relationship. This is critical for remote workers, for meetings with partners and clients, for interactions with vendors and suppliers.&rdquo;</p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">As a key part of the agreement, Advito has developed a powerful service set for companies to increase awareness and use of virtual collaboration assets&mdash;either reducing travel spend or shifting it toward higher value travel. The new Total Collaboration Management practice is aimed at increasing employee satisfaction and improving effectiveness of all types of employee collaboration. For example:</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">“Virtual collaboration solutions can now effectively replace travel in many circumstances,” says April Bridgeman, senior vice president, BCD Travel, and managing director, Advito. “We see a new discipline emerging that uses a holistic and strategic approach to deciding which trips drive value and which meetings are best handled by virtual collaboration.”</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">“Travel avoidance is an obvious benefit of using video but the benefits go far beyond not having to catch a plane,” said Andre Smit, who leads Cisco’s worldwide collaboration sales organization. “Since more than 45% of communication is visual, increasing the number of times you connect face-to-face improves communication. On a quality video call, the people involved feel like they are actually together in the same room – it helps drive a relationship. This is critical for remote workers, for meetings with partners and clients, for interactions with vendors and suppliers.”</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">As a key part of the agreement, Advito has developed a powerful service set for companies to increase awareness and use of virtual collaboration assets—either reducing travel spend or shifting it toward higher value travel. The new Total Collaboration Management practice is aimed at increasing employee satisfaction and improving effectiveness of all types of employee collaboration. For example:</p>
 <ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px;">
     <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Setting reasonable and specific company goals for travel savings or spend shift to more valuable travel</li>
     <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;">Engaging employees so they can determine when they should go to a meeting or stay put</li>
@@ -96,13 +96,13 @@ content-length: 7349
 </ul>
 <p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">BCD Travel and Advito are betting that a number of factors will drive greater acceptance of virtual collaboration among business consumers:</p>
 <ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px;">
-    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Better prices</strong> &ndash; Prices have fallen rapidly, and some entry-level products are available for free.</li>
-    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">More options</strong> &ndash; Organizations can choose among a spectrum of tools to satisfy all virtual collaboration needs and price points. They can take advantage of much wider availability of multi-purpose conference systems, which are portable and much cheaper than immersive systems but deliver much better experiences than yesterday&rsquo;s video conferencing systems.</li>
-    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">It&rsquo;s become normal</strong> &ndash; Meeting by video has become the norm, thanks to cameras featured on most digital devices and apps like FaceTime, Skype and Google Hangouts.</li>
-    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Enhanced user experience</strong> &ndash; Technology has improved audio and video reproduction. Systems are now easier to use too, so employees can operate equipment without relying on technicians. And cloud-based bridging technology lets a variety of products easily connect.<br>
-    <strong style="margin: 0px; padding: 0px; border: 0px;">o More remote workers</strong> &ndash; Ever larger numbers of employees are working across locations, whether at home or in other countries. Virtual collaboration makes it easier for them to work together.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Better prices</strong> – Prices have fallen rapidly, and some entry-level products are available for free.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">More options</strong> – Organizations can choose among a spectrum of tools to satisfy all virtual collaboration needs and price points. They can take advantage of much wider availability of multi-purpose conference systems, which are portable and much cheaper than immersive systems but deliver much better experiences than yesterday’s video conferencing systems.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">It’s become normal</strong> – Meeting by video has become the norm, thanks to cameras featured on most digital devices and apps like FaceTime, Skype and Google Hangouts.</li>
+    <li style="margin: 0px; padding: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">Enhanced user experience</strong> – Technology has improved audio and video reproduction. Systems are now easier to use too, so employees can operate equipment without relying on technicians. And cloud-based bridging technology lets a variety of products easily connect.<br>
+    <strong style="margin: 0px; padding: 0px; border: 0px;">o More remote workers</strong> – Ever larger numbers of employees are working across locations, whether at home or in other countries. Virtual collaboration makes it easier for them to work together.</li>
 </ul>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">&ldquo;As organizations become more familiar with the costs and benefits of all types of professional collaboration, deciding what specific solution is most productive for a given situation will become more strategic,&rdquo; said Wendy Prewitt, vice president of global business development for BCD Travel. &ldquo;With their depth of experience in helping employees make the right booking choices, travel managers will play a growing role in managing virtual options. This includes integration with travel &mdash; helping employees decide &lsquo;Do I stay or do I go?&rsquo; &mdash; and most importantly, making it easier to stay.&rdquo;</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">“As organizations become more familiar with the costs and benefits of all types of professional collaboration, deciding what specific solution is most productive for a given situation will become more strategic,” said Wendy Prewitt, vice president of global business development for BCD Travel. “With their depth of experience in helping employees make the right booking choices, travel managers will play a growing role in managing virtual options. This includes integration with travel — helping employees decide ‘Do I stay or do I go?’ — and most importantly, making it easier to stay.”</p>
 <p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"> </p>
 <p style="margin: 0in 0in 10pt;"> </p>
 ----field----
@@ -127,6 +127,13 @@ content-length: 0
 
 
 ----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 4
+
+News
+----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
@@ -140,6 +147,13 @@ key: __display name
 content-length: 0
 
 
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 216
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{10F779BE-924F-4CDD-8510-C69D92D0A8E7}"><p:d /></r><r uid="{7B7951B4-28FD-4A41-B7FE-95DB9F747B1E}" p:after="*[1=2]" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -160,21 +174,28 @@ name: __Revision
 key: __revision
 content-length: 36
 
-331437a7-b4d5-4512-9c53-0e325ac5a3b0
+9b6d2e85-1549-4e28-9f27-95904f8d742d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202317Z
+20160709T175100Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
+----field----
+field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
+name: __Semantics
+key: __semantics
+content-length: 116
+
+{63A5F3EC-6984-4B0D-AC3F-22D278CBB209}|{9BE321B7-E9F2-454A-9A3A-8EA63C4997A8}|{89221EB6-BE11-4E21-89C0-7B5F379C7178}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

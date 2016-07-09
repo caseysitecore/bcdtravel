@@ -10,10 +10,17 @@ template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 templatekey: Folder
 created: 20160709T182447:636036854874800000
 
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 29
+
+Office/32x32/revert_users.png
 ----version----
 language: en
 version: 1
-revision: f7ba8066-0e52-4fe3-8e00-dcf6598e09fb
+revision: 9a1e04af-9947-4c02-8098-d09bd467c09f
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f7ba8066-0e52-4fe3-8e00-dcf6598e09fb
+9a1e04af-9947-4c02-8098-d09bd467c09f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T182447Z
+20160709T182523Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

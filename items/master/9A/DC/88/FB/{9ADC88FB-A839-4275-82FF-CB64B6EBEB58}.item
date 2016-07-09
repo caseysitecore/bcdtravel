@@ -32,16 +32,16 @@ content-length: 292
 
 <tracking>
   <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment">
-    <key name="Analytics" value="5" />
-    <key name="Technology" value="0" />
-    <key name="Event Planning" value="0" />
-    <key name="Travel Consulting" value="0" />
+    <key name="Analytics" value="1" />
+    <key name="Technology" value="2" />
+    <key name="Event Planning" value="3" />
+    <key name="Travel Consulting" value="3" />
   </profile>
 </tracking>
 ----version----
 language: en
 version: 1
-revision: c2a9881b-d3d1-4258-933e-425d3ff87f34
+revision: b806322e-066b-4c32-b5f2-f8a93586e4be
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c2a9881b-d3d1-4258-933e-425d3ff87f34
+b806322e-066b-4c32-b5f2-f8a93586e4be
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190525Z
+20160709T190805Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

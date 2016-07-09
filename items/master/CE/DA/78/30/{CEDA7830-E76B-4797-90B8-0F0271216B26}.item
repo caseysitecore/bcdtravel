@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4482e9e5-9407-44b2-b4f4-ed6627d4b995
+revision: 4ad7e305-ffe3-48e7-a92a-64d968b89055
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -69,13 +69,13 @@ content-length: 195
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1468
+content-length: 1372
 
-<p>Zika virus headlines have heightened business travelers&rsquo; awareness, but BCD Travel hasn&rsquo;t seen a significant shift in bookings, said Martin Weisskirchen, a BCD Travel risk expert.<br>
+<p>Zika virus headlines have heightened business travelers’ awareness, but BCD Travel hasn’t seen a significant shift in bookings, said Martin Weisskirchen, a BCD Travel risk expert.<br>
 <br>
-&ldquo;As with any situation that potentially affects travel, BCD Travel is monitoring the Zika virus very closely. So far, we haven&rsquo;t seen a big impact on travel patterns,&rdquo; said Weisskirchen, vice president of BCD&rsquo;s Global Crisis Management team. &ldquo;We&rsquo;re advising clients to monitor advice from the World Health Organization and the U.S. Centers for Disease Control and Prevention. We&rsquo;re also encouraging travelers to consult with their own doctors if they have questions about the safety of travel to destinations where the Zika virus has been identified.&rdquo;<br>
+“As with any situation that potentially affects travel, BCD Travel is monitoring the Zika virus very closely. So far, we haven’t seen a big impact on travel patterns,” said Weisskirchen, vice president of BCD’s Global Crisis Management team. “We’re advising clients to monitor advice from the World Health Organization and the U.S. Centers for Disease Control and Prevention. We’re also encouraging travelers to consult with their own doctors if they have questions about the safety of travel to destinations where the Zika virus has been identified.”<br>
 <br>
-In a recent article in Business Travel News, Weisskirchen offered guidance for companies grappling with how to prepare for travel crises and disruptions, including any potential effects from Zika. &ldquo;We advise travel managers to understand and support their companies&rsquo; individual risk and duty-of-care policies,&rdquo; he said. &ldquo;There&rsquo;s a common thread that all companies share: keeping travelers informed and engaged. Travel security alerts for specific destinations can play an important role for situations like this one, and we also encourage companies to explore the use of customized messaging capabilities.&rdquo;</p>
+In a recent article in Business Travel News, Weisskirchen offered guidance for companies grappling with how to prepare for travel crises and disruptions, including any potential effects from Zika. “We advise travel managers to understand and support their companies’ individual risk and duty-of-care policies,” he said. “There’s a common thread that all companies share: keeping travelers informed and engaged. Travel security alerts for specific destinations can play an important role for situations like this one, and we also encourage companies to explore the use of customized messaging capabilities.”</p>
 <p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
@@ -98,6 +98,13 @@ key: menu title
 content-length: 21
 
 Zika Effect on Travel
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 216
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{10F779BE-924F-4CDD-8510-C69D92D0A8E7}"><p:d /></r><r uid="{7B7951B4-28FD-4A41-B7FE-95DB9F747B1E}" p:after="*[1=2]" /></d></r>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -125,14 +132,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4482e9e5-9407-44b2-b4f4-ed6627d4b995
+4ad7e305-ffe3-48e7-a92a-64d968b89055
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T175128Z
+20160709T175313Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -140,6 +147,13 @@ key: __updated by
 content-length: 14
 
 sitecore\casey
+----field----
+field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
+name: __Semantics
+key: __semantics
+content-length: 116
+
+{E2D776C0-D8B5-4F73-ABA4-690ED43F1670}|{C6111F3E-6CC7-4A71-B3D7-04C8C8E2633D}|{F0BDBA85-FB76-4E5D-9E50-DB1258C20173}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

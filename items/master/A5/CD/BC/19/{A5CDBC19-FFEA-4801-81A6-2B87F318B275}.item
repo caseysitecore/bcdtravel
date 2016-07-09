@@ -46,6 +46,20 @@ content-length: 1
 
 1
 ----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 317
+
+<tracking>
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="analysts|100||">
+    <key name="Analytics" value="5" />
+    <key name="Event Planning" value="0" />
+    <key name="Travel Consulting" value="1" />
+    <key name="Technology" value="2" />
+  </profile>
+</tracking>
+----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
@@ -62,7 +76,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 06c8acd3-dfe2-4eeb-87e5-1f1e09455a9a
+revision: 5d894b90-a840-4275-b357-0817082342b5
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -71,6 +85,13 @@ key: author
 content-length: 9
 
 Bill Sapp
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 9
+
+BCD Group
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -85,13 +106,6 @@ key: abstract
 content-length: 68
 
 <p>We help companies make the most of what they spend on travel.</p>
-----field----
-field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
-name: Group
-key: group
-content-length: 9
-
-BCD Group
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
@@ -140,14 +154,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-06c8acd3-dfe2-4eeb-87e5-1f1e09455a9a
+5d894b90-a840-4275-b357-0817082342b5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183358Z
+20160709T191101Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

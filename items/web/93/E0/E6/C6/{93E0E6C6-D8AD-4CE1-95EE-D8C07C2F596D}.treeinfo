@@ -1,0 +1,10 @@
+{
+  "itemName": "Report Email Task",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CBD787F8-6313-4224-B9E3-F52772806DF2}",
+  "childIds": [
+    "{DA36F8B0-BE20-4C1C-AC8E-27E1CF3C419C}",
+    "{C61E0074-2E8D-4197-BB31-5D5A950F8A92}"
+  ]
+}

@@ -20,8 +20,22 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 82823288-3ff7-4c72-8537-77e90fe1fda6
+revision: 07a6d4c2-d395-4d7e-bd1a-4b07023cd1e9
 
+----field----
+field: {B443A4FC-64F3-489E-B329-793347AFE745}
+name: Author
+key: author
+content-length: 13
+
+Paul Sheridan
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 9
+
+BCD Group
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -110,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-82823288-3ff7-4c72-8537-77e90fe1fda6
+07a6d4c2-d395-4d7e-bd1a-4b07023cd1e9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T174832Z
+20160709T183840Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

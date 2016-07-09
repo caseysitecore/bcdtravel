@@ -1,0 +1,47 @@
+----item----
+version: 1
+id: {1246DCB8-1464-4213-B2CD-54B9020CE695}
+database: web
+path: /Meet the Thought Leaders
+parent: {00000000-0000-0000-0000-000000000000}
+name: Meet the Thought Leaders
+master: {00000000-0000-0000-0000-000000000000}
+template: {5365F694-C2AB-41AF-8A79-28FC6A35E384}
+templatekey: Carousel Item
+created: 20160628T185849:636027371298400000
+
+----field----
+field: {336E27E0-7F9C-437E-B179-653F427520CC}
+name: Link Item
+key: link item
+content-length: 38
+
+{8DABE12D-4D1B-40B5-BF62-7D2424253A15}
+----field----
+field: {DD876753-9D4B-4B70-8197-41A0EB302087}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{554F82C3-5C10-4C52-B6CF-99D44D05D661}" />
+----field----
+field: {B1F1502E-0B97-4152-92ED-6828FA25B947}
+name: Use Dark Text
+key: use dark text
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+250
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}

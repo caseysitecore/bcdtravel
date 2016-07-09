@@ -303,7 +303,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 9603cd3a-21bd-491a-8ed1-e3a19120aeb4
+revision: 70d7a973-003a-4228-bc03-c50c6ad8319a
 
 ----field----
 field: {AAEAC7F2-E33E-4B34-9023-AB6F59D3A427}
@@ -380,9 +380,9 @@ Welcome to Sitecore.
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 2769
+content-length: 3233
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{52D796F3-ABC1-48CA-B1F6-CE901C71888B}"><rls><ruleset><rule uid="{BA9DC88E-FBC4-4736-B330-ECD27B9CE007}"><p:d /></rule><rule uid="{DA4169A9-C13B-4BAB-AD71-9A349CD706FF}" p:before="*" s:name="Information Architect"><conditions><condition uid="44D65777D4464BA8B9D079B792E0CB2B" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="93B86AA8D305465789B69CC43D337500" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{0720FC50-5617-4A67-9794-9B56BA3038BD}" /></actions></rule><rule uid="{AE5F6CC5-9BBF-42F9-AB28-66DEA1C746DC}"><p:d /></rule><rule uid="{00000000-0000-0000-0000-000000000000}"><actions><action uid="287459B20BBC4EC1A3C21EC97CF8CEE4" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C8231E47-89A9-448B-9019-8CCCF8750728}" /></actions></rule></ruleset></rls></r><r uid="{3EC360C9-708D-4E58-9DED-5D8FD4620ED5}"><rls><ruleset><rule uid="{CE1B45D1-2819-42CA-A64B-433DA52EF116}"><p:d /></rule><rule uid="{5C956EE1-F52D-4CC3-8548-B5347D21B804}" p:before="*" s:name="Information Architect"><conditions><condition uid="F626F7AFD07044BABBB97D3C0036068D" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="C9A025D5031D45E295C3C5E2653AB05E" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C9D9890A-415E-4EDA-84B7-C47B09A78414}" /></actions></rule><rule uid="{5BA3A134-ECC9-48ED-BCF2-34F806D62742}"><p:d /></rule></ruleset></rls></r><r uid="{348B6EEA-B101-4312-AFC2-313212D2350C}"><rls><ruleset><rule uid="{A3B3B56E-B3DD-4CE2-AB44-589605CCA200}" s:name="Information Architect"><conditions><condition uid="2404F90FD3524F99807211DA4505778E" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="6789C44613064C619EB0AA74B0DD1E96" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{2D766141-8D12-43B8-9F08-A67A1E32F923}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="2EF44C21689042E0BED247998168833B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{EE02BE24-30DE-4BB7-A52A-46693A78EF4F}"><rls><ruleset><rule uid="{39FCDAEC-8D32-4297-B8C1-0FA451415E36}"><p:d /></rule></ruleset></rls></r><r uid="{3829E486-2259-42FF-9385-33F26CF71A94}"><rls><ruleset><rule uid="{5E93ED2E-AEC7-4B66-9E08-61FF8C306099}"><p:d /></rule><rule uid="{7E0E4C3D-BEF9-4424-8645-2D8B4194ED86}"><p:d /></rule></ruleset></rls></r></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{52D796F3-ABC1-48CA-B1F6-CE901C71888B}"><rls><ruleset><rule uid="{BA9DC88E-FBC4-4736-B330-ECD27B9CE007}"><p:d /></rule><rule uid="{DA4169A9-C13B-4BAB-AD71-9A349CD706FF}" p:before="*" s:name="Information Architect"><conditions><condition uid="44D65777D4464BA8B9D079B792E0CB2B" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="93B86AA8D305465789B69CC43D337500" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{0720FC50-5617-4A67-9794-9B56BA3038BD}" /></actions></rule><rule uid="{AE5F6CC5-9BBF-42F9-AB28-66DEA1C746DC}"><p:d /></rule><rule uid="{00000000-0000-0000-0000-000000000000}"><actions><action uid="287459B20BBC4EC1A3C21EC97CF8CEE4" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C8231E47-89A9-448B-9019-8CCCF8750728}" /></actions></rule></ruleset></rls></r><r uid="{3EC360C9-708D-4E58-9DED-5D8FD4620ED5}"><rls><ruleset><rule uid="{CE1B45D1-2819-42CA-A64B-433DA52EF116}"><p:d /></rule><rule uid="{5C956EE1-F52D-4CC3-8548-B5347D21B804}" p:before="*" s:name="Information Architect"><conditions><condition uid="F626F7AFD07044BABBB97D3C0036068D" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="C9A025D5031D45E295C3C5E2653AB05E" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C9D9890A-415E-4EDA-84B7-C47B09A78414}" /></actions></rule><rule uid="{5BA3A134-ECC9-48ED-BCF2-34F806D62742}"><p:d /></rule></ruleset></rls></r><r uid="{348B6EEA-B101-4312-AFC2-313212D2350C}"><rls><ruleset><rule uid="{A3B3B56E-B3DD-4CE2-AB44-589605CCA200}" s:name="Information Architect"><conditions><condition uid="2404F90FD3524F99807211DA4505778E" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="6789C44613064C619EB0AA74B0DD1E96" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{2D766141-8D12-43B8-9F08-A67A1E32F923}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="2EF44C21689042E0BED247998168833B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{EE02BE24-30DE-4BB7-A52A-46693A78EF4F}"><rls><ruleset><rule uid="{39FCDAEC-8D32-4297-B8C1-0FA451415E36}"><p:d /></rule><rule uid="{08412E6E-0D7E-4EA5-9029-C2AF0A30E6CE}" p:before="*" s:name="Information Architect"><conditions><condition uid="63957A21D8C34B4FA305C06E44F78373" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Audience Segment" s:PatternName="Information Architect" /></conditions><actions><action uid="37ED2F14D88F4961A1EFB4C3E0EF52AE" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{2656B0F4-D2C4-439D-8AF4-265D05AEE903}" /></actions></rule></ruleset></rls></r><r uid="{3829E486-2259-42FF-9385-33F26CF71A94}"><rls><ruleset><rule uid="{5E93ED2E-AEC7-4B66-9E08-61FF8C306099}"><p:d /></rule><rule uid="{7E0E4C3D-BEF9-4424-8645-2D8B4194ED86}"><p:d /></rule></ruleset></rls></r></d></r>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -424,14 +424,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9603cd3a-21bd-491a-8ed1-e3a19120aeb4
+70d7a973-003a-4228-bc03-c50c6ad8319a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T205130Z
+20160709T205329Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

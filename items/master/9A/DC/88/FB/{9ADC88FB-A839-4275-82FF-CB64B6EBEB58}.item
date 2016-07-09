@@ -2,9 +2,9 @@
 version: 1
 id: {9ADC88FB-A839-4275-82FF-CB64B6EBEB58}
 database: master
-path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Digital Marketer
+path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Trainer
 parent: {E2A4D08F-861B-489D-816D-4F633873EF93}
-name: Digital Marketer
+name: Trainer
 master: {00000000-0000-0000-0000-000000000000}
 template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
 templatekey: Pattern Card
@@ -41,7 +41,7 @@ content-length: 292
 ----version----
 language: en
 version: 1
-revision: 1f4eec34-f084-4b9f-ad64-668673a0bed9
+revision: c2a9881b-d3d1-4258-933e-425d3ff87f34
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1f4eec34-f084-4b9f-ad64-668673a0bed9
+c2a9881b-d3d1-4258-933e-425d3ff87f34
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190520Z
+20160709T190525Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

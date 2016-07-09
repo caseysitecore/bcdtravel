@@ -27,8 +27,22 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 8c54e58a-327a-4293-b686-f9bd3829560b
+revision: a665de03-7fa8-47cc-9196-fc6d68ed289e
 
+----field----
+field: {B443A4FC-64F3-489E-B329-793347AFE745}
+name: Author
+key: author
+content-length: 9
+
+Bill Sapp
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 6
+
+Advito
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -69,9 +83,9 @@ Advito Industry News
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20131112T073059
+20131112T123059Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -85,14 +99,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8c54e58a-327a-4293-b686-f9bd3829560b
+a665de03-7fa8-47cc-9196-fc6d68ed289e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T174938Z
+20160709T183849Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

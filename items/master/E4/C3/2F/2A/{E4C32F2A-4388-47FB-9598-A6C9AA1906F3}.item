@@ -14,9 +14,9 @@ created: 20160628T185925:636027371658830000
 field: {2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}
 name: Name
 key: name
-content-length: 23
+content-length: 14
 
-Campaigns and Targeting
+Event Planning
 ----field----
 field: {12E2C64A-5F08-4948-86C8-55AE06AFEEF8}
 name: MaxValue
@@ -27,33 +27,33 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: a92095ea-f594-43e3-8582-efa2c8fbfbb5
+revision: 0f956de2-788a-439d-96f8-b0602a6a8805
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20131218T141408
+20131218T191408Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-a92095ea-f594-43e3-8582-efa2c8fbfbb5
+0f956de2-788a-439d-96f8-b0602a6a8805
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131218T141422:635229728622143693
+20160709T190354Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey

@@ -1,0 +1,10 @@
+{
+  "itemName": "Travel Florida",
+  "templateId": "{FF9867EE-0B7F-4E0E-B604-6329A923A4B4}",
+  "branchId": "{32A58B37-17A9-408A-8916-AFEBE27AB233}",
+  "parentId": "{50DE289A-6273-4B6B-93E4-86BC27D03476}",
+  "childIds": [
+    "{154A9819-009A-4B82-9764-A2A44422C8A5}",
+    "{184FBB90-4D56-49A6-A620-E42BC5BD9024}"
+  ]
+}

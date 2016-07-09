@@ -2,9 +2,9 @@
 version: 1
 id: {5D73A16D-2388-4E9A-A37C-015C589D25B0}
 database: master
-path: /sitecore/system/Settings/Buckets/Facets/Group
+path: /sitecore/system/Settings/Buckets/Facets/BCD Group
 parent: {0B42DC05-5CF9-4DD5-9A3A-8BDF11BE2B88}
-name: Group
+name: BCD Group
 master: {00000000-0000-0000-0000-000000000000}
 template: {5C125B6D-C481-4C24-B5B9-9A23FE396BF0}
 templatekey: Facet
@@ -20,7 +20,7 @@ Group
 ----version----
 language: en
 version: 1
-revision: 65026796-e4c0-41d3-8a7a-2d22b74f36c7
+revision: a2968788-c299-441f-bff2-f4f9d12567b9
 
 ----field----
 field: {31CA077F-EF38-4980-8A24-05408031B2BC}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-65026796-e4c0-41d3-8a7a-2d22b74f36c7
+a2968788-c299-441f-bff2-f4f9d12567b9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T184053Z
+20160709T184134Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

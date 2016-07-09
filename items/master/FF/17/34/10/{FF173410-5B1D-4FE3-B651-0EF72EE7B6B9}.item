@@ -2,9 +2,9 @@
 version: 1
 id: {FF173410-5B1D-4FE3-B651-0EF72EE7B6B9}
 database: master
-path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Content Owner
+path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Profile Cards/Analysts
 parent: {5FFA5E63-C49D-4D82-9BDD-9A9FC913AE9D}
-name: Content Owner
+name: Analysts
 master: {00000000-0000-0000-0000-000000000000}
 template: {448C4D57-F0F1-4278-8AB8-93DB46C94F1B}
 templatekey: Profile Card - Persona
@@ -34,7 +34,7 @@ content-length: 302
 ----version----
 language: en
 version: 1
-revision: d42df872-edbf-4df9-8f65-ae575f092bc1
+revision: 4923e3ba-4183-4c7a-9ec0-d148a268b5a9
 
 ----field----
 field: {A26FC256-1DB0-44AA-BA3D-1C830BF882A2}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d42df872-edbf-4df9-8f65-ae575f092bc1
+4923e3ba-4183-4c7a-9ec0-d148a268b5a9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190123Z
+20160709T190206Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -1,0 +1,156 @@
+----item----
+version: 1
+id: {CEDA7830-E76B-4797-90B8-0F0271216B26}
+database: master
+path: /sitecore/content/Home/Travel Tools/Travel Disruption Information/Zika Effect on Travel
+parent: {2FCFC7C5-F762-4A13-A388-01F06E6754CB}
+name: Zika Effect on Travel
+master: {00000000-0000-0000-0000-000000000000}
+template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
+templatekey: Article
+created: 20160707T142719:636034984398300000
+
+----field----
+field: {7E003143-26F2-4A28-B70A-08548286F6BA}
+name: Show Item In Menu
+key: show item in menu
+content-length: 1
+
+1
+----field----
+field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
+name: Show Children In Menu
+key: show children in menu
+content-length: 1
+
+1
+----field----
+field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
+name: Show Item In Secondary Menu
+key: show item in secondary menu
+content-length: 1
+
+1
+----field----
+field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
+name: Show In Search Results
+key: show in search results
+content-length: 1
+
+1
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
+----version----
+language: en
+version: 1
+revision: 4482e9e5-9407-44b2-b4f4-ed6627d4b995
+
+----field----
+field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
+name: Title
+key: title
+content-length: 21
+
+Zika Effect on Travel
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 195
+
+<p>Zika virus headlines have heightened business travelers’ awareness, but BCD Travel hasn’t seen a significant shift in bookings, said Martin Weisskirchen, a BCD Travel risk expert.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1468
+
+<p>Zika virus headlines have heightened business travelers&rsquo; awareness, but BCD Travel hasn&rsquo;t seen a significant shift in bookings, said Martin Weisskirchen, a BCD Travel risk expert.<br>
+<br>
+&ldquo;As with any situation that potentially affects travel, BCD Travel is monitoring the Zika virus very closely. So far, we haven&rsquo;t seen a big impact on travel patterns,&rdquo; said Weisskirchen, vice president of BCD&rsquo;s Global Crisis Management team. &ldquo;We&rsquo;re advising clients to monitor advice from the World Health Organization and the U.S. Centers for Disease Control and Prevention. We&rsquo;re also encouraging travelers to consult with their own doctors if they have questions about the safety of travel to destinations where the Zika virus has been identified.&rdquo;<br>
+<br>
+In a recent article in Business Travel News, Weisskirchen offered guidance for companies grappling with how to prepare for travel crises and disruptions, including any potential effects from Zika. &ldquo;We advise travel managers to understand and support their companies&rsquo; individual risk and duty-of-care policies,&rdquo; he said. &ldquo;There&rsquo;s a common thread that all companies share: keeping travelers informed and engaged. Travel security alerts for specific destinations can play an important role for situations like this one, and we also encourage companies to explore the use of customized messaging capabilities.&rdquo;</p>
+<p> </p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{AF86EB73-0FDD-4A3D-8A05-5C19D1432DA4}" />
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 11
+
+Travel Tool
+----field----
+field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
+name: Menu Title
+key: menu title
+content-length: 21
+
+Zika Effect on Travel
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160707T142719Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4482e9e5-9407-44b2-b4f4-ed6627d4b995
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160709T175128Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

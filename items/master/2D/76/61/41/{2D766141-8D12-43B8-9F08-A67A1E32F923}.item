@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 50625809-bc0b-4089-93ce-848ddb5f4c6f
+revision: f0995736-6d7b-42e9-ae50-0a1c5ef9c35f
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -69,19 +69,19 @@ content-length: 358
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 2126
+content-length: 2096
 
-<h2><strong> </strong>Advito: Traveler tracking, increased use of traveler apps and industry predictions in Advito&rsquo;s June 2016 Industry Forecast Update</h2>
+<h2><strong> </strong>Advito: Traveler tracking, increased use of traveler apps and industry predictions in Advito’s June 2016 Industry Forecast Update</h2>
 <p> </p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, June 14, 2016 </strong>&ndash; According to Advito&rsquo;s June 2016 Industry Forecast Update, on-demand traveler tracking, continuous sourcing activities in lieu of an annual sourcing cycle and increased use of travel apps are among trends to watch for right now.</p>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><em style="margin: 0px; padding: 0px; border: 0px;">Other market findings in Advito&rsquo;s June 2016 update include:</em></p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><strong style="margin: 0px; padding: 0px; border: 0px;">CHICAGO, June 14, 2016 </strong>– According to Advito’s June 2016 Industry Forecast Update, on-demand traveler tracking, continuous sourcing activities in lieu of an annual sourcing cycle and increased use of travel apps are among trends to watch for right now.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;"><em style="margin: 0px; padding: 0px; border: 0px;">Other market findings in Advito’s June 2016 update include:</em></p>
 <ul style="color: #404040; margin: 0px 0px 1.5em 2em; padding: 0px; border: 0px; text-align: justify;">
     <li style="margin: 0px; padding: 0px; border: 0px;">Devaluation of currency poses a challenge in a number of emerging markets, particularly Latin America, which has seen large depreciations.</li>
     <li style="margin: 0px; padding: 0px; border: 0px;">World economy will grow slightly slower in 2016 than it did in 2015. Weak global demand means advanced economies are losing momentum as their exports struggle to find customers.</li>
     <li style="margin: 0px; padding: 0px; border: 0px;">Decreased oil price assumption to US$40 pb from US$50 pb, as we believe continued over-supply will delay any recovery in prices</li>
     <li style="margin: 0px; padding: 0px; border: 0px;">Growing amount of uncertainty clouding the outlook as commentators suggest the industry has reached a peak in business travel demand, confidence, hotel performance and airfares</li>
 </ul>
-<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">The Advito industry forecast released in September 2015, features special sections on travel risk and security, Airbnb, hotel program innovation and Lufthansa&rsquo;s distribution cost charge.</p>
+<p style="color: #404040; margin-bottom: 1.3em; padding-bottom: 0px; border: 0px; text-align: justify;">The Advito industry forecast released in September 2015, features special sections on travel risk and security, Airbnb, hotel program innovation and Lufthansa’s distribution cost charge.</p>
 <p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
@@ -112,6 +112,13 @@ content-length: 38
 
 Advito Industry Forecast for June 2016
 ----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 216
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{10F779BE-924F-4CDD-8510-C69D92D0A8E7}"><p:d /></r><r uid="{7B7951B4-28FD-4A41-B7FE-95DB9F747B1E}" p:after="*[1=2]" /></d></r>
+----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
@@ -131,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-50625809-bc0b-4089-93ce-848ddb5f4c6f
+f0995736-6d7b-42e9-ae50-0a1c5ef9c35f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T174938Z
+20160709T175012Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -150,9 +157,9 @@ sitecore\casey
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics
 key: __semantics
-content-length: 77
+content-length: 116
 
-{7F207663-6A32-4173-92DA-A15394B33776}|{E0EDA7F7-4313-4596-99C4-07185950E19E}
+{8CB37E9E-57EF-40B5-A1BD-C37A3ACB28C5}|{715BE6B9-7957-4867-A8FE-A5D4277EFB92}|{9734EA61-DFBF-4A89-8854-2B94D5BFCD54}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

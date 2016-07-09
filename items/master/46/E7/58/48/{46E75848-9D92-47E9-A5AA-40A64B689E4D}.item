@@ -11,6 +11,20 @@ templatekey: Article
 created: 20160628T185859:636027371392730000
 
 ----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 317
+
+<tracking>
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="analysts|100||">
+    <key name="Analytics" value="5" />
+    <key name="Event Planning" value="0" />
+    <key name="Travel Consulting" value="1" />
+    <key name="Technology" value="2" />
+  </profile>
+</tracking>
+----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
@@ -34,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 717654e0-3334-485a-ba6c-7ab640230c97
+revision: 341ad0ae-6882-46c0-8c0c-57bfe9c6b229
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -133,14 +147,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-717654e0-3334-485a-ba6c-7ab640230c97
+341ad0ae-6882-46c0-8c0c-57bfe9c6b229
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183724Z
+20160709T191134Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

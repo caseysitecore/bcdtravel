@@ -2,9 +2,9 @@
 version: 1
 id: {DE7AC998-B699-47CE-9C51-22762F5A0B83}
 database: master
-path: /sitecore/content/Home/Audience/Content-Owners
+path: /sitecore/content/Home/Audience/Trainers
 parent: {4D719602-744A-49DA-8A98-7E4E976333B8}
-name: Content-Owners
+name: Trainers
 master: {00000000-0000-0000-0000-000000000000}
 template: {B65CCE04-BCCB-4A58-B988-753D523C99A7}
 templatekey: Audience Segment
@@ -57,29 +57,30 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f57adafd-4f9f-4040-a4ff-219969b61be4
+revision: 6b90ef65-cccf-4fd6-894e-f6cf9a426e54
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 14
+content-length: 8
 
-Content Owners
+Trainers
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 119
+content-length: 72
 
-<p>Our customers accomplish their content management goals faster and better due to our best in the industry tools.</p>
+<p>Provide training curriculum and education around travel industry.</p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 198
+content-length: 149
 
-<p>You want more people coming to your website to engage, become informed, and convert. Sitecore customers accomplish these goals faster and better due to our best in the industry editing tools.</p>
+<p>Responsible for educating BCD Travel employees. In addition, trainers will author and create new online and instructor led education.</p>
+<p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -91,16 +92,16 @@ content-length: 178
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
-content-length: 14
+content-length: 8
 
-Content Owners
+Trainers
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
 key: __display name
-content-length: 14
+content-length: 0
 
-Content Owners
+
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -121,21 +122,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f57adafd-4f9f-4040-a4ff-219969b61be4
+6b90ef65-cccf-4fd6-894e-f6cf9a426e54
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131224T093527:635234745274604933
+20160707T153705Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

@@ -1,0 +1,26 @@
+----item----
+version: 1
+id: {C2C2D05B-2103-43A0-A9FF-D0083D0B1EAD}
+database: web
+path: /Test Tag
+parent: {00000000-0000-0000-0000-000000000000}
+name: Test Tag
+master: {00000000-0000-0000-0000-000000000000}
+template: {68BA23FD-8270-4675-97EA-4FAFC7CF3AB9}
+templatekey: Tag
+created: 20160519T084204:635992441249370000
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 0
+
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+

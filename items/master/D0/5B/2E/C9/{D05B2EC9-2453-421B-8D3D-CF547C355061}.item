@@ -21,9 +21,9 @@ Applications/32x32/document_plain_red.png
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
-content-length: 3
+content-length: 2
 
-200
+50
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
 name: __Masters
@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: ce043f6d-278b-492d-ac75-961a77f41a1f
+revision: 22c9acf8-e8bc-4e26-bac9-b6c274e29541
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,7 +63,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ce043f6d-278b-492d-ac75-961a77f41a1f
+22c9acf8-e8bc-4e26-bac9-b6c274e29541
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

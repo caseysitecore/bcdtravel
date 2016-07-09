@@ -14,15 +14,14 @@ created: 20160628T185859:636027371392770000
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
 name: __Tracking
 key: __tracking
-content-length: 419
+content-length: 317
 
 <tracking>
-  <profile id="{62A90F30-9BAB-425B-8A6D-4AE5A28371D6}" name="Job Function" presets="connie the content manager|50||devon the developer|50||">
-    <key name="Analytics" value="1" />
-    <key name="Copywriting" value="3" />
-    <key name="Personalization and Testing" value="2.5" />
-    <key name="Technology" value="2.5" />
-    <key name="Workflow and Publishing" value="2" />
+  <profile id="{3CEA9A30-CFA9-42F4-BA09-9100BFB1FAC5}" name="Audience Segment" presets="analysts|100||">
+    <key name="Analytics" value="5" />
+    <key name="Event Planning" value="0" />
+    <key name="Travel Consulting" value="1" />
+    <key name="Technology" value="2" />
   </profile>
 </tracking>
 ----field----
@@ -49,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f54f4026-6a19-4316-b241-f6d1be8b3077
+revision: 73c99e7a-3bfc-4cf5-8b1f-127de6abb3cf
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -58,6 +57,13 @@ key: author
 content-length: 11
 
 Casey Piket
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 9
+
+BCD Group
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -73,13 +79,6 @@ content-length: 486
 
 <p>Keeping travelers engaged requires you to keep consistently high levels of service. Many corporations shy away from change for this reason, they see it as disruptive and risky. Unfortunately, this also eliminates many opportunities to change for higher efficiency or better service. As you select a TMC make sure that you get the best of both worlds: minimal disruption during change, and a partner that can help you identify new opportunities to modernize your program.</p>
 <p> </p>
-----field----
-field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
-name: Group
-key: group
-content-length: 9
-
-BCD Group
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
@@ -148,14 +147,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f54f4026-6a19-4316-b241-f6d1be8b3077
+73c99e7a-3bfc-4cf5-8b1f-127de6abb3cf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183423Z
+20160709T191121Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

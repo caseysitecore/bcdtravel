@@ -2,9 +2,9 @@
 version: 1
 id: {30A5F43C-DF80-4FCD-BFA0-ED846F041384}
 database: master
-path: /sitecore/content/Home/Audience/Digital-Marketers
+path: /sitecore/content/Home/Audience/Analysts
 parent: {4D719602-744A-49DA-8A98-7E4E976333B8}
-name: Digital-Marketers
+name: Analysts
 master: {00000000-0000-0000-0000-000000000000}
 template: {B65CCE04-BCCB-4A58-B988-753D523C99A7}
 templatekey: Audience Segment
@@ -64,29 +64,30 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: fa5de238-d206-4230-bdeb-fdd78e0ed845
+revision: fe6476f0-25ec-49e7-b57c-dc61210663f0
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
 key: title
-content-length: 17
+content-length: 8
 
-Digital Marketers
+Analysts
 ----field----
 field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
 name: Abstract
 key: abstract
-content-length: 101
+content-length: 41
 
-<p>Attract and target visitors on your website with personalized content, testing, and campaigns.</p>
+<p>Travel industry analysts.</p>
+<p> </p>
 ----field----
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 280
+content-length: 144
 
-<p>Attract and target visitors on your website with personalized content, multivariate testing, and integrated campaigns. Finally you have all the tools you need to manage your digital marketing and outreach initiatives across all channels with Sitecore's acclaimed interface.</p>
+<p>Researches and provides analysis around the travel industry. Focuses on researching up to date information to make solid recommendations.</p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -98,23 +99,23 @@ content-length: 194
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
-content-length: 9
+content-length: 8
 
-Marketers
+Analysts
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
 key: __display name
-content-length: 17
+content-length: 0
 
-Digital Marketers
+
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20120604T163900
+20120604T203900Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -128,21 +129,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa5de238-d206-4230-bdeb-fdd78e0ed845
+fe6476f0-25ec-49e7-b57c-dc61210663f0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20131224T093527:635234745276735627
+20160709T191005Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

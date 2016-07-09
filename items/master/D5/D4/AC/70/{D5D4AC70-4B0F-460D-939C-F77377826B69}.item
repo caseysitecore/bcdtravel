@@ -2,9 +2,9 @@
 version: 1
 id: {D5D4AC70-4B0F-460D-939C-F77377826B69}
 database: master
-path: /sitecore/templates/Launch Sitecore/Base Templates/Author Keywords
+path: /sitecore/templates/Launch Sitecore/Base Templates/Author Group
 parent: {5D0FFD25-DA70-4DFF-85C0-6E045DC497B4}
-name: Author Keywords
+name: Author Group
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
@@ -34,7 +34,7 @@ Applications/32x32/text_rich.png
 ----version----
 language: en
 version: 1
-revision: d646dd32-e01a-42b2-9367-f4c891d9e209
+revision: 741b3e4d-dcd3-4f63-adfc-5044a354b6ac
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d646dd32-e01a-42b2-9367-f4c891d9e209
+741b3e4d-dcd3-4f63-adfc-5044a354b6ac
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T182945Z
+20160709T183050Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

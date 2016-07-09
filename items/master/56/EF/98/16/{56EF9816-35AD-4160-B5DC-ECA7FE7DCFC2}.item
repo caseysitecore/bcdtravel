@@ -31,6 +31,13 @@ key: __icon
 content-length: 38
 
 Applications/32x32/bullet_ball_red.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1500
 ----version----
 language: da
 version: 1
@@ -170,7 +177,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: bc214d3c-ecc7-4c66-aa6d-6d2002013714
+revision: bf545432-2d38-4a6b-85d5-96760c3e4616
 
 ----field----
 field: {31CA077F-EF38-4980-8A24-05408031B2BC}
@@ -213,21 +220,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bc214d3c-ecc7-4c66-aa6d-6d2002013714
+bf545432-2d38-4a6b-85d5-96760c3e4616
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20130209T101635:634960017956471171
+20160709T184219Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----version----
 language: ja-JP
 version: 1

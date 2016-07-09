@@ -2,9 +2,9 @@
 version: 1
 id: {82A1E78D-20FF-4C30-8114-B53AB3B95F41}
 database: master
-path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Analysts
+path: /sitecore/system/Marketing Control Panel/Profiles/Audience Segment/Pattern Cards/Analyst
 parent: {E2A4D08F-861B-489D-816D-4F633873EF93}
-name: Analysts
+name: Analyst
 master: {00000000-0000-0000-0000-000000000000}
 template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
 templatekey: Pattern Card
@@ -41,7 +41,7 @@ content-length: 292
 ----version----
 language: en
 version: 1
-revision: 8fea5dd0-f836-4133-ac9a-b506f8a9e1b0
+revision: 9dd2e959-140f-45d9-901c-9db4f4094b0f
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8fea5dd0-f836-4133-ac9a-b506f8a9e1b0
+9dd2e959-140f-45d9-901c-9db4f4094b0f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T190504Z
+20160709T190511Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

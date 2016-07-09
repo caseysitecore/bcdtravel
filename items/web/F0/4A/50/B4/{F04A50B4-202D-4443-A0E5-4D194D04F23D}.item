@@ -1,0 +1,77 @@
+----item----
+version: 1
+id: {F04A50B4-202D-4443-A0E5-4D194D04F23D}
+database: web
+path: /sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/__Standard Values
+parent: {186614BC-A123-4B7B-B2B6-2FA29C6894B0}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {186614BC-A123-4B7B-B2B6-2FA29C6894B0}
+templatekey: BrightcoveAccountSettings
+created: 20160707T231243:636035299633100000
+
+----field----
+field: {12112D15-A3DE-4B42-A700-DE1B9666391B}
+name: PlaybackEventsRules
+key: playbackeventsrules
+content-length: 562
+
+<ruleset>
+  <rule uid="{4CD3C9DF-9629-4987-8D37-B32C4AF50BDC}">
+    <conditions>
+      <condition id="{4888ABBB-F17D-4485-B14B-842413F88732}" uid="D712742C1A4C44439448AB21403F58FB" />
+    </conditions>
+    <actions>
+      <action id="{9850DB80-D70F-410B-9A5C-E825B4DE8F94}" uid="36C3881349BA452A925A18AA62FEF6F4" />
+      <action id="{209A6D7F-D645-4606-8B63-678149DCDB5F}" uid="07AEBFCC7E724AA1BAC89EF20C4C8A77" />
+      <action id="{0FD811D2-CEC2-4121-A78C-936E579E2377}" uid="3133D5BEAC764B61B9BA896DEA675DE6" />
+    </actions>
+  </rule>
+</ruleset>
+----version----
+language: en
+version: 1
+revision: 58c6641d-fb02-47cf-b020-aa1ce123933a
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130820T125224
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+58c6641d-fb02-47cf-b020-aa1ce123933a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130902T174106:635137404668772564
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

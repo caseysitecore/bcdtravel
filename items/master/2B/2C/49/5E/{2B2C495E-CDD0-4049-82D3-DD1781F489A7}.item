@@ -2,7 +2,7 @@
 version: 1
 id: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
 database: master
-path: /sitecore/templates/Launch Sitecore/Base Templates/Author Group/Main/Group
+path: /sitecore/templates/Launch Sitecore/Base Templates/Author Group/Common/Group
 parent: {3E149787-6C84-4EDB-95D1-4DBDDE267F9B}
 name: Group
 master: {00000000-0000-0000-0000-000000000000}
@@ -28,30 +28,30 @@ content-length: 38
 field: {337E20E1-999A-4EEA-85AD-B58A03AE75CC}
 name: Quick Action Bar
 key: quick action bar
-content-length: 77
+content-length: 0
 
-{59D4EE10-627C-4FD3-A964-61A88B092CBC}|{5A4B6F7E-EDB7-48CF-B862-ED497FA9CB1E}
+
 ----field----
 field: {21828437-EA4B-40A1-8C61-4CE60EA41DB6}
 name: Validate Button
 key: validate button
-content-length: 77
+content-length: 0
 
-{59D4EE10-627C-4FD3-A964-61A88B092CBC}|{5A4B6F7E-EDB7-48CF-B862-ED497FA9CB1E}
+
 ----field----
 field: {9C903E29-650D-4AF2-B9BD-526D5C14A1A5}
 name: Validator Bar
 key: validator bar
-content-length: 77
+content-length: 0
 
-{59D4EE10-627C-4FD3-A964-61A88B092CBC}|{5A4B6F7E-EDB7-48CF-B862-ED497FA9CB1E}
+
 ----field----
 field: {53C432C4-7122-4E2D-8296-DB4184FD1735}
 name: Workflow
 key: workflow
-content-length: 77
+content-length: 0
 
-{59D4EE10-627C-4FD3-A964-61A88B092CBC}|{5A4B6F7E-EDB7-48CF-B862-ED497FA9CB1E}
+
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -62,7 +62,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 795409f0-2fa5-46b5-a347-ac3945a12814
+revision: 225c6e4e-5eb0-4aea-b6b9-484cb5cb1bd3
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -91,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-795409f0-2fa5-46b5-a347-ac3945a12814
+225c6e4e-5eb0-4aea-b6b9-484cb5cb1bd3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T183222Z
+20160709T183701Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

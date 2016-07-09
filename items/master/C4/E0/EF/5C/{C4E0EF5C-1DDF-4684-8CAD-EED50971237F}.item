@@ -49,7 +49,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4ff597bc-4156-4b5d-8b8b-e2a3205c7d7e
+revision: c4168a30-21b1-46e6-a0a1-1f333c80d4e0
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -70,21 +70,21 @@ content-length: 486
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1078
+content-length: 1050
 
-<p>Travel means more to your company than booking a plane ticket or hotel room. It&rsquo;s also about the tools and solutions that help track, manage and guide travelers (and their expenses) through every step of a journey.<br>
+<p>Travel means more to your company than booking a plane ticket or hotel room. It’s also about the tools and solutions that help track, manage and guide travelers (and their expenses) through every step of a journey.<br>
 <br>
 Chances are that some part of your travel program will need to change to keep all of those elements working together in the right way.<br>
 <br>
-BCD Travel is uniquely positioned to help you cope with&ndash;and plan for&ndash;that change. We build service configurations that meet your needs now and allow for change as your organization evolves.<br>
+BCD Travel is uniquely positioned to help you cope with–and plan for–that change. We build service configurations that meet your needs now and allow for change as your organization evolves.<br>
 <br>
 We offer :</p>
 <ul>
     <li>Booking tools and techniques that help people book in the way they prefer.</li>
     <li>Automated trip authorization programs that support compliance and your duty of care.</li>
-    <li> Corporate payment systems suited to your organization&rsquo;s needs.</li>
+    <li> Corporate payment systems suited to your organization’s needs.</li>
 </ul>
-<div> Together with our sister organizations, Advito and BCD Meetings &amp; Events, we can also provide support for category sourcing management and meetings and events management.</div>
+<div> Together with our sister organizations, Advito and BCD Meetings & Events, we can also provide support for category sourcing management and meetings and events management.</div>
 <p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
@@ -100,6 +100,13 @@ key: contributors
 content-length: 38
 
 {6FD8C855-7AA9-43CD-A06A-F06870E53D7C}
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 7
+
+Article
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -127,28 +134,28 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4ff597bc-4156-4b5d-8b8b-e2a3205c7d7e
+c4168a30-21b1-46e6-a0a1-1f333c80d4e0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T164424Z
+20160709T154909Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics
 key: __semantics
-content-length: 116
+content-length: 155
 
-{96D23E84-12CF-4A1C-B8BB-A33D7E7FA16D}|{7F207663-6A32-4173-92DA-A15394B33776}|{459DBF7C-1A25-4EDF-86DA-32020B0AFC4B}
+{9BE321B7-E9F2-454A-9A3A-8EA63C4997A8}|{63A5F3EC-6984-4B0D-AC3F-22D278CBB209}|{17E04B9C-C46F-4CB6-9EF1-0D28A5F98F15}|{9734EA61-DFBF-4A89-8854-2B94D5BFCD54}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

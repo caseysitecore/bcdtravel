@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {D0497E69-98E5-421E-ADD4-EEAB4E5B7208}
+database: web
+path: /sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account
+parent: {375C2D14-4251-4855-B930-5455B8BF075D}
+name: Brightcove Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {B2613CC1-A748-46A3-A0DB-3774574BD339}
+templatekey: Command Template
+created: 20160707T231241:636035299615900000
+
+----field----
+field: {854CC8F6-94AD-4521-A4B6-44ED8F794C98}
+name: Command
+key: command
+content-length: 124
+
+MediaFramework:Account:Create(branch={24A40CEF-BCD5-4407-A9D9-FA203141ECAC},settings={AAE37F9C-3A5D-4640-B718-19F396B1ADBA})
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 40
+
+MediaFramework/Brightcove/32x32/logo.png
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 36feb311-2146-4da7-b60d-8c194ba16ba0
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+Brightcove Account
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130527T163600
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+36feb311-2146-4da7-b60d-8c194ba16ba0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130923T175043:635155554434839871
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

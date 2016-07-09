@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: b57bf9de-d0e9-4ffa-b5dd-d383be2b8d80
+revision: 28798c6b-f4d1-45e0-a331-0d854489e011
 
 ----field----
 field: {1FD34C98-05B1-4206-A48E-14D1E0C42F6F}
@@ -47,9 +47,9 @@ Mobile Travel Plans
 field: {9B14A853-F008-4145-878A-DD5A2ED7EC36}
 name: Caption
 key: caption
-content-length: 129
+content-length: 78
 
-<span style="text-align: justify; color: #404040;">Mobile applications are the next step to ensure your company’s success.</span>
+<p>Mobile applications are the next step to ensure your company’s success.</p>
 ----field----
 field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
 name: __Source
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b57bf9de-d0e9-4ffa-b5dd-d383be2b8d80
+28798c6b-f4d1-45e0-a331-0d854489e011
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T203907Z
+20160709T204550Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

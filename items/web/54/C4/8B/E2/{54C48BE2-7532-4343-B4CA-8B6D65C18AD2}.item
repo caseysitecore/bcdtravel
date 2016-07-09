@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {54C48BE2-7532-4343-B4CA-8B6D65C18AD2}
+database: web
+path: /2012
+parent: {00000000-0000-0000-0000-000000000000}
+name: 2012
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20160519T084204:635992441248970000
+
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 1
+
+1

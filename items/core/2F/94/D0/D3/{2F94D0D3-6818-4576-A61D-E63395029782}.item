@@ -10,10 +10,17 @@ template: {6D1CD897-1936-4A3A-A511-289A94C2A7B1}
 templatekey: Dictionary entry
 created: 20160710T174021:636037692214500000
 
+----field----
+field: {580C75A8-C01A-4580-83CB-987776CEB3AF}
+name: Key
+key: key
+content-length: 54
+
+"{0}", "{1}" and "{2}" web part settings are required.
 ----version----
 language: en
 version: 1
-revision: 45febefe-accf-49f1-b102-57448cca3b1d
+revision: 141de1d6-a041-43a6-9e84-727fdd514a5c
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-45febefe-accf-49f1-b102-57448cca3b1d
+141de1d6-a041-43a6-9e84-727fdd514a5c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

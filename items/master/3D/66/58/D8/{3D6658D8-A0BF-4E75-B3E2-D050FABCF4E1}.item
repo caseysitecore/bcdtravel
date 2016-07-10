@@ -46,6 +46,13 @@ content-length: 0
 
 
 ----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
 field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
 name: __Thumbnail
 key: __thumbnail
@@ -233,7 +240,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 596ae026-98ee-4ac7-9334-7b8b8037f67b
+revision: 56c13ea0-6573-4b19-995a-31e927004959
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -283,21 +290,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-596ae026-98ee-4ac7-9334-7b8b8037f67b
+56c13ea0-6573-4b19-995a-31e927004959
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160519T085224Z
+20160710T175416Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
 content-length: 14
 
-sitecore\admin
+sitecore\casey
 ----version----
 language: ja-JP
 version: 1

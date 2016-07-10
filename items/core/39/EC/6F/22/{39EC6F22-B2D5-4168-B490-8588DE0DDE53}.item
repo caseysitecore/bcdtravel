@@ -67,8 +67,15 @@ sitecore\casey
 ----version----
 language: ja-JP
 version: 1
-revision: 8f2d580e-b9cb-4210-931c-315abb7170bc
+revision: 3755a14b-8388-44e1-b924-0f582807f2dd
 
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 10
+
+({0} に基づき)
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -96,7 +103,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8f2d580e-b9cb-4210-931c-315abb7170bc
+3755a14b-8388-44e1-b924-0f582807f2dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

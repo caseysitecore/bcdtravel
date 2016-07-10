@@ -1,0 +1,9 @@
+{
+  "itemName": "Sharepoint Sublayout Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BB45BD32-768E-45DD-A5F5-7D76A33039A0}",
+  "childIds": [
+    "{6F595FEB-B0B1-49E3-A98D-718B665BC4A2}"
+  ]
+}

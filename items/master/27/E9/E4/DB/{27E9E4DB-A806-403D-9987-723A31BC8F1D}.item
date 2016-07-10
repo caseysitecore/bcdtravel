@@ -20,8 +20,22 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 2bf3ede5-7968-4680-a6c8-d8c7c073e826
+revision: 78df9535-affc-42c0-8f2d-456a7ca4ab0d
 
+----field----
+field: {B443A4FC-64F3-489E-B329-793347AFE745}
+name: Author
+key: author
+content-length: 11
+
+Casey Piket
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 10
+
+BCD Travel
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -29,6 +43,46 @@ key: title
 content-length: 19
 
 Suntrust Case Study
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 275
+
+<p>SunTrust Bank, a large regional financial institution in the United States, came to Advito with three goals: to reduce the number of preferred hotels, to contain costs and to make the entire process of negotiating hotel rates simpler and more straightforward.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1067
+
+<h2> SunTrust Cuts Costs, Gains Simplicity with Advito&rsquo;s Hotel Program Solutions</h2>
+<p> SunTrust Bank, a large regional financial institution in the United States, came to Advito with three goals: to reduce the number of preferred hotels, to contain costs and to make the entire process of negotiating hotel rates simpler and more straightforward.</p>
+<p>Travel fits under procurement at the Atlanta-based bank, which has assets of $178.2 billion and operates more than 1,650 branches and an extensive ATM network throughout the high-growth Southeastern and MidAtlantic states. SunTrust also serves select markets outside its regional footprint. The bank offers standard retail and commercial services such as credit, deposit and investment services. Its subsidiaries offer mortgage, wealth and investment management, insurance, investment banking and brokerage services. SunTrust travelers rack up 65,000 room nights a year, mostly in about 20 U.S. cities.</p>
+<p><a href="~/link.aspx?_id=27E9E4DBA806403D9987723A31BC8F1D&amp;_z=z">Read More</a></p>
+<p> </p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{8A7F38B4-D65A-42CF-A32E-9215B61C06DE}" />
+----field----
+field: {82D725ED-6707-4532-86A6-5444E34332FD}
+name: Contributors
+key: contributors
+content-length: 38
+
+{3E241E52-3767-464D-B994-A776C8A060C3}
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 10
+
+Case Study
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -63,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2bf3ede5-7968-4680-a6c8-d8c7c073e826
+78df9535-affc-42c0-8f2d-456a7ca4ab0d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160710T190805Z
+20160710T191045Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

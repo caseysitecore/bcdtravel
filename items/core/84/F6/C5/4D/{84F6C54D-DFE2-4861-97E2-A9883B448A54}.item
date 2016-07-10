@@ -20,15 +20,22 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 4ac64f65-5530-4d77-8bcd-c19f5a5ffd8a
+revision: b2174ac1-ea15-4ab3-a57c-0bb97ca8db15
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 105
+content-length: 149
 
-Timestamp BETWEEN "2016-05-31T04:00:00.000Z" AND "2016-07-09T03:59:59.000Z" AND (EventType != "Snapshot")
+Timestamp BETWEEN "2016-05-31T04:00:00.000Z" AND "2016-07-10T03:59:59.000Z" AND (EventType != "Email Reports schedule") AND (EventType != "Snapshot")
+----field----
+field: {7C8A305B-3354-41AE-88A1-B0E05D39EFC0}
+name: Selectors
+key: selectors
+content-length: 37
+
+EventType != "Email Reports schedule"
 ----field----
 field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
 name: Filters
@@ -84,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4ac64f65-5530-4d77-8bcd-c19f5a5ffd8a
+b2174ac1-ea15-4ab3-a57c-0bb97ca8db15
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160708T202121Z
+20160710T004125Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

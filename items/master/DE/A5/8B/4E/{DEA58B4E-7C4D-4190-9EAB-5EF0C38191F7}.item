@@ -10,10 +10,17 @@ template: {CC80011D-8EAE-4BFC-84F1-67ECD0223E9E}
 templatekey: Pdf
 created: 20160710T185014:636037734149400000
 
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/dea58b4e7c4d41909eab5ef0c38191f7.ashx?h=16&thn=1&w=16
 ----version----
 language: en
 version: 1
-revision: 7e40ff12-5089-48a6-b217-d8cd3035b452
+revision: 23384631-ec15-43fc-b174-a9fc534272dd
 
 ----field----
 field: {DBBE7D99-1388-4357-BB34-AD71EDF18ED3}
@@ -8617,6 +8624,20 @@ content-length: 3
 
 pdf
 ----field----
+field: {ABA5CE58-6D8F-43A4-B4FA-B181651347DD}
+name: Mime Type
+key: mime type
+content-length: 15
+
+application/pdf
+----field----
+field: {5BE6C122-84C9-4661-A0C9-3718909C8DAD}
+name: Size
+key: size
+content-length: 6
+
+489461
+----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
@@ -8643,7 +8664,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7e40ff12-5089-48a6-b217-d8cd3035b452
+23384631-ec15-43fc-b174-a9fc534272dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

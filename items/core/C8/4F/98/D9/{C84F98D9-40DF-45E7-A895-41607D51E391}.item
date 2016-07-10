@@ -20,8 +20,15 @@ content-length: 14
 ----version----
 language: da
 version: 1
-revision: a9bbee50-19e3-4522-bfde-3ee36777a089
+revision: d54a3862-f95b-48e3-b4c9-a67b0504ac40
 
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 16
+
+(baseret på {0})
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a9bbee50-19e3-4522-bfde-3ee36777a089
+d54a3862-f95b-48e3-b4c9-a67b0504ac40
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

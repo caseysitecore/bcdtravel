@@ -20,8 +20,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4e2953d8-17f8-410c-9834-5d6ae882c401
+revision: 075435b3-946f-47d7-a143-5b3264507845
 
+----field----
+field: {B443A4FC-64F3-489E-B329-793347AFE745}
+name: Author
+key: author
+content-length: 11
+
+Casey Piket
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -29,6 +36,29 @@ key: title
 content-length: 12
 
 Case Studies
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 104
+
+<p>Check out the list of BCD Travel case studies. Each case study is organized by industry.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 245
+
+<p>BCD Travel case studies demonstrate our depth of experience and success in improving corporate travel management programs across a variety of businesses. Click on any of the links below to learn more about BCD Travel in practice.</p>
+<p> </p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{C0CD46C2-47ED-4562-99B1-95A518B18BE3}" />
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -63,14 +93,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4e2953d8-17f8-410c-9834-5d6ae882c401
+075435b3-946f-47d7-a143-5b3264507845
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160710T185817Z
+20160710T190143Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

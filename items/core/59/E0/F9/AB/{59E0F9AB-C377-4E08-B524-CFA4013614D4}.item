@@ -121,8 +121,15 @@ sitecore\casey
 ----version----
 language: ja-JP
 version: 1
-revision: 319b073b-eb70-4a61-a361-d5d2ec5740d9
+revision: e4bf7814-b4f9-4de9-b7dc-73e047b5b8cb
 
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 29
+
+Web パーツ ”{0}”、”{1}” の設定が必要です。
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -150,7 +157,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-319b073b-eb70-4a61-a361-d5d2ec5740d9
+e4bf7814-b4f9-4de9-b7dc-73e047b5b8cb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

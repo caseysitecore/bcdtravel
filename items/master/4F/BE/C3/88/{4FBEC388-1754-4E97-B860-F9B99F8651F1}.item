@@ -13,8 +13,15 @@ created: 20160710T185014:636037734147100000
 ----version----
 language: en
 version: 1
-revision: 2f630326-3ccf-40d8-8510-fd8d7ced2521
+revision: 792eb970-0016-46c4-8ce1-0cce2175dda2
 
+----field----
+field: {3EB149F8-DE14-4220-A8F4-9E723CFAE5D9}
+name: Extension
+key: extension
+content-length: 3
+
+pdf
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2f630326-3ccf-40d8-8510-fd8d7ced2521
+792eb970-0016-46c4-8ce1-0cce2175dda2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

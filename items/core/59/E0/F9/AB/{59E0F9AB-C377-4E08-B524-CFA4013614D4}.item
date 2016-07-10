@@ -20,8 +20,15 @@ content-length: 47
 ----version----
 language: da
 version: 1
-revision: de6b7870-f953-41cb-8bcb-8a5ab1f30055
+revision: 165bdd8b-f0ef-4977-b40e-78abaab86964
 
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 50
+
+Webdelsindstillingerne "{0}" og "{1}" er påkrævet.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-de6b7870-f953-41cb-8bcb-8a5ab1f30055
+165bdd8b-f0ef-4977-b40e-78abaab86964
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

@@ -10,10 +10,24 @@ template: {DAF085E8-602E-43A6-8299-038FF171349F}
 templatekey: Jpeg
 created: 20160712T220036:636039576364430000
 
+----field----
+field: {5C702BA4-BBCB-46D6-ACB4-BE247BA37227}
+name: IsIntegrationItem
+key: isintegrationitem
+content-length: 1
+
+1
+----field----
+field: {D06FE662-4206-4180-9185-A21AA95CD395}
+name: __SharePointItemGUID
+key: __sharepointitemguid
+content-length: 38
+
+{9E7DF220-3958-4D41-A81F-A3D25FE61855}
 ----version----
 language: en
 version: 1
-revision: 3177b652-7778-475e-a4a1-4ccb9f2402ea
+revision: bfa5796a-fd30-4b79-be53-bd74f332bdff
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3177b652-7778-475e-a4a1-4ccb9f2402ea
+bfa5796a-fd30-4b79-be53-bd74f332bdff
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

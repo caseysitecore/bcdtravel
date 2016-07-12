@@ -10,10 +10,94 @@ template: {6A5C6835-6E11-4602-A11D-B626E9255397}
 templatekey: BrightcoveVideo
 created: 20160712T152414:636039338544430000
 
+----field----
+field: {A5B025C5-2F6B-45AF-BEE6-92883D9291D6}
+name: ID
+key: id
+content-length: 13
+
+2371395732001
+----field----
+field: {437A7D9F-7A50-4955-B3AE-583EBA5AD35A}
+name: Name
+key: name
+content-length: 17
+
+Sandals Caribbean
+----field----
+field: {2ECDE5D3-BFDE-4A5F-8D20-7C6DBA2BBFA0}
+name: ThumbnailURL
+key: thumbnailurl
+content-length: 144
+
+http://brightcove.vo.llnwd.net/e1/pd/1534342438001/1534342438001_2371424092001_th-518d034ee4b049d071ff611f-1592194020001.jpg?pubId=1534342438001
+----field----
+field: {2AF799D0-C019-4518-B166-0513C37218E8}
+name: ShortDescription
+key: shortdescription
+content-length: 17
+
+Sandals Caribbean
+----field----
+field: {00270BAC-F30A-4B54-8AA6-614159522F5B}
+name: CreationDate
+key: creationdate
+content-length: 20
+
+5/10/2013 2:25:18 PM
+----field----
+field: {4B223FFD-5972-4A8D-8CF7-08793E99BCA2}
+name: PublishedDate
+key: publisheddate
+content-length: 20
+
+5/10/2013 2:25:18 PM
+----field----
+field: {87E30397-7707-41D5-A4C9-500B01D80F5E}
+name: LastModifiedDate
+key: lastmodifieddate
+content-length: 20
+
+5/10/2013 2:28:14 PM
+----field----
+field: {23250E7A-1548-4D0E-8870-957535235EE4}
+name: Tags
+key: tags
+content-length: 116
+
+{73005F74-1AC6-393E-9A17-F47D1A385CDB}|{316B606A-A170-3295-B989-3AA9BE32499A}|{67AEFC37-5AD3-339C-BF0C-EE880C5389E5}
+----field----
+field: {161A7C32-673B-43DA-9D1F-9D2A2226FCD6}
+name: VideoStillURL
+key: videostillurl
+content-length: 144
+
+http://brightcove.vo.llnwd.net/e1/pd/1534342438001/1534342438001_2371424091001_vs-518d034ee4b049d071ff611f-1592194020001.jpg?pubId=1534342438001
+----field----
+field: {EA3EE5CA-7545-4489-AE20-FF8C15EB98CB}
+name: Length
+key: length
+content-length: 6
+
+151348
+----field----
+field: {DB3D6769-ED9E-47F8-BD50-ABBA2C10AA1A}
+name: PlaysTotal
+key: playstotal
+content-length: 2
+
+79
+----field----
+field: {54882903-2021-4C94-96DC-296CE1F8EEB0}
+name: PlaysTrailingWeek
+key: playstrailingweek
+content-length: 1
+
+0
 ----version----
 language: en
 version: 1
-revision: 3e6e03da-0613-49cf-adf5-fda2650d4206
+revision: 2de32232-a55e-44e2-a692-326dd175a9b2
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +126,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3e6e03da-0613-49cf-adf5-fda2650d4206
+2de32232-a55e-44e2-a692-326dd175a9b2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

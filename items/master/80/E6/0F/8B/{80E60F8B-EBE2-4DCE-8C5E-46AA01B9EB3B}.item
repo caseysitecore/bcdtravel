@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 2ddb2b76-54d2-4227-b265-986dea97e9c1
+revision: 905382be-0b8d-463f-981c-b57248d1ede1
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -67,6 +67,13 @@ content-length: 58
 
 <image mediaid="{C0CD46C2-47ED-4562-99B1-95A518B18BE3}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 16
+
+BCD case studies
+----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
@@ -100,14 +107,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2ddb2b76-54d2-4227-b265-986dea97e9c1
+905382be-0b8d-463f-981c-b57248d1ede1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160710T191232Z
+20160712T111719Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

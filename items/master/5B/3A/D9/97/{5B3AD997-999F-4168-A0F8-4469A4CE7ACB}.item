@@ -11,6 +11,27 @@ templatekey: Sharepoint Integration Configuration
 created: 20160712T220026:636039576263300000
 
 ----field----
+field: {AD2609D5-59E1-4161-9FBA-6F849D6EE0CA}
+name: BidirectionalLink
+key: bidirectionallink
+content-length: 1
+
+1
+----field----
+field: {28E2958B-056D-41D4-912F-0F96781F42AB}
+name: IntegrationConfigData
+key: integrationconfigdata
+content-length: 930
+
+<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>3zxqiuOmsJ0ocXSJWvx8nulyPFDf7eAGkXqgFdlo/pfobovuvdDZBHC5vaj3GKh24TN0q4loXUIxl/GmRpfXjQ==</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
+----field----
+field: {D2035CBF-965E-476B-8AF8-927A9F28EA1F}
+name: ScheduledBlobTransfer
+key: scheduledblobtransfer
+content-length: 1
+
+0
+----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
 name: __Masters
 key: __masters
@@ -20,7 +41,7 @@ content-length: 116
 ----version----
 language: en
 version: 1
-revision: 4481bdd7-9959-46e0-931f-8af6bca23595
+revision: a88aafba-12ed-4217-9797-d936aa61dc7c
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -49,7 +70,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4481bdd7-9959-46e0-931f-8af6bca23595
+a88aafba-12ed-4217-9797-d936aa61dc7c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 5123e36b-17cd-4971-ac38-fb104c45b23c
+revision: f9ab12c7-a239-4e9d-bb29-89b2294f5790
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -88,6 +88,13 @@ content-length: 58
 
 <image mediaid="{DABD6040-F939-4264-98E6-BBB0A4738672}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 19
+
+visa waiver program
+----field----
 field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
 name: Category
 key: category
@@ -135,14 +142,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5123e36b-17cd-4971-ac38-fb104c45b23c
+f9ab12c7-a239-4e9d-bb29-89b2294f5790
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T191539Z
+20160712T111820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

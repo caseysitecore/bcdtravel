@@ -14,9 +14,9 @@ created: 20160712T144109:636039312699000000
 field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
 name: __Editors
 key: __editors
-content-length: 77
+content-length: 38
 
-{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}|{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}
+{A0C460F4-DBAE-4A5A-8F3A-C4ADFCDACEEA}
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -48,7 +48,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: af98b782-0030-405f-b300-801b1d3b93a1
+revision: 29cb51d2-eaa9-4d03-a01f-307125866688
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -84,7 +84,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-af98b782-0030-405f-b300-801b1d3b93a1
+29cb51d2-eaa9-4d03-a01f-307125866688
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

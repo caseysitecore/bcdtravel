@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {3C8A9E5C-78E2-4A04-AB19-63295FDB67B0}
+database: master
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove/Tags
+parent: {2ABE85C4-FC24-4FC8-9580-07A5601DB7CA}
+name: Tags
+master: {24A40CEF-BCD5-4407-A9D9-FA203141ECAC}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20160712T144110:636039312700830000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{E2437395-4E29-459E-8DD4-25CD8A292588}

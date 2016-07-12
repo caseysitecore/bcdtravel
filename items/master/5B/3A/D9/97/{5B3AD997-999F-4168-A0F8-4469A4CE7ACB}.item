@@ -11,6 +11,13 @@ templatekey: Sharepoint Integration Configuration
 created: 20160712T220026:636039576263300000
 
 ----field----
+field: {5C702BA4-BBCB-46D6-ACB4-BE247BA37227}
+name: IsIntegrationItem
+key: isintegrationitem
+content-length: 1
+
+1
+----field----
 field: {AD2609D5-59E1-4161-9FBA-6F849D6EE0CA}
 name: BidirectionalLink
 key: bidirectionallink
@@ -41,7 +48,7 @@ content-length: 116
 ----version----
 language: en
 version: 1
-revision: a88aafba-12ed-4217-9797-d936aa61dc7c
+revision: 8af92278-80bb-4e04-8bc1-f3cb1ea891c7
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -70,7 +77,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a88aafba-12ed-4217-9797-d936aa61dc7c
+8af92278-80bb-4e04-8bc1-f3cb1ea891c7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

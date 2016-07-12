@@ -11,6 +11,20 @@ templatekey: Sharepoint Integration Folder
 created: 20160712T220034:636039576349370000
 
 ----field----
+field: {5C702BA4-BBCB-46D6-ACB4-BE247BA37227}
+name: IsIntegrationItem
+key: isintegrationitem
+content-length: 1
+
+1
+----field----
+field: {D06FE662-4206-4180-9185-A21AA95CD395}
+name: __SharePointItemGUID
+key: __sharepointitemguid
+content-length: 38
+
+{28C4D09E-D3C2-4EA9-B145-D6BF8A3AB669}
+----field----
 field: {AD2609D5-59E1-4161-9FBA-6F849D6EE0CA}
 name: BidirectionalLink
 key: bidirectionallink
@@ -34,7 +48,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: a15b0dc4-7024-4234-9c4e-ae3a18f32093
+revision: f3211ac5-21c0-4b5b-a805-e93819bf77ba
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a15b0dc4-7024-4234-9c4e-ae3a18f32093
+f3211ac5-21c0-4b5b-a805-e93819bf77ba
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T220034Z
+20160712T220035Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

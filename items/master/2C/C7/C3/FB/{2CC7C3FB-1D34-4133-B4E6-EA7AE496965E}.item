@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 1d65d229-bcb4-457a-a3a4-ce4a088eea06
+revision: d4ef8dae-fb9b-450b-8e3d-d4fdcb13bd3e
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -102,6 +102,13 @@ content-length: 58
 
 <image mediaid="{44C0765A-9CBB-48DB-9C39-E9C483E67967}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 14
+
+decisionsource
+----field----
 field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
 name: Category
 key: category
@@ -142,14 +149,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1d65d229-bcb4-457a-a3a4-ce4a088eea06
+d4ef8dae-fb9b-450b-8e3d-d4fdcb13bd3e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T191148Z
+20160712T111414Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

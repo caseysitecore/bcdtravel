@@ -10,18 +10,32 @@ template: {186614BC-A123-4B7B-B2B6-2FA29C6894B0}
 templatekey: BrightcoveAccountSettings
 created: 20160712T144110:636039312701900000
 
+----field----
+field: {19B597D3-2EDD-4AE2-AEFE-4A94C7F10E31}
+name: __Source Item
+key: __source item
+content-length: 56
+
+sitecore://master/{AAE37F9C-3A5D-4640-B718-19F396B1ADBA}
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 727df7ff-8389-48ef-a6e0-64db9349994e
+revision: b9a797b5-7f1f-4748-9310-6f13b0caea6f
 
 ----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
+field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
+name: __Source
+key: __source
+content-length: 70
 
-sitecore\casey
+sitecore://master/{AAE37F9C-3A5D-4640-B718-19F396B1ADBA}?lang=en&ver=1
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -42,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-727df7ff-8389-48ef-a6e0-64db9349994e
+b9a797b5-7f1f-4748-9310-6f13b0caea6f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -57,3 +71,17 @@ key: __updated by
 content-length: 14
 
 sitecore\casey
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 0
+
+

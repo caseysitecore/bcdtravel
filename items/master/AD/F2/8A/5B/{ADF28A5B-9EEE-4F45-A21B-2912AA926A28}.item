@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: f0a51733-c599-4306-825c-d5b69f33b4a5
+revision: 72ed13e7-785e-4305-8265-b5c6166dbd1b
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -91,6 +91,13 @@ content-length: 58
 
 <image mediaid="{3B69D10B-B6D6-4BF7-8826-9C82BCCC418D}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 8
+
+BCD news
+----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
@@ -124,21 +131,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f0a51733-c599-4306-825c-d5b69f33b4a5
+72ed13e7-785e-4305-8265-b5c6166dbd1b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T202845Z
+20160712T111512Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

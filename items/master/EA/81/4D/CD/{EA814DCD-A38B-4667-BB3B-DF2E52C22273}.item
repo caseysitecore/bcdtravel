@@ -2,9 +2,9 @@
 version: 1
 id: {EA814DCD-A38B-4667-BB3B-DF2E52C22273}
 database: master
-path: /sitecore/content/Home/BCD Travel Search MVC
+path: /sitecore/content/Home/BCD Travel Search
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: BCD Travel Search MVC
+name: BCD Travel Search
 master: {00000000-0000-0000-0000-000000000000}
 template: {662A73DD-E891-455A-B3B4-B50819FCE205}
 templatekey: Coveo Search Page MVC
@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 7f1bb718-02d7-4b4e-bed4-462fa0bee543
+revision: 97b911d6-f983-4c0d-b411-151ed818434e
 
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
@@ -91,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7f1bb718-02d7-4b4e-bed4-462fa0bee543
+97b911d6-f983-4c0d-b411-151ed818434e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T012647Z
+20160712T012751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

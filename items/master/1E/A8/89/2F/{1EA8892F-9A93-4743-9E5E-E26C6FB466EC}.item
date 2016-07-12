@@ -2,8 +2,8 @@
 version: 1
 id: {1EA8892F-9A93-4743-9E5E-E26C6FB466EC}
 database: master
-path: /sitecore/content/Home/BCD Travel Search
-parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+path: /BCD Travel Search
+parent: {00000000-0000-0000-0000-000000000000}
 name: BCD Travel Search
 master: {00000000-0000-0000-0000-000000000000}
 template: {D0B70D73-C95B-4B8F-B7A6-EBA91CBC8301}
@@ -52,78 +52,3 @@ key: __workflow
 content-length: 38
 
 {A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
-----version----
-language: en
-version: 1
-revision: 58d22045-11ee-4328-94e5-ff36c6987182
-
-----field----
-field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
-name: Menu Title
-key: menu title
-content-length: 6
-
-Search
-----field----
-field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
-name: __Final Renderings
-key: __final renderings
-content-length: 6048
-
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{537A7A48-4D69-4CF1-BC27-A59C51A4C469}" p:before="*" s:ds="" s:id="{A840E18B-0AC9-47EC-AED6-506688192AA8}" s:par="TabCaption=All" s:ph="/coveo-search/coveo-tabs" /><r uid="{484E6D20-F005-4D4A-95BA-9CCEBA0A57D0}" p:after="r[@uid='{537A7A48-4D69-4CF1-BC27-A59C51A4C469}']" s:ds="" s:id="{A840E18B-0AC9-47EC-AED6-506688192AA8}" s:par="FilterExpressionRules=%3cruleset%3e%0d%0a++%3crule+uid%3d%22%7b14E19188-C7DF-4BB5-85A8-B214C0E3D9F8%7d%22%3e%0d%0a++++%3cconditions%3e%0d%0a++++++%3cand+uid%3d%22221B88F3A3CD46999E731652562B9DEA%22%3e%0d%0a++++++++%3ccondition+id%3d%22%7b1E6C9830-45FA-4801-9D4D-E87B76C13F7D%7d%22+uid%3d%2246EBFECC7676422FA757055387ED227F%22+itemid%3d%22%7b110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9%7d%22+%2f%3e%0d%0a++++++++%3ccondition+id%3d%22%7bEDF34D6E-37E7-41F7-A72F-25EC3D8F3931%7d%22+uid%3d%2209330AE3D7B248E29261D43CAE8D6595%22+except%3d%22true%22+%2f%3e%0d%0a++++++%3c%2fand%3e%0d%0a++++%3c%2fconditions%3e%0d%0a++%3c%2frule%3e%0d%0a%3c%2fruleset%3e&amp;TabCaption=Sitecore+Only" s:ph="/coveo-search/coveo-tabs" /><r uid="{6C05C9ED-BF38-495E-A846-D02205F394E2}" p:after="r[@uid='{484E6D20-F005-4D4A-95BA-9CCEBA0A57D0}']" s:ds="" s:id="{A840E18B-0AC9-47EC-AED6-506688192AA8}" s:par="FilterExpressionRules=%3cruleset%3e%0d%0a++%3crule+uid%3d%22%7b8A7BFCAA-29F5-43A6-979F-55C1F14E1158%7d%22%3e%0d%0a++++%3cconditions%3e%0d%0a++++++%3ccondition+id%3d%22%7b36831DCB-0532-4E84-879C-25E09B094256%7d%22+uid%3d%2273E45FE095614CBD88D6F05FF4A94B23%22+fieldname%3d%22syssource%22+operatorid%3d%22%7b4AC84242-881E-43D4-8E11-2EA27331DC8E%7d%22+value%3d%22BCD+Blog%22+%2f%3e%0d%0a++++%3c%2fconditions%3e%0d%0a++%3c%2frule%3e%0d%0a%3c%2fruleset%3e&amp;TabCaption=Blog" s:ph="/coveo-search/coveo-tabs" /><r uid="{1A6ED920-365C-47D2-AA65-D12E0D165D3B}" p:after="r[@uid='{6C05C9ED-BF38-495E-A846-D02205F394E2}']" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetEnableCollapse=1&amp;FacetTitle=Category&amp;FacetIncludeInBreadcrumb=1&amp;FacetEnableSettings=1&amp;FacetInjectionDepth=%7bDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7d&amp;FacetAvailableSorts=%7bF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7d%7c%7b445BCEBE-D11E-4247-B07C-D775601B9F12%7d%7c%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d%7c%7b65C2940F-0506-4D45-BE9C-2D8751BB70A6%7d&amp;FacetEnableFacetSearch=1&amp;FacetSort=%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d&amp;FacetShowIcon=1&amp;FacetEnableMoreLess=1&amp;FacetIncludeInOmniBox=0&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" s:ph="/coveo-search/coveo-facets" /><r uid="{2309B17B-A437-4222-BD77-B01DF641A142}" p:after="r[@uid='{1A6ED920-365C-47D2-AA65-D12E0D165D3B}']" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetEnableCollapse=1&amp;FacetTitle=Group&amp;FacetIncludeInBreadcrumb=1&amp;FacetEnableSettings=1&amp;FacetIsMultiValueField=1&amp;FacetInjectionDepth=%7bDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7d&amp;FacetAvailableSorts=%7bF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7d%7c%7b445BCEBE-D11E-4247-B07C-D775601B9F12%7d%7c%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d%7c%7b65C2940F-0506-4D45-BE9C-2D8751BB70A6%7d&amp;FacetEnableFacetSearch=1&amp;FacetSort=%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d&amp;FacetShowIcon=1&amp;FacetEnableMoreLess=1&amp;FacetIncludeInOmniBox=0&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" s:ph="/coveo-search/coveo-facets" /><r uid="{87B7E665-102C-4FCA-88B7-FD7C47B9359A}" p:after="r[@uid='{2309B17B-A437-4222-BD77-B01DF641A142}']" s:ds="" s:id="{BD0EA30F-D72D-4700-813B-75879779B49C}" s:par="FacetEnableCollapse=1&amp;FacetTitle=Author&amp;FacetIncludeInBreadcrumb=1&amp;FacetEnableSettings=1&amp;FacetIsMultiValueField=1&amp;FacetInjectionDepth=%7bDCB6EB45-58B0-4F31-9377-83A2D6CBF597%7d&amp;FacetAvailableSorts=%7bF19F41CA-CC8B-4CD9-9884-46C80C8C7737%7d%7c%7b445BCEBE-D11E-4247-B07C-D775601B9F12%7d%7c%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d%7c%7b65C2940F-0506-4D45-BE9C-2D8751BB70A6%7d&amp;FacetEnableFacetSearch=1&amp;FacetSort=%7bF0611CB0-4D2F-4B1C-A052-CBF86FAEE1EC%7d&amp;FacetShowIcon=1&amp;FacetEnableMoreLess=1&amp;FacetIncludeInOmniBox=0&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" s:ph="/coveo-search/coveo-facets" /><r uid="{2B82E7BC-4EDB-45BA-A790-301D0400F15E}" s:par="DisplayDidYouMean=1&amp;PagerShowPreviousNext=1&amp;DisplayBreadcrumb=1&amp;EnableSitecoreAnalytics=0&amp;DisplayTabs=1&amp;RestUri=%2fcoveo%2frest&amp;SitecoreAnalyticsRestUri=%2fcoveo%2frest%2fv6%2fanalytics&amp;DisplayResultList=1&amp;QuerySummaryEnableSearchTips=1&amp;EnableInfiniteScroll=0&amp;DisplaySorting=1&amp;EnableHistory=1&amp;FilterCulture=1&amp;DisplayLogo=1&amp;DisplayQueryDuration=1&amp;HideUntilFirstQuery=1&amp;PagerLocation=%7bA1FBD885-7B5E-4AD3-87D1-06AB48937629%7d&amp;EnableClientSideLogging=0&amp;ExternalContentSources=BCD+Blog&amp;FilterExpressionRules=%3cruleset%3e%0d%0a++%3crule+uid%3d%22%7b6F11961F-8518-4183-A170-4DA74292A5F6%7d%22+name%3d%22Basic+filtering%22%3e%0d%0a++++%3cconditions%3e%0d%0a++++++%3cor+uid%3d%228E3DAE3D7C45419EAEA16C887DCCEF40%22%3e%0d%0a++++++++%3cand+uid%3d%224A398F1A29AE4F708BEDE162DAA5893F%22%3e%0d%0a++++++++++%3ccondition+id%3d%22%7b1E6C9830-45FA-4801-9D4D-E87B76C13F7D%7d%22+uid%3d%22F5913770440B442B8EF6D273208B5F90%22+itemid%3d%22%7b0DE95AE4-41AB-4D01-9EB0-67441B7C2450%7d%22+%2f%3e%0d%0a++++++++++%3ccondition+id%3d%22%7bEDF34D6E-37E7-41F7-A72F-25EC3D8F3931%7d%22+uid%3d%22D080C7D06C114369BB37AFA624988188%22+except%3d%22true%22+%2f%3e%0d%0a++++++++%3c%2fand%3e%0d%0a++++++++%3ccondition+id%3d%22%7b36831DCB-0532-4E84-879C-25E09B094256%7d%22+uid%3d%22994E24EFA4D8415DA792AE2B875EFC08%22+fieldname%3d%22syssource%22+operatorid%3d%22%7b4AC84242-881E-43D4-8E11-2EA27331DC8E%7d%22+value%3d%22BCD+Blog%22+%2f%3e%0d%0a++++++%3c%2for%3e%0d%0a++++%3c%2fconditions%3e%0d%0a++%3c%2frule%3e%0d%0a%3c%2fruleset%3e&amp;DisplayQuerySummary=1&amp;AutoTriggerQuery=1&amp;EnableCoveoUsageAnalytics=1&amp;QuerySummaryOnlyDisplaySearchTips=0&amp;DisplayErrorReport=1&amp;DisplayFacets=1&amp;DisplaySearchBox=1&amp;DidYouMeanEnableAutoCorrection=1" /></d></r>
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\casey
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160707T171309Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 14
-
-sitecore\casey
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-58d22045-11ee-4328-94e5-ff36c6987182
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160712T012739Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-sitecore\casey
-----field----
-field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
-name: __Workflow state
-key: __workflow state
-content-length: 38
-
-{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
-----field----
-field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
-name: __Lock
-key: __lock
-content-length: 5
-
-<r />

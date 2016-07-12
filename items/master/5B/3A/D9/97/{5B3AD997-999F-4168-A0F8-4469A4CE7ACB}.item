@@ -10,10 +10,17 @@ template: {E3E23DCC-CA55-4049-BBF0-B503023517C6}
 templatekey: Sharepoint Integration Configuration
 created: 20160712T220026:636039576263300000
 
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{0FBEBDBC-55B4-4883-90DF-29906DB4EB47}
 ----version----
 language: en
 version: 1
-revision: 4338eb1a-405d-49ff-9257-d0e10bca7a9c
+revision: 326166fa-2edf-48f0-90b4-23faf9aa3e0b
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4338eb1a-405d-49ff-9257-d0e10bca7a9c
+326166fa-2edf-48f0-90b4-23faf9aa3e0b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

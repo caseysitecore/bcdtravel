@@ -20,8 +20,15 @@ city
 ----version----
 language: en
 version: 1
-revision: 1e983649-4612-426a-9a50-966ccc9d66dd
+revision: fb5f0f0d-0a05-4afa-8a72-e3859e78774a
 
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+city
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,7 +56,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1e983649-4612-426a-9a50-966ccc9d66dd
+fb5f0f0d-0a05-4afa-8a72-e3859e78774a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

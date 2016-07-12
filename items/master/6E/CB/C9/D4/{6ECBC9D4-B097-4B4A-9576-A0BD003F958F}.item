@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {6ECBC9D4-B097-4B4A-9576-A0BD003F958F}
+database: master
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove/Players
+parent: {2ABE85C4-FC24-4FC8-9580-07A5601DB7CA}
+name: Players
+master: {24A40CEF-BCD5-4407-A9D9-FA203141ECAC}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20160712T144109:636039312699970000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{94F2FB87-2E4B-48A7-95FE-B6CACC8D5759}

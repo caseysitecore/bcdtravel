@@ -63,9 +63,9 @@ content-length: 20
 field: {23250E7A-1548-4D0E-8870-957535235EE4}
 name: Tags
 key: tags
-content-length: 77
+content-length: 38
 
-{2A7094EB-C75D-3FCC-800C-8AF3C4375EEC}|{EBDA7E7D-ECE5-3C7F-945D-B01535924F22}
+{2A7094EB-C75D-3FCC-800C-8AF3C4375EEC}
 ----field----
 field: {161A7C32-673B-43DA-9D1F-9D2A2226FCD6}
 name: VideoStillURL
@@ -97,7 +97,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 77979a49-9bb9-4b9f-92f4-e0a379178917
+revision: 7e8dab48-cb38-4844-aa68-6c0fe741d3d7
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -126,14 +126,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-77979a49-9bb9-4b9f-92f4-e0a379178917
+7e8dab48-cb38-4844-aa68-6c0fe741d3d7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T150721Z
+20160712T150831Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

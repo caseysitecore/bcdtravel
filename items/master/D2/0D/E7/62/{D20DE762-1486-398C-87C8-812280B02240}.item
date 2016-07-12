@@ -31,10 +31,17 @@ key: filtertags
 content-length: 38
 
 {EBDA7E7D-ECE5-3C7F-945D-B01535924F22}
+----field----
+field: {1526509E-D99A-48FB-8CCA-246B388B83FB}
+name: VideoIds
+key: videoids
+content-length: 77
+
+{1C8FA65B-1303-399A-B6B2-A3D4AA74520C}|{4222157D-85E1-39D8-A539-64D00BB09802}
 ----version----
 language: en
 version: 1
-revision: 130fd1ef-fbb3-4f65-8326-c935f543679d
+revision: b93e0def-e785-4202-b96b-827d359c17bb
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -63,7 +70,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-130fd1ef-fbb3-4f65-8326-c935f543679d
+b93e0def-e785-4202-b96b-827d359c17bb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

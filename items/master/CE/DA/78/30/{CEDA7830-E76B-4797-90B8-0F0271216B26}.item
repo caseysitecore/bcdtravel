@@ -62,7 +62,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: b4e1cc57-82aa-4976-9f55-d1e18acb0ad4
+revision: 22dd54ae-6848-4d0f-9229-415f940bfb48
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -113,6 +113,20 @@ content-length: 58
 
 <image mediaid="{AF86EB73-0FDD-4A3D-8A05-5C19D1432DA4}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 20
+
+business travel news
+----field----
+field: {82D725ED-6707-4532-86A6-5444E34332FD}
+name: Contributors
+key: contributors
+content-length: 38
+
+{76CA87D4-D9DA-4EE2-AEEE-19F0D304F270}
+----field----
 field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
 name: Category
 key: category
@@ -160,14 +174,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b4e1cc57-82aa-4976-9f55-d1e18acb0ad4
+22dd54ae-6848-4d0f-9229-415f940bfb48
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T191552Z
+20160712T111838Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

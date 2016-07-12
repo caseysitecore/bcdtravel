@@ -11,6 +11,20 @@ templatekey: BrightcoveAccountSettings
 created: 20160712T144110:636039312701900000
 
 ----field----
+field: {F122FBAE-16CF-4D7F-A351-55A0E80A35CA}
+name: DefaultVideoPlayer
+key: defaultvideoplayer
+content-length: 38
+
+{CEE946D5-A6EE-34CE-8DA0-BD282DFDEF56}
+----field----
+field: {F0C25F85-7F6D-44E1-9DF8-86E6A7EE7039}
+name: DefaultPlaylistPlayer
+key: defaultplaylistplayer
+content-length: 38
+
+{A0D3FFF9-3FAE-3A8E-A081-9A8F1DF3EB9A}
+----field----
 field: {19B597D3-2EDD-4AE2-AEFE-4A94C7F10E31}
 name: __Source Item
 key: __source item
@@ -27,7 +41,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: f62d1d81-ca56-4635-a8b9-f5cd17ee24e5
+revision: 5a2d207d-924c-47e8-b597-7f37261889fa
 
 ----field----
 field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
@@ -63,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f62d1d81-ca56-4635-a8b9-f5cd17ee24e5
+5a2d207d-924c-47e8-b597-7f37261889fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T144111Z
+20160712T155602Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

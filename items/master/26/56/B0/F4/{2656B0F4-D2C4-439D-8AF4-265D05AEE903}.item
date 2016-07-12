@@ -52,7 +52,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 8653ce9a-0a36-4fff-bb77-94069d3b8ed1
+revision: 1036dc09-d9e7-4cbe-8124-5425f8d8ce77
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -127,6 +127,13 @@ content-length: 176
 
 <image mediaid="{535FFB78-D6DC-4B0E-924F-04BA450827D1}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tag" src="~/media/535ffb78d6dc4b0e924f04ba450827d1.ashx" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 26
+
+collaboration technologies
+----field----
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
@@ -188,14 +195,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8653ce9a-0a36-4fff-bb77-94069d3b8ed1
+1036dc09-d9e7-4cbe-8124-5425f8d8ce77
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T191423Z
+20160712T111656Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

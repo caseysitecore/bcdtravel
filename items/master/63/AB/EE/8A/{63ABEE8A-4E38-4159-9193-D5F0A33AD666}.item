@@ -11,9 +11,37 @@ templatekey: Articles Section
 created: 20160628T185859:636027371391900000
 
 ----field----
+field: {7E003143-26F2-4A28-B70A-08548286F6BA}
+name: Show Item In Menu
+key: show item in menu
+content-length: 1
+
+1
+----field----
+field: {D48AF62C-9C56-4E4C-BA29-94C3DABAD82E}
+name: Show Children In Menu
+key: show children in menu
+content-length: 1
+
+1
+----field----
+field: {FD6DAC05-FEF8-4581-A329-6CEA310E839B}
+name: Show Item In Secondary Menu
+key: show item in secondary menu
+content-length: 1
+
+1
+----field----
 field: {1E2AAB62-E924-421E-B766-BF8422CCBE44}
 name: Show Item In Footer Menu
 key: show item in footer menu
+content-length: 1
+
+1
+----field----
+field: {CE1BEB41-17E4-4934-9AE9-0C3C8D2B72FA}
+name: Show In Search Results
+key: show in search results
 content-length: 1
 
 1
@@ -55,7 +83,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d2b31642-a085-4b79-a0cd-33a2401df732
+revision: 35e31b65-f4b9-405f-a486-bfbd707d7b93
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -94,6 +122,13 @@ content-length: 181
 
 <image src="~/media/be6601ce13654214bb43a60e576ffa69.ashx" mediaid="{BE6601CE-1365-4214-BB43-A60E576FFA69}" mediapath="/Launch Sitecore/Site Images/Backgrounds/Images/Lightbulbs" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 12
+
+BCD articles
+----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
 key: menu title
@@ -111,9 +146,9 @@ Articles
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20130717T153922
+20130717T193922Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -127,21 +162,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d2b31642-a085-4b79-a0cd-33a2401df732
+35e31b65-f4b9-405f-a486-bfbd707d7b93
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160703T165657Z
+20160712T111219Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 14
 
-sitecore\bill
+sitecore\casey
 ----field----
 field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
 name: __Semantics

@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {2ABE85C4-FC24-4FC8-9580-07A5601DB7CA}
+database: web
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove
+parent: {E7291614-A88D-4512-92B7-1DAE99309D26}
+name: BCD Travel Brightcove
+master: {24A40CEF-BCD5-4407-A9D9-FA203141ECAC}
+template: {C657F8EF-4916-447F-9255-483ED2EEC562}
+templatekey: BrightcoveAccount
+created: 20160712T144109:636039312695300000
+
+----field----
+field: {3B2A0B52-EEB1-42A9-989D-DD0F57986E67}
+name: PublisherID
+key: publisherid
+content-length: 13
+
+1534342438001
+----field----
+field: {E7FCF624-4A36-4BE8-B2F5-D5C30BE677C4}
+name: ReadToken
+key: readtoken
+content-length: 56
+
+QqOdmIQ1YncUk1pMzIaBYnF8_N3DNyd_x8RnkcDAqLmE634pw2xQ_w..
+----field----
+field: {F537C3A0-152C-4AE1-A21B-EBF69B8EE51B}
+name: WriteToken
+key: writetoken
+content-length: 56
+
+QqOdmIQ1YncUk1pMzIaBYnF8_N3DNyd_fV52aCQmtZ_QWpgRZeV0Zw..
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{A3C7EDED-AEEE-45EC-A0E9-302C562F7332}
+----version----
+language: en
+version: 1
+revision: 60daa4f4-b35b-4f9b-910e-3b9c4fe66ebb
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160712T144109Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60daa4f4-b35b-4f9b-910e-3b9c4fe66ebb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160712T144201Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

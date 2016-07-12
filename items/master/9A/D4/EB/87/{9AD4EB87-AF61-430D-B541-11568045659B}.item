@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {9AD4EB87-AF61-430D-B541-11568045659B}
+database: master
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove 2
+parent: {E7291614-A88D-4512-92B7-1DAE99309D26}
+name: BCD Travel Brightcove 2
+master: {24A40CEF-BCD5-4407-A9D9-FA203141ECAC}
+template: {C657F8EF-4916-447F-9255-483ED2EEC562}
+templatekey: BrightcoveAccount
+created: 20160712T150634:636039327941700000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{A3C7EDED-AEEE-45EC-A0E9-302C562F7332}

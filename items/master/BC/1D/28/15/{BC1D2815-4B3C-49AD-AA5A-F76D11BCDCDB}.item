@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 39047532-5b26-44c2-9bb1-729e3fc4363b
+revision: 6571edbf-6987-4911-adb5-7474c0410d99
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -40,10 +40,12 @@ This is test content.
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 275
+content-length: 317
 
 <p>This is test content.</p>
-<p><a class="mf_mediaLink iframe" href="/layouts/MediaFramework/Sublayouts/Player.aspx?itemId=9430378DFA4E3565AF4DE97228C662B4&amp;playerId=CEE946D5A6EE34CE8DA0BD282DFDEF56&amp;width=400&amp;height=300" frwidth="400" frheight="300">Bridge</a></p>
+<p><iframe scrolling="no" class="player-frame" width="400" height="300" frameborder="0" src="/layouts/MediaFramework/Sublayouts/Player.aspx?itemId=9430378DFA4E3565AF4DE97228C662B4&amp;playerId=CEE946D5A6EE34CE8DA0BD282DFDEF56&amp;width=400&amp;height=300"></iframe> </p>
+<p> </p>
+<p> </p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -85,14 +87,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-39047532-5b26-44c2-9bb1-729e3fc4363b
+6571edbf-6987-4911-adb5-7474c0410d99
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T165015Z
+20160712T165137Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

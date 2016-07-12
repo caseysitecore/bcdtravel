@@ -1,0 +1,136 @@
+----item----
+version: 1
+id: {08747A19-DA31-33F4-844F-94432E051667}
+database: web
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove/Media Content/2015-10-28 19.33.29
+parent: {3CA91A75-1965-4674-BBED-1FC3D6355177}
+name: 2015-10-28 19.33.29
+master: {00000000-0000-0000-0000-000000000000}
+template: {6A5C6835-6E11-4602-A11D-B626E9255397}
+templatekey: BrightcoveVideo
+created: 20160712T152415:636039338550630000
+
+----field----
+field: {A5B025C5-2F6B-45AF-BEE6-92883D9291D6}
+name: ID
+key: id
+content-length: 13
+
+4609196738001
+----field----
+field: {437A7D9F-7A50-4955-B3AE-583EBA5AD35A}
+name: Name
+key: name
+content-length: 19
+
+2015-10-28 19.33.29
+----field----
+field: {2ECDE5D3-BFDE-4A5F-8D20-7C6DBA2BBFA0}
+name: ThumbnailURL
+key: thumbnailurl
+content-length: 143
+
+http://brightcove.vo.llnwd.net/e1/pd/1534342438001/1534342438001_4609196100001_th-5644bdbfe4b02c0002d9f48d-672293881001.jpg?pubId=1534342438001
+----field----
+field: {2AF799D0-C019-4518-B166-0513C37218E8}
+name: ShortDescription
+key: shortdescription
+content-length: 19
+
+2015-10-28 19.33.29
+----field----
+field: {00270BAC-F30A-4B54-8AA6-614159522F5B}
+name: CreationDate
+key: creationdate
+content-length: 21
+
+11/12/2015 4:26:37 PM
+----field----
+field: {4B223FFD-5972-4A8D-8CF7-08793E99BCA2}
+name: PublishedDate
+key: publisheddate
+content-length: 21
+
+11/12/2015 4:26:37 PM
+----field----
+field: {87E30397-7707-41D5-A4C9-500B01D80F5E}
+name: LastModifiedDate
+key: lastmodifieddate
+content-length: 21
+
+11/12/2015 4:29:36 PM
+----field----
+field: {161A7C32-673B-43DA-9D1F-9D2A2226FCD6}
+name: VideoStillURL
+key: videostillurl
+content-length: 143
+
+http://brightcove.vo.llnwd.net/e1/pd/1534342438001/1534342438001_4609196099001_vs-5644bdbfe4b02c0002d9f48d-672293881001.jpg?pubId=1534342438001
+----field----
+field: {EA3EE5CA-7545-4489-AE20-FF8C15EB98CB}
+name: Length
+key: length
+content-length: 5
+
+15882
+----field----
+field: {DB3D6769-ED9E-47F8-BD50-ABBA2C10AA1A}
+name: PlaysTotal
+key: playstotal
+content-length: 1
+
+1
+----field----
+field: {54882903-2021-4C94-96DC-296CE1F8EEB0}
+name: PlaysTrailingWeek
+key: playstrailingweek
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 9b4e1f5a-7a8a-4129-b1a1-6d65b6ecdd36
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160712T152415Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b4e1f5a-7a8a-4129-b1a1-6d65b6ecdd36
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160712T152415Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

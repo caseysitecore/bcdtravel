@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {1C8FA65B-1303-399A-B6B2-A3D4AA74520C}
+database: master
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove/Media Content/2016/07/12/14/50/George Washington Bridge
+parent: {E8A9F118-9334-43CD-9D8A-FCB39B801ACA}
+name: George Washington Bridge
+master: {00000000-0000-0000-0000-000000000000}
+template: {6A5C6835-6E11-4602-A11D-B626E9255397}
+templatekey: BrightcoveVideo
+created: 20160712T145012:636039318121500000
+
+----version----
+language: en
+version: 1
+revision: 6b7aa8d3-a9e5-4cc1-b07e-68905368ab6e
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160712T145012Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b7aa8d3-a9e5-4cc1-b07e-68905368ab6e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160712T145012Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

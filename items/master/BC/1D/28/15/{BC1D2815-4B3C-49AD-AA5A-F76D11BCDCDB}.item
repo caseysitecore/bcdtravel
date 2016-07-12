@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 408a54fe-c269-42b7-aaea-30bbd6387623
+revision: 535a681e-90fd-4fb6-9c96-188655c2be37
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -40,10 +40,9 @@ This is test content.
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 298
+content-length: 28
 
 <p>This is test content.</p>
-<p><iframe scrolling="no" class="player-frame" width="400" height="300" frameborder="0" src="/layouts/MediaFramework/Sublayouts/Player.aspx?itemId=4222157D85E139D8A53964D00BB09802&amp;playerId=CEE946D5A6EE34CE8DA0BD282DFDEF56&amp;width=400&amp;height=300"></iframe></p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -85,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-408a54fe-c269-42b7-aaea-30bbd6387623
+535a681e-90fd-4fb6-9c96-188655c2be37
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T164320Z
+20160712T164605Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

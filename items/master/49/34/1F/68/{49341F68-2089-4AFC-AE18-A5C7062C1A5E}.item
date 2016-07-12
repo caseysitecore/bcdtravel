@@ -48,7 +48,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: e77ad135-4874-498f-be12-648157646ac5
+revision: 6221aaeb-8e80-4a91-8f89-a4e788d184e9
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -124,6 +124,13 @@ content-length: 180
 
 <image mediaid="{46B32EBC-9408-41A9-8741-64A12A116BB6}" mediapath="/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser" src="~/media/6d8c64a3d7084a4e9d4892e9a0f375f7.ashx" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 14
+
+event planning
+----field----
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
@@ -178,14 +185,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e77ad135-4874-498f-be12-648157646ac5
+6221aaeb-8e80-4a91-8f89-a4e788d184e9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160709T191237Z
+20160712T111503Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

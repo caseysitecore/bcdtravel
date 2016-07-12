@@ -11,6 +11,27 @@ templatekey: BrightcoveAccount
 created: 20160712T144109:636039312695300000
 
 ----field----
+field: {3B2A0B52-EEB1-42A9-989D-DD0F57986E67}
+name: PublisherID
+key: publisherid
+content-length: 13
+
+1534342438001
+----field----
+field: {E7FCF624-4A36-4BE8-B2F5-D5C30BE677C4}
+name: ReadToken
+key: readtoken
+content-length: 56
+
+QqOdmIQ1YncUk1pMzIaBYnF8_N3DNyd_x8RnkcDAqLmE634pw2xQ_w..
+----field----
+field: {F537C3A0-152C-4AE1-A21B-EBF69B8EE51B}
+name: WriteToken
+key: writetoken
+content-length: 56
+
+QqOdmIQ1YncUk1pMzIaBYnF8_N3DNyd_fV52aCQmtZ_QWpgRZeV0Zw..
+----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
 name: __Originator
 key: __originator
@@ -20,7 +41,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d1b36a41-b967-48cd-8378-9bbbd9d8ffd0
+revision: 60daa4f4-b35b-4f9b-910e-3b9c4fe66ebb
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -49,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d1b36a41-b967-48cd-8378-9bbbd9d8ffd0
+60daa4f4-b35b-4f9b-910e-3b9c4fe66ebb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T144109Z
+20160712T144201Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

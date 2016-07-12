@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 288a6708-b350-47e9-9d3b-1b37194c9b4b
+revision: a1f817ad-4c09-4d28-963d-dee9f6be3699
 
 ----field----
 field: {B443A4FC-64F3-489E-B329-793347AFE745}
@@ -70,6 +70,13 @@ content-length: 58
 
 <image mediaid="{8A7F38B4-D65A-42CF-A32E-9215B61C06DE}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 18
+
+financial services
+----field----
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
@@ -117,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-288a6708-b350-47e9-9d3b-1b37194c9b4b
+a1f817ad-4c09-4d28-963d-dee9f6be3699
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160710T191232Z
+20160712T111744Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

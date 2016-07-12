@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {0D701EA1-BFEC-4252-9127-435E72241A9A}
+database: master
+path: /sitecore/content/Sample Sharepoint Lists/SSPOC_Documents/Configuration Guides/Images/justin-west-sitecore-2014-avatar
+parent: {1BFF3216-1B6D-497A-931C-CABDF172CA9C}
+name: justin-west-sitecore-2014-avatar
+master: {00000000-0000-0000-0000-000000000000}
+template: {DAF085E8-602E-43A6-8299-038FF171349F}
+templatekey: Jpeg
+created: 20160712T220036:636039576364430000
+
+----version----
+language: en
+version: 1
+revision: 3177b652-7778-475e-a4a1-4ccb9f2402ea
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160712T220036Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3177b652-7778-475e-a4a1-4ccb9f2402ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160712T220036Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

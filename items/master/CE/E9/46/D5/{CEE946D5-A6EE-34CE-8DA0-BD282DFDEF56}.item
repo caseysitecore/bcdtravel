@@ -10,10 +10,17 @@ template: {DE0F5BB5-1D51-41B2-BA4D-2C176C904BF3}
 templatekey: BrightcoveVideoPlayer
 created: 20160712T155457:636039356970370000
 
+----field----
+field: {6A3B39AF-C59A-4E3F-86C8-EB0E846CF6E6}
+name: ID
+key: id
+content-length: 13
+
+1534728017001
 ----version----
 language: en
 version: 1
-revision: 93433490-e334-45e0-8e11-2cd8e6c522e4
+revision: e1bfab9f-f28a-4612-94c3-da9aece61078
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-93433490-e334-45e0-8e11-2cd8e6c522e4
+e1bfab9f-f28a-4612-94c3-da9aece61078
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

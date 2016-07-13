@@ -127,8 +127,22 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 7e59eac8-c5a4-48e8-977f-e9c789c87a3b
+revision: 5a9839b6-cfd8-48e3-9ec8-19ca7073082e
 
+----field----
+field: {B443A4FC-64F3-489E-B329-793347AFE745}
+name: Author
+key: author
+content-length: 11
+
+Casey Piket
+----field----
+field: {2B2C495E-CDD0-4049-82D3-DD1781F489A7}
+name: Group
+key: group
+content-length: 9
+
+BCD Group
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
 name: Title
@@ -164,12 +178,26 @@ content-length: 58
 
 <image mediaid="{84C1EAF8-44C1-4FDF-A730-F7A3C7CB1590}" />
 ----field----
+field: {C5EE1AAB-9B15-4B03-89DD-206BD78800A6}
+name: Keywords
+key: keywords
+content-length: 10
+
+healthcare
+----field----
 field: {82D725ED-6707-4532-86A6-5444E34332FD}
 name: Contributors
 key: contributors
 content-length: 38
 
 {3E241E52-3767-464D-B994-A776C8A060C3}
+----field----
+field: {723F07D8-DED9-4B5E-85C5-DB4A566AB024}
+name: Category
+key: category
+content-length: 10
+
+Case Study
 ----field----
 field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
 name: Menu Title
@@ -211,14 +239,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7e59eac8-c5a4-48e8-977f-e9c789c87a3b
+5a9839b6-cfd8-48e3-9ec8-19ca7073082e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T015342Z
+20160713T015418Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

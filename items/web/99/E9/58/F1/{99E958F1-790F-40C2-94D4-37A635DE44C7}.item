@@ -19,8 +19,8 @@ content-length: 38
 {E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
 ----version----
 language: en
-version: 1
-revision: 12654792-450a-4927-95f5-b5389ab75fe5
+version: 2
+revision: 009c0a59-60f1-4772-ada4-cdc2efe4b5af
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -41,11 +41,12 @@ content-length: 36
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1114
+content-length: 1371
 
 <h2>Empowering users helps reduce travel costs</h2>
 <h3>Tailor-made online booking solution pushes online adoption rate at GlaxoSmithKline by 84%</h3>
-<p>The challenge GlaxoSmithKline France needed to boost its online adoption rate and reduce travel costs. The company needed a user-friendly solution allowing travelers to plan and book their own trip within travel policy guidelines, with room for flexibility to prevent frustration.  </p>
+<p>The challenge GlaxoSmithKline France needed to boost its online adoption rate and reduce travel costs. The company needed a user-friendly solution allowing travelers to plan and book their own trip within travel policy guidelines, with room for flexibility to prevent frustration. </p>
+<p><iframe scrolling="no" class="player-frame" width="400" height="300" frameborder="0" src="/layouts/MediaFramework/Sublayouts/Player.aspx?itemId=9430378DFA4E3565AF4DE97228C662B4&playerId=CEE946D5A6EE34CE8DA0BD282DFDEF56&width=400&height=300"></iframe></p>
 <p>The solution BCD Travel offered an online booking tool to increase the online adoption rate, reduce costs and improve compliance. Travelers were allowed to book and manage their own business travel on one global platform.   </p>
 <p>The solution was tailor-made to GlaxoSmithKline's travel policy criteria. Travelers were encouraged to book best buy compliant offers for flights, trains and hotels at least 14 days before departure. The solution empowered users to make their choice as if it was for personal reasons. Plus, it allowed the flexibility they needed to fit their agendas.</p>
 <p><a href="-/media/d1df3ba57b164c9287945fb346401471.ashx">Read Case Study</a></p>
@@ -71,6 +72,13 @@ content-length: 33
 
 GlaxoSmithKline France Case Study
 ----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160713T134226Z
+----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
@@ -83,35 +91,42 @@ name: __Created
 key: __created
 content-length: 16
 
-20160713T130713Z
+20160713T134226Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 14
+content-length: 13
 
-sitecore\casey
+sitecore\bill
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-12654792-450a-4927-95f5-b5389ab75fe5
+009c0a59-60f1-4772-ada4-cdc2efe4b5af
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T131321Z
+20160713T134650Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 13
 
-sitecore\casey
+sitecore\bill
+----field----
+field: {A14F1B0C-4384-49EC-8790-28A440F3670C}
+name: __Semantics
+key: __semantics
+content-length: 116
+
+{BC88C728-448A-4833-80DA-ECE02F7D92AA}|{764CA7C2-5E42-4854-BDC9-1F2B1E3C7109}|{98B1C7E0-DE21-4FEA-9A69-29E5AD02B204}
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state

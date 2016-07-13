@@ -2,39 +2,44 @@
 version: 1
 id: {D20DE762-1486-398C-87C8-812280B02240}
 database: master
-path: /City Life
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/media library/Media Framework/Accounts/BCD Travel Brightcove/Media Content/City Life
+parent: {3CA91A75-1965-4674-BBED-1FC3D6355177}
 name: City Life
 master: {00000000-0000-0000-0000-000000000000}
 template: {0E24292F-D7A5-4BA2-BCA0-CD5F14A89634}
 templatekey: BrightcovePlaylist
-created: 20160712T145013:636039318130070000
+created: 20160713T093218:636039991380130000
+
+----version----
+language: en
+version: 1
+revision: 9678b14c-ede5-4c5d-9b0c-e582c1d12363
 
 ----field----
-field: {A5B025C5-2F6B-45AF-BEE6-92883D9291D6}
-name: ID
-key: id
-content-length: 13
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
 
-1569514773001
+20160713T093218Z
 ----field----
-field: {437A7D9F-7A50-4955-B3AE-583EBA5AD35A}
-name: Name
-key: name
-content-length: 9
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
 
-City Life
+9678b14c-ede5-4c5d-9b0c-e582c1d12363
 ----field----
-field: {C2B3AEB0-5CA9-4E2B-A75C-D9E5261BA0C1}
-name: FilterTags
-key: filtertags
-content-length: 0
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
 
-
+20160713T093218Z
 ----field----
-field: {1526509E-D99A-48FB-8CCA-246B388B83FB}
-name: VideoIds
-key: videoids
-content-length: 0
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
 
-
+sitecore\admin

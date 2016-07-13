@@ -35,9 +35,9 @@ content-length: 1
 field: {28E2958B-056D-41D4-912F-0F96781F42AB}
 name: IntegrationConfigData
 key: integrationconfigdata
-content-length: 1231
+content-length: 1059
 
-<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><Folder>Configuration Guides/Images/</Folder><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>mk5Xhxork0W/6wKj7aqM+tfqIvX4QMDqSnaVoEWuN1I3Hvml1CrTge6tKJ8sXmuR0SAFel0UwJwENHMV+RiAnBf5xmQSB2incRQyxaJOtb88+Y0NiYbKJRT/LI4FKw8yEKWGmcJHZVGJqvFaFzrI2w9awA7oS3dNu2Gh6FCgrUT37j1G66vRZijAZoRHJr2ncnlLXUr39+Y1hEcrgbiXYuG+y0/fygcQt1bxHTSxDPA8qtyw4OQcg6RoK6PP/s08U7VfXiXGCmkGc9XD9GPCp638nUkJnZC2Dd14JlaVy7rV9+ta+4tCjin/GM2jOuL9mBSvHmjYN2c58qrAiWh6OA==</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
+<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><Folder>Configuration Guides/Images/</Folder><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>tyMAETk//ERQv7y/npA0iUid+h5Q7rCgxxAj8JCERvM55RGT9KvLZSHdgvnXFKYug5IVR1qZ0EFuZomwxphsK3QRHa/E7c6H7PJp5MlnXL0FLfH2C/5yMlhU6mHY89sWLfjeeL75eUsKNxUTemDvFJPB2i8Mwy2tlGEaRbdGgjQ=</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
 ----field----
 field: {D2035CBF-965E-476B-8AF8-927A9F28EA1F}
 name: ScheduledBlobTransfer
@@ -48,7 +48,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: f3211ac5-21c0-4b5b-a805-e93819bf77ba
+revision: d4f3b4cb-25ff-4ce1-8b9b-888b507c32bc
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f3211ac5-21c0-4b5b-a805-e93819bf77ba
+d4f3b4cb-25ff-4ce1-8b9b-888b507c32bc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T220035Z
+20160713T015158Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

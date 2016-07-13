@@ -10,10 +10,31 @@ template: {0E24292F-D7A5-4BA2-BCA0-CD5F14A89634}
 templatekey: BrightcovePlaylist
 created: 20160713T093218:636039991380130000
 
+----field----
+field: {A5B025C5-2F6B-45AF-BEE6-92883D9291D6}
+name: ID
+key: id
+content-length: 13
+
+1569514773001
+----field----
+field: {437A7D9F-7A50-4955-B3AE-583EBA5AD35A}
+name: Name
+key: name
+content-length: 9
+
+City Life
+----field----
+field: {C2B3AEB0-5CA9-4E2B-A75C-D9E5261BA0C1}
+name: FilterTags
+key: filtertags
+content-length: 38
+
+{EBDA7E7D-ECE5-3C7F-945D-B01535924F22}
 ----version----
 language: en
 version: 1
-revision: 9678b14c-ede5-4c5d-9b0c-e582c1d12363
+revision: b1b99371-2f0e-4d8f-bac9-86648536e833
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9678b14c-ede5-4c5d-9b0c-e582c1d12363
+b1b99371-2f0e-4d8f-bac9-86648536e833
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

@@ -307,7 +307,7 @@ content-length: 38
 ----version----
 language: es-CO
 version: 2
-revision: 7fb922ec-72e2-4066-ae99-8867ea6c6c70
+revision: 26d6a314-24da-440b-9066-83c15a397ad6
 
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
@@ -343,7 +343,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7fb922ec-72e2-4066-ae99-8867ea6c6c70
+26d6a314-24da-440b-9066-83c15a397ad6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -358,3 +358,10 @@ key: __updated by
 content-length: 13
 
 sitecore\bill
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A84A3674-4317-49B7-847F-B3AF8506D04B}

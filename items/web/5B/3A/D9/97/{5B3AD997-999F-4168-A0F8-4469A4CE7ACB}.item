@@ -16,7 +16,7 @@ name: IsIntegrationItem
 key: isintegrationitem
 content-length: 1
 
-1
+0
 ----field----
 field: {AD2609D5-59E1-4161-9FBA-6F849D6EE0CA}
 name: BidirectionalLink
@@ -48,7 +48,7 @@ content-length: 116
 ----version----
 language: en
 version: 1
-revision: 8af92278-80bb-4e04-8bc1-f3cb1ea891c7
+revision: e27dd5e6-e6b6-40e5-93b1-21913ecde252
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8af92278-80bb-4e04-8bc1-f3cb1ea891c7
+e27dd5e6-e6b6-40e5-93b1-21913ecde252
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160712T220026Z
+20160713T015223Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

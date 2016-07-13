@@ -16,7 +16,7 @@ name: IsIntegrationItem
 key: isintegrationitem
 content-length: 1
 
-1
+0
 ----field----
 field: {D06FE662-4206-4180-9185-A21AA95CD395}
 name: __SharePointItemGUID
@@ -48,7 +48,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 7221b3f3-0ed1-4f6e-8d5a-8c298bccd463
+revision: e0c34e7a-409e-4139-b709-8e12668dee3f
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7221b3f3-0ed1-4f6e-8d5a-8c298bccd463
+e0c34e7a-409e-4139-b709-8e12668dee3f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T015158Z
+20160713T015223Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

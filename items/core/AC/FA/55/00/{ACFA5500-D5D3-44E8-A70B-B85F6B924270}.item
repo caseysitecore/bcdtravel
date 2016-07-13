@@ -10,10 +10,17 @@ template: {239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}
 templatekey: Node
 created: 20160713T143720:636040174400270000
 
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 82
+
+au|sitecore\bill|p*|+item:rename|+item:create|+item:write|+item:read|+item:delete|
 ----version----
 language: en
 version: 1
-revision: 2ff3577c-8fd7-438f-94b7-695fc261af81
+revision: acae0a15-46e1-4b66-98e1-d9e076320b8b
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +49,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2ff3577c-8fd7-438f-94b7-695fc261af81
+acae0a15-46e1-4b66-98e1-d9e076320b8b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

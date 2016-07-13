@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {8382A6C3-6F9A-461C-8A19-FA190EC7E5C7}
+database: web
+path: /sitecore/content/Sample Sharepoint Lists/SSPOC_Documents/Configuration Guides
+parent: {5B3AD997-999F-4168-A0F8-4469A4CE7ACB}
+name: Configuration Guides
+master: {00000000-0000-0000-0000-000000000000}
+template: {F28EDE93-DB84-472E-B45B-595968A9C97C}
+templatekey: Sharepoint Integration Folder
+created: 20160712T220032:636039576329230000
+
+----field----
+field: {5C702BA4-BBCB-46D6-ACB4-BE247BA37227}
+name: IsIntegrationItem
+key: isintegrationitem
+content-length: 1
+
+1
+----field----
+field: {D06FE662-4206-4180-9185-A21AA95CD395}
+name: __SharePointItemGUID
+key: __sharepointitemguid
+content-length: 38
+
+{254858E6-3F02-436C-AE94-DD34840B9E9B}
+----field----
+field: {AD2609D5-59E1-4161-9FBA-6F849D6EE0CA}
+name: BidirectionalLink
+key: bidirectionallink
+content-length: 1
+
+1
+----field----
+field: {28E2958B-056D-41D4-912F-0F96781F42AB}
+name: IntegrationConfigData
+key: integrationconfigdata
+content-length: 1200
+
+<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><Folder>Configuration Guides/</Folder><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>OeLejqStGoOgEvuQAhNn2Ipn8DiVkO41hrkmWHOyuP4J2om/FlHLdUrqMEBd3ACzT9bVHVLNt3INOP595X3USRmDytL7HdjYGtKJHuSGRbJ4kfNwNf1PspDYM7MJBblkEuemt2u+k/SaNmYFTfj5hVCYSlUo0mLVOKjMCTaBoE8UjHDhktz0dLxZcxhL/R+xS8oRDtHycX8buKNGZud2H6ba9iXYBqMjhN8pw0fDOhpaIytnJ5uhkokSYpJ6AWTO49gFAnFmQ9QYSoksIhXUgUgVShLeh8suu3Iefow1atNUYTZVvikBdHCad3hpcKwj</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
+----field----
+field: {D2035CBF-965E-476B-8AF8-927A9F28EA1F}
+name: ScheduledBlobTransfer
+key: scheduledblobtransfer
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 7221b3f3-0ed1-4f6e-8d5a-8c298bccd463
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160712T220032Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7221b3f3-0ed1-4f6e-8d5a-8c298bccd463
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160713T015158Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

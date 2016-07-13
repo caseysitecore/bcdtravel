@@ -1,0 +1,126 @@
+----item----
+version: 1
+id: {A9724636-60ED-45A3-AA28-AE5B0B010A82}
+database: web
+path: /sitecore/content/Home/Travel Tools/Case Studies/Carestream Disruption Services
+parent: {80E60F8B-EBE2-4DCE-8C5E-46AA01B9EB3B}
+name: Carestream Disruption Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {D9019E30-F954-46CC-AA70-3E928C40B5D0}
+templatekey: Article
+created: 20160713T013934:636039707743530000
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E3FBD307-EC4A-4377-BFEB-F732CD5CAF5A}
+----version----
+language: en
+version: 1
+revision: 64ef1016-1362-4d30-95cb-494b6541db69
+
+----field----
+field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
+name: Title
+key: title
+content-length: 30
+
+Carestream Disruption Services
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 329
+
+<p>Travel disruptions are a fact of life. But when they happen, how can you keep travelers moving forward? This was the challenge facing our client, a global healthcare imaging provider. They wanted to eliminate travel disruption downtime and get travelers in the U.S. and Canada on their way as quickly as possible.</p>
+<p> </p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1031
+
+<h2>Challenge </h2>
+<p>Travel disruptions are a fact of life. But when they happen, how can you keep travelers moving forward? This was the challenge facing our client, a global healthcare imaging provider. They wanted to eliminate travel disruption downtime and get travelers in the U.S. and Canada on their way as quickly as possible. They needed a service that would proactively assist travelers en route, reduce frustration and provide measurable results; without drowning the travel manager in administrative processes.  </p>
+<h2>Solution </h2>
+<p>That’s where BCD Travel came in. We offered Carestream a new class of Disruption Services that proactively re-accommodates travelers when disruptions occur. We monitor flights 24x7 and identify and rank every real and potential cancellation, misconnect and extended delay. Depending on the nature and extent of the disruption, we make alternative arrangements for flights, hotel and rental car bookings. And we often provide assistance before the traveler asks for help.    </p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{84C1EAF8-44C1-4FDF-A730-F7A3C7CB1590}" />
+----field----
+field: {82D725ED-6707-4532-86A6-5444E34332FD}
+name: Contributors
+key: contributors
+content-length: 38
+
+{3E241E52-3767-464D-B994-A776C8A060C3}
+----field----
+field: {D7229DBA-B952-4D82-A5A0-459C69618D45}
+name: Menu Title
+key: menu title
+content-length: 30
+
+Carestream Disruption Services
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\casey
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160713T013934Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+64ef1016-1362-4d30-95cb-494b6541db69
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160713T014225Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3E42AE7F-CB44-415C-91D2-B16E9E1ECB5A}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

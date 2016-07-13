@@ -307,8 +307,38 @@ content-length: 38
 ----version----
 language: es-CO
 version: 2
-revision: 26d6a314-24da-440b-9066-83c15a397ad6
+revision: 9e45065e-9c67-40ef-abe5-392caea822d6
 
+----field----
+field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
+name: Title
+key: title
+content-length: 39
+
+GlaxoSmithKline Francia Estudio de caso
+----field----
+field: {00E1D306-96BD-4B32-85B4-CD63C53CC6C1}
+name: Abstract
+key: abstract
+content-length: 140
+
+<p>soluci&oacute;n hecha a medida de reserva en l&iacute;nea empuja tasa de adopci&oacute;n en l&iacute;nea en GlaxoSmithKline en un 84%</p>
+----field----
+field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
+name: Body
+key: body
+content-length: 1169
+
+<p>El reto GlaxoSmithKline Francia necesitaba para aumentar su tasa de adopci&oacute;n en l&iacute;nea y reducir los costos de viaje. La compa&ntilde;&iacute;a necesitaba una soluci&oacute;n f&aacute;cil de usar que permite a los viajeros a planificar y reservar su viaje dentro de las directrices de pol&iacute;tica de viajes, con espacio para la flexibilidad para evitar la frustraci&oacute;n.</p>
+<p>La soluci&oacute;n BCD Travel ofrece una herramienta de reservas en l&iacute;nea para aumentar la tasa de adopci&oacute;n en l&iacute;nea, reducir los costes y mejorar el cumplimiento. Los viajeros se les permiti&oacute; reservar y gestionar sus propios viajes de negocios en una plataforma global.</p>
+<p>La soluci&oacute;n fue hecha a medida con los criterios de la pol&iacute;tica de viajes de GlaxoSmithKline. Se alent&oacute; a los viajeros a reservar en la mejor comprar ofertas conformes para vuelos, trenes y hoteles por lo menos 14 d&iacute;as antes de la salida. Los usuarios de soluciones habilitadas para hacer su elecci&oacute;n como si fuera por motivos personales. Adem&aacute;s, permite la flexibilidad que necesitan para adaptarse a sus agendas.</p>
+----field----
+field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
+name: Icon
+key: icon
+content-length: 58
+
+<image mediaid="{9EA855B7-49D4-4478-8B1F-B6A96138ADC8}" />
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -343,14 +373,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-26d6a314-24da-440b-9066-83c15a397ad6
+9e45065e-9c67-40ef-abe5-392caea822d6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T135909Z
+20160713T140017Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

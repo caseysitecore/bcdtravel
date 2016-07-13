@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4849b3af-00c8-4140-92c8-05a802af53e7
+revision: 5776dcfd-95c1-4aa8-9de2-d6c17ecaa652
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -74,7 +74,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4849b3af-00c8-4140-92c8-05a802af53e7
+5776dcfd-95c1-4aa8-9de2-d6c17ecaa652
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -96,3 +96,10 @@ key: __workflow state
 content-length: 38
 
 {A84A3674-4317-49B7-847F-B3AF8506D04B}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

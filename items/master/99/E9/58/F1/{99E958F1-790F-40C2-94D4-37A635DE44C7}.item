@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: dc294051-2a51-4b7d-8e28-7e3fe1a70a89
+revision: 7b209712-0c6c-41af-9197-4b9674df1500
 
 ----field----
 field: {234542DC-C610-4CA8-BAA6-2592A8BCB1D7}
@@ -41,13 +41,14 @@ content-length: 36
 field: {5A5684BB-8B54-44F6-ABCC-2BADA05ADA5D}
 name: Body
 key: body
-content-length: 1031
+content-length: 1114
 
 <h2>Empowering users helps reduce travel costs</h2>
 <h3>Tailor-made online booking solution pushes online adoption rate at GlaxoSmithKline by 84%</h3>
 <p>The challenge GlaxoSmithKline France needed to boost its online adoption rate and reduce travel costs. The company needed a user-friendly solution allowing travelers to plan and book their own trip within travel policy guidelines, with room for flexibility to prevent frustration.  </p>
 <p>The solution BCD Travel offered an online booking tool to increase the online adoption rate, reduce costs and improve compliance. Travelers were allowed to book and manage their own business travel on one global platform.   </p>
 <p>The solution was tailor-made to GlaxoSmithKline's travel policy criteria. Travelers were encouraged to book best buy compliant offers for flights, trains and hotels at least 14 days before departure. The solution empowered users to make their choice as if it was for personal reasons. Plus, it allowed the flexibility they needed to fit their agendas.</p>
+<p><a href="-/media/d1df3ba57b164c9287945fb346401471.ashx">Read Case Study</a></p>
 ----field----
 field: {2B60D8C1-81DB-45A7-B1CB-654CDDA96AE3}
 name: Icon
@@ -96,14 +97,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dc294051-2a51-4b7d-8e28-7e3fe1a70a89
+7b209712-0c6c-41af-9197-4b9674df1500
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T131257Z
+20160713T131303Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

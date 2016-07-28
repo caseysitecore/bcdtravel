@@ -35,9 +35,9 @@ content-length: 1
 field: {28E2958B-056D-41D4-912F-0F96781F42AB}
 name: IntegrationConfigData
 key: integrationconfigdata
-content-length: 975
+content-length: 1015
 
-<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><Folder>Configuration Guides/Images/</Folder><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>HjYxkZTE16HHN5VhOi1GfY0ziGAEVu1gKoA+TrhGOF1vO7+v+pLV+vxtpb9Cmb1xl2yFY22eNPq3dhNWJoHVrA==</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
+<IntegrationConfigData><Server>https://sitecore1.sharepoint.com</Server><Web>/sites/SSPOC</Web><List>{54BE6271-6830-4F2B-9329-66BAF406785D}</List><Folder>Configuration Guides/Images/</Folder><View>{488416F9-CD28-47CD-8796-0CD5523C3080}</View><UserName>cap@sitecore.net</UserName><Password>sl7LQcVCsozulrguiSCJU6iRxdIJO+lCqn3a+0+j8q8wrACUkPcJJExQUptzoKIvwxaK4qoR8XZzP/eFToPOCGsj3UlerAsGQr44k1XfGXOOs7/pi/zHM8M9Mf73x8mz</Password><ItemLimit>100</ItemLimit><ExpirationInterval>3600</ExpirationInterval><TemplateID>{00000000-0000-0000-0000-000000000000}</TemplateID><FieldMappings><FieldMapping><Source>ows_Editor</Source><Target>Author</Target></FieldMapping><FieldMapping><Source>ows_Modified</Source><Target>Modified</Target></FieldMapping><FieldMapping><Source>ows_LinkFilename</Source><Target>LinkFilename</Target></FieldMapping><FieldMapping><Source>ows_DocIcon</Source><Target>Icon</Target></FieldMapping></FieldMappings><ConnectionConfiguration>SharePointOnline</ConnectionConfiguration></IntegrationConfigData>
 ----field----
 field: {D2035CBF-965E-476B-8AF8-927A9F28EA1F}
 name: ScheduledBlobTransfer
@@ -48,7 +48,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: e30e95fb-d769-4436-804d-16ba17897c7a
+revision: 307af7e4-e779-4075-b400-54149ef992ee
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e30e95fb-d769-4436-804d-16ba17897c7a
+307af7e4-e779-4075-b400-54149ef992ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T142342Z
+20160728T150733Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
